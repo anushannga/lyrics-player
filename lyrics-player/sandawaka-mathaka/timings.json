@@ -1,0 +1,143 @@
+{
+  "status": "audio-aligned lyric starts (local phonetic alignment)",
+  "lyrics_id": "7ffb7b9d4674",
+  "audio_sha256": "b65d631b65fcacef1ef6401b18a06cf70ab5b6a7bcd2c3383506e4648bf2c195",
+  "audio_duration": 156.14,
+  "method": "Known phonetic lyric text aligned in short vocal sections; repeated choruses checked against spectral correlation. Humming onset anchored to unprompted transcription.",
+  "verified_by_listening": true,
+  "cues": [
+    {
+      "time": 0.0,
+      "line": -1
+    },
+    {
+      "time": 27.54,
+      "line": 0
+    },
+    {
+      "time": 30.12,
+      "line": 1
+    },
+    {
+      "time": 33.86,
+      "line": 2
+    },
+    {
+      "time": 36.78,
+      "line": 3
+    },
+    {
+      "time": 41.02,
+      "line": 4
+    },
+    {
+      "time": 43.48,
+      "line": 5
+    },
+    {
+      "time": 47.68,
+      "line": 6
+    },
+    {
+      "time": 50.2,
+      "line": 7
+    },
+    {
+      "time": 54.36,
+      "line": 8
+    },
+    {
+      "time": 56.9,
+      "line": 9
+    },
+    {
+      "time": 60.82,
+      "line": 10
+    },
+    {
+      "time": 63.76,
+      "line": 11
+    },
+    {
+      "time": 67.0,
+      "line": -1
+    },
+    {
+      "time": 87.86,
+      "line": 12
+    },
+    {
+      "time": 90.64,
+      "line": 13
+    },
+    {
+      "time": 93.6,
+      "line": 14
+    },
+    {
+      "time": 96.98,
+      "line": 15
+    },
+    {
+      "time": 101.28,
+      "line": 16
+    },
+    {
+      "time": 104.22,
+      "line": 17
+    },
+    {
+      "time": 107.0,
+      "line": 18
+    },
+    {
+      "time": 110.42,
+      "line": 19
+    },
+    {
+      "time": 114.58,
+      "line": 20
+    },
+    {
+      "time": 117.14,
+      "line": 21
+    },
+    {
+      "time": 120.98,
+      "line": 22
+    },
+    {
+      "time": 123.8,
+      "line": 23
+    },
+    {
+      "time": 127.94,
+      "line": 24
+    },
+    {
+      "time": 130.5,
+      "line": 25
+    },
+    {
+      "time": 134.22,
+      "line": 26
+    },
+    {
+      "time": 137.2,
+      "line": 27
+    },
+    {
+      "time": 140.76,
+      "line": 28
+    },
+    {
+      "time": 145.22,
+      "line": 29
+    },
+    {
+      "time": 149.0,
+      "line": -1
+    }
+  ],
+  "verification": "Full MP3 playback completed with all 30 lyric cues acknowledged by Arduino; user confirmed that LCD changes match the song."
+}

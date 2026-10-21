@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+*.mp3
+*.wav
+*.m4a
+.env
+build/
+**/tools/audio_clock
+**/last_playback.json
+**/last_preview.json

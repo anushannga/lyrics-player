@@ -1,0 +1,553 @@
+{
+  "status": "locally audio-aligned phonetic lyric timing",
+  "lyrics_id": "bbbc2c8b1d4f0eb3",
+  "audio_sha256": "08763eae1b0ede529247ae49b78bc77272ea1f0da6d0d3555554164b81ef5f72",
+  "duration": 296.1,
+  "verified_by_listening": false,
+  "cues": [
+    {
+      "time": 0.0,
+      "page": -1
+    },
+    {
+      "time": 19.04,
+      "page": 0,
+      "line": 0,
+      "style": "rap"
+    },
+    {
+      "time": 21.52,
+      "page": 1,
+      "line": 1,
+      "style": "rap"
+    },
+    {
+      "time": 22.66,
+      "page": 2,
+      "line": 1,
+      "style": "rap"
+    },
+    {
+      "time": 23.96,
+      "page": 3,
+      "line": 2,
+      "style": "rap"
+    },
+    {
+      "time": 26.0,
+      "page": 4,
+      "line": 3,
+      "style": "rap"
+    },
+    {
+      "time": 27.3,
+      "page": 5,
+      "line": 3,
+      "style": "rap"
+    },
+    {
+      "time": 28.02,
+      "page": 6,
+      "line": 4,
+      "style": "rap"
+    },
+    {
+      "time": 29.4,
+      "page": 7,
+      "line": 4,
+      "style": "rap"
+    },
+    {
+      "time": 30.56,
+      "page": 8,
+      "line": 5,
+      "style": "rap"
+    },
+    {
+      "time": 31.66,
+      "page": 9,
+      "line": 5,
+      "style": "rap"
+    },
+    {
+      "time": 33.3,
+      "page": 10,
+      "line": 6,
+      "style": "rap"
+    },
+    {
+      "time": 34.36,
+      "page": 11,
+      "line": 6,
+      "style": "rap"
+    },
+    {
+      "time": 35.68,
+      "page": 12,
+      "line": 7,
+      "style": "rap"
+    },
+    {
+      "time": 37.58,
+      "page": 13,
+      "line": 8,
+      "style": "rap"
+    },
+    {
+      "time": 39.04,
+      "page": 14,
+      "line": 9,
+      "style": "rap"
+    },
+    {
+      "time": 41.28,
+      "page": 15,
+      "line": 10,
+      "style": "rap"
+    },
+    {
+      "time": 43.46,
+      "page": 16,
+      "line": 11,
+      "style": "rap"
+    },
+    {
+      "time": 45.8,
+      "page": 17,
+      "line": 12,
+      "style": "rap"
+    },
+    {
+      "time": 47.6,
+      "page": 18,
+      "line": 13,
+      "style": "rap"
+    },
+    {
+      "time": 49.12,
+      "page": 19,
+      "line": 13,
+      "style": "rap"
+    },
+    {
+      "time": 50.66,
+      "page": 20,
+      "line": 14,
+      "style": "rap"
+    },
+    {
+      "time": 52.2,
+      "page": 21,
+      "line": 14,
+      "style": "rap"
+    },
+    {
+      "time": 53.48,
+      "page": 22,
+      "line": 15,
+      "style": "rap"
+    },
+    {
+      "time": 55.66,
+      "page": 23,
+      "line": 16,
+      "style": "melodic"
+    },
+    {
+      "time": 59.56,
+      "page": 24,
+      "line": 17,
+      "style": "melodic"
+    },
+    {
+      "time": 64.68,
+      "page": 25,
+      "line": 18,
+      "style": "melodic"
+    },
+    {
+      "time": 68.56,
+      "page": 26,
+      "line": 19,
+      "style": "melodic"
+    },
+    {
+      "time": 72.32,
+      "page": 27,
+      "line": 20,
+      "style": "melodic"
+    },
+    {
+      "time": 76.58,
+      "page": 28,
+      "line": 21,
+      "style": "melodic"
+    },
+    {
+      "time": 81.26,
+      "page": 29,
+      "line": 22,
+      "style": "melodic"
+    },
+    {
+      "time": 85.9,
+      "page": 30,
+      "line": 23,
+      "style": "melodic"
+    },
+    {
+      "time": 91.68,
+      "page": 31,
+      "line": 24,
+      "style": "melodic"
+    },
+    {
+      "time": 93.92,
+      "page": 32,
+      "line": 25,
+      "style": "melodic"
+    },
+    {
+      "time": 96.82,
+      "page": 33,
+      "line": 26,
+      "style": "melodic"
+    },
+    {
+      "time": 98.9,
+      "page": 34,
+      "line": 27,
+      "style": "melodic"
+    },
+    {
+      "time": 101.1,
+      "page": 35,
+      "line": 28,
+      "style": "melodic"
+    },
+    {
+      "time": 103.04,
+      "page": 36,
+      "line": 29,
+      "style": "melodic"
+    },
+    {
+      "time": 105.22,
+      "page": 37,
+      "line": 30,
+      "style": "melodic"
+    },
+    {
+      "time": 107.44,
+      "page": 38,
+      "line": 31,
+      "style": "melodic"
+    },
+    {
+      "time": 110.24,
+      "page": 39,
+      "line": 32,
+      "style": "rap"
+    },
+    {
+      "time": 112.28,
+      "page": 40,
+      "line": 33,
+      "style": "rap"
+    },
+    {
+      "time": 114.44,
+      "page": 41,
+      "line": 34,
+      "style": "rap"
+    },
+    {
+      "time": 115.04,
+      "page": 42,
+      "line": 34,
+      "style": "rap"
+    },
+    {
+      "time": 116.34,
+      "page": 43,
+      "line": 35,
+      "style": "rap"
+    },
+    {
+      "time": 117.22,
+      "page": 44,
+      "line": 35,
+      "style": "rap"
+    },
+    {
+      "time": 118.98,
+      "page": 45,
+      "line": 36,
+      "style": "rap"
+    },
+    {
+      "time": 121.04,
+      "page": 46,
+      "line": 37,
+      "style": "rap"
+    },
+    {
+      "time": 123.46,
+      "page": 47,
+      "line": 38,
+      "style": "rap"
+    },
+    {
+      "time": 125.16,
+      "page": 48,
+      "line": 39,
+      "style": "rap"
+    },
+    {
+      "time": 126.92,
+      "page": 49,
+      "line": 39,
+      "style": "rap"
+    },
+    {
+      "time": 127.56,
+      "page": 50,
+      "line": 40,
+      "style": "rap"
+    },
+    {
+      "time": 130.22,
+      "page": 51,
+      "line": 41,
+      "style": "rap"
+    },
+    {
+      "time": 132.36,
+      "page": 52,
+      "line": 42,
+      "style": "rap"
+    },
+    {
+      "time": 134.18,
+      "page": 53,
+      "line": 43,
+      "style": "rap"
+    },
+    {
+      "time": 135.26,
+      "page": 54,
+      "line": 43,
+      "style": "rap"
+    },
+    {
+      "time": 136.52,
+      "page": 55,
+      "line": 44,
+      "style": "rap"
+    },
+    {
+      "time": 137.32,
+      "page": 56,
+      "line": 45,
+      "style": "rap"
+    },
+    {
+      "time": 139.24,
+      "page": 57,
+      "line": 46,
+      "style": "rap"
+    },
+    {
+      "time": 140.42,
+      "page": 58,
+      "line": 46,
+      "style": "rap"
+    },
+    {
+      "time": 141.54,
+      "page": 59,
+      "line": 47,
+      "style": "rap"
+    },
+    {
+      "time": 143.28,
+      "page": 60,
+      "line": 48,
+      "style": "rap"
+    },
+    {
+      "time": 146.22,
+      "page": 61,
+      "line": 49,
+      "style": "melodic"
+    },
+    {
+      "time": 150.12,
+      "page": 62,
+      "line": 50,
+      "style": "melodic"
+    },
+    {
+      "time": 155.24,
+      "page": 63,
+      "line": 51,
+      "style": "melodic"
+    },
+    {
+      "time": 159.12,
+      "page": 64,
+      "line": 52,
+      "style": "melodic"
+    },
+    {
+      "time": 163.02,
+      "page": 65,
+      "line": 53,
+      "style": "melodic"
+    },
+    {
+      "time": 167.42,
+      "page": 66,
+      "line": 54,
+      "style": "melodic"
+    },
+    {
+      "time": 171.94,
+      "page": 67,
+      "line": 55,
+      "style": "melodic"
+    },
+    {
+      "time": 176.4,
+      "page": 68,
+      "line": 56,
+      "style": "melodic"
+    },
+    {
+      "time": 181.82,
+      "page": 69,
+      "line": 57,
+      "style": "melodic"
+    },
+    {
+      "time": 184.5,
+      "page": 70,
+      "line": 58,
+      "style": "melodic"
+    },
+    {
+      "time": 186.96,
+      "page": 71,
+      "line": 59,
+      "style": "melodic"
+    },
+    {
+      "time": 189.24,
+      "page": 72,
+      "line": 60,
+      "style": "melodic"
+    },
+    {
+      "time": 191.74,
+      "page": 73,
+      "line": 61,
+      "style": "melodic"
+    },
+    {
+      "time": 193.72,
+      "page": 74,
+      "line": 62,
+      "style": "melodic"
+    },
+    {
+      "time": 196.02,
+      "page": 75,
+      "line": 63,
+      "style": "melodic"
+    },
+    {
+      "time": 198.3,
+      "page": 76,
+      "line": 64,
+      "style": "melodic"
+    },
+    {
+      "time": 201.04,
+      "page": 77,
+      "line": 65,
+      "style": "melodic"
+    },
+    {
+      "time": 202.7,
+      "page": 78,
+      "line": 66,
+      "style": "melodic"
+    },
+    {
+      "time": 205.22,
+      "page": 79,
+      "line": 67,
+      "style": "melodic"
+    },
+    {
+      "time": 207.36,
+      "page": 80,
+      "line": 68,
+      "style": "melodic"
+    },
+    {
+      "time": 209.82,
+      "page": 81,
+      "line": 69,
+      "style": "melodic"
+    },
+    {
+      "time": 211.6,
+      "page": 82,
+      "line": 70,
+      "style": "melodic"
+    },
+    {
+      "time": 213.84,
+      "page": 83,
+      "line": 71,
+      "style": "melodic"
+    },
+    {
+      "time": 216.12,
+      "page": 84,
+      "line": 72,
+      "style": "melodic"
+    },
+    {
+      "time": 218.14,
+      "page": 85,
+      "line": 73,
+      "style": "melodic"
+    },
+    {
+      "time": 221.7,
+      "page": 86,
+      "line": 74,
+      "style": "melodic"
+    },
+    {
+      "time": 226.12,
+      "page": 87,
+      "line": 75,
+      "style": "melodic"
+    },
+    {
+      "time": 230.46,
+      "page": 88,
+      "line": 76,
+      "style": "melodic"
+    },
+    {
+      "time": 236.0,
+      "page": -1
+    }
+  ],
+  "font_verified_by_user": true,
+  "rap_timing_verified_by_user": true
+}

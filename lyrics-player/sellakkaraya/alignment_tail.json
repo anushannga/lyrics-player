@@ -1,0 +1,222 @@
+[
+  {
+    "line": 69,
+    "text": "sinawa uduragaththa",
+    "start": 208.14,
+    "end": 211.6,
+    "words": [
+      {
+        "word": " sinawa",
+        "start": 208.14,
+        "end": 210.68,
+        "probability": 0.00012237111693025327
+      },
+      {
+        "word": " uduragaththa",
+        "start": 210.68,
+        "end": 211.6,
+        "probability": 0.0384532062192496
+      }
+    ]
+  },
+  {
+    "line": 70,
+    "text": "sellamakata patalagaththa",
+    "start": 211.6,
+    "end": 213.84,
+    "words": [
+      {
+        "word": " sellamakata",
+        "start": 211.6,
+        "end": 212.9,
+        "probability": 0.09129454220271782
+      },
+      {
+        "word": " patalagaththa",
+        "start": 212.9,
+        "end": 213.84,
+        "probability": 0.4035491180062915
+      }
+    ]
+  },
+  {
+    "line": 71,
+    "text": "jiwithe uduragaththa",
+    "start": 213.84,
+    "end": 216.12,
+    "words": [
+      {
+        "word": " jiwithe",
+        "start": 213.84,
+        "end": 215.24,
+        "probability": 0.0005799318887511618
+      },
+      {
+        "word": " uduragaththa",
+        "start": 215.24,
+        "end": 216.12,
+        "probability": 0.6128588209685404
+      }
+    ]
+  },
+  {
+    "line": 72,
+    "text": "sellakkaraya mamai",
+    "start": 216.12,
+    "end": 218.14,
+    "words": [
+      {
+        "word": " sellakkaraya",
+        "start": 216.12,
+        "end": 218.14,
+        "probability": 0.09040140598563084
+      },
+      {
+        "word": " mamai",
+        "start": 218.14,
+        "end": 218.14,
+        "probability": 0.0007399977257591672
+      }
+    ]
+  },
+  {
+    "line": 73,
+    "text": "kandulu gaane waetunu aege",
+    "start": 218.14,
+    "end": 221.04,
+    "words": [
+      {
+        "word": " kandulu",
+        "start": 218.14,
+        "end": 218.14,
+        "probability": 0.005310996741172858
+      },
+      {
+        "word": " gaane",
+        "start": 218.14,
+        "end": 218.9,
+        "probability": 0.01757819227168511
+      },
+      {
+        "word": " waetunu",
+        "start": 218.9,
+        "end": 219.98,
+        "probability": 0.005242472475705047
+      },
+      {
+        "word": " aege",
+        "start": 219.98,
+        "end": 221.04,
+        "probability": 0.020201302133500576
+      }
+    ]
+  },
+  {
+    "line": 74,
+    "text": "sonduru handa ae nihanda keruwa",
+    "start": 221.04,
+    "end": 226.12,
+    "words": [
+      {
+        "word": " sonduru",
+        "start": 221.04,
+        "end": 222.4,
+        "probability": 0.23745822301134467
+      },
+      {
+        "word": " handa",
+        "start": 222.4,
+        "end": 223.1,
+        "probability": 0.08039308525621891
+      },
+      {
+        "word": " ae",
+        "start": 223.1,
+        "end": 223.8,
+        "probability": 0.284681266406551
+      },
+      {
+        "word": " nihanda",
+        "start": 223.8,
+        "end": 224.72,
+        "probability": 0.05597746899972359
+      },
+      {
+        "word": " keruwa",
+        "start": 224.72,
+        "end": 226.12,
+        "probability": 0.3483708470594138
+      }
+    ]
+  },
+  {
+    "line": 75,
+    "text": "lowama dutu ae sayanagatha wu",
+    "start": 226.12,
+    "end": 230.46,
+    "words": [
+      {
+        "word": " lowama",
+        "start": 226.12,
+        "end": 226.94,
+        "probability": 0.004872051907113928
+      },
+      {
+        "word": " dutu",
+        "start": 226.94,
+        "end": 227.7,
+        "probability": 0.21866212040185928
+      },
+      {
+        "word": " ae",
+        "start": 227.7,
+        "end": 228.22,
+        "probability": 0.4824383766390383
+      },
+      {
+        "word": " sayanagatha",
+        "start": 228.22,
+        "end": 229.92,
+        "probability": 0.18036085476342123
+      },
+      {
+        "word": " wu",
+        "start": 229.92,
+        "end": 230.46,
+        "probability": 0.3612190969288349
+      }
+    ]
+  },
+  {
+    "line": 76,
+    "text": "anduru seya milina keruwa",
+    "start": 230.46,
+    "end": 234.8,
+    "words": [
+      {
+        "word": " anduru",
+        "start": 230.46,
+        "end": 231.4,
+        "probability": 0.3907271372154355
+      },
+      {
+        "word": " seya",
+        "start": 231.4,
+        "end": 232.52,
+        "probability": 0.1409657634794712
+      },
+      {
+        "word": " milina",
+        "start": 232.52,
+        "end": 233.7,
+        "probability": 0.009543607709929347
+      },
+      {
+        "word": " keruwa",
+        "start": 233.7,
+        "end": 234.8,
+        "probability": 0.6785350839296976
+      }
+    ]
+  }
+]

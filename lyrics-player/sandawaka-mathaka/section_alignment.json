@@ -1,0 +1,1334 @@
+[
+  {
+    "first": 0,
+    "window": [
+      24,
+      40.3
+    ],
+    "lines": [
+      "sandawaka mathaka thawaru",
+      "ma nubata pamanak himi wu",
+      "e dawasa ena thura ma",
+      "hindinnam bala"
+    ],
+    "words": [
+      {
+        "word": "...",
+        "tokens": [
+          485
+        ],
+        "start": 24.0,
+        "end": 24.36,
+        "probability": 5.035417416365817e-06
+      },
+      {
+        "word": " sandawaka",
+        "tokens": [
+          4932,
+          1607,
+          7849
+        ],
+        "start": 24.36,
+        "end": 28.54,
+        "probability": 0.07489624219548811
+      },
+      {
+        "word": " mathaka",
+        "tokens": [
+          5221,
+          7849
+        ],
+        "start": 28.54,
+        "end": 29.36,
+        "probability": 0.09351679007522762
+      },
+      {
+        "word": " thawaru",
+        "tokens": [
+          220,
+          392,
+          1607,
+          16870
+        ],
+        "start": 29.36,
+        "end": 30.16,
+        "probability": 0.16493005270604044
+      },
+      {
+        "word": " ma",
+        "tokens": [
+          463
+        ],
+        "start": 30.16,
+        "end": 31.12,
+        "probability": 0.054392583668231964
+      },
+      {
+        "word": " nubata",
+        "tokens": [
+          297,
+          836,
+          3274
+        ],
+        "start": 31.12,
+        "end": 31.86,
+        "probability": 0.21815776762863
+      },
+      {
+        "word": " pamanak",
+        "tokens": [
+          280,
+          6147,
+          514
+        ],
+        "start": 31.86,
+        "end": 32.74,
+        "probability": 0.5089999139308929
+      },
+      {
+        "word": " himi",
+        "tokens": [
+          796,
+          72
+        ],
+        "start": 32.74,
+        "end": 33.26,
+        "probability": 0.406152606010437
+      },
+      {
+        "word": " wu",
+        "tokens": [
+          261,
+          84
+        ],
+        "start": 33.26,
+        "end": 33.7,
+        "probability": 0.4553339760750532
+      },
+      {
+        "word": " e",
+        "tokens": [
+          308
+        ],
+        "start": 33.7,
+        "end": 34.6,
+        "probability": 0.01675013266503811
+      },
+      {
+        "word": " dawasa",
+        "tokens": [
+          1120,
+          6569,
+          64
+        ],
+        "start": 34.6,
+        "end": 35.42,
+        "probability": 0.267660324772199
+      },
+      {
+        "word": " ena",
+        "tokens": [
+          465,
+          64
+        ],
+        "start": 35.42,
+        "end": 35.72,
+        "probability": 0.3828978165984154
+      },
+      {
+        "word": " thura",
+        "tokens": [
+          220,
+          392,
+          2991
+        ],
+        "start": 35.72,
+        "end": 36.12,
+        "probability": 0.10528936485449474
+      },
+      {
+        "word": " ma",
+        "tokens": [
+          463
+        ],
+        "start": 36.12,
+        "end": 36.78,
+        "probability": 0.2947332561016083
+      },
+      {
+        "word": " hindinnam",
+        "tokens": [
+          20138,
+          259,
+          5378
+        ],
+        "start": 36.78,
+        "end": 38.480000000000004,
+        "probability": 0.25467010569991544
+      },
+      {
+        "word": " bala",
+        "tokens": [
+          3119,
+          64
+        ],
+        "start": 38.480000000000004,
+        "end": 39.14,
+        "probability": 0.6972563713788986
+      },
+      {
+        "word": " ...",
+        "tokens": [
+          1097
+        ],
+        "start": 39.14,
+        "end": 40.28,
+        "probability": 0.006719155702739954
+      }
+    ]
+  },
+  {
+    "first": 4,
+    "window": [
+      40,
+      53.7
+    ],
+    "lines": [
+      "sandawaka mathaka thawaru",
+      "ma nubata pamanak himi wu",
+      "e dawasa ena thura ma",
+      "hindinnam bala"
+    ],
+    "words": [
+      {
+        "word": "...",
+        "tokens": [
+          485
+        ],
+        "start": 40.0,
+        "end": 41.02,
+        "probability": 6.48256400381797e-06
+      },
+      {
+        "word": " sandawaka",
+        "tokens": [
+          4932,
+          1607,
+          7849
+        ],
+        "start": 41.02,
+        "end": 41.9,
+        "probability": 0.07961602720752126
+      },
+      {
+        "word": " mathaka",
+        "tokens": [
+          5221,
+          7849
+        ],
+        "start": 41.9,
+        "end": 42.76,
+        "probability": 0.05606416636146605
+      },
+      {
+        "word": " thawaru",
+        "tokens": [
+          220,
+          392,
+          1607,
+          16870
+        ],
+        "start": 42.76,
+        "end": 43.48,
+        "probability": 0.12041917433089111
+      },
+      {
+        "word": " ma",
+        "tokens": [
+          463
+        ],
+        "start": 43.48,
+        "end": 44.46,
+        "probability": 0.0653216764330864
+      },
+      {
+        "word": " nubata",
+        "tokens": [
+          297,
+          836,
+          3274
+        ],
+        "start": 44.46,
+        "end": 45.28,
+        "probability": 0.06490344523141782
+      },
+      {
+        "word": " pamanak",
+        "tokens": [
+          280,
+          6147,
+          514
+        ],
+        "start": 45.28,
+        "end": 46.1,
+        "probability": 0.5234723736842474
+      },
+      {
+        "word": " himi",
+        "tokens": [
+          796,
+          72
+        ],
+        "start": 46.1,
+        "end": 46.66,
+        "probability": 0.3986141160130501
+      },
+      {
+        "word": " wu",
+        "tokens": [
+          261,
+          84
+        ],
+        "start": 46.66,
+        "end": 47.68,
+        "probability": 0.23485956341028214
+      },
+      {
+        "word": " e",
+        "tokens": [
+          308
+        ],
+        "start": 47.68,
+        "end": 47.84,
+        "probability": 0.011912896297872066
+      },
+      {
+        "word": " dawasa",
+        "tokens": [
+          1120,
+          6569,
+          64
+        ],
+        "start": 47.84,
+        "end": 48.78,
+        "probability": 0.16609912738204002
+      },
+      {
+        "word": " ena",
+        "tokens": [
+          465,
+          64
+        ],
+        "start": 48.78,
+        "end": 49.12,
+        "probability": 0.40912557393312454
+      },
+      {
+        "word": " thura",
+        "tokens": [
+          220,
+          392,
+          2991
+        ],
+        "start": 49.12,
+        "end": 49.46,
+        "probability": 0.1115189337482055
+      },
+      {
+        "word": " ma",
+        "tokens": [
+          463
+        ],
+        "start": 49.46,
+        "end": 50.2,
+        "probability": 0.3780978322029114
+      },
+      {
+        "word": " hindinnam",
+        "tokens": [
+          20138,
+          259,
+          5378
+        ],
+        "start": 50.2,
+        "end": 51.86,
+        "probability": 0.12773412295306721
+      },
+      {
+        "word": " bala",
+        "tokens": [
+          3119,
+          64
+        ],
+        "start": 51.86,
+        "end": 52.519999999999996,
+        "probability": 0.5808096751570702
+      },
+      {
+        "word": " ...",
+        "tokens": [
+          1097
+        ],
+        "start": 52.519999999999996,
+        "end": 53.68,
+        "probability": 0.006986842956393957
+      }
+    ]
+  },
+  {
+    "first": 8,
+    "window": [
+      53.4,
+      67.4
+    ],
+    "lines": [
+      "mata mage prane bandu",
+      "kenek athnam lowa wu",
+      "e nubai sondure hamakal",
+      "niwem ma wida"
+    ],
+    "words": [
+      {
+        "word": "...",
+        "tokens": [
+          485
+        ],
+        "start": 53.4,
+        "end": 54.36,
+        "probability": 2.6018137759820092e-06
+      },
+      {
+        "word": " mata",
+        "tokens": [
+          46106
+        ],
+        "start": 54.36,
+        "end": 54.68,
+        "probability": 7.060732605168596e-05
+      },
+      {
+        "word": " mage",
+        "tokens": [
+          463,
+          432
+        ],
+        "start": 54.68,
+        "end": 55.32,
+        "probability": 0.330525204539299
+      },
+      {
+        "word": " prane",
+        "tokens": [
+          582,
+          1929
+        ],
+        "start": 55.32,
+        "end": 56.1,
+        "probability": 0.35795430839061737
+      },
+      {
+        "word": " bandu",
+        "tokens": [
+          4116,
+          84
+        ],
+        "start": 56.1,
+        "end": 56.9,
+        "probability": 0.3964192792773247
+      },
+      {
+        "word": " kenek",
+        "tokens": [
+          18787,
+          916
+        ],
+        "start": 56.9,
+        "end": 57.96,
+        "probability": 0.3624008856713772
+      },
+      {
+        "word": " athnam",
+        "tokens": [
+          257,
+          392,
+          5378
+        ],
+        "start": 57.96,
+        "end": 58.78,
+        "probability": 0.041963249022956006
+      },
+      {
+        "word": " lowa",
+        "tokens": [
+          2295,
+          64
+        ],
+        "start": 58.78,
+        "end": 60.0,
+        "probability": 0.012847782578319311
+      },
+      {
+        "word": " wu",
+        "tokens": [
+          261,
+          84
+        ],
+        "start": 60.0,
+        "end": 60.82,
+        "probability": 0.35121582448482513
+      },
+      {
+        "word": " e",
+        "tokens": [
+          308
+        ],
+        "start": 60.82,
+        "end": 61.06,
+        "probability": 0.06342216581106186
+      },
+      {
+        "word": " nubai",
+        "tokens": [
+          297,
+          836,
+          1301
+        ],
+        "start": 61.06,
+        "end": 61.739999999999995,
+        "probability": 0.4274023175239563
+      },
+      {
+        "word": " sondure",
+        "tokens": [
+          262,
+          684,
+          540
+        ],
+        "start": 61.739999999999995,
+        "end": 62.56,
+        "probability": 0.18690029283364615
+      },
+      {
+        "word": " hamakal",
+        "tokens": [
+          7852,
+          514,
+          304
+        ],
+        "start": 62.56,
+        "end": 63.76,
+        "probability": 0.4375049148996671
+      },
+      {
+        "word": " niwem",
+        "tokens": [
+          3867,
+          86,
+          443
+        ],
+        "start": 63.76,
+        "end": 64.82,
+        "probability": 0.3917277709503348
+      },
+      {
+        "word": " ma",
+        "tokens": [
+          463
+        ],
+        "start": 64.82,
+        "end": 65.14,
+        "probability": 0.007590152323246002
+      },
+      {
+        "word": " wida",
+        "tokens": [
+          261,
+          2887
+        ],
+        "start": 65.14,
+        "end": 65.74,
+        "probability": 0.22108137723989785
+      },
+      {
+        "word": " ...",
+        "tokens": [
+          1097
+        ],
+        "start": 65.74,
+        "end": 67.38,
+        "probability": 0.003320314921438694
+      }
+    ]
+  },
+  {
+    "first": 12,
+    "window": [
+      85.5,
+      100.6
+    ],
+    "lines": [
+      "premaye thala galapu",
+      "kawiya we nam nuba ma",
+      "bala hindimu sasare",
+      "kelawarak thura"
+    ],
+    "words": [
+      {
+        "word": "...",
+        "tokens": [
+          485
+        ],
+        "start": 85.5,
+        "end": 85.5,
+        "probability": 2.1795331122120842e-05
+      },
+      {
+        "word": " premaye",
+        "tokens": [
+          5624,
+          33449
+        ],
+        "start": 85.5,
+        "end": 88.54,
+        "probability": 0.021069133387214833
+      },
+      {
+        "word": " thala",
+        "tokens": [
+          220,
+          392,
+          5159
+        ],
+        "start": 88.54,
+        "end": 89.36,
+        "probability": 0.090451533983772
+      },
+      {
+        "word": " galapu",
+        "tokens": [
+          7660,
+          569,
+          84
+        ],
+        "start": 89.36,
+        "end": 90.58,
+        "probability": 0.4036970908443133
+      },
+      {
+        "word": " kawiya",
+        "tokens": [
+          350,
+          1607,
+          23622
+        ],
+        "start": 90.58,
+        "end": 91.72,
+        "probability": 0.14139546205600104
+      },
+      {
+        "word": " we",
+        "tokens": [
+          321
+        ],
+        "start": 91.72,
+        "end": 92.02,
+        "probability": 0.024747194722294807
+      },
+      {
+        "word": " nam",
+        "tokens": [
+          8835
+        ],
+        "start": 92.02,
+        "end": 92.44,
+        "probability": 0.15049977600574493
+      },
+      {
+        "word": " nuba",
+        "tokens": [
+          297,
+          12584
+        ],
+        "start": 92.44,
+        "end": 92.98,
+        "probability": 0.12471535708755255
+      },
+      {
+        "word": " ma",
+        "tokens": [
+          463
+        ],
+        "start": 92.98,
+        "end": 93.64,
+        "probability": 0.42757174372673035
+      },
+      {
+        "word": " bala",
+        "tokens": [
+          3119,
+          64
+        ],
+        "start": 93.64,
+        "end": 95.06,
+        "probability": 0.4377937614917755
+      },
+      {
+        "word": " hindimu",
+        "tokens": [
+          20138,
+          332,
+          84
+        ],
+        "start": 95.06,
+        "end": 96.03999999999999,
+        "probability": 0.44680817544394813
+      },
+      {
+        "word": " sasare",
+        "tokens": [
+          262,
+          296,
+          543
+        ],
+        "start": 96.03999999999999,
+        "end": 96.98,
+        "probability": 0.2593548198541005
+      },
+      {
+        "word": " kelawarak",
+        "tokens": [
+          803,
+          5901,
+          23346
+        ],
+        "start": 96.98,
+        "end": 98.44,
+        "probability": 0.00977637731800011
+      },
+      {
+        "word": " thura",
+        "tokens": [
+          220,
+          392,
+          2991
+        ],
+        "start": 98.44,
+        "end": 99.14,
+        "probability": 0.1775053640982757
+      },
+      {
+        "word": " ...",
+        "tokens": [
+          1097
+        ],
+        "start": 99.14,
+        "end": 100.58,
+        "probability": 0.0050832973793148994
+      }
+    ]
+  },
+  {
+    "first": 16,
+    "window": [
+      100,
+      114
+    ],
+    "lines": [
+      "premaye thala galapu",
+      "kawiya we nam nuba ma",
+      "bala hindimu sasare",
+      "kelawarak thura"
+    ],
+    "words": [
+      {
+        "word": "...",
+        "tokens": [
+          485
+        ],
+        "start": 100.0,
+        "end": 101.28,
+        "probability": 6.097744062572019e-06
+      },
+      {
+        "word": " premaye",
+        "tokens": [
+          5624,
+          33449
+        ],
+        "start": 101.28,
+        "end": 101.96,
+        "probability": 0.0004005906685051741
+      },
+      {
+        "word": " thala",
+        "tokens": [
+          220,
+          392,
+          5159
+        ],
+        "start": 101.96,
+        "end": 102.84,
+        "probability": 0.07814629787268738
+      },
+      {
+        "word": " galapu",
+        "tokens": [
+          7660,
+          569,
+          84
+        ],
+        "start": 102.84,
+        "end": 104.22,
+        "probability": 0.3025374934077263
+      },
+      {
+        "word": " kawiya",
+        "tokens": [
+          350,
+          1607,
+          23622
+        ],
+        "start": 104.22,
+        "end": 105.12,
+        "probability": 0.15537865459918976
+      },
+      {
+        "word": " we",
+        "tokens": [
+          321
+        ],
+        "start": 105.12,
+        "end": 105.42,
+        "probability": 0.01362692378461361
+      },
+      {
+        "word": " nam",
+        "tokens": [
+          8835
+        ],
+        "start": 105.42,
+        "end": 105.88,
+        "probability": 0.1249198317527771
+      },
+      {
+        "word": " nuba",
+        "tokens": [
+          297,
+          12584
+        ],
+        "start": 105.88,
+        "end": 106.46,
+        "probability": 0.18428948149085045
+      },
+      {
+        "word": " ma",
+        "tokens": [
+          463
+        ],
+        "start": 106.46,
+        "end": 107.0,
+        "probability": 0.018766041845083237
+      },
+      {
+        "word": " bala",
+        "tokens": [
+          3119,
+          64
+        ],
+        "start": 107.0,
+        "end": 108.48,
+        "probability": 0.2581016644835472
+      },
+      {
+        "word": " hindimu",
+        "tokens": [
+          20138,
+          332,
+          84
+        ],
+        "start": 108.48,
+        "end": 109.46000000000001,
+        "probability": 0.42692098745267987
+      },
+      {
+        "word": " sasare",
+        "tokens": [
+          262,
+          296,
+          543
+        ],
+        "start": 109.46000000000001,
+        "end": 110.42,
+        "probability": 0.19081044445435205
+      },
+      {
+        "word": " kelawarak",
+        "tokens": [
+          803,
+          5901,
+          23346
+        ],
+        "start": 110.42,
+        "end": 111.84,
+        "probability": 0.08722148254552546
+      },
+      {
+        "word": " thura",
+        "tokens": [
+          220,
+          392,
+          2991
+        ],
+        "start": 111.84,
+        "end": 112.52,
+        "probability": 0.1158463410101831
+      },
+      {
+        "word": " ...",
+        "tokens": [
+          1097
+        ],
+        "start": 112.52,
+        "end": 113.98,
+        "probability": 0.005750488955527544
+      }
+    ]
+  },
+  {
+    "first": 20,
+    "window": [
+      113,
+      127.5
+    ],
+    "lines": [
+      "sandawaka mathaka thawaru",
+      "ma nubata pamanak himi wu",
+      "e dawasa ena thura ma",
+      "hindinnam bala"
+    ],
+    "words": [
+      {
+        "word": "...",
+        "tokens": [
+          485
+        ],
+        "start": 113.0,
+        "end": 114.58,
+        "probability": 7.238586022140225e-06
+      },
+      {
+        "word": " sandawaka",
+        "tokens": [
+          4932,
+          1607,
+          7849
+        ],
+        "start": 114.58,
+        "end": 115.56,
+        "probability": 0.017748963119326316
+      },
+      {
+        "word": " mathaka",
+        "tokens": [
+          5221,
+          7849
+        ],
+        "start": 115.56,
+        "end": 116.36,
+        "probability": 0.015706262158346362
+      },
+      {
+        "word": " thawaru",
+        "tokens": [
+          220,
+          392,
+          1607,
+          16870
+        ],
+        "start": 116.36,
+        "end": 117.14,
+        "probability": 0.18257627286948264
+      },
+      {
+        "word": " ma",
+        "tokens": [
+          463
+        ],
+        "start": 117.14,
+        "end": 118.16,
+        "probability": 0.10008910298347473
+      },
+      {
+        "word": " nubata",
+        "tokens": [
+          297,
+          836,
+          3274
+        ],
+        "start": 118.16,
+        "end": 118.88,
+        "probability": 0.2306038790072004
+      },
+      {
+        "word": " pamanak",
+        "tokens": [
+          280,
+          6147,
+          514
+        ],
+        "start": 118.88,
+        "end": 119.64,
+        "probability": 0.027694982166091602
+      },
+      {
+        "word": " himi",
+        "tokens": [
+          796,
+          72
+        ],
+        "start": 119.64,
+        "end": 120.26,
+        "probability": 0.4426549896597862
+      },
+      {
+        "word": " wu",
+        "tokens": [
+          261,
+          84
+        ],
+        "start": 120.26,
+        "end": 120.98,
+        "probability": 0.4258912745863199
+      },
+      {
+        "word": " e",
+        "tokens": [
+          308
+        ],
+        "start": 120.98,
+        "end": 121.6,
+        "probability": 0.024601146578788757
+      },
+      {
+        "word": " dawasa",
+        "tokens": [
+          1120,
+          6569,
+          64
+        ],
+        "start": 121.6,
+        "end": 122.42,
+        "probability": 0.12625018134713173
+      },
+      {
+        "word": " ena",
+        "tokens": [
+          465,
+          64
+        ],
+        "start": 122.42,
+        "end": 122.72,
+        "probability": 0.15188366919755936
+      },
+      {
+        "word": " thura",
+        "tokens": [
+          220,
+          392,
+          2991
+        ],
+        "start": 122.72,
+        "end": 123.12,
+        "probability": 0.09842922848959763
+      },
+      {
+        "word": " ma",
+        "tokens": [
+          463
+        ],
+        "start": 123.12,
+        "end": 123.8,
+        "probability": 0.7173313498497009
+      },
+      {
+        "word": " hindinnam",
+        "tokens": [
+          20138,
+          259,
+          5378
+        ],
+        "start": 123.8,
+        "end": 125.38,
+        "probability": 0.26909124075124663
+      },
+      {
+        "word": " bala",
+        "tokens": [
+          3119,
+          64
+        ],
+        "start": 125.38,
+        "end": 126.2,
+        "probability": 0.7497332692146301
+      },
+      {
+        "word": " ...",
+        "tokens": [
+          1097
+        ],
+        "start": 126.2,
+        "end": 127.48,
+        "probability": 0.008394753560423851
+      }
+    ]
+  },
+  {
+    "first": 24,
+    "window": [
+      127,
+      141
+    ],
+    "lines": [
+      "sandawaka mathaka thawaru",
+      "ma nubata pamanak himi wu",
+      "e dawasa ena thura ma",
+      "hindinnam bala"
+    ],
+    "words": [
+      {
+        "word": "...",
+        "tokens": [
+          485
+        ],
+        "start": 127.0,
+        "end": 127.94,
+        "probability": 4.393957624415634e-06
+      },
+      {
+        "word": " sandawaka",
+        "tokens": [
+          4932,
+          1607,
+          7849
+        ],
+        "start": 127.94,
+        "end": 128.92,
+        "probability": 0.0354706173723874
+      },
+      {
+        "word": " mathaka",
+        "tokens": [
+          5221,
+          7849
+        ],
+        "start": 128.92,
+        "end": 129.74,
+        "probability": 0.0019501573406159878
+      },
+      {
+        "word": " thawaru",
+        "tokens": [
+          220,
+          392,
+          1607,
+          16870
+        ],
+        "start": 129.74,
+        "end": 130.5,
+        "probability": 0.009887717795209028
+      },
+      {
+        "word": " ma",
+        "tokens": [
+          463
+        ],
+        "start": 130.5,
+        "end": 131.56,
+        "probability": 0.25789493322372437
+      },
+      {
+        "word": " nubata",
+        "tokens": [
+          297,
+          836,
+          3274
+        ],
+        "start": 131.56,
+        "end": 132.28,
+        "probability": 0.03726564782361189
+      },
+      {
+        "word": " pamanak",
+        "tokens": [
+          280,
+          6147,
+          514
+        ],
+        "start": 132.28,
+        "end": 133.08,
+        "probability": 0.5216856350501379
+      },
+      {
+        "word": " himi",
+        "tokens": [
+          796,
+          72
+        ],
+        "start": 133.08,
+        "end": 133.64,
+        "probability": 0.36743791261687875
+      },
+      {
+        "word": " wu",
+        "tokens": [
+          261,
+          84
+        ],
+        "start": 133.64,
+        "end": 134.22,
+        "probability": 0.07547845831140876
+      },
+      {
+        "word": " e",
+        "tokens": [
+          308
+        ],
+        "start": 134.22,
+        "end": 134.88,
+        "probability": 0.013212617486715317
+      },
+      {
+        "word": " dawasa",
+        "tokens": [
+          1120,
+          6569,
+          64
+        ],
+        "start": 134.88,
+        "end": 135.78,
+        "probability": 0.0726690897718072
+      },
+      {
+        "word": " ena",
+        "tokens": [
+          465,
+          64
+        ],
+        "start": 135.78,
+        "end": 136.08,
+        "probability": 0.23691393435001373
+      },
+      {
+        "word": " thura",
+        "tokens": [
+          220,
+          392,
+          2991
+        ],
+        "start": 136.08,
+        "end": 136.48,
+        "probability": 0.059159234166145325
+      },
+      {
+        "word": " ma",
+        "tokens": [
+          463
+        ],
+        "start": 136.48,
+        "end": 137.2,
+        "probability": 0.4555947482585907
+      },
+      {
+        "word": " hindinnam",
+        "tokens": [
+          20138,
+          259,
+          5378
+        ],
+        "start": 137.2,
+        "end": 138.82,
+        "probability": 0.26957049360498786
+      },
+      {
+        "word": " bala",
+        "tokens": [
+          3119,
+          64
+        ],
+        "start": 138.82,
+        "end": 139.68,
+        "probability": 0.5951582491397858
+      },
+      {
+        "word": " ...",
+        "tokens": [
+          1097
+        ],
+        "start": 139.68,
+        "end": 140.98,
+        "probability": 0.007883863523602486
+      }
+    ]
+  },
+  {
+    "first": 28,
+    "window": [
+      140,
+      150
+    ],
+    "lines": [
+      "hmm",
+      "hindinnam bala"
+    ],
+    "words": [
+      {
+        "word": "...",
+        "tokens": [
+          485
+        ],
+        "start": 140.0,
+        "end": 145.18,
+        "probability": 9.505311754764989e-05
+      },
+      {
+        "word": " hmm",
+        "tokens": [
+          16478
+        ],
+        "start": 145.18,
+        "end": 145.22,
+        "probability": 0.0001395672297803685
+      },
+      {
+        "word": " hindinnam",
+        "tokens": [
+          20138,
+          259,
+          5378
+        ],
+        "start": 145.22,
+        "end": 147.26,
+        "probability": 0.22649363968654748
+      },
+      {
+        "word": " bala",
+        "tokens": [
+          3119,
+          64
+        ],
+        "start": 147.26,
+        "end": 148.18,
+        "probability": 0.4984470270574093
+      },
+      {
+        "word": " ...",
+        "tokens": [
+          1097
+        ],
+        "start": 148.18,
+        "end": 149.98,
+        "probability": 0.014784720726311207
+      }
+    ]
+  }
+]

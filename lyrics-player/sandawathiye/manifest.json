@@ -1,0 +1,1444 @@
+{
+  "id": "9df787522213f9df",
+  "pixel_format": "st7920-horizontal-msb",
+  "font": "THARU DIGITAL NIKINI",
+  "font_size": 20,
+  "line_count": 24,
+  "bitmap_count": 102,
+  "pages": [
+    {
+      "bitmap": 0,
+      "line": 0,
+      "word": 0,
+      "kind": "word",
+      "animation": [
+        1
+      ]
+    },
+    {
+      "bitmap": 2,
+      "line": 0,
+      "word": 1,
+      "kind": "word",
+      "animation": [
+        3
+      ]
+    },
+    {
+      "bitmap": 4,
+      "line": 0,
+      "word": 2,
+      "kind": "word",
+      "animation": [
+        5
+      ]
+    },
+    {
+      "bitmap": 6,
+      "line": 0,
+      "word": 3,
+      "kind": "word",
+      "animation": [
+        7
+      ]
+    },
+    {
+      "bitmap": 8,
+      "line": 0,
+      "word": 4,
+      "kind": "word",
+      "animation": [
+        9
+      ]
+    },
+    {
+      "bitmap": 10,
+      "line": 1,
+      "word": 0,
+      "kind": "word",
+      "animation": [
+        11
+      ]
+    },
+    {
+      "bitmap": 12,
+      "line": 1,
+      "word": 1,
+      "kind": "word",
+      "animation": [
+        13
+      ]
+    },
+    {
+      "bitmap": 14,
+      "line": 1,
+      "word": 2,
+      "kind": "word",
+      "animation": [
+        15
+      ]
+    },
+    {
+      "bitmap": 16,
+      "line": 1,
+      "word": 3,
+      "kind": "word",
+      "animation": [
+        17
+      ]
+    },
+    {
+      "bitmap": 18,
+      "line": 2,
+      "word": 0,
+      "kind": "word",
+      "animation": [
+        19
+      ]
+    },
+    {
+      "bitmap": 20,
+      "line": 2,
+      "word": 1,
+      "kind": "word",
+      "animation": [
+        21
+      ]
+    },
+    {
+      "bitmap": 22,
+      "line": 2,
+      "word": 2,
+      "kind": "word",
+      "animation": [
+        23
+      ]
+    },
+    {
+      "bitmap": 24,
+      "line": 3,
+      "word": 0,
+      "kind": "word",
+      "animation": [
+        25
+      ]
+    },
+    {
+      "bitmap": 26,
+      "line": 3,
+      "word": 1,
+      "kind": "word",
+      "animation": [
+        27
+      ]
+    },
+    {
+      "bitmap": 28,
+      "line": 3,
+      "word": 2,
+      "kind": "word",
+      "animation": [
+        29
+      ]
+    },
+    {
+      "bitmap": 30,
+      "line": 3,
+      "word": 3,
+      "kind": "word",
+      "animation": [
+        31
+      ]
+    },
+    {
+      "bitmap": 32,
+      "line": 3,
+      "word": 4,
+      "kind": "word",
+      "animation": [
+        33
+      ]
+    },
+    {
+      "bitmap": 34,
+      "line": 3,
+      "word": 5,
+      "kind": "word",
+      "animation": [
+        35
+      ]
+    },
+    {
+      "bitmap": 36,
+      "line": 3,
+      "word": 6,
+      "kind": "word",
+      "animation": [
+        37
+      ]
+    },
+    {
+      "bitmap": 38,
+      "line": 4,
+      "word": 0,
+      "kind": "word",
+      "animation": [
+        39
+      ]
+    },
+    {
+      "bitmap": 40,
+      "line": 4,
+      "word": 1,
+      "kind": "word",
+      "animation": [
+        41
+      ]
+    },
+    {
+      "bitmap": 42,
+      "line": 4,
+      "word": 2,
+      "kind": "word",
+      "animation": [
+        43
+      ]
+    },
+    {
+      "bitmap": 44,
+      "line": 4,
+      "word": 3,
+      "kind": "word",
+      "animation": [
+        45
+      ]
+    },
+    {
+      "bitmap": 46,
+      "line": 5,
+      "word": 0,
+      "kind": "word",
+      "animation": [
+        47
+      ]
+    },
+    {
+      "bitmap": 48,
+      "line": 5,
+      "word": 1,
+      "kind": "word",
+      "animation": [
+        49
+      ]
+    },
+    {
+      "bitmap": 50,
+      "line": 5,
+      "word": 2,
+      "kind": "word",
+      "animation": [
+        51
+      ]
+    },
+    {
+      "bitmap": 0,
+      "line": 6,
+      "word": 0,
+      "kind": "word",
+      "animation": [
+        1
+      ]
+    },
+    {
+      "bitmap": 2,
+      "line": 6,
+      "word": 1,
+      "kind": "word",
+      "animation": [
+        3
+      ]
+    },
+    {
+      "bitmap": 4,
+      "line": 6,
+      "word": 2,
+      "kind": "word",
+      "animation": [
+        5
+      ]
+    },
+    {
+      "bitmap": 6,
+      "line": 6,
+      "word": 3,
+      "kind": "word",
+      "animation": [
+        7
+      ]
+    },
+    {
+      "bitmap": 8,
+      "line": 6,
+      "word": 4,
+      "kind": "word",
+      "animation": [
+        9
+      ]
+    },
+    {
+      "bitmap": 10,
+      "line": 7,
+      "word": 0,
+      "kind": "word",
+      "animation": [
+        11
+      ]
+    },
+    {
+      "bitmap": 12,
+      "line": 7,
+      "word": 1,
+      "kind": "word",
+      "animation": [
+        13
+      ]
+    },
+    {
+      "bitmap": 14,
+      "line": 7,
+      "word": 2,
+      "kind": "word",
+      "animation": [
+        15
+      ]
+    },
+    {
+      "bitmap": 16,
+      "line": 7,
+      "word": 3,
+      "kind": "word",
+      "animation": [
+        17
+      ]
+    },
+    {
+      "bitmap": 10,
+      "line": 8,
+      "word": 0,
+      "kind": "word",
+      "animation": [
+        11
+      ]
+    },
+    {
+      "bitmap": 12,
+      "line": 8,
+      "word": 1,
+      "kind": "word",
+      "animation": [
+        13
+      ]
+    },
+    {
+      "bitmap": 14,
+      "line": 8,
+      "word": 2,
+      "kind": "word",
+      "animation": [
+        15
+      ]
+    },
+    {
+      "bitmap": 16,
+      "line": 8,
+      "word": 3,
+      "kind": "word",
+      "animation": [
+        17
+      ]
+    },
+    {
+      "bitmap": 24,
+      "line": 9,
+      "word": 0,
+      "kind": "word",
+      "animation": [
+        25
+      ]
+    },
+    {
+      "bitmap": 26,
+      "line": 9,
+      "word": 1,
+      "kind": "word",
+      "animation": [
+        27
+      ]
+    },
+    {
+      "bitmap": 28,
+      "line": 9,
+      "word": 2,
+      "kind": "word",
+      "animation": [
+        29
+      ]
+    },
+    {
+      "bitmap": 30,
+      "line": 9,
+      "word": 3,
+      "kind": "word",
+      "animation": [
+        31
+      ]
+    },
+    {
+      "bitmap": 32,
+      "line": 9,
+      "word": 4,
+      "kind": "word",
+      "animation": [
+        33
+      ]
+    },
+    {
+      "bitmap": 34,
+      "line": 9,
+      "word": 5,
+      "kind": "word",
+      "animation": [
+        35
+      ]
+    },
+    {
+      "bitmap": 36,
+      "line": 9,
+      "word": 6,
+      "kind": "word",
+      "animation": [
+        37
+      ]
+    },
+    {
+      "bitmap": 38,
+      "line": 10,
+      "word": 0,
+      "kind": "word",
+      "animation": [
+        39
+      ]
+    },
+    {
+      "bitmap": 40,
+      "line": 10,
+      "word": 1,
+      "kind": "word",
+      "animation": [
+        41
+      ]
+    },
+    {
+      "bitmap": 42,
+      "line": 10,
+      "word": 2,
+      "kind": "word",
+      "animation": [
+        43
+      ]
+    },
+    {
+      "bitmap": 44,
+      "line": 10,
+      "word": 3,
+      "kind": "word",
+      "animation": [
+        45
+      ]
+    },
+    {
+      "bitmap": 46,
+      "line": 11,
+      "word": 0,
+      "kind": "word",
+      "animation": [
+        47
+      ]
+    },
+    {
+      "bitmap": 48,
+      "line": 11,
+      "word": 1,
+      "kind": "word",
+      "animation": [
+        49
+      ]
+    },
+    {
+      "bitmap": 50,
+      "line": 11,
+      "word": 2,
+      "kind": "word",
+      "animation": [
+        51
+      ]
+    },
+    {
+      "bitmap": 52,
+      "line": 12,
+      "word": 0,
+      "kind": "word",
+      "animation": [
+        53
+      ]
+    },
+    {
+      "bitmap": 54,
+      "line": 12,
+      "word": 1,
+      "kind": "word",
+      "animation": [
+        55
+      ]
+    },
+    {
+      "bitmap": 56,
+      "line": 12,
+      "word": 2,
+      "kind": "word",
+      "animation": [
+        57
+      ]
+    },
+    {
+      "bitmap": 58,
+      "line": 12,
+      "word": 3,
+      "kind": "word",
+      "animation": [
+        59
+      ]
+    },
+    {
+      "bitmap": 60,
+      "line": 13,
+      "word": 0,
+      "kind": "word",
+      "animation": [
+        61
+      ]
+    },
+    {
+      "bitmap": 62,
+      "line": 13,
+      "word": 1,
+      "kind": "word",
+      "animation": [
+        63
+      ]
+    },
+    {
+      "bitmap": 64,
+      "line": 13,
+      "word": 2,
+      "kind": "word",
+      "animation": [
+        65
+      ]
+    },
+    {
+      "bitmap": 66,
+      "line": 13,
+      "word": 3,
+      "kind": "word",
+      "animation": [
+        67
+      ]
+    },
+    {
+      "bitmap": 68,
+      "line": 14,
+      "word": 0,
+      "kind": "word",
+      "animation": [
+        69
+      ]
+    },
+    {
+      "bitmap": 70,
+      "line": 14,
+      "word": 1,
+      "kind": "word",
+      "animation": [
+        71
+      ]
+    },
+    {
+      "bitmap": 72,
+      "line": 14,
+      "word": 2,
+      "kind": "word",
+      "animation": [
+        73
+      ]
+    },
+    {
+      "bitmap": 74,
+      "line": 15,
+      "word": 0,
+      "kind": "word",
+      "animation": [
+        75
+      ]
+    },
+    {
+      "bitmap": 76,
+      "line": 15,
+      "word": 1,
+      "kind": "word",
+      "animation": [
+        77
+      ]
+    },
+    {
+      "bitmap": 78,
+      "line": 15,
+      "word": 2,
+      "kind": "word",
+      "animation": [
+        79
+      ]
+    },
+    {
+      "bitmap": 80,
+      "line": 16,
+      "word": 0,
+      "kind": "word",
+      "animation": [
+        81
+      ]
+    },
+    {
+      "bitmap": 82,
+      "line": 16,
+      "word": 1,
+      "kind": "word",
+      "animation": [
+        83
+      ]
+    },
+    {
+      "bitmap": 84,
+      "line": 16,
+      "word": 2,
+      "kind": "word",
+      "animation": [
+        85
+      ]
+    },
+    {
+      "bitmap": 86,
+      "line": 16,
+      "word": 3,
+      "kind": "word",
+      "animation": [
+        87
+      ]
+    },
+    {
+      "bitmap": 88,
+      "line": 16,
+      "word": 4,
+      "kind": "word",
+      "animation": [
+        89
+      ]
+    },
+    {
+      "bitmap": 0,
+      "line": 18,
+      "word": 0,
+      "kind": "word",
+      "animation": [
+        1
+      ]
+    },
+    {
+      "bitmap": 2,
+      "line": 18,
+      "word": 1,
+      "kind": "word",
+      "animation": [
+        3
+      ]
+    },
+    {
+      "bitmap": 4,
+      "line": 18,
+      "word": 2,
+      "kind": "word",
+      "animation": [
+        5
+      ]
+    },
+    {
+      "bitmap": 6,
+      "line": 18,
+      "word": 3,
+      "kind": "word",
+      "animation": [
+        7
+      ]
+    },
+    {
+      "bitmap": 8,
+      "line": 18,
+      "word": 4,
+      "kind": "word",
+      "animation": [
+        9
+      ]
+    },
+    {
+      "bitmap": 10,
+      "line": 19,
+      "word": 0,
+      "kind": "word",
+      "animation": [
+        11
+      ]
+    },
+    {
+      "bitmap": 12,
+      "line": 19,
+      "word": 1,
+      "kind": "word",
+      "animation": [
+        13
+      ]
+    },
+    {
+      "bitmap": 14,
+      "line": 19,
+      "word": 2,
+      "kind": "word",
+      "animation": [
+        15
+      ]
+    },
+    {
+      "bitmap": 16,
+      "line": 19,
+      "word": 3,
+      "kind": "word",
+      "animation": [
+        17
+      ]
+    },
+    {
+      "bitmap": 18,
+      "line": 20,
+      "word": 0,
+      "kind": "word",
+      "animation": [
+        19
+      ]
+    },
+    {
+      "bitmap": 20,
+      "line": 20,
+      "word": 1,
+      "kind": "word",
+      "animation": [
+        21
+      ]
+    },
+    {
+      "bitmap": 22,
+      "line": 20,
+      "word": 2,
+      "kind": "word",
+      "animation": [
+        23
+      ]
+    },
+    {
+      "bitmap": 24,
+      "line": 21,
+      "word": 0,
+      "kind": "word",
+      "animation": [
+        25
+      ]
+    },
+    {
+      "bitmap": 26,
+      "line": 21,
+      "word": 1,
+      "kind": "word",
+      "animation": [
+        27
+      ]
+    },
+    {
+      "bitmap": 28,
+      "line": 21,
+      "word": 2,
+      "kind": "word",
+      "animation": [
+        29
+      ]
+    },
+    {
+      "bitmap": 30,
+      "line": 21,
+      "word": 3,
+      "kind": "word",
+      "animation": [
+        31
+      ]
+    },
+    {
+      "bitmap": 32,
+      "line": 21,
+      "word": 4,
+      "kind": "word",
+      "animation": [
+        33
+      ]
+    },
+    {
+      "bitmap": 34,
+      "line": 21,
+      "word": 5,
+      "kind": "word",
+      "animation": [
+        35
+      ]
+    },
+    {
+      "bitmap": 36,
+      "line": 21,
+      "word": 6,
+      "kind": "word",
+      "animation": [
+        37
+      ]
+    },
+    {
+      "bitmap": 38,
+      "line": 22,
+      "word": 0,
+      "kind": "word",
+      "animation": [
+        39
+      ]
+    },
+    {
+      "bitmap": 40,
+      "line": 22,
+      "word": 1,
+      "kind": "word",
+      "animation": [
+        41
+      ]
+    },
+    {
+      "bitmap": 42,
+      "line": 22,
+      "word": 2,
+      "kind": "word",
+      "animation": [
+        43
+      ]
+    },
+    {
+      "bitmap": 44,
+      "line": 22,
+      "word": 3,
+      "kind": "word",
+      "animation": [
+        45
+      ]
+    },
+    {
+      "bitmap": 46,
+      "line": 23,
+      "word": 0,
+      "kind": "word",
+      "animation": [
+        47
+      ]
+    },
+    {
+      "bitmap": 48,
+      "line": 23,
+      "word": 1,
+      "kind": "word",
+      "animation": [
+        49
+      ]
+    },
+    {
+      "bitmap": 50,
+      "line": 23,
+      "word": 2,
+      "kind": "word",
+      "animation": [
+        51
+      ]
+    },
+    {
+      "bitmap": 90,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 91,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 92,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 93,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 94,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 95,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 96,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 97,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 98,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 99,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 100,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 101,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 90,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 91,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 92,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 93,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 94,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 95,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 96,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 97,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 98,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 99,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 100,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 101,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 90,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 91,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 92,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 93,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 94,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 95,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 96,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 97,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 98,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 99,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 100,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 101,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 90,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 91,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 92,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 93,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 94,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 95,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 96,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 97,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 98,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 99,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 100,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 101,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 90,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 91,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 92,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 93,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 94,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 95,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 96,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 97,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 98,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 99,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 100,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 101,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 90,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 91,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 92,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 93,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 94,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 95,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 96,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 97,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 98,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 99,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 100,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 101,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 90,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 91,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 92,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 93,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 94,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 95,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 96,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 97,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 98,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 99,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 100,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 101,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 90,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 91,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 92,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 93,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 94,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 95,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 96,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    },
+    {
+      "bitmap": 97,
+      "line": -1,
+      "word": -1,
+      "kind": "music"
+    }
+  ]
+}

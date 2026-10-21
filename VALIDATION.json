@@ -1,0 +1,33 @@
+{
+  "board": "arduino:avr:uno",
+  "core": "arduino:avr 1.8.8",
+  "checks": {
+    "python_syntax": "passed",
+    "all_player_dry_runs": "passed",
+    "streamed_frame_bounds": "passed",
+    "streamed_timing_identity": "passed",
+    "streamed_cue_order": "passed"
+  },
+  "compilation": {
+    "sellakkaraya": {
+      "flash_bytes": 9786,
+      "static_sram_bytes": 1635,
+      "sram_remaining": 413
+    },
+    "sandawaka-mathaka": {
+      "flash_bytes": 24116,
+      "static_sram_bytes": 750,
+      "sram_remaining": 1298
+    },
+    "sandawathiye": {
+      "flash_bytes": 9786,
+      "static_sram_bytes": 1635,
+      "sram_remaining": 413
+    }
+  },
+  "notes": [
+    "Streaming firmware compilation reports low SRAM headroom (413 bytes); this packages the existing firmware without changing its buffer allocation.",
+    "Publishing checks did not reupload firmware or replay audio.",
+    "Transport validation does not independently confirm alignment with sung vocals."
+  ]
+}

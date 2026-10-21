@@ -1,0 +1,49 @@
+{
+  "method": "Repeat spectral matching and independent ASR word onsets; no listening confirmation",
+  "repeat_spectral_similarity": {
+    "second_chorus": {
+      "time": 60.9,
+      "cosine": 0.5971
+    },
+    "final_chorus": {
+      "time": 162.2,
+      "cosine": 0.5255
+    }
+  },
+  "word_onset_changes": {
+    "2": {
+      "0": 36.62
+    },
+    "6": {
+      "0": 60.9
+    },
+    "7": {
+      "0": 71.74
+    },
+    "8": {
+      "0": 76.96,
+      "1": 77.16
+    },
+    "11": {
+      "0": 96.58
+    },
+    "18": {
+      "0": 162.2
+    },
+    "19": {
+      "0": 173.04
+    },
+    "20": {
+      "0": 179.2
+    },
+    "23": {
+      "0": 197.8,
+      "1": 198.35
+    }
+  },
+  "first_ayi_onset": {
+    "previous": 54.4,
+    "corrected": 56.04,
+    "basis": "User reported early first ayi; repeated chorus onset 96.58 minus measured repeat offset 40.54"
+  }
+}

@@ -1,0 +1,196 @@
+[
+  {
+    "song": "sellakkaraya",
+    "source_project": "SellakkarayaLCD",
+    "original_source_files": [
+      {
+        "file": "SellakkarayaLCD.ino",
+        "sha256": "4ac8130e92fd4f72f19bb260d0d6a004643fccc19ac3b1290132f5dfac6e7290"
+      },
+      {
+        "file": "player.py",
+        "sha256": "14c5c942da180ba99c6856e290c7bde2979315dbcb68a955ac87026bbf03b3d1"
+      },
+      {
+        "file": "player_settings.json",
+        "sha256": "eacefdf120a38ef4defde9ff576642d231e2f544080269c432ce1ea0a909ac8f"
+      },
+      {
+        "file": "lyrics_isi.txt",
+        "sha256": "5f8883a9845f94e7731ef85c620a895c0358ed6f60aa5b11d661e5cb8e49dcc1"
+      },
+      {
+        "file": "lyrics_unicode.txt",
+        "sha256": "46ba0550be5bbd9af4605f40dc69e6447b11f0844ae1c2bcb48d3ecdfbeaeec1"
+      },
+      {
+        "file": "lyrics_phonetic.txt",
+        "sha256": "d6b36ed77a4b4da4134f8a3e19be0634a16130a61c58519fe6022021a1dcf11f"
+      },
+      {
+        "file": "frames.bin",
+        "sha256": "604e124a8f998113497bb8b85b0eb6ba878d194ae5eacdcc54e32dfd0438e7c1"
+      },
+      {
+        "file": "manifest.json",
+        "sha256": "d6e7885a5538ccc5ed4fe903e2839d54ed9f14f4fc1e97a7e86fad9972184b6b"
+      },
+      {
+        "file": "timings.json",
+        "sha256": "d4fc0782ff1ae1689e96d0cd67bf4cc57aadd9db7d89021bc0a55c4cac151c13"
+      },
+      {
+        "file": "alignment.json",
+        "sha256": "bb6811306d92295d645679a58498f43472a3ecdd1c18ac0e4e53080e4270a89b"
+      },
+      {
+        "file": "alignment_refined.json",
+        "sha256": "ec448325ff6aa9a75df0e3f0d339ad6175830880ac19a5cf2bb60cdf33d58301"
+      },
+      {
+        "file": "alignment_tail.json",
+        "sha256": "843ff417186fa5e151ebc65e3a0c82023de3f1c262cf81781175e56346142117"
+      },
+      {
+        "file": "timing_overrides.json",
+        "sha256": "340c71f81f2a5f482bac250527393a09c48b7f00b5cc96d6349c06420d164303"
+      },
+      {
+        "file": "tools/render.py",
+        "sha256": "c10de38a9b69846d30d34cee73ba64d6746e289e672ca3b2eb83f5ef0274b52f"
+      },
+      {
+        "file": "tools/build_timings.py",
+        "sha256": "b936589021ba2684e50832f345f47fc9347b497125e680e7c09313af91740d54"
+      },
+      {
+        "file": "tools/pixel_format.py",
+        "sha256": "32c5da149058041af7d5d76196cbfd96c04ac2928dfd5ef9c12c1ba862d3e794"
+      },
+      {
+        "file": "tools/audio_clock.m",
+        "sha256": "66c5894dd73b7b8df8b2f62adf0ebe6ec823a0559eb8c6f8e9bbff0a61fadd4a"
+      }
+    ]
+  },
+  {
+    "song": "sandawaka-mathaka",
+    "source_project": "LyricsKaraokeClear",
+    "original_source_files": [
+      {
+        "file": "LyricsKaraokeClear.ino",
+        "sha256": "657bce247a01d318ba8e60334a543ead673f0f9edf10bd231b62c408c176de07"
+      },
+      {
+        "file": "lyrics_bits.h",
+        "sha256": "6ee708b888bb75cb22e6ea59176efc36dbeda368b4c7fd06e2a70e9f79cf53ce"
+      },
+      {
+        "file": "play.py",
+        "sha256": "ffc6b57c5e643834488ac70ec42fb3aa3e7893d9d7887a22b30bd224045d9e8d"
+      },
+      {
+        "file": "lyrics_isi.txt",
+        "sha256": "96c106f84671ea37b9bd91508f534f7d4e970f01e1d5966dc9df66d0b20f90c8"
+      },
+      {
+        "file": "lyrics_unicode.txt",
+        "sha256": "8839474ac704e943170d3c85037e8871bff002a05592be75a4cf5e3b1eba4808"
+      },
+      {
+        "file": "timings.json",
+        "sha256": "dd78e16d7a8aa8b1202ff076d80ab131b7174ad8921a2c4277ee34c0a2109654"
+      },
+      {
+        "file": "render_report.json",
+        "sha256": "d8072af654fcb07dd0099fad7940714f2b3f0a6cfce0385331be8d9feb7878ec"
+      },
+      {
+        "file": "section_alignment.json",
+        "sha256": "aca9f78e3b13d60fc378d58ae547f09b617c2513a18cd3dc4b4a8738f8fc6a07"
+      },
+      {
+        "file": "refined_alignment.json",
+        "sha256": "52e726070771c5f86ce00ffa41dfc6a6fb0a722b169a9b25dba361749f25a5d7"
+      },
+      {
+        "file": "tools/render_lyrics.py",
+        "sha256": "8f6768bd08453f124dca42994b749785b59f92f5c2a32465fe6d0f208e50b28c"
+      },
+      {
+        "file": "tools/build_timings.py",
+        "sha256": "b4fb135fd7c665f9794aec9d2c21362634976dbd10ad91e299635460a46b65e0"
+      },
+      {
+        "file": "tools/audio_clock.m",
+        "sha256": "5b84d8fde00987824b729e9950d9c9928cd05352f9cf08177f5bb946d12db57a"
+      }
+    ]
+  },
+  {
+    "song": "sandawathiye",
+    "source_project": "SandawathiyeLCD",
+    "original_source_files": [
+      {
+        "file": "SandawathiyeLCD.ino",
+        "sha256": "4ac8130e92fd4f72f19bb260d0d6a004643fccc19ac3b1290132f5dfac6e7290"
+      },
+      {
+        "file": "player.py",
+        "sha256": "a7f5b080f0546f8bd8e3abe33258004ef4fd9ba53d12cb1cffac0bf64064b686"
+      },
+      {
+        "file": "player_settings.json",
+        "sha256": "c5d787e6c57becf2254c63fb38b854ff65f79c20e1631a13eeecb3191c5a75dd"
+      },
+      {
+        "file": "lyrics_isi.txt",
+        "sha256": "bd2903c2cd4c8d50c92436fd17a0727b5f01764c33396402259e41a6f76b6be2"
+      },
+      {
+        "file": "lyrics_unicode.txt",
+        "sha256": "8b1c4a47e7c79594f1d4fa1ca24e917e19f45b5d31a3c7e0551267f2cf2fb94e"
+      },
+      {
+        "file": "lyrics_phonetic.txt",
+        "sha256": "13670188fbb6c90f6714ab2235f99fbb9846fd412a6b369bceb2b8d00d0b55ae"
+      },
+      {
+        "file": "frames.bin",
+        "sha256": "72cf92ad2b9b8978c2881c544180051a1620d2c91b5d994ea296aa391353e6b0"
+      },
+      {
+        "file": "manifest.json",
+        "sha256": "a521511e84ba4e63ad755e4796aa90e4a2e65ad1af84a0ffc47509eaf535cee8"
+      },
+      {
+        "file": "timings.json",
+        "sha256": "80cdda703f6f95c8aee3fae2809dcf089dbdd1aacde6f25ddf6a0a9a1b70a52f"
+      },
+      {
+        "file": "alignment_audio_rechecked.json",
+        "sha256": "ce99f5661a8276719bb58767be4c3329fa337d08383eb412f088faa853bc587b"
+      },
+      {
+        "file": "timing_corrections.json",
+        "sha256": "4535a90772cfe7f00170a87368c2edc5b4b160f247d77c109cac363179c5697c"
+      },
+      {
+        "file": "tools/build_karaoke.py",
+        "sha256": "244bcb4a0e38d43a64cd17e88bea4a5c09b2eb592fee06dd7e6922af2454913d"
+      },
+      {
+        "file": "tools/music_scene.py",
+        "sha256": "4c8c644b0ed8af4ecc8917b9f82e4216510a23e7126b8c9c74d2b463f17f332e"
+      },
+      {
+        "file": "tools/pixel_format.py",
+        "sha256": "32c5da149058041af7d5d76196cbfd96c04ac2928dfd5ef9c12c1ba862d3e794"
+      },
+      {
+        "file": "tools/audio_clock.m",
+        "sha256": "66c5894dd73b7b8df8b2f62adf0ebe6ec823a0559eb8c6f8e9bbff0a61fadd4a"
+      }
+    ]
+  }
+]

@@ -1,0 +1,653 @@
+[
+  {
+    "line": 0,
+    "start": 20.36,
+    "end": 29.92,
+    "words": [
+      {
+        "word": " sandawathiye",
+        "start": 20.36,
+        "end": 25.66
+      },
+      {
+        "word": " oba",
+        "start": 25.66,
+        "end": 26.92
+      },
+      {
+        "word": " magema",
+        "start": 26.92,
+        "end": 27.96
+      },
+      {
+        "word": " yayi",
+        "start": 27.96,
+        "end": 28.56
+      },
+      {
+        "word": " kiyala",
+        "start": 28.56,
+        "end": 29.92
+      }
+    ]
+  },
+  {
+    "line": 1,
+    "start": 31.2,
+    "end": 35.24,
+    "words": [
+      {
+        "word": " man",
+        "start": 31.2,
+        "end": 31.36
+      },
+      {
+        "word": " ahasa",
+        "start": 31.42,
+        "end": 32.78
+      },
+      {
+        "word": " bala",
+        "start": 32.78,
+        "end": 33.78
+      },
+      {
+        "word": " unna",
+        "start": 33.78,
+        "end": 35.24
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "start": 36.62,
+    "end": 41.18,
+    "words": [
+      {
+        "word": " ahasa",
+        "start": 36.62,
+        "end": 38.88
+      },
+      {
+        "word": " bala",
+        "start": 38.9,
+        "end": 39.78
+      },
+      {
+        "word": " unna",
+        "start": 39.78,
+        "end": 41.18
+      }
+    ]
+  },
+  {
+    "line": 3,
+    "start": 43.28,
+    "end": 48.6,
+    "words": [
+      {
+        "word": " asipiya",
+        "start": 43.28,
+        "end": 44.04
+      },
+      {
+        "word": " helana",
+        "start": 44.04,
+        "end": 44.88
+      },
+      {
+        "word": " e",
+        "start": 44.88,
+        "end": 45.66
+      },
+      {
+        "word": " sulu",
+        "start": 45.66,
+        "end": 45.98
+      },
+      {
+        "word": " mohothe",
+        "start": 45.98,
+        "end": 46.86
+      },
+      {
+        "word": " pawa",
+        "start": 46.86,
+        "end": 47.34
+      },
+      {
+        "word": " ma",
+        "start": 47.34,
+        "end": 48.6
+      }
+    ]
+  },
+  {
+    "line": 4,
+    "start": 48.76,
+    "end": 54.4,
+    "words": [
+      {
+        "word": " walakulata",
+        "start": 48.76,
+        "end": 51.58
+      },
+      {
+        "word": " oba",
+        "start": 51.58,
+        "end": 52.36
+      },
+      {
+        "word": " muwa",
+        "start": 52.36,
+        "end": 53.14
+      },
+      {
+        "word": " wela",
+        "start": 53.14,
+        "end": 54.4
+      }
+    ]
+  },
+  {
+    "line": 5,
+    "start": 56.04,
+    "end": 60.34,
+    "words": [
+      {
+        "word": " ayi",
+        "start": 56.04,
+        "end": 57.5
+      },
+      {
+        "word": " mage",
+        "start": 57.5,
+        "end": 58.06
+      },
+      {
+        "word": " sandawathiye",
+        "start": 58.06,
+        "end": 60.34
+      }
+    ]
+  },
+  {
+    "line": 6,
+    "start": 60.9,
+    "end": 70.14,
+    "words": [
+      {
+        "word": " sandawathiye",
+        "start": 60.9,
+        "end": 66.22
+      },
+      {
+        "word": " oba",
+        "start": 66.22,
+        "end": 67.44
+      },
+      {
+        "word": " magema",
+        "start": 67.44,
+        "end": 68.38
+      },
+      {
+        "word": " yayi",
+        "start": 68.38,
+        "end": 68.88
+      },
+      {
+        "word": " kiyala",
+        "start": 68.88,
+        "end": 70.14
+      }
+    ]
+  },
+  {
+    "line": 7,
+    "start": 71.74,
+    "end": 75.8,
+    "words": [
+      {
+        "word": " man",
+        "start": 71.74,
+        "end": 71.89999999999999
+      },
+      {
+        "word": " ahasa",
+        "start": 71.89999999999999,
+        "end": 73.32
+      },
+      {
+        "word": " bala",
+        "start": 73.32,
+        "end": 74.04
+      },
+      {
+        "word": " unna",
+        "start": 74.04,
+        "end": 75.8
+      }
+    ]
+  },
+  {
+    "line": 8,
+    "start": 76.96,
+    "end": 81.74,
+    "words": [
+      {
+        "word": " man",
+        "start": 76.96,
+        "end": 78.1
+      },
+      {
+        "word": " ahasa",
+        "start": 77.16,
+        "end": 79.52
+      },
+      {
+        "word": " bala",
+        "start": 79.52,
+        "end": 80.24
+      },
+      {
+        "word": " unna",
+        "start": 80.24,
+        "end": 81.74
+      }
+    ]
+  },
+  {
+    "line": 9,
+    "start": 83.8,
+    "end": 89.28,
+    "words": [
+      {
+        "word": " asipiya",
+        "start": 83.8,
+        "end": 84.54
+      },
+      {
+        "word": " helana",
+        "start": 84.54,
+        "end": 85.36
+      },
+      {
+        "word": " e",
+        "start": 85.36,
+        "end": 85.98
+      },
+      {
+        "word": " sulu",
+        "start": 85.98,
+        "end": 86.48
+      },
+      {
+        "word": " mohothe",
+        "start": 86.48,
+        "end": 87.38
+      },
+      {
+        "word": " pawa",
+        "start": 87.38,
+        "end": 88.24
+      },
+      {
+        "word": " ma",
+        "start": 88.24,
+        "end": 89.28
+      }
+    ]
+  },
+  {
+    "line": 10,
+    "start": 89.28,
+    "end": 94.46,
+    "words": [
+      {
+        "word": " walakulata",
+        "start": 89.28,
+        "end": 92.08
+      },
+      {
+        "word": " oba",
+        "start": 92.08,
+        "end": 92.94
+      },
+      {
+        "word": " muwa",
+        "start": 92.94,
+        "end": 93.66
+      },
+      {
+        "word": " wela",
+        "start": 93.66,
+        "end": 94.46
+      }
+    ]
+  },
+  {
+    "line": 11,
+    "start": 96.58,
+    "end": 100.82,
+    "words": [
+      {
+        "word": " ayi",
+        "start": 96.58,
+        "end": 98.12
+      },
+      {
+        "word": " mage",
+        "start": 98.12,
+        "end": 98.66
+      },
+      {
+        "word": " sandawathiye",
+        "start": 98.66,
+        "end": 100.82
+      }
+    ]
+  },
+  {
+    "line": 12,
+    "start": 115.5,
+    "end": 121.2,
+    "words": [
+      {
+        "word": " randenne",
+        "start": 115.5,
+        "end": 117.22
+      },
+      {
+        "word": " ma",
+        "start": 117.22,
+        "end": 118.54
+      },
+      {
+        "word": " neth",
+        "start": 118.54,
+        "end": 119.98
+      },
+      {
+        "word": " manaye",
+        "start": 119.98,
+        "end": 121.2
+      }
+    ]
+  },
+  {
+    "line": 13,
+    "start": 121.2,
+    "end": 127.2,
+    "words": [
+      {
+        "word": " niwenne",
+        "start": 121.2,
+        "end": 122.82
+      },
+      {
+        "word": " ayi",
+        "start": 122.82,
+        "end": 125.5
+      },
+      {
+        "word": " me",
+        "start": 125.5,
+        "end": 125.86
+      },
+      {
+        "word": " yamaye",
+        "start": 125.86,
+        "end": 127.2
+      }
+    ]
+  },
+  {
+    "line": 14,
+    "start": 127.86,
+    "end": 130.72,
+    "words": [
+      {
+        "word": " ma",
+        "start": 127.86,
+        "end": 128.14
+      },
+      {
+        "word": " ridawanu",
+        "start": 128.14,
+        "end": 129.86
+      },
+      {
+        "word": " ayi",
+        "start": 129.86,
+        "end": 130.72
+      }
+    ]
+  },
+  {
+    "line": 15,
+    "start": 130.72,
+    "end": 133.94,
+    "words": [
+      {
+        "word": " ma",
+        "start": 130.72,
+        "end": 131.1
+      },
+      {
+        "word": " handawanu",
+        "start": 131.1,
+        "end": 132.84
+      },
+      {
+        "word": " ayi",
+        "start": 132.84,
+        "end": 133.94
+      }
+    ]
+  },
+  {
+    "line": 16,
+    "start": 133.94,
+    "end": 139.76,
+    "words": [
+      {
+        "word": " sandawathiye",
+        "start": 133.94,
+        "end": 135.5
+      },
+      {
+        "word": " ma",
+        "start": 135.5,
+        "end": 136.98
+      },
+      {
+        "word": " ayi",
+        "start": 136.98,
+        "end": 137.14
+      },
+      {
+        "word": " thani",
+        "start": 137.14,
+        "end": 138.42
+      },
+      {
+        "word": " keruwe",
+        "start": 138.42,
+        "end": 139.76
+      }
+    ]
+  },
+  {
+    "line": 18,
+    "start": 162.2,
+    "end": 171.54,
+    "words": [
+      {
+        "word": " sandawathiye",
+        "start": 162.2,
+        "end": 167.48
+      },
+      {
+        "word": " oba",
+        "start": 167.64,
+        "end": 168.78
+      },
+      {
+        "word": " magema",
+        "start": 168.78,
+        "end": 169.7
+      },
+      {
+        "word": " yayi",
+        "start": 169.7,
+        "end": 170.34
+      },
+      {
+        "word": " kiyala",
+        "start": 170.34,
+        "end": 171.54
+      }
+    ]
+  },
+  {
+    "line": 19,
+    "start": 173.04,
+    "end": 177.16,
+    "words": [
+      {
+        "word": " man",
+        "start": 173.04,
+        "end": 173.2
+      },
+      {
+        "word": " ahasa",
+        "start": 173.2,
+        "end": 174.6
+      },
+      {
+        "word": " bala",
+        "start": 174.64,
+        "end": 175.3
+      },
+      {
+        "word": " unna",
+        "start": 175.3,
+        "end": 177.16
+      }
+    ]
+  },
+  {
+    "line": 20,
+    "start": 179.2,
+    "end": 184.48,
+    "words": [
+      {
+        "word": " ahasa",
+        "start": 179.2,
+        "end": 180.82
+      },
+      {
+        "word": " bala",
+        "start": 180.82,
+        "end": 181.72
+      },
+      {
+        "word": " unna",
+        "start": 181.72,
+        "end": 184.48
+      }
+    ]
+  },
+  {
+    "line": 21,
+    "start": 185.08,
+    "end": 190.32,
+    "words": [
+      {
+        "word": " asipiya",
+        "start": 185.08,
+        "end": 185.78
+      },
+      {
+        "word": " helana",
+        "start": 185.78,
+        "end": 186.56
+      },
+      {
+        "word": " e",
+        "start": 186.56,
+        "end": 187.28
+      },
+      {
+        "word": " sulu",
+        "start": 187.28,
+        "end": 187.76
+      },
+      {
+        "word": " mohothe",
+        "start": 187.76,
+        "end": 188.72
+      },
+      {
+        "word": " pawa",
+        "start": 188.72,
+        "end": 189.26
+      },
+      {
+        "word": " ma",
+        "start": 189.26,
+        "end": 190.32
+      }
+    ]
+  },
+  {
+    "line": 22,
+    "start": 190.62,
+    "end": 195.68,
+    "words": [
+      {
+        "word": " walakulata",
+        "start": 190.62,
+        "end": 193.4
+      },
+      {
+        "word": " oba",
+        "start": 193.4,
+        "end": 194.22
+      },
+      {
+        "word": " muwa",
+        "start": 194.22,
+        "end": 194.96
+      },
+      {
+        "word": " wela",
+        "start": 194.96,
+        "end": 195.68
+      }
+    ]
+  },
+  {
+    "line": 23,
+    "start": 197.8,
+    "end": 202.26,
+    "words": [
+      {
+        "word": " ayi",
+        "start": 197.8,
+        "end": 199.38
+      },
+      {
+        "word": " mage",
+        "start": 199.38,
+        "end": 200.02
+      },
+      {
+        "word": " sandawathiye",
+        "start": 200.02,
+        "end": 202.26
+      }
+    ]
+  }
+]

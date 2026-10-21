@@ -1,0 +1,19 @@
+{
+  "note": "Hold sung phrases through vocal pauses. Onsets use the clearly separated second pre-chorus ASR words; the first repeated section is 90.56s earlier. Rap timings are unchanged.",
+  "line_starts": {
+    "16": 55.66,
+    "17": 59.56,
+    "18": 64.68,
+    "19": 68.56,
+    "21": 76.58,
+    "22": 81.26,
+    "49": 146.22,
+    "50": 150.12,
+    "51": 155.24,
+    "52": 159.12,
+    "54": 167.42,
+    "55": 171.94,
+    "56": 176.4,
+    "74": 221.7
+  }
+}

@@ -1,0 +1,875 @@
+{
+  "id": "bbbc2c8b1d4f0eb3",
+  "pixel_format": "st7920-horizontal-msb",
+  "font": "IsiGurulugomi",
+  "font_size": 24,
+  "line_count": 77,
+  "bitmap_count": 62,
+  "pages": [
+    {
+      "line": 0,
+      "word_start": 0,
+      "word_end": 6,
+      "rows": [
+        "Xx£ ýqr§ ãYYŠ",
+        "ƒ‹p£ »{z£ SpŠp"
+      ],
+      "bitmap": 0
+    },
+    {
+      "line": 1,
+      "word_start": 0,
+      "word_end": 3,
+      "rows": [
+        "vf ýp£Õ lªpx‹"
+      ],
+      "bitmap": 1
+    },
+    {
+      "line": 1,
+      "word_start": 3,
+      "word_end": 6,
+      "rows": [
+        "[‹»xŠ Xx£",
+        "R¾h{pŠp"
+      ],
+      "bitmap": 2
+    },
+    {
+      "line": 2,
+      "word_start": 0,
+      "word_end": 5,
+      "rows": [
+        "{ap lªpx‹ B»pŠ",
+        "yjŠh§ »{pŠp"
+      ],
+      "bitmap": 3
+    },
+    {
+      "line": 3,
+      "word_start": 0,
+      "word_end": 3,
+      "rows": [
+        "Xx£ ÷{f§j£",
+        "»r£HhYŠ"
+      ],
+      "bitmap": 4
+    },
+    {
+      "line": 3,
+      "word_start": 3,
+      "word_end": 5,
+      "rows": [
+        "ƒ‹lz£ tzpŠp"
+      ],
+      "bitmap": 5
+    },
+    {
+      "line": 4,
+      "word_start": 0,
+      "word_end": 3,
+      "rows": [
+        "Xx£ ƒ¥v»nŠv",
+        "Y»…Š"
+      ],
+      "bitmap": 6
+    },
+    {
+      "line": 4,
+      "word_start": 3,
+      "word_end": 6,
+      "rows": [
+        "v£{ ~lªÑpŠ",
+        "l‹xpŠp"
+      ],
+      "bitmap": 7
+    },
+    {
+      "line": 5,
+      "word_start": 0,
+      "word_end": 3,
+      "rows": [
+        "vv ƒ¥v»nŠv",
+        "Y»…Š"
+      ],
+      "bitmap": 8
+    },
+    {
+      "line": 5,
+      "word_start": 3,
+      "word_end": 6,
+      "rows": [
+        "Xx£ R¾h{z£",
+        "ùnŠnpŠp"
+      ],
+      "bitmap": 9
+    },
+    {
+      "line": 6,
+      "word_start": 0,
+      "word_end": 3,
+      "rows": [
+        "AlŠ Xx£ n¥YŠY"
+      ],
+      "bitmap": 10
+    },
+    {
+      "line": 6,
+      "word_start": 3,
+      "word_end": 6,
+      "rows": [
+        "r…»{p‹ n{»~Š",
+        "SqpŠ"
+      ],
+      "bitmap": 11
+    },
+    {
+      "line": 7,
+      "word_start": 0,
+      "word_end": 4,
+      "rows": [
+        "ƒšp v¥N»N WYf",
+        "p‹´xpŠp"
+      ],
+      "bitmap": 12
+    },
+    {
+      "line": 8,
+      "word_start": 0,
+      "word_end": 3,
+      "rows": [
+        "~‹pŠã »Y£…{z",
+        "z‹N»N"
+      ],
+      "bitmap": 13
+    },
+    {
+      "line": 9,
+      "word_start": 0,
+      "word_end": 5,
+      "rows": [
+        "vv Y‹N»N A{£",
+        "Xx£f Y‹xz£"
+      ],
+      "bitmap": 14
+    },
+    {
+      "line": 10,
+      "word_start": 0,
+      "word_end": 5,
+      "rows": [
+        "ƒ‹l xf ƒ‹Ñ»xŠ",
+        "Xx£ ýlyx‹"
+      ],
+      "bitmap": 15
+    },
+    {
+      "line": 11,
+      "word_start": 0,
+      "word_end": 6,
+      "rows": [
+        "Xx£ ýlyx‹ ƒ‹p£",
+        "{§»jŠ vv ƒ‹pŠn£"
+      ],
+      "bitmap": 16
+    },
+    {
+      "line": 12,
+      "word_start": 0,
+      "word_end": 4,
+      "rows": [
+        "…¹ {§»jŠ ùnŠnpŠp",
+        "»p»vx‹"
+      ],
+      "bitmap": 17
+    },
+    {
+      "line": 13,
+      "word_start": 0,
+      "word_end": 3,
+      "rows": [
+        "r~Š»~Š R£rƒ§",
+        "[pŠp"
+      ],
+      "bitmap": 18
+    },
+    {
+      "line": 13,
+      "word_start": 3,
+      "word_end": 7,
+      "rows": [
+        "ƒ‹lpŠ vv ƒ‹l",
+        "ãpŠ»pŠ"
+      ],
+      "bitmap": 19
+    },
+    {
+      "line": 14,
+      "word_start": 0,
+      "word_end": 4,
+      "rows": [
+        "Xx£ l£vlŠ WY",
+        "l¥p"
+      ],
+      "bitmap": 20
+    },
+    {
+      "line": 14,
+      "word_start": 4,
+      "word_end": 7,
+      "rows": [
+        "AY »p»vx‹",
+        "r±|Š»pŠ"
+      ],
+      "bitmap": 21
+    },
+    {
+      "line": 15,
+      "word_start": 0,
+      "word_end": 5,
+      "rows": [
+        "Xx£ n`Yyp{£",
+        "v»[Š ƒ‹l R~Š»~Š"
+      ],
+      "bitmap": 22
+    },
+    {
+      "line": 16,
+      "word_start": 0,
+      "word_end": 2,
+      "rows": [
+        "vzŠ Sƒ‹y¥j£..."
+      ],
+      "bitmap": 23
+    },
+    {
+      "line": 17,
+      "word_start": 0,
+      "word_end": 4,
+      "rows": [
+        "v§† »z£ŠYx",
+        "»plª »x£v£z£"
+      ],
+      "bitmap": 24
+    },
+    {
+      "line": 18,
+      "word_start": 0,
+      "word_end": 2,
+      "rows": [
+        "v£ lp‹»{z£..."
+      ],
+      "bitmap": 25
+    },
+    {
+      "line": 19,
+      "word_start": 0,
+      "word_end": 4,
+      "rows": [
+        "Rn n¾h§{K ztñ",
+        "v£..."
+      ],
+      "bitmap": 26
+    },
+    {
+      "line": 20,
+      "word_start": 0,
+      "word_end": 4,
+      "rows": [
+        "Y¾ã† [£»pŠ",
+        "{¥f§j§ R¥»[Š"
+      ],
+      "bitmap": 27
+    },
+    {
+      "line": 21,
+      "word_start": 0,
+      "word_end": 5,
+      "rows": [
+        "»~£¾ãy¥ ƒ¾h R¦",
+        "p‹ƒ¾h »Yy¥{£..."
+      ],
+      "bitmap": 28
+    },
+    {
+      "line": 22,
+      "word_start": 0,
+      "word_end": 5,
+      "rows": [
+        "»z£{v ãf§ R¦",
+        "~xp[l {«"
+      ],
+      "bitmap": 29
+    },
+    {
+      "line": 23,
+      "word_start": 0,
+      "word_end": 4,
+      "rows": [
+        "R¾ãy¥ »~Šx£",
+        "ñz‹p »Yy¥{£"
+      ],
+      "bitmap": 30
+    },
+    {
+      "line": 24,
+      "word_start": 0,
+      "word_end": 2,
+      "rows": [
+        "~‹p£{ Uãy[lŠl"
+      ],
+      "bitmap": 31
+    },
+    {
+      "line": 25,
+      "word_start": 0,
+      "word_end": 2,
+      "rows": [
+        "»~zŠzvYf",
+        "rfz[lŠl"
+      ],
+      "bitmap": 32
+    },
+    {
+      "line": 26,
+      "word_start": 0,
+      "word_end": 2,
+      "rows": [
+        "Ìý»lŠ Uãy[lŠl"
+      ],
+      "bitmap": 33
+    },
+    {
+      "line": 27,
+      "word_start": 0,
+      "word_end": 2,
+      "rows": [
+        "»~zŠzYŠY£yx£",
+        "vvx‹"
+      ],
+      "bitmap": 34
+    },
+    {
+      "line": 28,
+      "word_start": 0,
+      "word_end": 2,
+      "rows": [
+        "~‹p£{ Uãy[lŠl"
+      ],
+      "bitmap": 31
+    },
+    {
+      "line": 29,
+      "word_start": 0,
+      "word_end": 2,
+      "rows": [
+        "»~zŠzvYf",
+        "rfz[lŠl"
+      ],
+      "bitmap": 32
+    },
+    {
+      "line": 30,
+      "word_start": 0,
+      "word_end": 2,
+      "rows": [
+        "Ìý»lŠ Uãy[lŠl"
+      ],
+      "bitmap": 33
+    },
+    {
+      "line": 31,
+      "word_start": 0,
+      "word_end": 2,
+      "rows": [
+        "»~zŠzYŠY£yx£",
+        "vvx‹"
+      ],
+      "bitmap": 34
+    },
+    {
+      "line": 32,
+      "word_start": 0,
+      "word_end": 5,
+      "rows": [
+        "~lŠlx‹ l‹Jt vf",
+        "»r£Õ Y¥YŠYªvYŠ"
+      ],
+      "bitmap": 35
+    },
+    {
+      "line": 33,
+      "word_start": 0,
+      "word_end": 4,
+      "rows": [
+        "l‹lŠlx‹ vf »K",
+        "ÌýlxlŠ"
+      ],
+      "bitmap": 36
+    },
+    {
+      "line": 34,
+      "word_start": 0,
+      "word_end": 2,
+      "rows": [
+        "Xx£ r¦»ppŠ"
+      ],
+      "bitmap": 37
+    },
+    {
+      "line": 34,
+      "word_start": 2,
+      "word_end": 5,
+      "rows": [
+        "z‹N{lŠ R»rŠ",
+        "Yl£{"
+      ],
+      "bitmap": 38
+    },
+    {
+      "line": 35,
+      "word_start": 0,
+      "word_end": 2,
+      "rows": [
+        "vv r¥pŠ~»zpŠ"
+      ],
+      "bitmap": 39
+    },
+    {
+      "line": 35,
+      "word_start": 2,
+      "word_end": 5,
+      "rows": [
+        "z‹N»N vYpŠp",
+        "ƒ‹l£p"
+      ],
+      "bitmap": 40
+    },
+    {
+      "line": 36,
+      "word_start": 0,
+      "word_end": 4,
+      "rows": [
+        "~§ã [{§»K ylª",
+        "zYª»jŠ"
+      ],
+      "bitmap": 41
+    },
+    {
+      "line": 37,
+      "word_start": 0,
+      "word_end": 5,
+      "rows": [
+        "Ìý»lŠ ãpŠplŠ",
+        "Xx£ vf ~lªÑpŠ"
+      ],
+      "bitmap": 42
+    },
+    {
+      "line": 38,
+      "word_start": 0,
+      "word_end": 4,
+      "rows": [
+        "R£n»M ï¾ã{YŠ",
+        "l‹»J p¦"
+      ],
+      "bitmap": 43
+    },
+    {
+      "line": 39,
+      "word_start": 0,
+      "word_end": 4,
+      "rows": [
+        "v»[Š WY »zŠ",
+        "ï¾ã{Y{lŠ"
+      ],
+      "bitmap": 44
+    },
+    {
+      "line": 39,
+      "word_start": 4,
+      "word_end": 6,
+      "rows": [
+        "Xx£»[Š p£»K"
+      ],
+      "bitmap": 45
+    },
+    {
+      "line": 40,
+      "word_start": 0,
+      "word_end": 4,
+      "rows": [
+        "Xx£ ý»¾nN{£",
+        "vv ýpŠn£"
+      ],
+      "bitmap": 46
+    },
+    {
+      "line": 41,
+      "word_start": 0,
+      "word_end": 5,
+      "rows": [
+        "Ìý»lŠ Y† {§j£",
+        "vv ƒ‹pŠn£"
+      ],
+      "bitmap": 47
+    },
+    {
+      "line": 42,
+      "word_start": 0,
+      "word_end": 4,
+      "rows": [
+        "Y‹N{£ yf {»G",
+        "ƒrpŠYK"
+      ],
+      "bitmap": 48
+    },
+    {
+      "line": 43,
+      "word_start": 0,
+      "word_end": 3,
+      "rows": [
+        "{f YypŠ ñlªypŠ"
+      ],
+      "bitmap": 49
+    },
+    {
+      "line": 43,
+      "word_start": 3,
+      "word_end": 6,
+      "rows": [
+        "v»[Š ƒlªypŠ",
+        "YypŠ"
+      ],
+      "bitmap": 50
+    },
+    {
+      "line": 44,
+      "word_start": 0,
+      "word_end": 2,
+      "rows": [
+        "vf n¾h§{K"
+      ],
+      "bitmap": 51
+    },
+    {
+      "line": 45,
+      "word_start": 0,
+      "word_end": 4,
+      "rows": [
+        "Rr‹ Rr‹fv [lŠl",
+        "r‹pŠl®»M"
+      ],
+      "bitmap": 52
+    },
+    {
+      "line": 46,
+      "word_start": 0,
+      "word_end": 2,
+      "rows": [
+        "[‹z‹ƒ§j£ yffv"
+      ],
+      "bitmap": 53
+    },
+    {
+      "line": 46,
+      "word_start": 2,
+      "word_end": 5,
+      "rows": [
+        "v»[Š R»lŠ",
+        "~‹ã»ypŠ"
+      ],
+      "bitmap": 54
+    },
+    {
+      "line": 47,
+      "word_start": 0,
+      "word_end": 3,
+      "rows": [
+        "Y£v»MY Rn",
+        "Y†{»M"
+      ],
+      "bitmap": 55
+    },
+    {
+      "line": 48,
+      "word_start": 0,
+      "word_end": 4,
+      "rows": [
+        "vv Uãy[lŠl£",
+        "p§»L Ìý»lŠ"
+      ],
+      "bitmap": 56
+    },
+    {
+      "line": 49,
+      "word_start": 0,
+      "word_end": 2,
+      "rows": [
+        "vzŠ Sƒ‹y¥j£"
+      ],
+      "bitmap": 57
+    },
+    {
+      "line": 50,
+      "word_start": 0,
+      "word_end": 4,
+      "rows": [
+        "v§† »z£ŠYx",
+        "»plª »x£v£z£"
+      ],
+      "bitmap": 24
+    },
+    {
+      "line": 51,
+      "word_start": 0,
+      "word_end": 2,
+      "rows": [
+        "v£ lp‹»{z£"
+      ],
+      "bitmap": 58
+    },
+    {
+      "line": 52,
+      "word_start": 0,
+      "word_end": 4,
+      "rows": [
+        "Rn n¾h§{K ztñ",
+        "v£"
+      ],
+      "bitmap": 59
+    },
+    {
+      "line": 53,
+      "word_start": 0,
+      "word_end": 4,
+      "rows": [
+        "Y¾ã† [£»pŠ",
+        "{¥f§j§ R¥»[Š"
+      ],
+      "bitmap": 27
+    },
+    {
+      "line": 54,
+      "word_start": 0,
+      "word_end": 5,
+      "rows": [
+        "»~£¾ãy¥ ƒ¾h R¦",
+        "p‹ƒ¾h »Yy¥{£"
+      ],
+      "bitmap": 60
+    },
+    {
+      "line": 55,
+      "word_start": 0,
+      "word_end": 5,
+      "rows": [
+        "»z£{v ãf§ R¦",
+        "~xp[l {«"
+      ],
+      "bitmap": 29
+    },
+    {
+      "line": 56,
+      "word_start": 0,
+      "word_end": 4,
+      "rows": [
+        "R¾ãy¥ »~Šx£",
+        "ñz‹p »Yy¥{£"
+      ],
+      "bitmap": 30
+    },
+    {
+      "line": 57,
+      "word_start": 0,
+      "word_end": 2,
+      "rows": [
+        "~‹p£{ Uãy[lŠl"
+      ],
+      "bitmap": 31
+    },
+    {
+      "line": 58,
+      "word_start": 0,
+      "word_end": 2,
+      "rows": [
+        "»~zŠzvYf",
+        "rfz[lŠl"
+      ],
+      "bitmap": 32
+    },
+    {
+      "line": 59,
+      "word_start": 0,
+      "word_end": 2,
+      "rows": [
+        "Ìý»lŠ Uãy[lŠl"
+      ],
+      "bitmap": 33
+    },
+    {
+      "line": 60,
+      "word_start": 0,
+      "word_end": 2,
+      "rows": [
+        "»~zŠzYŠY£yx£",
+        "p§wx‹"
+      ],
+      "bitmap": 61
+    },
+    {
+      "line": 61,
+      "word_start": 0,
+      "word_end": 2,
+      "rows": [
+        "~‹p£{ Uãy[lŠl"
+      ],
+      "bitmap": 31
+    },
+    {
+      "line": 62,
+      "word_start": 0,
+      "word_end": 2,
+      "rows": [
+        "»~zŠzvYf",
+        "rfz[lŠl"
+      ],
+      "bitmap": 32
+    },
+    {
+      "line": 63,
+      "word_start": 0,
+      "word_end": 2,
+      "rows": [
+        "Ìý»lŠ Uãy[lŠl"
+      ],
+      "bitmap": 33
+    },
+    {
+      "line": 64,
+      "word_start": 0,
+      "word_end": 2,
+      "rows": [
+        "»~zŠzYŠY£yx£",
+        "p§wx‹"
+      ],
+      "bitmap": 61
+    },
+    {
+      "line": 65,
+      "word_start": 0,
+      "word_end": 2,
+      "rows": [
+        "~‹p£{ Uãy[lŠl"
+      ],
+      "bitmap": 31
+    },
+    {
+      "line": 66,
+      "word_start": 0,
+      "word_end": 2,
+      "rows": [
+        "»~zŠzvYf",
+        "rfz[lŠl"
+      ],
+      "bitmap": 32
+    },
+    {
+      "line": 67,
+      "word_start": 0,
+      "word_end": 2,
+      "rows": [
+        "Ìý»lŠ Uãy[lŠl"
+      ],
+      "bitmap": 33
+    },
+    {
+      "line": 68,
+      "word_start": 0,
+      "word_end": 2,
+      "rows": [
+        "»~zŠzYŠY£yx£",
+        "vvx‹"
+      ],
+      "bitmap": 34
+    },
+    {
+      "line": 69,
+      "word_start": 0,
+      "word_end": 2,
+      "rows": [
+        "~‹p£{ Uãy[lŠl"
+      ],
+      "bitmap": 31
+    },
+    {
+      "line": 70,
+      "word_start": 0,
+      "word_end": 2,
+      "rows": [
+        "»~zŠzvYf",
+        "rfz[lŠl"
+      ],
+      "bitmap": 32
+    },
+    {
+      "line": 71,
+      "word_start": 0,
+      "word_end": 2,
+      "rows": [
+        "Ìý»lŠ Uãy[lŠl"
+      ],
+      "bitmap": 33
+    },
+    {
+      "line": 72,
+      "word_start": 0,
+      "word_end": 2,
+      "rows": [
+        "»~zŠzYŠY£yx£",
+        "vvx‹"
+      ],
+      "bitmap": 34
+    },
+    {
+      "line": 73,
+      "word_start": 0,
+      "word_end": 4,
+      "rows": [
+        "Y¾ã† [£»pŠ",
+        "{¥f§j§ R¥»[Š"
+      ],
+      "bitmap": 27
+    },
+    {
+      "line": 74,
+      "word_start": 0,
+      "word_end": 5,
+      "rows": [
+        "»~£¾ãy¥ ƒ¾h R¦",
+        "p‹ƒ¾h »Yy¥{£"
+      ],
+      "bitmap": 60
+    },
+    {
+      "line": 75,
+      "word_start": 0,
+      "word_end": 5,
+      "rows": [
+        "»z£{v ãf§ R¦",
+        "~xp[l {«"
+      ],
+      "bitmap": 29
+    },
+    {
+      "line": 76,
+      "word_start": 0,
+      "word_end": 4,
+      "rows": [
+        "R¾ãy¥ »~Šx£",
+        "ñz‹p »Yy¥{£"
+      ],
+      "bitmap": 30
+    }
+  ]
+}
