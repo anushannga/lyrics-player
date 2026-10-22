@@ -11,3 +11,7 @@ respective owners' rights. No new font or music license is asserted here.
 Arduino and U8g2 are external dependencies and are not vendored in this repository.
 Their own license terms apply. No repository-wide open-source license has been
 added on behalf of owners of the bundled third-party assets.
+
+Mal Peththak uses user-supplied ISI Gurulugomi and local SinKey Unicode-to-ISI
+conversion rules. English captions were generated using the Mac system Arial
+font. Arial.ttf is not redistributed; rebuilding uses a locally installed copy.

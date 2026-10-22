@@ -1,0 +1,1208 @@
+[
+  {
+    "id": 0,
+    "section": "chorus1",
+    "section_line": 0,
+    "language": "si",
+    "text": "මල් පෙත්තක් සේ සුසිනිඳු සිත",
+    "alignment_text": "mal peththak se susinidu sitha",
+    "display_text": "vzŠ »rlŠlYŠ »~Š ~§~‹p‹¾ã ~‹l"
+  },
+  {
+    "id": 1,
+    "section": "chorus1",
+    "section_line": 1,
+    "language": "si",
+    "text": "මගෙන් නුඹ කොහින්දෝ හොරකම් කරා",
+    "alignment_text": "magen numba kohindo horakam kara",
+    "display_text": "v»[pŠ p§w »Y£ƒ‹pŠ»àŠ »ƒ£yYK Yy£"
+  },
+  {
+    "id": 2,
+    "section": "chorus1",
+    "section_line": 2,
+    "language": "si",
+    "text": "තව රිදෙන්න නෑ ඉඩක්",
+    "alignment_text": "thawa ridenna ne idak",
+    "display_text": "l{ ù»npŠp p¦ ShYŠ"
+  },
+  {
+    "id": 3,
+    "section": "chorus1",
+    "section_line": 3,
+    "language": "si",
+    "text": "මගේ හදවතේ",
+    "alignment_text": "mage hadawathe",
+    "display_text": "v»[Š ƒn{»lŠ"
+  },
+  {
+    "id": 4,
+    "section": "chorus1",
+    "section_line": 4,
+    "language": "si",
+    "text": "මට දුකද සතුට වේ",
+    "alignment_text": "mata dukada sathuta we",
+    "display_text": "vf ãYn ~lªf »N"
+  },
+  {
+    "id": 5,
+    "section": "chorus1",
+    "section_line": 5,
+    "language": "si",
+    "text": "කවුළුවෙන් එපිට මහා වර්ෂා වැටෙනවා",
+    "alignment_text": "kawuluwen epita maha warsha watenawa",
+    "display_text": "Y{§†»{pŠ Wr‹f vƒ£ {M}£ {¥»fp{£"
+  },
+  {
+    "id": 6,
+    "section": "chorus1",
+    "section_line": 6,
+    "language": "si",
+    "text": "ඔබ තිළිණ දුන් රෝස පඳුරේ",
+    "alignment_text": "oba thilina dun rosa pandure",
+    "display_text": "Xt l‹…‹j ãpŠ »y£Š~ r¾ã»M"
+  },
+  {
+    "id": 7,
+    "section": "chorus1",
+    "section_line": 7,
+    "language": "si",
+    "text": "පිපුණු මලේ පෙති කඩා හැලෙනවා",
+    "alignment_text": "pipunu male pethi kada halenawa",
+    "display_text": "r‹r§j§ v»zŠ »rl‹ Yh£ ƒ¥»zp{£"
+  },
+  {
+    "id": 8,
+    "section": "chorus1",
+    "section_line": 8,
+    "language": "si",
+    "text": "මට පේනවා...",
+    "alignment_text": "mata penawa",
+    "display_text": "vf »rŠp{£..."
+  },
+  {
+    "id": 9,
+    "section": "rap1",
+    "section_line": 0,
+    "language": "en",
+    "text": "Hey, my name is Shane",
+    "alignment_text": "Hey, my name is Shane",
+    "display_text": "Hey, my name is Shane"
+  },
+  {
+    "id": 10,
+    "section": "rap1",
+    "section_line": 1,
+    "language": "en",
+    "text": "My girlfriend's name is Rose",
+    "alignment_text": "My girlfriend's name is Rose",
+    "display_text": "My girlfriend's name is Rose"
+  },
+  {
+    "id": 11,
+    "section": "rap1",
+    "section_line": 2,
+    "language": "en",
+    "text": "She has a friend called Jane",
+    "alignment_text": "She has a friend called Jane",
+    "display_text": "She has a friend called Jane"
+  },
+  {
+    "id": 12,
+    "section": "rap1",
+    "section_line": 3,
+    "language": "en",
+    "text": "Who's got a boyfriend named John",
+    "alignment_text": "Who's got a boyfriend named John",
+    "display_text": "Who's got a boyfriend named John"
+  },
+  {
+    "id": 13,
+    "section": "rap1",
+    "section_line": 4,
+    "language": "en",
+    "text": "Nigga, this is really damn",
+    "alignment_text": "Nigga, this is really damn",
+    "display_text": "Nigga, this is really damn"
+  },
+  {
+    "id": 14,
+    "section": "rap1",
+    "section_line": 5,
+    "language": "en",
+    "text": "John makes love to girls",
+    "alignment_text": "John makes love to girls",
+    "display_text": "John makes love to girls"
+  },
+  {
+    "id": 15,
+    "section": "rap1",
+    "section_line": 6,
+    "language": "en",
+    "text": "Plus sends three-page letters",
+    "alignment_text": "Plus sends three-page letters",
+    "display_text": "Plus sends three-page letters"
+  },
+  {
+    "id": 16,
+    "section": "rap1",
+    "section_line": 7,
+    "language": "en",
+    "text": "Every day to Jane",
+    "alignment_text": "Every day to Jane",
+    "display_text": "Every day to Jane"
+  },
+  {
+    "id": 17,
+    "section": "rap1",
+    "section_line": 8,
+    "language": "en",
+    "text": "Hey, what's wrong with that nigga?",
+    "alignment_text": "Hey, what's wrong with that nigga?",
+    "display_text": "Hey, what's wrong with that nigga?"
+  },
+  {
+    "id": 18,
+    "section": "rap1",
+    "section_line": 9,
+    "language": "en",
+    "text": "Just asked Rose",
+    "alignment_text": "Just asked Rose",
+    "display_text": "Just asked Rose"
+  },
+  {
+    "id": 19,
+    "section": "rap1",
+    "section_line": 10,
+    "language": "en",
+    "text": "Nothing wrong with him",
+    "alignment_text": "Nothing wrong with him",
+    "display_text": "Nothing wrong with him"
+  },
+  {
+    "id": 20,
+    "section": "rap1",
+    "section_line": 11,
+    "language": "en",
+    "text": "She said, so like you",
+    "alignment_text": "She said, so like you",
+    "display_text": "She said, so like you"
+  },
+  {
+    "id": 21,
+    "section": "rap1",
+    "section_line": 12,
+    "language": "en",
+    "text": "You don't love me, Shane",
+    "alignment_text": "You don't love me, Shane",
+    "display_text": "You don't love me, Shane"
+  },
+  {
+    "id": 22,
+    "section": "rap1",
+    "section_line": 13,
+    "language": "en",
+    "text": "Of course I love you, Rose",
+    "alignment_text": "Of course I love you, Rose",
+    "display_text": "Of course I love you, Rose"
+  },
+  {
+    "id": 23,
+    "section": "rap1",
+    "section_line": 14,
+    "language": "en",
+    "text": "I offered the warmest kiss",
+    "alignment_text": "I offered the warmest kiss",
+    "display_text": "I offered the warmest kiss"
+  },
+  {
+    "id": 24,
+    "section": "rap1",
+    "section_line": 15,
+    "language": "en",
+    "text": "I could ever give to prove",
+    "alignment_text": "I could ever give to prove",
+    "display_text": "I could ever give to prove"
+  },
+  {
+    "id": 25,
+    "section": "rap1",
+    "section_line": 16,
+    "language": "en",
+    "text": "She groaned and pulled her bag",
+    "alignment_text": "She groaned and pulled her bag",
+    "display_text": "She groaned and pulled her bag"
+  },
+  {
+    "id": 26,
+    "section": "rap1",
+    "section_line": 17,
+    "language": "en",
+    "text": "Over the head",
+    "alignment_text": "Over the head",
+    "display_text": "Over the head"
+  },
+  {
+    "id": 27,
+    "section": "rap1",
+    "section_line": 18,
+    "language": "en",
+    "text": "Ooh, she didn't want to converse",
+    "alignment_text": "Ooh, she didn't want to converse",
+    "display_text": "Ooh, she didn't want to converse"
+  },
+  {
+    "id": 28,
+    "section": "rap1",
+    "section_line": 19,
+    "language": "en",
+    "text": "With me anymore",
+    "alignment_text": "With me anymore",
+    "display_text": "With me anymore"
+  },
+  {
+    "id": 29,
+    "section": "rap1",
+    "section_line": 20,
+    "language": "en",
+    "text": "You don't love me enough, she said",
+    "alignment_text": "You don't love me enough, she said",
+    "display_text": "You don't love me enough, she said"
+  },
+  {
+    "id": 30,
+    "section": "rap1",
+    "section_line": 21,
+    "language": "en",
+    "text": "How much you want?",
+    "alignment_text": "How much you want?",
+    "display_text": "How much you want?"
+  },
+  {
+    "id": 31,
+    "section": "rap1",
+    "section_line": 22,
+    "language": "en",
+    "text": "I said, I'm in love with you",
+    "alignment_text": "I said, I'm in love with you",
+    "display_text": "I said, I'm in love with you"
+  },
+  {
+    "id": 32,
+    "section": "rap1",
+    "section_line": 23,
+    "language": "en",
+    "text": "I said, I wanted to explain",
+    "alignment_text": "I said, I wanted to explain",
+    "display_text": "I said, I wanted to explain"
+  },
+  {
+    "id": 33,
+    "section": "rap1",
+    "section_line": 24,
+    "language": "en",
+    "text": "But it was in vain",
+    "alignment_text": "But it was in vain",
+    "display_text": "But it was in vain"
+  },
+  {
+    "id": 34,
+    "section": "rap1",
+    "section_line": 25,
+    "language": "en",
+    "text": "You've got to write me, Shane",
+    "alignment_text": "You've got to write me, Shane",
+    "display_text": "You've got to write me, Shane"
+  },
+  {
+    "id": 35,
+    "section": "rap1",
+    "section_line": 26,
+    "language": "en",
+    "text": "Write me one page, man",
+    "alignment_text": "Write me one page, man",
+    "display_text": "Write me one page, man"
+  },
+  {
+    "id": 36,
+    "section": "rap1",
+    "section_line": 27,
+    "language": "en",
+    "text": "Damn, you don't even phone",
+    "alignment_text": "Damn, you don't even phone",
+    "display_text": "Damn, you don't even phone"
+  },
+  {
+    "id": 37,
+    "section": "rap1",
+    "section_line": 28,
+    "language": "en",
+    "text": "Like John does to Jane",
+    "alignment_text": "Like John does to Jane",
+    "display_text": "Like John does to Jane"
+  },
+  {
+    "id": 38,
+    "section": "rap1",
+    "section_line": 29,
+    "language": "en",
+    "text": "I don't believe you, girl",
+    "alignment_text": "I don't believe you, girl",
+    "display_text": "I don't believe you, girl"
+  },
+  {
+    "id": 39,
+    "section": "rap1",
+    "section_line": 30,
+    "language": "en",
+    "text": "I send two letters a week",
+    "alignment_text": "I send two letters a week",
+    "display_text": "I send two letters a week"
+  },
+  {
+    "id": 40,
+    "section": "rap1",
+    "section_line": 31,
+    "language": "en",
+    "text": "There may be a problem",
+    "alignment_text": "There may be a problem",
+    "display_text": "There may be a problem"
+  },
+  {
+    "id": 41,
+    "section": "rap1",
+    "section_line": 32,
+    "language": "en",
+    "text": "With postmen or something",
+    "alignment_text": "With postmen or something",
+    "display_text": "With postmen or something"
+  },
+  {
+    "id": 42,
+    "section": "rap1",
+    "section_line": 33,
+    "language": "en",
+    "text": "Don't lie to me, Shane",
+    "alignment_text": "Don't lie to me, Shane",
+    "display_text": "Don't lie to me, Shane"
+  },
+  {
+    "id": 43,
+    "section": "rap1",
+    "section_line": 34,
+    "language": "en",
+    "text": "I think that someone is you",
+    "alignment_text": "I think that someone is you",
+    "display_text": "I think that someone is you"
+  },
+  {
+    "id": 44,
+    "section": "rap1",
+    "section_line": 35,
+    "language": "en",
+    "text": "Your love is a pain",
+    "alignment_text": "Your love is a pain",
+    "display_text": "Your love is a pain"
+  },
+  {
+    "id": 45,
+    "section": "rap1",
+    "section_line": 36,
+    "language": "en",
+    "text": "No more I see you",
+    "alignment_text": "No more I see you",
+    "display_text": "No more I see you"
+  },
+  {
+    "id": 46,
+    "section": "chorus2",
+    "section_line": 0,
+    "language": "si",
+    "text": "මල් පෙත්තක් සේ සුසිනිඳු සිත",
+    "alignment_text": "mal peththak se susinidu sitha",
+    "display_text": "vzŠ »rlŠlYŠ »~Š ~§~‹p‹¾ã ~‹l"
+  },
+  {
+    "id": 47,
+    "section": "chorus2",
+    "section_line": 1,
+    "language": "si",
+    "text": "මගෙන් නුඹ කොහින්දෝ හොරකම් කරා",
+    "alignment_text": "magen numba kohindo horakam kara",
+    "display_text": "v»[pŠ p§w »Y£ƒ‹pŠ»àŠ »ƒ£yYK Yy£"
+  },
+  {
+    "id": 48,
+    "section": "chorus2",
+    "section_line": 2,
+    "language": "si",
+    "text": "තව රිදෙන්න නෑ ඉඩක්",
+    "alignment_text": "thawa ridenna ne idak",
+    "display_text": "l{ ù»npŠp p¦ ShYŠ"
+  },
+  {
+    "id": 49,
+    "section": "chorus2",
+    "section_line": 3,
+    "language": "si",
+    "text": "මගේ හදවතේ",
+    "alignment_text": "mage hadawathe",
+    "display_text": "v»[Š ƒn{»lŠ"
+  },
+  {
+    "id": 50,
+    "section": "chorus2",
+    "section_line": 4,
+    "language": "si",
+    "text": "මට දුකද සතුට වේ",
+    "alignment_text": "mata dukada sathuta we",
+    "display_text": "vf ãYn ~lªf »N"
+  },
+  {
+    "id": 51,
+    "section": "chorus2",
+    "section_line": 5,
+    "language": "si",
+    "text": "කවුළුවෙන් එපිට මහා වර්ෂා වැටෙනවා",
+    "alignment_text": "kawuluwen epita maha warsha watenawa",
+    "display_text": "Y{§†»{pŠ Wr‹f vƒ£ {M}£ {¥»fp{£"
+  },
+  {
+    "id": 52,
+    "section": "chorus2",
+    "section_line": 6,
+    "language": "si",
+    "text": "ඔබ තිළිණ දුන් රෝස පඳුරේ",
+    "alignment_text": "oba thilina dun rosa pandure",
+    "display_text": "Xt l‹…‹j ãpŠ »y£Š~ r¾ã»M"
+  },
+  {
+    "id": 53,
+    "section": "chorus2",
+    "section_line": 7,
+    "language": "si",
+    "text": "පිපුණු මලේ පෙති කඩා හැලෙනවා",
+    "alignment_text": "pipunu male pethi kada halenawa",
+    "display_text": "r‹r§j§ v»zŠ »rl‹ Yh£ ƒ¥»zp{£"
+  },
+  {
+    "id": 54,
+    "section": "chorus2",
+    "section_line": 8,
+    "language": "si",
+    "text": "මට පේනවා...",
+    "alignment_text": "mata penawa",
+    "display_text": "vf »rŠp{£..."
+  },
+  {
+    "id": 55,
+    "section": "rap2",
+    "section_line": 0,
+    "language": "en",
+    "text": "Dear Rose, babe",
+    "alignment_text": "Dear Rose, babe",
+    "display_text": "Dear Rose, babe"
+  },
+  {
+    "id": 56,
+    "section": "rap2",
+    "section_line": 1,
+    "language": "en",
+    "text": "I send two letters a week",
+    "alignment_text": "I send two letters a week",
+    "display_text": "I send two letters a week"
+  },
+  {
+    "id": 57,
+    "section": "rap2",
+    "section_line": 2,
+    "language": "en",
+    "text": "If you miss them, it can't be",
+    "alignment_text": "If you miss them, it can't be",
+    "display_text": "If you miss them, it can't be"
+  },
+  {
+    "id": 58,
+    "section": "rap2",
+    "section_line": 3,
+    "language": "en",
+    "text": "There's a problem with the...",
+    "alignment_text": "There's a problem with the...",
+    "display_text": "There's a problem with the..."
+  },
+  {
+    "id": 59,
+    "section": "rap2",
+    "section_line": 4,
+    "language": "en",
+    "text": "I tried to write you more than",
+    "alignment_text": "I tried to write you more than",
+    "display_text": "I tried to write you more than"
+  },
+  {
+    "id": 60,
+    "section": "rap2",
+    "section_line": 5,
+    "language": "en",
+    "text": "Babe, it's not easy",
+    "alignment_text": "Babe, it's not easy",
+    "display_text": "Babe, it's not easy"
+  },
+  {
+    "id": 61,
+    "section": "rap2",
+    "section_line": 6,
+    "language": "en",
+    "text": "Been in hard work",
+    "alignment_text": "Been in hard work",
+    "display_text": "Been in hard work"
+  },
+  {
+    "id": 62,
+    "section": "rap2",
+    "section_line": 7,
+    "language": "en",
+    "text": "Please don't be so crazy",
+    "alignment_text": "Please don't be so crazy",
+    "display_text": "Please don't be so crazy"
+  },
+  {
+    "id": 63,
+    "section": "rap2",
+    "section_line": 8,
+    "language": "en",
+    "text": "Make you understand, babe",
+    "alignment_text": "Make you understand, babe",
+    "display_text": "Make you understand, babe"
+  },
+  {
+    "id": 64,
+    "section": "rap2",
+    "section_line": 9,
+    "language": "en",
+    "text": "Never hate me back",
+    "alignment_text": "Never hate me back",
+    "display_text": "Never hate me back"
+  },
+  {
+    "id": 65,
+    "section": "rap2",
+    "section_line": 10,
+    "language": "en",
+    "text": "I'm your candy",
+    "alignment_text": "I'm your candy",
+    "display_text": "I'm your candy"
+  },
+  {
+    "id": 66,
+    "section": "rap2",
+    "section_line": 11,
+    "language": "en",
+    "text": "You're acting like a lady, man",
+    "alignment_text": "You're acting like a lady, man",
+    "display_text": "You're acting like a lady, man"
+  },
+  {
+    "id": 67,
+    "section": "rap2",
+    "section_line": 12,
+    "language": "en",
+    "text": "You may know the girls",
+    "alignment_text": "You may know the girls",
+    "display_text": "You may know the girls"
+  },
+  {
+    "id": 68,
+    "section": "rap2",
+    "section_line": 13,
+    "language": "en",
+    "text": "Are trying to get involved with you",
+    "alignment_text": "Are trying to get involved with you",
+    "display_text": "Are trying to get involved with you"
+  },
+  {
+    "id": 69,
+    "section": "rap2",
+    "section_line": 14,
+    "language": "en",
+    "text": "They're jealous",
+    "alignment_text": "They're jealous",
+    "display_text": "They're jealous"
+  },
+  {
+    "id": 70,
+    "section": "rap2",
+    "section_line": 15,
+    "language": "en",
+    "text": "Three sixty-five, I'm thinking of you",
+    "alignment_text": "Three sixty-five, I'm thinking of you",
+    "display_text": "Three sixty-five, I'm thinking of you"
+  },
+  {
+    "id": 71,
+    "section": "rap2",
+    "section_line": 16,
+    "language": "en",
+    "text": "Even things I like",
+    "alignment_text": "Even things I like",
+    "display_text": "Even things I like"
+  },
+  {
+    "id": 72,
+    "section": "rap2",
+    "section_line": 17,
+    "language": "en",
+    "text": "I'm doing so, pretty girl",
+    "alignment_text": "I'm doing so, pretty girl",
+    "display_text": "I'm doing so, pretty girl"
+  },
+  {
+    "id": 73,
+    "section": "rap2",
+    "section_line": 18,
+    "language": "en",
+    "text": "You just screw me down",
+    "alignment_text": "You just screw me down",
+    "display_text": "You just screw me down"
+  },
+  {
+    "id": 74,
+    "section": "rap2",
+    "section_line": 19,
+    "language": "en",
+    "text": "For no reason at all",
+    "alignment_text": "For no reason at all",
+    "display_text": "For no reason at all"
+  },
+  {
+    "id": 75,
+    "section": "rap2",
+    "section_line": 20,
+    "language": "en",
+    "text": "In the cold morn",
+    "alignment_text": "In the cold morn",
+    "display_text": "In the cold morn"
+  },
+  {
+    "id": 76,
+    "section": "rap2",
+    "section_line": 21,
+    "language": "en",
+    "text": "I feel alone",
+    "alignment_text": "I feel alone",
+    "display_text": "I feel alone"
+  },
+  {
+    "id": 77,
+    "section": "rap2",
+    "section_line": 22,
+    "language": "en",
+    "text": "I walk along the Sixth Lane",
+    "alignment_text": "I walk along the Sixth Lane",
+    "display_text": "I walk along the Sixth Lane"
+  },
+  {
+    "id": 78,
+    "section": "rap2",
+    "section_line": 23,
+    "language": "en",
+    "text": "Insane, you don't phone",
+    "alignment_text": "Insane, you don't phone",
+    "display_text": "Insane, you don't phone"
+  },
+  {
+    "id": 79,
+    "section": "rap2",
+    "section_line": 24,
+    "language": "en",
+    "text": "I'm in pain",
+    "alignment_text": "I'm in pain",
+    "display_text": "I'm in pain"
+  },
+  {
+    "id": 80,
+    "section": "rap2",
+    "section_line": 25,
+    "language": "en",
+    "text": "You never know",
+    "alignment_text": "You never know",
+    "display_text": "You never know"
+  },
+  {
+    "id": 81,
+    "section": "rap2",
+    "section_line": 26,
+    "language": "en",
+    "text": "What Jane's nigga do",
+    "alignment_text": "What Jane's nigga do",
+    "display_text": "What Jane's nigga do"
+  },
+  {
+    "id": 82,
+    "section": "rap2",
+    "section_line": 27,
+    "language": "en",
+    "text": "If Jane knows",
+    "alignment_text": "If Jane knows",
+    "display_text": "If Jane knows"
+  },
+  {
+    "id": 83,
+    "section": "rap2",
+    "section_line": 28,
+    "language": "en",
+    "text": "She might call it off too",
+    "alignment_text": "She might call it off too",
+    "display_text": "She might call it off too"
+  },
+  {
+    "id": 84,
+    "section": "rap2",
+    "section_line": 29,
+    "language": "en",
+    "text": "Look, I'm really glad",
+    "alignment_text": "Look, I'm really glad",
+    "display_text": "Look, I'm really glad"
+  },
+  {
+    "id": 85,
+    "section": "rap2",
+    "section_line": 30,
+    "language": "en",
+    "text": "Being steady with you",
+    "alignment_text": "Being steady with you",
+    "display_text": "Being steady with you"
+  },
+  {
+    "id": 86,
+    "section": "rap2",
+    "section_line": 31,
+    "language": "en",
+    "text": "I don't wanna miss you",
+    "alignment_text": "I don't wanna miss you",
+    "display_text": "I don't wanna miss you"
+  },
+  {
+    "id": 87,
+    "section": "rap2",
+    "section_line": 32,
+    "language": "en",
+    "text": "I wanna kiss you",
+    "alignment_text": "I wanna kiss you",
+    "display_text": "I wanna kiss you"
+  },
+  {
+    "id": 88,
+    "section": "rap2",
+    "section_line": 33,
+    "language": "en",
+    "text": "P.S. we need each other",
+    "alignment_text": "P.S. we need each other",
+    "display_text": "P.S. we need each other"
+  },
+  {
+    "id": 89,
+    "section": "rap2",
+    "section_line": 34,
+    "language": "en",
+    "text": "When you read this letter",
+    "alignment_text": "When you read this letter",
+    "display_text": "When you read this letter"
+  },
+  {
+    "id": 90,
+    "section": "rap2",
+    "section_line": 35,
+    "language": "en",
+    "text": "Please treat me better",
+    "alignment_text": "Please treat me better",
+    "display_text": "Please treat me better"
+  },
+  {
+    "id": 91,
+    "section": "rap2",
+    "section_line": 36,
+    "language": "en",
+    "text": "See you later",
+    "alignment_text": "See you later",
+    "display_text": "See you later"
+  },
+  {
+    "id": 92,
+    "section": "chorus3",
+    "section_line": 0,
+    "language": "si",
+    "text": "මල් පෙත්තක් සේ සුසිනිඳු සිත",
+    "alignment_text": "mal peththak se susinidu sitha",
+    "display_text": "vzŠ »rlŠlYŠ »~Š ~§~‹p‹¾ã ~‹l"
+  },
+  {
+    "id": 93,
+    "section": "chorus3",
+    "section_line": 1,
+    "language": "si",
+    "text": "මගෙන් නුඹ කොහින්දෝ හොරකම් කරා",
+    "alignment_text": "magen numba kohindo horakam kara",
+    "display_text": "v»[pŠ p§w »Y£ƒ‹pŠ»àŠ »ƒ£yYK Yy£"
+  },
+  {
+    "id": 94,
+    "section": "chorus3",
+    "section_line": 2,
+    "language": "si",
+    "text": "තව රිදෙන්න නෑ ඉඩක්",
+    "alignment_text": "thawa ridenna ne idak",
+    "display_text": "l{ ù»npŠp p¦ ShYŠ"
+  },
+  {
+    "id": 95,
+    "section": "chorus3",
+    "section_line": 3,
+    "language": "si",
+    "text": "මගේ හදවතේ",
+    "alignment_text": "mage hadawathe",
+    "display_text": "v»[Š ƒn{»lŠ"
+  },
+  {
+    "id": 96,
+    "section": "chorus3",
+    "section_line": 4,
+    "language": "si",
+    "text": "මට දුකද සතුට වේ",
+    "alignment_text": "mata dukada sathuta we",
+    "display_text": "vf ãYn ~lªf »N"
+  },
+  {
+    "id": 97,
+    "section": "chorus3",
+    "section_line": 5,
+    "language": "si",
+    "text": "කවුළුවෙන් එපිට මහා වර්ෂා වැටෙනවා",
+    "alignment_text": "kawuluwen epita maha warsha watenawa",
+    "display_text": "Y{§†»{pŠ Wr‹f vƒ£ {M}£ {¥»fp{£"
+  },
+  {
+    "id": 98,
+    "section": "chorus3",
+    "section_line": 6,
+    "language": "si",
+    "text": "ඔබ තිළිණ දුන් රෝස පඳුරේ",
+    "alignment_text": "oba thilina dun rosa pandure",
+    "display_text": "Xt l‹…‹j ãpŠ »y£Š~ r¾ã»M"
+  },
+  {
+    "id": 99,
+    "section": "chorus3",
+    "section_line": 7,
+    "language": "si",
+    "text": "පිපුණු මලේ පෙති කඩා හැලෙනවා",
+    "alignment_text": "pipunu male pethi kada halenawa",
+    "display_text": "r‹r§j§ v»zŠ »rl‹ Yh£ ƒ¥»zp{£"
+  },
+  {
+    "id": 100,
+    "section": "chorus3",
+    "section_line": 8,
+    "language": "si",
+    "text": "මට පේනවා...",
+    "alignment_text": "mata penawa",
+    "display_text": "vf »rŠp{£..."
+  },
+  {
+    "id": 101,
+    "section": "dialogue",
+    "section_line": 0,
+    "language": "en",
+    "text": "Hello?",
+    "alignment_text": "Hello?",
+    "display_text": "Hello?"
+  },
+  {
+    "id": 102,
+    "section": "dialogue",
+    "section_line": 1,
+    "language": "en",
+    "text": "Hello?",
+    "alignment_text": "Hello?",
+    "display_text": "Hello?"
+  },
+  {
+    "id": 103,
+    "section": "dialogue",
+    "section_line": 2,
+    "language": "en",
+    "text": "Hello?",
+    "alignment_text": "Hello?",
+    "display_text": "Hello?"
+  },
+  {
+    "id": 104,
+    "section": "dialogue",
+    "section_line": 3,
+    "language": "en",
+    "text": "What the hell?",
+    "alignment_text": "What the hell?",
+    "display_text": "What the hell?"
+  },
+  {
+    "id": 105,
+    "section": "dialogue",
+    "section_line": 4,
+    "language": "en",
+    "text": "Who's calling me?",
+    "alignment_text": "Who's calling me?",
+    "display_text": "Who's calling me?"
+  },
+  {
+    "id": 106,
+    "section": "dialogue",
+    "section_line": 5,
+    "language": "en",
+    "text": "A nuisance call!",
+    "alignment_text": "A nuisance call!",
+    "display_text": "A nuisance call!"
+  },
+  {
+    "id": 107,
+    "section": "chorus4",
+    "section_line": 0,
+    "language": "si",
+    "text": "මල් පෙත්තක් සේ සුසිනිඳු සිත",
+    "alignment_text": "mal peththak se susinidu sitha",
+    "display_text": "vzŠ »rlŠlYŠ »~Š ~§~‹p‹¾ã ~‹l"
+  },
+  {
+    "id": 108,
+    "section": "chorus4",
+    "section_line": 1,
+    "language": "si",
+    "text": "මගෙන් නුඹ කොහින්දෝ හොරකම් කරා",
+    "alignment_text": "magen numba kohindo horakam kara",
+    "display_text": "v»[pŠ p§w »Y£ƒ‹pŠ»àŠ »ƒ£yYK Yy£"
+  },
+  {
+    "id": 109,
+    "section": "chorus4",
+    "section_line": 2,
+    "language": "si",
+    "text": "තව රිදෙන්න නෑ ඉඩක්",
+    "alignment_text": "thawa ridenna ne idak",
+    "display_text": "l{ ù»npŠp p¦ ShYŠ"
+  },
+  {
+    "id": 110,
+    "section": "chorus4",
+    "section_line": 3,
+    "language": "si",
+    "text": "මගේ හදවතේ",
+    "alignment_text": "mage hadawathe",
+    "display_text": "v»[Š ƒn{»lŠ"
+  },
+  {
+    "id": 111,
+    "section": "chorus4",
+    "section_line": 4,
+    "language": "si",
+    "text": "මට දුකද සතුට වේ",
+    "alignment_text": "mata dukada sathuta we",
+    "display_text": "vf ãYn ~lªf »N"
+  },
+  {
+    "id": 112,
+    "section": "chorus4",
+    "section_line": 5,
+    "language": "si",
+    "text": "කවුළුවෙන් එපිට මහා වර්ෂා වැටෙනවා",
+    "alignment_text": "kawuluwen epita maha warsha watenawa",
+    "display_text": "Y{§†»{pŠ Wr‹f vƒ£ {M}£ {¥»fp{£"
+  },
+  {
+    "id": 113,
+    "section": "chorus4",
+    "section_line": 6,
+    "language": "si",
+    "text": "ඔබ තිළිණ දුන් රෝස පඳුරේ",
+    "alignment_text": "oba thilina dun rosa pandure",
+    "display_text": "Xt l‹…‹j ãpŠ »y£Š~ r¾ã»M"
+  },
+  {
+    "id": 114,
+    "section": "chorus4",
+    "section_line": 7,
+    "language": "si",
+    "text": "පිපුණු මලේ පෙති කඩා හැලෙනවා",
+    "alignment_text": "pipunu male pethi kada halenawa",
+    "display_text": "r‹r§j§ v»zŠ »rl‹ Yh£ ƒ¥»zp{£"
+  },
+  {
+    "id": 115,
+    "section": "chorus4",
+    "section_line": 8,
+    "language": "si",
+    "text": "මට පේනවා...",
+    "alignment_text": "mata penawa",
+    "display_text": "vf »rŠp{£..."
+  },
+  {
+    "id": 116,
+    "section": "chorus5",
+    "section_line": 0,
+    "language": "si",
+    "text": "මල් පෙත්තක් සේ සුසිනිඳු සිත",
+    "alignment_text": "mal peththak se susinidu sitha",
+    "display_text": "vzŠ »rlŠlYŠ »~Š ~§~‹p‹¾ã ~‹l"
+  },
+  {
+    "id": 117,
+    "section": "chorus5",
+    "section_line": 1,
+    "language": "si",
+    "text": "මගෙන් නුඹ කොහින්දෝ හොරකම් කරා",
+    "alignment_text": "magen numba kohindo horakam kara",
+    "display_text": "v»[pŠ p§w »Y£ƒ‹pŠ»àŠ »ƒ£yYK Yy£"
+  },
+  {
+    "id": 118,
+    "section": "chorus5",
+    "section_line": 2,
+    "language": "si",
+    "text": "තව රිදෙන්න නෑ ඉඩක්",
+    "alignment_text": "thawa ridenna ne idak",
+    "display_text": "l{ ù»npŠp p¦ ShYŠ"
+  },
+  {
+    "id": 119,
+    "section": "chorus5",
+    "section_line": 3,
+    "language": "si",
+    "text": "මගේ හදවතේ",
+    "alignment_text": "mage hadawathe",
+    "display_text": "v»[Š ƒn{»lŠ"
+  },
+  {
+    "id": 120,
+    "section": "chorus5",
+    "section_line": 4,
+    "language": "si",
+    "text": "මට දුකද සතුට වේ",
+    "alignment_text": "mata dukada sathuta we",
+    "display_text": "vf ãYn ~lªf »N"
+  },
+  {
+    "id": 121,
+    "section": "chorus5",
+    "section_line": 5,
+    "language": "si",
+    "text": "කවුළුවෙන් එපිට මහා වර්ෂා වැටෙනවා",
+    "alignment_text": "kawuluwen epita maha warsha watenawa",
+    "display_text": "Y{§†»{pŠ Wr‹f vƒ£ {M}£ {¥»fp{£"
+  },
+  {
+    "id": 122,
+    "section": "chorus5",
+    "section_line": 6,
+    "language": "si",
+    "text": "ඔබ තිළිණ දුන් රෝස පඳුරේ",
+    "alignment_text": "oba thilina dun rosa pandure",
+    "display_text": "Xt l‹…‹j ãpŠ »y£Š~ r¾ã»M"
+  },
+  {
+    "id": 123,
+    "section": "chorus5",
+    "section_line": 7,
+    "language": "si",
+    "text": "පිපුණු මලේ පෙති කඩා හැලෙනවා",
+    "alignment_text": "pipunu male pethi kada halenawa",
+    "display_text": "r‹r§j§ v»zŠ »rl‹ Yh£ ƒ¥»zp{£"
+  },
+  {
+    "id": 124,
+    "section": "chorus5",
+    "section_line": 8,
+    "language": "si",
+    "text": "මට පේනවා...",
+    "alignment_text": "mata penawa",
+    "display_text": "vf »rŠp{£..."
+  },
+  {
+    "id": 125,
+    "section": "chorus6",
+    "section_line": 0,
+    "language": "si",
+    "text": "මල් පෙත්තක් සේ සුසිනිඳු සිත",
+    "alignment_text": "mal peththak se susinidu sitha",
+    "display_text": "vzŠ »rlŠlYŠ »~Š ~§~‹p‹¾ã ~‹l"
+  },
+  {
+    "id": 126,
+    "section": "chorus6",
+    "section_line": 1,
+    "language": "si",
+    "text": "මගෙන් නුඹ කොහින්දෝ හොරකම් කරා",
+    "alignment_text": "magen numba kohindo horakam kara",
+    "display_text": "v»[pŠ p§w »Y£ƒ‹pŠ»àŠ »ƒ£yYK Yy£"
+  },
+  {
+    "id": 127,
+    "section": "chorus6",
+    "section_line": 2,
+    "language": "si",
+    "text": "තව රිදෙන්න නෑ ඉඩක්",
+    "alignment_text": "thawa ridenna ne idak",
+    "display_text": "l{ ù»npŠp p¦ ShYŠ"
+  },
+  {
+    "id": 128,
+    "section": "chorus6",
+    "section_line": 3,
+    "language": "si",
+    "text": "මගේ හදවතේ",
+    "alignment_text": "mage hadawathe",
+    "display_text": "v»[Š ƒn{»lŠ"
+  },
+  {
+    "id": 129,
+    "section": "chorus6",
+    "section_line": 4,
+    "language": "si",
+    "text": "මට දුකද සතුට වේ",
+    "alignment_text": "mata dukada sathuta we",
+    "display_text": "vf ãYn ~lªf »N"
+  },
+  {
+    "id": 130,
+    "section": "chorus6",
+    "section_line": 5,
+    "language": "si",
+    "text": "කවුළුවෙන් එපිට මහා වර්ෂා වැටෙනවා",
+    "alignment_text": "kawuluwen epita maha warsha watenawa",
+    "display_text": "Y{§†»{pŠ Wr‹f vƒ£ {M}£ {¥»fp{£"
+  },
+  {
+    "id": 131,
+    "section": "chorus6",
+    "section_line": 6,
+    "language": "si",
+    "text": "ඔබ තිළිණ දුන් රෝස පඳුරේ",
+    "alignment_text": "oba thilina dun rosa pandure",
+    "display_text": "Xt l‹…‹j ãpŠ »y£Š~ r¾ã»M"
+  },
+  {
+    "id": 132,
+    "section": "chorus6",
+    "section_line": 7,
+    "language": "si",
+    "text": "පිපුණු මලේ පෙති කඩා හැලෙනවා",
+    "alignment_text": "pipunu male pethi kada halenawa",
+    "display_text": "r‹r§j§ v»zŠ »rl‹ Yh£ ƒ¥»zp{£"
+  },
+  {
+    "id": 133,
+    "section": "chorus6",
+    "section_line": 8,
+    "language": "si",
+    "text": "මට පේනවා...",
+    "alignment_text": "mata penawa",
+    "display_text": "vf »rŠp{£..."
+  }
+]

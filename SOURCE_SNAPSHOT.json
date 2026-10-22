@@ -192,5 +192,115 @@
         "sha256": "66c5894dd73b7b8df8b2f62adf0ebe6ec823a0559eb8c6f8e9bbff0a61fadd4a"
       }
     ]
+  },
+  {
+    "song": "mal-peththak",
+    "source_project": "MalPeththakLCD",
+    "original_source_files": [
+      {
+        "file": "player.py",
+        "sha256": "9094775e6540f69f1ba7b8a9815c9fba061675215ef936dd53bfd0fa66e5d967"
+      },
+      {
+        "file": "player_settings.json",
+        "sha256": "c5d787e6c57becf2254c63fb38b854ff65f79c20e1631a13eeecb3191c5a75dd"
+      },
+      {
+        "file": "lyrics.json",
+        "sha256": "70dcbc1554f0b27715644cd5f63866195658673c6999edc171d447b435c0ba06"
+      },
+      {
+        "file": "lyrics_unicode.txt",
+        "sha256": "21f5cb37eda443187871bbce05905ed180e43dbc69cc8519e98effe4a9c89cde"
+      },
+      {
+        "file": "alignment.json",
+        "sha256": "0c9447fdacf237031c2bcf91fc8eed47063d87c6ca0ed7784fd83cc97b72ed17"
+      },
+      {
+        "file": "alignment_prewarp.json",
+        "sha256": "f8df2a01967667c0e6f9118313426d8ac19ce417bb5e4bada0ff8342d06d0994"
+      },
+      {
+        "file": "alignment_raw.json",
+        "sha256": "ab72546e2c9d61f3823a31f8f1133b048ef95922e2566830133441c6118f1657"
+      },
+      {
+        "file": "rap_alignment_refined.json",
+        "sha256": "f4319bfaa2c2ab6e3bd441b021ee58a51e3c89a48901b98ca2d9f09b201bf428"
+      },
+      {
+        "file": "chorus_repeat_matches.json",
+        "sha256": "3e3e0a58165bee97153e1a7faf53b02717ca3dda1042f28d8e93a3592174a683"
+      },
+      {
+        "file": "timing_notes.json",
+        "sha256": "d5686da52b45ff4f9a3ea787fa3830bc35ca0b1ddd909c1b04ac3ae8125bca2d"
+      },
+      {
+        "file": "frames.bin",
+        "sha256": "375bff2d93d84476c0c09d6c9c042645e7f743a2c4e751af36d5adc83f57af31"
+      },
+      {
+        "file": "manifest.json",
+        "sha256": "8e1e1a997b62062d5270507bd9791092618d03f1ceaad4d4ef0e8d12d6c67eb9"
+      },
+      {
+        "file": "timings.json",
+        "sha256": "8a72720bf5abe856fe5d0b3fbe0e5d853e915ee6b80e930e7e90b4bc5550c344"
+      },
+      {
+        "file": "assets/isigurul_0.ttf",
+        "sha256": "1d23be650901b60998699fd5e13b1b9ff196173c61e84bf4bda8e6ac5deb9228"
+      },
+      {
+        "file": "assets/isi-rules.json",
+        "sha256": "4fd82180469dce991ceac1a9a9d6889c1d5cf5ab2e5f542b7997f264b5ef7c0d"
+      },
+      {
+        "file": "tools/build_display.py",
+        "sha256": "8efc2cf7ceb54920d5ce14a995d4d20c34256cfee48b41c1a354517a55a3efb1"
+      },
+      {
+        "file": "tools/prepare_lyrics.py",
+        "sha256": "efd4addc81d5205c792067b91fd4924fa510b1038e283027a373040c7161bfd9"
+      },
+      {
+        "file": "tools/finalize_alignment.py",
+        "sha256": "1b2427d26cd703e01c6c3cfb1890906724c21c782796a0b23b6e9ff6ce69ca8b"
+      },
+      {
+        "file": "tools/align_lyrics.py",
+        "sha256": "93ef6dfe8ac18f7581298c80d374aa98774f13bb13cfa03966f13694f1ca583b"
+      },
+      {
+        "file": "tools/refine_rap.py",
+        "sha256": "de5a196796f6a8a65fa1eb1be126be2acff329cc18135feef9f9e15fed9d711d"
+      },
+      {
+        "file": "tools/scan_audio.py",
+        "sha256": "806ace9d06e25dc1d9628ea481ee64b4e84701f6f93596caa64def289c9b2e6e"
+      },
+      {
+        "file": "tools/scan_rap.py",
+        "sha256": "21121d61584f669034c25d291c69ccc72c14ccd9385a1be13c8c29dafe9ab07f"
+      },
+      {
+        "file": "tools/warp_chorus.py",
+        "sha256": "c362b8b079d48accbf0452b3ac5abbffd8cd595d4023134fd879eb68f26c3d3d"
+      },
+      {
+        "file": "tools/pixel_format.py",
+        "sha256": "32c5da149058041af7d5d76196cbfd96c04ac2928dfd5ef9c12c1ba862d3e794"
+      },
+      {
+        "file": "tools/audio_clock.m",
+        "sha256": "66c5894dd73b7b8df8b2f62adf0ebe6ec823a0559eb8c6f8e9bbff0a61fadd4a"
+      },
+      {
+        "file": "MalPeththakLCD.ino",
+        "sha256": "4ac8130e92fd4f72f19bb260d0d6a004643fccc19ac3b1290132f5dfac6e7290"
+      }
+    ]
   }
 ]

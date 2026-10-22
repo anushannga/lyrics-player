@@ -1,0 +1,4748 @@
+[
+ {
+  "id": 0,
+  "section": "chorus1",
+  "section_line": 0,
+  "start": 21.55,
+  "end": 23.85,
+  "words": [
+   {
+    "word": "mal",
+    "start": 21.55,
+    "end": 21.81,
+    "probability": 2.0712455750526715e-07
+   },
+   {
+    "word": "peththak",
+    "start": 21.81,
+    "end": 22.49,
+    "probability": 0.0010970570417233223
+   },
+   {
+    "word": "se",
+    "start": 22.49,
+    "end": 22.73,
+    "probability": 0.10418172925710678
+   },
+   {
+    "word": "susinidu",
+    "start": 22.73,
+    "end": 23.47,
+    "probability": 0.1882388711674139
+   },
+   {
+    "word": "sitha",
+    "start": 23.47,
+    "end": 23.85,
+    "probability": 0.4046900272369385
+   }
+  ]
+ },
+ {
+  "id": 1,
+  "section": "chorus1",
+  "section_line": 1,
+  "start": 23.85,
+  "end": 26.25,
+  "words": [
+   {
+    "word": "magen",
+    "start": 23.85,
+    "end": 24.27,
+    "probability": 0.15162739530205727
+   },
+   {
+    "word": "numba",
+    "start": 24.27,
+    "end": 24.63,
+    "probability": 0.0011873426872170967
+   },
+   {
+    "word": "kohindo",
+    "start": 24.63,
+    "end": 25.13,
+    "probability": 0.29715655247370404
+   },
+   {
+    "word": "horakam",
+    "start": 25.13,
+    "end": 25.93,
+    "probability": 0.29116841467718285
+   },
+   {
+    "word": "kara",
+    "start": 25.93,
+    "end": 26.25,
+    "probability": 0.04215959459543228
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "section": "chorus1",
+  "section_line": 2,
+  "start": 26.25,
+  "end": 28.27,
+  "words": [
+   {
+    "word": "thawa",
+    "start": 26.25,
+    "end": 26.87,
+    "probability": 0.015468662884359219
+   },
+   {
+    "word": "ridenna",
+    "start": 26.87,
+    "end": 27.59,
+    "probability": 0.12168698074916999
+   },
+   {
+    "word": "ne",
+    "start": 27.59,
+    "end": 27.77,
+    "probability": 0.003953367471694946
+   },
+   {
+    "word": "idak",
+    "start": 27.77,
+    "end": 28.27,
+    "probability": 0.186931180593092
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "section": "chorus1",
+  "section_line": 3,
+  "start": 28.27,
+  "end": 29.51,
+  "words": [
+   {
+    "word": "mage",
+    "start": 28.27,
+    "end": 28.79,
+    "probability": 0.5930008143186569
+   },
+   {
+    "word": "hadawathe",
+    "start": 28.79,
+    "end": 29.51,
+    "probability": 0.28876247808996897
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "section": "chorus1",
+  "section_line": 4,
+  "start": 29.51,
+  "end": 31.47,
+  "words": [
+   {
+    "word": "mata",
+    "start": 29.51,
+    "end": 29.95,
+    "probability": 0.4020370841026306
+   },
+   {
+    "word": "dukada",
+    "start": 29.95,
+    "end": 30.55,
+    "probability": 0.37024015995363396
+   },
+   {
+    "word": "sathuta",
+    "start": 30.55,
+    "end": 31.17,
+    "probability": 0.4105737855037053
+   },
+   {
+    "word": "we",
+    "start": 31.17,
+    "end": 31.47,
+    "probability": 0.1411592960357666
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "section": "chorus1",
+  "section_line": 5,
+  "start": 31.47,
+  "end": 34.41,
+  "words": [
+   {
+    "word": "kawuluwen",
+    "start": 31.47,
+    "end": 32.35,
+    "probability": 0.11520365760188156
+   },
+   {
+    "word": "epita",
+    "start": 32.35,
+    "end": 32.81,
+    "probability": 0.023748384652662935
+   },
+   {
+    "word": "maha",
+    "start": 32.81,
+    "end": 33.23,
+    "probability": 0.6867296397686005
+   },
+   {
+    "word": "warsha",
+    "start": 33.23,
+    "end": 33.73,
+    "probability": 0.46027671499177814
+   },
+   {
+    "word": "watenawa",
+    "start": 33.73,
+    "end": 34.41,
+    "probability": 0.09790905161450307
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "section": "chorus1",
+  "section_line": 6,
+  "start": 34.41,
+  "end": 36.77,
+  "words": [
+   {
+    "word": "oba",
+    "start": 34.41,
+    "end": 35.07,
+    "probability": 0.307512067258358
+   },
+   {
+    "word": "thilina",
+    "start": 35.07,
+    "end": 35.49,
+    "probability": 0.19039425579831004
+   },
+   {
+    "word": "dun",
+    "start": 35.49,
+    "end": 35.71,
+    "probability": 0.593116283416748
+   },
+   {
+    "word": "rosa",
+    "start": 35.71,
+    "end": 36.19,
+    "probability": 0.4614193644374609
+   },
+   {
+    "word": "pandure",
+    "start": 36.19,
+    "end": 36.77,
+    "probability": 0.25050052255392075
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "section": "chorus1",
+  "section_line": 7,
+  "start": 36.77,
+  "end": 39.61,
+  "words": [
+   {
+    "word": "pipunu",
+    "start": 36.77,
+    "end": 37.47,
+    "probability": 0.056733913253992796
+   },
+   {
+    "word": "male",
+    "start": 37.47,
+    "end": 37.83,
+    "probability": 0.748830258846283
+   },
+   {
+    "word": "pethi",
+    "start": 37.83,
+    "end": 38.35,
+    "probability": 0.4900055614610513
+   },
+   {
+    "word": "kada",
+    "start": 38.35,
+    "end": 38.67,
+    "probability": 0.5895077288150787
+   },
+   {
+    "word": "halenawa",
+    "start": 38.67,
+    "end": 39.61,
+    "probability": 0.506396288673083
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "section": "chorus1",
+  "section_line": 8,
+  "start": 39.61,
+  "end": 40.91,
+  "words": [
+   {
+    "word": "mata",
+    "start": 39.61,
+    "end": 39.99,
+    "probability": 0.0001390718825859949
+   },
+   {
+    "word": "penawa",
+    "start": 39.99,
+    "end": 40.91,
+    "probability": 0.7133603990077972
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "section": "rap1",
+  "section_line": 0,
+  "start": 41.78,
+  "end": 42.6,
+  "words": [
+   {
+    "word": "Hey",
+    "start": 41.78,
+    "end": 41.805,
+    "probability": 0.006292843725532293
+   },
+   {
+    "word": "my",
+    "start": 41.805,
+    "end": 41.94,
+    "probability": 0.2934044301509857
+   },
+   {
+    "word": "name",
+    "start": 41.94,
+    "end": 42.16,
+    "probability": 0.9762634634971619
+   },
+   {
+    "word": "is",
+    "start": 42.16,
+    "end": 42.44,
+    "probability": 0.9428219199180603
+   },
+   {
+    "word": "Shane",
+    "start": 42.44,
+    "end": 42.6,
+    "probability": 0.6244655251502991
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "section": "rap1",
+  "section_line": 1,
+  "start": 42.6,
+  "end": 43.86,
+  "words": [
+   {
+    "word": "My",
+    "start": 42.6,
+    "end": 42.84,
+    "probability": 0.1855691522359848
+   },
+   {
+    "word": "girlfriends",
+    "start": 42.84,
+    "end": 43.06,
+    "probability": 0.00022583859390579164
+   },
+   {
+    "word": "name",
+    "start": 43.06,
+    "end": 43.4,
+    "probability": 0.9246399998664856
+   },
+   {
+    "word": "is",
+    "start": 43.4,
+    "end": 43.62,
+    "probability": 0.9487155079841614
+   },
+   {
+    "word": "Rose",
+    "start": 43.62,
+    "end": 43.86,
+    "probability": 0.930326521396637
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "section": "rap1",
+  "section_line": 2,
+  "start": 43.86,
+  "end": 45.12,
+  "words": [
+   {
+    "word": "She",
+    "start": 43.86,
+    "end": 44.18,
+    "probability": 0.23787471652030945
+   },
+   {
+    "word": "has",
+    "start": 44.18,
+    "end": 44.26,
+    "probability": 0.9663810729980469
+   },
+   {
+    "word": "a",
+    "start": 44.26,
+    "end": 44.38,
+    "probability": 0.9682434797286987
+   },
+   {
+    "word": "friend",
+    "start": 44.38,
+    "end": 44.6,
+    "probability": 0.9560436606407166
+   },
+   {
+    "word": "called",
+    "start": 44.6,
+    "end": 44.84,
+    "probability": 0.940240740776062
+   },
+   {
+    "word": "Jane",
+    "start": 44.84,
+    "end": 45.12,
+    "probability": 0.560151219367981
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "section": "rap1",
+  "section_line": 3,
+  "start": 45.12,
+  "end": 46.54,
+  "words": [
+   {
+    "word": "Whos",
+    "start": 45.12,
+    "end": 45.42,
+    "probability": 0.48644304322078824
+   },
+   {
+    "word": "got",
+    "start": 45.42,
+    "end": 45.56,
+    "probability": 0.5694257020950317
+   },
+   {
+    "word": "a",
+    "start": 45.56,
+    "end": 45.7,
+    "probability": 0.9544932842254639
+   },
+   {
+    "word": "boyfriend",
+    "start": 45.7,
+    "end": 45.9,
+    "probability": 0.48943787813186646
+   },
+   {
+    "word": "named",
+    "start": 45.9,
+    "end": 46.22,
+    "probability": 0.9186131358146667
+   },
+   {
+    "word": "John",
+    "start": 46.22,
+    "end": 46.54,
+    "probability": 0.071153923869133
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "section": "rap1",
+  "section_line": 4,
+  "start": 46.54,
+  "end": 47.8,
+  "words": [
+   {
+    "word": "Nigga",
+    "start": 46.54,
+    "end": 46.88,
+    "probability": 0.40268334874417633
+   },
+   {
+    "word": "this",
+    "start": 46.88,
+    "end": 47.1,
+    "probability": 7.657627520529786e-05
+   },
+   {
+    "word": "is",
+    "start": 47.1,
+    "end": 47.22,
+    "probability": 0.9524652361869812
+   },
+   {
+    "word": "really",
+    "start": 47.22,
+    "end": 47.48,
+    "probability": 0.9463109970092773
+   },
+   {
+    "word": "damn",
+    "start": 47.48,
+    "end": 47.8,
+    "probability": 0.4090270698070526
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "section": "rap1",
+  "section_line": 5,
+  "start": 47.8,
+  "end": 49.04,
+  "words": [
+   {
+    "word": "John",
+    "start": 47.8,
+    "end": 48.06,
+    "probability": 0.1878022402524948
+   },
+   {
+    "word": "makes",
+    "start": 48.06,
+    "end": 48.32,
+    "probability": 0.00027751209563575685
+   },
+   {
+    "word": "love",
+    "start": 48.32,
+    "end": 48.62,
+    "probability": 0.13652202486991882
+   },
+   {
+    "word": "to",
+    "start": 48.62,
+    "end": 48.78,
+    "probability": 0.00649953808169812
+   },
+   {
+    "word": "girls",
+    "start": 48.78,
+    "end": 49.04,
+    "probability": 0.9633429050445557
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "section": "rap1",
+  "section_line": 6,
+  "start": 49.04,
+  "end": 50.16,
+  "words": [
+   {
+    "word": "Plus",
+    "start": 49.04,
+    "end": 49.26,
+    "probability": 0.004593392834067345
+   },
+   {
+    "word": "sends",
+    "start": 49.26,
+    "end": 49.5,
+    "probability": 8.159745630109683e-05
+   },
+   {
+    "word": "threepage",
+    "start": 49.5,
+    "end": 49.88,
+    "probability": 0.2246901504411653
+   },
+   {
+    "word": "letters",
+    "start": 49.88,
+    "end": 50.16,
+    "probability": 0.9677748084068298
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "section": "rap1",
+  "section_line": 7,
+  "start": 50.16,
+  "end": 51.38,
+  "words": [
+   {
+    "word": "Every",
+    "start": 50.16,
+    "end": 50.62,
+    "probability": 0.06027670577168465
+   },
+   {
+    "word": "day",
+    "start": 50.62,
+    "end": 50.9,
+    "probability": 0.8631690144538879
+   },
+   {
+    "word": "to",
+    "start": 50.9,
+    "end": 51.08,
+    "probability": 0.24214701168239117
+   },
+   {
+    "word": "Jane",
+    "start": 51.08,
+    "end": 51.38,
+    "probability": 0.5952250361442566
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "section": "rap1",
+  "section_line": 8,
+  "start": 51.38,
+  "end": 52.8,
+  "words": [
+   {
+    "word": "Hey",
+    "start": 51.38,
+    "end": 51.8,
+    "probability": 0.23496480286121368
+   },
+   {
+    "word": "whats",
+    "start": 51.8,
+    "end": 51.96,
+    "probability": 0.46481868624687195
+   },
+   {
+    "word": "wrong",
+    "start": 51.96,
+    "end": 52.22,
+    "probability": 0.993170976638794
+   },
+   {
+    "word": "with",
+    "start": 52.22,
+    "end": 52.42,
+    "probability": 0.982100784778595
+   },
+   {
+    "word": "that",
+    "start": 52.42,
+    "end": 52.58,
+    "probability": 0.30832527594975545
+   },
+   {
+    "word": "nigga",
+    "start": 52.58,
+    "end": 52.8,
+    "probability": 0.9016653895378113
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "section": "rap1",
+  "section_line": 9,
+  "start": 52.8,
+  "end": 53.94,
+  "words": [
+   {
+    "word": "Just",
+    "start": 52.8,
+    "end": 53.24,
+    "probability": 0.1946716606616974
+   },
+   {
+    "word": "asked",
+    "start": 53.24,
+    "end": 53.54,
+    "probability": 0.10102420300245285
+   },
+   {
+    "word": "Rose",
+    "start": 53.54,
+    "end": 53.94,
+    "probability": 0.8983986973762512
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "section": "rap1",
+  "section_line": 10,
+  "start": 53.94,
+  "end": 55.12,
+  "words": [
+   {
+    "word": "Nothing",
+    "start": 53.94,
+    "end": 54.34,
+    "probability": 0.7150108814239502
+   },
+   {
+    "word": "wrong",
+    "start": 54.34,
+    "end": 54.68,
+    "probability": 0.9645757079124451
+   },
+   {
+    "word": "with",
+    "start": 54.68,
+    "end": 54.96,
+    "probability": 0.9775471687316895
+   },
+   {
+    "word": "him",
+    "start": 54.96,
+    "end": 55.12,
+    "probability": 0.938762903213501
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "section": "rap1",
+  "section_line": 11,
+  "start": 55.12,
+  "end": 56.46,
+  "words": [
+   {
+    "word": "She",
+    "start": 55.12,
+    "end": 55.38,
+    "probability": 0.11622922122478485
+   },
+   {
+    "word": "said",
+    "start": 55.38,
+    "end": 55.54,
+    "probability": 0.09583428502082825
+   },
+   {
+    "word": "so",
+    "start": 55.54,
+    "end": 55.84,
+    "probability": 0.02210983633995056
+   },
+   {
+    "word": "like",
+    "start": 55.84,
+    "end": 56.12,
+    "probability": 0.22769133746623993
+   },
+   {
+    "word": "you",
+    "start": 56.12,
+    "end": 56.46,
+    "probability": 0.9313219785690308
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "section": "rap1",
+  "section_line": 12,
+  "start": 56.46,
+  "end": 57.6,
+  "words": [
+   {
+    "word": "You",
+    "start": 56.46,
+    "end": 56.8,
+    "probability": 0.5681293606758118
+   },
+   {
+    "word": "dont",
+    "start": 56.8,
+    "end": 56.9,
+    "probability": 0.361547589302063
+   },
+   {
+    "word": "love",
+    "start": 56.9,
+    "end": 57.1,
+    "probability": 0.7354196310043335
+   },
+   {
+    "word": "me",
+    "start": 57.1,
+    "end": 57.3,
+    "probability": 0.9862622022628784
+   },
+   {
+    "word": "Shane",
+    "start": 57.3,
+    "end": 57.6,
+    "probability": 0.9544191956520081
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "section": "rap1",
+  "section_line": 13,
+  "start": 57.6,
+  "end": 58.9,
+  "words": [
+   {
+    "word": "Of",
+    "start": 57.6,
+    "end": 57.88,
+    "probability": 0.839556872844696
+   },
+   {
+    "word": "course",
+    "start": 57.88,
+    "end": 58.04,
+    "probability": 0.862197756767273
+   },
+   {
+    "word": "I",
+    "start": 58.04,
+    "end": 58.22,
+    "probability": 0.7730161547660828
+   },
+   {
+    "word": "love",
+    "start": 58.22,
+    "end": 58.38,
+    "probability": 0.9821425080299377
+   },
+   {
+    "word": "you",
+    "start": 58.38,
+    "end": 58.56,
+    "probability": 0.8279047012329102
+   },
+   {
+    "word": "Rose",
+    "start": 58.56,
+    "end": 58.9,
+    "probability": 0.9251429438591003
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "section": "rap1",
+  "section_line": 14,
+  "start": 58.9,
+  "end": 60.08,
+  "words": [
+   {
+    "word": "I",
+    "start": 58.9,
+    "end": 59.14,
+    "probability": 0.2656726539134979
+   },
+   {
+    "word": "offered",
+    "start": 59.14,
+    "end": 59.3,
+    "probability": 0.0004813515697605908
+   },
+   {
+    "word": "the",
+    "start": 59.3,
+    "end": 59.44,
+    "probability": 0.07743175025098026
+   },
+   {
+    "word": "warmest",
+    "start": 59.44,
+    "end": 59.86,
+    "probability": 0.6175218895077705
+   },
+   {
+    "word": "kiss",
+    "start": 59.86,
+    "end": 60.08,
+    "probability": 0.913151204586029
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "section": "rap1",
+  "section_line": 15,
+  "start": 60.08,
+  "end": 61.34,
+  "words": [
+   {
+    "word": "I",
+    "start": 60.08,
+    "end": 60.28,
+    "probability": 0.8195133805274963
+   },
+   {
+    "word": "could",
+    "start": 60.28,
+    "end": 60.44,
+    "probability": 0.4492279589176178
+   },
+   {
+    "word": "ever",
+    "start": 60.44,
+    "end": 60.64,
+    "probability": 0.9318615198135376
+   },
+   {
+    "word": "give",
+    "start": 60.64,
+    "end": 60.9,
+    "probability": 0.9678066968917847
+   },
+   {
+    "word": "to",
+    "start": 60.9,
+    "end": 61.08,
+    "probability": 0.1724270828999579
+   },
+   {
+    "word": "prove",
+    "start": 61.08,
+    "end": 61.34,
+    "probability": 0.35133495926856995
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "section": "rap1",
+  "section_line": 16,
+  "start": 61.84,
+  "end": 63.1,
+  "words": [
+   {
+    "word": "She",
+    "start": 61.84,
+    "end": 61.865,
+    "probability": 0.006681999657303095
+   },
+   {
+    "word": "groaned",
+    "start": 61.865,
+    "end": 62.4,
+    "probability": 0.427311884239316
+   },
+   {
+    "word": "and",
+    "start": 62.4,
+    "end": 62.52,
+    "probability": 0.024180080741643906
+   },
+   {
+    "word": "pulled",
+    "start": 62.52,
+    "end": 62.76,
+    "probability": 0.9209299087524414
+   },
+   {
+    "word": "her",
+    "start": 62.76,
+    "end": 62.88,
+    "probability": 0.1220235601067543
+   },
+   {
+    "word": "bag",
+    "start": 62.88,
+    "end": 63.1,
+    "probability": 0.037815243005752563
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "section": "rap1",
+  "section_line": 17,
+  "start": 63.1,
+  "end": 63.92,
+  "words": [
+   {
+    "word": "Over",
+    "start": 63.1,
+    "end": 63.38,
+    "probability": 0.00339287961833179
+   },
+   {
+    "word": "the",
+    "start": 63.38,
+    "end": 63.66,
+    "probability": 0.00017159198296212708
+   },
+   {
+    "word": "head",
+    "start": 63.66,
+    "end": 63.92,
+    "probability": 0.9837576746940613
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "section": "rap1",
+  "section_line": 18,
+  "start": 63.92,
+  "end": 65.52,
+  "words": [
+   {
+    "word": "Ooh",
+    "start": 63.92,
+    "end": 64.28,
+    "probability": 9.63666825555265e-05
+   },
+   {
+    "word": "she",
+    "start": 64.28,
+    "end": 64.52,
+    "probability": 0.2630954682826996
+   },
+   {
+    "word": "didnt",
+    "start": 64.52,
+    "end": 64.68,
+    "probability": 0.001754476223140955
+   },
+   {
+    "word": "want",
+    "start": 64.68,
+    "end": 64.92,
+    "probability": 0.8917519450187683
+   },
+   {
+    "word": "to",
+    "start": 64.92,
+    "end": 65.12,
+    "probability": 0.0007837041048333049
+   },
+   {
+    "word": "converse",
+    "start": 65.12,
+    "end": 65.52,
+    "probability": 0.8068121373653412
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "section": "rap1",
+  "section_line": 19,
+  "start": 65.52,
+  "end": 66.42,
+  "words": [
+   {
+    "word": "With",
+    "start": 65.52,
+    "end": 65.68,
+    "probability": 0.023728426545858383
+   },
+   {
+    "word": "me",
+    "start": 65.68,
+    "end": 65.9,
+    "probability": 0.9652432799339294
+   },
+   {
+    "word": "anymore",
+    "start": 65.9,
+    "end": 66.42,
+    "probability": 0.5821031928062439
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "section": "rap1",
+  "section_line": 20,
+  "start": 66.42,
+  "end": 67.72,
+  "words": [
+   {
+    "word": "You",
+    "start": 66.42,
+    "end": 66.78,
+    "probability": 0.030943050980567932
+   },
+   {
+    "word": "dont",
+    "start": 66.78,
+    "end": 66.88,
+    "probability": 0.278281033039093
+   },
+   {
+    "word": "love",
+    "start": 66.88,
+    "end": 67.08,
+    "probability": 0.02370220050215721
+   },
+   {
+    "word": "me",
+    "start": 67.08,
+    "end": 67.24,
+    "probability": 0.9780515432357788
+   },
+   {
+    "word": "enough",
+    "start": 67.24,
+    "end": 67.38,
+    "probability": 0.11485245078802109
+   },
+   {
+    "word": "she",
+    "start": 67.38,
+    "end": 67.54,
+    "probability": 0.11243236064910889
+   },
+   {
+    "word": "said",
+    "start": 67.54,
+    "end": 67.72,
+    "probability": 0.9812206029891968
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "section": "rap1",
+  "section_line": 21,
+  "start": 67.72,
+  "end": 68.32,
+  "words": [
+   {
+    "word": "How",
+    "start": 67.72,
+    "end": 67.9,
+    "probability": 0.0019090077839791775
+   },
+   {
+    "word": "much",
+    "start": 67.9,
+    "end": 68.02,
+    "probability": 0.9731629490852356
+   },
+   {
+    "word": "you",
+    "start": 68.02,
+    "end": 68.16,
+    "probability": 0.0003800110425800085
+   },
+   {
+    "word": "want",
+    "start": 68.16,
+    "end": 68.32,
+    "probability": 0.08266327530145645
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "section": "rap1",
+  "section_line": 22,
+  "start": 68.32,
+  "end": 69.38,
+  "words": [
+   {
+    "word": "I",
+    "start": 68.32,
+    "end": 68.56,
+    "probability": 0.3720029890537262
+   },
+   {
+    "word": "said",
+    "start": 68.56,
+    "end": 68.64,
+    "probability": 0.9312177896499634
+   },
+   {
+    "word": "Im",
+    "start": 68.64,
+    "end": 68.86,
+    "probability": 0.012050551362335682
+   },
+   {
+    "word": "in",
+    "start": 68.86,
+    "end": 68.96,
+    "probability": 0.784224808216095
+   },
+   {
+    "word": "love",
+    "start": 68.96,
+    "end": 69.12,
+    "probability": 0.9825559854507446
+   },
+   {
+    "word": "with",
+    "start": 69.12,
+    "end": 69.28,
+    "probability": 0.9484070539474487
+   },
+   {
+    "word": "you",
+    "start": 69.28,
+    "end": 69.38,
+    "probability": 0.8197993040084839
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "section": "rap1",
+  "section_line": 23,
+  "start": 69.38,
+  "end": 70.4,
+  "words": [
+   {
+    "word": "I",
+    "start": 69.38,
+    "end": 69.6,
+    "probability": 0.019698811694979668
+   },
+   {
+    "word": "said",
+    "start": 69.6,
+    "end": 69.625,
+    "probability": 0.31724342703819275
+   },
+   {
+    "word": "I",
+    "start": 69.625,
+    "end": 69.82,
+    "probability": 0.8068071007728577
+   },
+   {
+    "word": "wanted",
+    "start": 69.82,
+    "end": 69.96,
+    "probability": 0.011545968241989613
+   },
+   {
+    "word": "to",
+    "start": 69.96,
+    "end": 70.12,
+    "probability": 0.003112134334514849
+   },
+   {
+    "word": "explain",
+    "start": 70.12,
+    "end": 70.4,
+    "probability": 0.47959810495376587
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "section": "rap1",
+  "section_line": 24,
+  "start": 70.4,
+  "end": 71.42,
+  "words": [
+   {
+    "word": "But",
+    "start": 70.4,
+    "end": 70.64,
+    "probability": 0.0001450155978091061
+   },
+   {
+    "word": "it",
+    "start": 70.64,
+    "end": 70.665,
+    "probability": 0.5656015872955322
+   },
+   {
+    "word": "was",
+    "start": 70.665,
+    "end": 70.9,
+    "probability": 0.8132237792015076
+   },
+   {
+    "word": "in",
+    "start": 70.9,
+    "end": 71.18,
+    "probability": 0.19200661778450012
+   },
+   {
+    "word": "vain",
+    "start": 71.18,
+    "end": 71.42,
+    "probability": 0.9934172630310059
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "section": "rap1",
+  "section_line": 25,
+  "start": 71.42,
+  "end": 72.64,
+  "words": [
+   {
+    "word": "Youve",
+    "start": 71.42,
+    "end": 71.76,
+    "probability": 0.007048111758194864
+   },
+   {
+    "word": "got",
+    "start": 71.76,
+    "end": 71.785,
+    "probability": 0.7166672348976135
+   },
+   {
+    "word": "to",
+    "start": 71.785,
+    "end": 71.88,
+    "probability": 0.005463346518808976
+   },
+   {
+    "word": "write",
+    "start": 71.88,
+    "end": 72.14,
+    "probability": 0.15315750241279602
+   },
+   {
+    "word": "me",
+    "start": 72.14,
+    "end": 72.36,
+    "probability": 0.5589443445205688
+   },
+   {
+    "word": "Shane",
+    "start": 72.36,
+    "end": 72.64,
+    "probability": 0.0007384828641079366
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "section": "rap1",
+  "section_line": 26,
+  "start": 72.64,
+  "end": 73.96,
+  "words": [
+   {
+    "word": "Write",
+    "start": 72.64,
+    "end": 73.02,
+    "probability": 0.32009926438331604
+   },
+   {
+    "word": "me",
+    "start": 73.02,
+    "end": 73.2,
+    "probability": 0.9810891151428223
+   },
+   {
+    "word": "one",
+    "start": 73.2,
+    "end": 73.4,
+    "probability": 0.7242165803909302
+   },
+   {
+    "word": "page",
+    "start": 73.4,
+    "end": 73.68,
+    "probability": 0.9730497002601624
+   },
+   {
+    "word": "man",
+    "start": 73.68,
+    "end": 73.96,
+    "probability": 0.1318778693675995
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "section": "rap1",
+  "section_line": 27,
+  "start": 73.96,
+  "end": 75.16,
+  "words": [
+   {
+    "word": "Damn",
+    "start": 73.96,
+    "end": 74.3,
+    "probability": 0.2227793186903
+   },
+   {
+    "word": "you",
+    "start": 74.3,
+    "end": 74.46,
+    "probability": 0.33630847930908203
+   },
+   {
+    "word": "dont",
+    "start": 74.46,
+    "end": 74.64,
+    "probability": 0.03273284062743187
+   },
+   {
+    "word": "even",
+    "start": 74.64,
+    "end": 74.86,
+    "probability": 0.01979987882077694
+   },
+   {
+    "word": "phone",
+    "start": 74.86,
+    "end": 75.16,
+    "probability": 0.04615999013185501
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "section": "rap1",
+  "section_line": 28,
+  "start": 75.16,
+  "end": 76.36,
+  "words": [
+   {
+    "word": "Like",
+    "start": 75.16,
+    "end": 75.4,
+    "probability": 0.004918621852993965
+   },
+   {
+    "word": "John",
+    "start": 75.4,
+    "end": 75.6,
+    "probability": 0.1527719348669052
+   },
+   {
+    "word": "does",
+    "start": 75.6,
+    "end": 75.86,
+    "probability": 0.012325900606811047
+   },
+   {
+    "word": "to",
+    "start": 75.86,
+    "end": 76.08,
+    "probability": 0.0018275052862009034
+   },
+   {
+    "word": "Jane",
+    "start": 76.08,
+    "end": 76.36,
+    "probability": 0.005001204088330269
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "section": "rap1",
+  "section_line": 29,
+  "start": 76.76,
+  "end": 77.66,
+  "words": [
+   {
+    "word": "I",
+    "start": 76.76,
+    "end": 76.785,
+    "probability": 0.08266539871692657
+   },
+   {
+    "word": "dont",
+    "start": 76.785,
+    "end": 76.86,
+    "probability": 0.0033825552091002464
+   },
+   {
+    "word": "believe",
+    "start": 76.86,
+    "end": 77.14,
+    "probability": 0.8089045286178589
+   },
+   {
+    "word": "you",
+    "start": 77.14,
+    "end": 77.42,
+    "probability": 0.022095555439591408
+   },
+   {
+    "word": "girl",
+    "start": 77.42,
+    "end": 77.66,
+    "probability": 0.06034845486283302
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "section": "rap1",
+  "section_line": 30,
+  "start": 77.66,
+  "end": 78.84,
+  "words": [
+   {
+    "word": "I",
+    "start": 77.66,
+    "end": 77.92,
+    "probability": 0.003447474678978324
+   },
+   {
+    "word": "send",
+    "start": 77.92,
+    "end": 78.04,
+    "probability": 0.005215478129684925
+   },
+   {
+    "word": "two",
+    "start": 78.04,
+    "end": 78.2,
+    "probability": 5.834602188770077e-05
+   },
+   {
+    "word": "letters",
+    "start": 78.2,
+    "end": 78.4,
+    "probability": 0.005578548181802034
+   },
+   {
+    "word": "a",
+    "start": 78.4,
+    "end": 78.62,
+    "probability": 0.7065206170082092
+   },
+   {
+    "word": "week",
+    "start": 78.62,
+    "end": 78.84,
+    "probability": 0.9979683756828308
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "section": "rap1",
+  "section_line": 31,
+  "start": 78.84,
+  "end": 79.88,
+  "words": [
+   {
+    "word": "There",
+    "start": 78.84,
+    "end": 79.16,
+    "probability": 0.027114348486065865
+   },
+   {
+    "word": "may",
+    "start": 79.16,
+    "end": 79.36,
+    "probability": 0.9463196396827698
+   },
+   {
+    "word": "be",
+    "start": 79.36,
+    "end": 79.54,
+    "probability": 0.9892866015434265
+   },
+   {
+    "word": "a",
+    "start": 79.54,
+    "end": 79.68,
+    "probability": 0.22887562215328217
+   },
+   {
+    "word": "problem",
+    "start": 79.68,
+    "end": 79.88,
+    "probability": 0.941520631313324
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "section": "rap1",
+  "section_line": 32,
+  "start": 79.88,
+  "end": 81.04,
+  "words": [
+   {
+    "word": "With",
+    "start": 79.88,
+    "end": 80.12,
+    "probability": 0.00777530949562788
+   },
+   {
+    "word": "postmen",
+    "start": 80.12,
+    "end": 80.5,
+    "probability": 0.10729528591036797
+   },
+   {
+    "word": "or",
+    "start": 80.5,
+    "end": 80.64,
+    "probability": 0.04081721976399422
+   },
+   {
+    "word": "something",
+    "start": 80.64,
+    "end": 81.04,
+    "probability": 0.04946953430771828
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "section": "rap1",
+  "section_line": 33,
+  "start": 81.04,
+  "end": 82.68,
+  "words": [
+   {
+    "word": "Dont",
+    "start": 81.04,
+    "end": 81.94,
+    "probability": 0.0006358681130222976
+   },
+   {
+    "word": "lie",
+    "start": 81.94,
+    "end": 82.14,
+    "probability": 0.006960930302739143
+   },
+   {
+    "word": "to",
+    "start": 82.14,
+    "end": 82.38,
+    "probability": 0.0004340552960684363
+   },
+   {
+    "word": "me",
+    "start": 82.38,
+    "end": 82.405,
+    "probability": 0.11003634333610535
+   },
+   {
+    "word": "Shane",
+    "start": 82.405,
+    "end": 82.68,
+    "probability": 0.0030960252042859793
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "section": "rap1",
+  "section_line": 34,
+  "start": 82.68,
+  "end": 84.0,
+  "words": [
+   {
+    "word": "I",
+    "start": 82.68,
+    "end": 82.92,
+    "probability": 0.5015723705291748
+   },
+   {
+    "word": "think",
+    "start": 82.92,
+    "end": 83.04,
+    "probability": 0.004962473365594633
+   },
+   {
+    "word": "that",
+    "start": 83.04,
+    "end": 83.16,
+    "probability": 0.0643148529343307
+   },
+   {
+    "word": "someone",
+    "start": 83.16,
+    "end": 83.46,
+    "probability": 0.9127112030982971
+   },
+   {
+    "word": "is",
+    "start": 83.46,
+    "end": 83.72,
+    "probability": 0.7671302556991577
+   },
+   {
+    "word": "you",
+    "start": 83.72,
+    "end": 84.0,
+    "probability": 0.8887853026390076
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "section": "rap1",
+  "section_line": 35,
+  "start": 84.0,
+  "end": 85.14,
+  "words": [
+   {
+    "word": "Your",
+    "start": 84.0,
+    "end": 84.42,
+    "probability": 0.15053588151931763
+   },
+   {
+    "word": "love",
+    "start": 84.42,
+    "end": 84.64,
+    "probability": 0.965515673160553
+   },
+   {
+    "word": "is",
+    "start": 84.64,
+    "end": 84.78,
+    "probability": 0.9569697380065918
+   },
+   {
+    "word": "a",
+    "start": 84.78,
+    "end": 84.92,
+    "probability": 0.6491463780403137
+   },
+   {
+    "word": "pain",
+    "start": 84.92,
+    "end": 85.14,
+    "probability": 0.9599418044090271
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "section": "rap1",
+  "section_line": 36,
+  "start": 85.14,
+  "end": 86.28,
+  "words": [
+   {
+    "word": "No",
+    "start": 85.14,
+    "end": 85.56,
+    "probability": 0.06462179124355316
+   },
+   {
+    "word": "more",
+    "start": 85.56,
+    "end": 85.72,
+    "probability": 0.09542462229728699
+   },
+   {
+    "word": "I",
+    "start": 85.72,
+    "end": 85.88,
+    "probability": 0.6621053218841553
+   },
+   {
+    "word": "see",
+    "start": 85.88,
+    "end": 86.12,
+    "probability": 0.8087713718414307
+   },
+   {
+    "word": "you",
+    "start": 86.12,
+    "end": 86.28,
+    "probability": 0.9329704642295837
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "section": "chorus2",
+  "section_line": 0,
+  "start": 86.446,
+  "end": 88.75,
+  "words": [
+   {
+    "word": "mal",
+    "start": 86.446,
+    "end": 86.702,
+    "probability": 2.0712455750526715e-07
+   },
+   {
+    "word": "peththak",
+    "start": 86.702,
+    "end": 87.47,
+    "probability": 0.0010970570417233223
+   },
+   {
+    "word": "se",
+    "start": 87.47,
+    "end": 87.726,
+    "probability": 0.10418172925710678
+   },
+   {
+    "word": "susinidu",
+    "start": 87.726,
+    "end": 88.366,
+    "probability": 0.1882388711674139
+   },
+   {
+    "word": "sitha",
+    "start": 88.366,
+    "end": 88.75,
+    "probability": 0.4046900272369385
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "section": "chorus2",
+  "section_line": 1,
+  "start": 88.75,
+  "end": 91.182,
+  "words": [
+   {
+    "word": "magen",
+    "start": 88.75,
+    "end": 89.198,
+    "probability": 0.15162739530205727
+   },
+   {
+    "word": "numba",
+    "start": 89.198,
+    "end": 89.518,
+    "probability": 0.0011873426872170967
+   },
+   {
+    "word": "kohindo",
+    "start": 89.518,
+    "end": 90.03,
+    "probability": 0.29715655247370404
+   },
+   {
+    "word": "horakam",
+    "start": 90.03,
+    "end": 90.926,
+    "probability": 0.29116841467718285
+   },
+   {
+    "word": "kara",
+    "start": 90.926,
+    "end": 91.182,
+    "probability": 0.04215959459543228
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "section": "chorus2",
+  "section_line": 2,
+  "start": 91.182,
+  "end": 93.23,
+  "words": [
+   {
+    "word": "thawa",
+    "start": 91.182,
+    "end": 91.822,
+    "probability": 0.015468662884359219
+   },
+   {
+    "word": "ridenna",
+    "start": 91.822,
+    "end": 92.59,
+    "probability": 0.12168698074916999
+   },
+   {
+    "word": "ne",
+    "start": 92.59,
+    "end": 92.718,
+    "probability": 0.003953367471694946
+   },
+   {
+    "word": "idak",
+    "start": 92.718,
+    "end": 93.23,
+    "probability": 0.186931180593092
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "section": "chorus2",
+  "section_line": 3,
+  "start": 93.23,
+  "end": 94.51,
+  "words": [
+   {
+    "word": "mage",
+    "start": 93.23,
+    "end": 93.742,
+    "probability": 0.5930008143186569
+   },
+   {
+    "word": "hadawathe",
+    "start": 93.742,
+    "end": 94.51,
+    "probability": 0.28876247808996897
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "section": "chorus2",
+  "section_line": 4,
+  "start": 94.51,
+  "end": 96.43,
+  "words": [
+   {
+    "word": "mata",
+    "start": 94.51,
+    "end": 94.894,
+    "probability": 0.4020370841026306
+   },
+   {
+    "word": "dukada",
+    "start": 94.894,
+    "end": 95.534,
+    "probability": 0.37024015995363396
+   },
+   {
+    "word": "sathuta",
+    "start": 95.534,
+    "end": 96.174,
+    "probability": 0.4105737855037053
+   },
+   {
+    "word": "we",
+    "start": 96.174,
+    "end": 96.43,
+    "probability": 0.1411592960357666
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "section": "chorus2",
+  "section_line": 5,
+  "start": 96.43,
+  "end": 99.374,
+  "words": [
+   {
+    "word": "kawuluwen",
+    "start": 96.43,
+    "end": 97.326,
+    "probability": 0.11520365760188156
+   },
+   {
+    "word": "epita",
+    "start": 97.326,
+    "end": 97.71,
+    "probability": 0.023748384652662935
+   },
+   {
+    "word": "maha",
+    "start": 97.71,
+    "end": 98.222,
+    "probability": 0.6867296397686005
+   },
+   {
+    "word": "warsha",
+    "start": 98.222,
+    "end": 98.734,
+    "probability": 0.46027671499177814
+   },
+   {
+    "word": "watenawa",
+    "start": 98.734,
+    "end": 99.374,
+    "probability": 0.09790905161450307
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "section": "chorus2",
+  "section_line": 6,
+  "start": 99.374,
+  "end": 101.678,
+  "words": [
+   {
+    "word": "oba",
+    "start": 99.374,
+    "end": 100.014,
+    "probability": 0.307512067258358
+   },
+   {
+    "word": "thilina",
+    "start": 100.014,
+    "end": 100.398,
+    "probability": 0.19039425579831004
+   },
+   {
+    "word": "dun",
+    "start": 100.398,
+    "end": 100.654,
+    "probability": 0.593116283416748
+   },
+   {
+    "word": "rosa",
+    "start": 100.654,
+    "end": 101.166,
+    "probability": 0.4614193644374609
+   },
+   {
+    "word": "pandure",
+    "start": 101.166,
+    "end": 101.678,
+    "probability": 0.25050052255392075
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "section": "chorus2",
+  "section_line": 7,
+  "start": 101.678,
+  "end": 104.622,
+  "words": [
+   {
+    "word": "pipunu",
+    "start": 101.678,
+    "end": 102.446,
+    "probability": 0.056733913253992796
+   },
+   {
+    "word": "male",
+    "start": 102.446,
+    "end": 102.83,
+    "probability": 0.748830258846283
+   },
+   {
+    "word": "pethi",
+    "start": 102.83,
+    "end": 103.342,
+    "probability": 0.4900055614610513
+   },
+   {
+    "word": "kada",
+    "start": 103.342,
+    "end": 103.598,
+    "probability": 0.5895077288150787
+   },
+   {
+    "word": "halenawa",
+    "start": 103.598,
+    "end": 104.622,
+    "probability": 0.506396288673083
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "section": "chorus2",
+  "section_line": 8,
+  "start": 104.622,
+  "end": 105.902,
+  "words": [
+   {
+    "word": "mata",
+    "start": 104.622,
+    "end": 104.878,
+    "probability": 0.0001390718825859949
+   },
+   {
+    "word": "penawa",
+    "start": 104.878,
+    "end": 105.902,
+    "probability": 0.7133603990077972
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "section": "rap2",
+  "section_line": 0,
+  "start": 106.86,
+  "end": 107.62,
+  "words": [
+   {
+    "word": "Dear",
+    "start": 106.86,
+    "end": 106.885,
+    "probability": 0.0005992488586343825
+   },
+   {
+    "word": "Rose",
+    "start": 106.885,
+    "end": 107.28,
+    "probability": 0.0035630909260362387
+   },
+   {
+    "word": "babe",
+    "start": 107.28,
+    "end": 107.62,
+    "probability": 0.06250045448541641
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "section": "rap2",
+  "section_line": 1,
+  "start": 107.62,
+  "end": 108.92,
+  "words": [
+   {
+    "word": "I",
+    "start": 107.62,
+    "end": 107.94,
+    "probability": 0.29720112681388855
+   },
+   {
+    "word": "send",
+    "start": 107.94,
+    "end": 108.1,
+    "probability": 0.47256776690483093
+   },
+   {
+    "word": "two",
+    "start": 108.1,
+    "end": 108.26,
+    "probability": 5.521408638742287e-06
+   },
+   {
+    "word": "letters",
+    "start": 108.26,
+    "end": 108.4,
+    "probability": 0.01587439328432083
+   },
+   {
+    "word": "a",
+    "start": 108.4,
+    "end": 108.66,
+    "probability": 0.35260823369026184
+   },
+   {
+    "word": "week",
+    "start": 108.66,
+    "end": 108.92,
+    "probability": 0.9980646967887878
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "section": "rap2",
+  "section_line": 2,
+  "start": 108.92,
+  "end": 110.34,
+  "words": [
+   {
+    "word": "If",
+    "start": 108.92,
+    "end": 109.26,
+    "probability": 0.626318097114563
+   },
+   {
+    "word": "you",
+    "start": 109.26,
+    "end": 109.285,
+    "probability": 0.004158569499850273
+   },
+   {
+    "word": "miss",
+    "start": 109.285,
+    "end": 109.5,
+    "probability": 0.24985958635807037
+   },
+   {
+    "word": "them",
+    "start": 109.5,
+    "end": 109.78,
+    "probability": 7.830936374375597e-05
+   },
+   {
+    "word": "it",
+    "start": 109.78,
+    "end": 109.9,
+    "probability": 0.201686829328537
+   },
+   {
+    "word": "cant",
+    "start": 109.9,
+    "end": 110.12,
+    "probability": 0.008685925975441933
+   },
+   {
+    "word": "be",
+    "start": 110.12,
+    "end": 110.34,
+    "probability": 0.688922643661499
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "section": "rap2",
+  "section_line": 3,
+  "start": 110.34,
+  "end": 111.4,
+  "words": [
+   {
+    "word": "Theres",
+    "start": 110.34,
+    "end": 110.52,
+    "probability": 6.796691013732925e-05
+   },
+   {
+    "word": "a",
+    "start": 110.52,
+    "end": 110.64,
+    "probability": 0.9301894903182983
+   },
+   {
+    "word": "problem",
+    "start": 110.64,
+    "end": 110.9,
+    "probability": 0.8615762591362
+   },
+   {
+    "word": "with",
+    "start": 110.9,
+    "end": 111.12,
+    "probability": 0.09984976798295975
+   },
+   {
+    "word": "the",
+    "start": 111.12,
+    "end": 111.4,
+    "probability": 0.04305854465383163
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "section": "rap2",
+  "section_line": 4,
+  "start": 111.4,
+  "end": 112.84,
+  "words": [
+   {
+    "word": "I",
+    "start": 111.4,
+    "end": 111.425,
+    "probability": 0.002548511140048504
+   },
+   {
+    "word": "tried",
+    "start": 111.425,
+    "end": 111.8,
+    "probability": 0.0010330148215871304
+   },
+   {
+    "word": "to",
+    "start": 111.8,
+    "end": 111.94,
+    "probability": 0.009415688924491405
+   },
+   {
+    "word": "write",
+    "start": 111.94,
+    "end": 112.1,
+    "probability": 0.9588157534599304
+   },
+   {
+    "word": "you",
+    "start": 112.1,
+    "end": 112.34,
+    "probability": 0.4999758005142212
+   },
+   {
+    "word": "more",
+    "start": 112.34,
+    "end": 112.62,
+    "probability": 0.9338556528091431
+   },
+   {
+    "word": "than",
+    "start": 112.62,
+    "end": 112.84,
+    "probability": 0.41854409233201295
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "section": "rap2",
+  "section_line": 5,
+  "start": 112.84,
+  "end": 113.84,
+  "words": [
+   {
+    "word": "Babe",
+    "start": 112.84,
+    "end": 113.16,
+    "probability": 0.007077860180288553
+   },
+   {
+    "word": "its",
+    "start": 113.16,
+    "end": 113.38,
+    "probability": 0.03037280961871147
+   },
+   {
+    "word": "not",
+    "start": 113.38,
+    "end": 113.5,
+    "probability": 0.39871108531951904
+   },
+   {
+    "word": "easy",
+    "start": 113.5,
+    "end": 113.84,
+    "probability": 0.9577332139015198
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "section": "rap2",
+  "section_line": 6,
+  "start": 113.84,
+  "end": 115.0,
+  "words": [
+   {
+    "word": "Been",
+    "start": 113.84,
+    "end": 114.26,
+    "probability": 0.03084198758006096
+   },
+   {
+    "word": "in",
+    "start": 114.26,
+    "end": 114.4,
+    "probability": 0.9471784234046936
+   },
+   {
+    "word": "hard",
+    "start": 114.4,
+    "end": 114.66,
+    "probability": 0.7664892673492432
+   },
+   {
+    "word": "work",
+    "start": 114.66,
+    "end": 115.0,
+    "probability": 0.9458292722702026
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "section": "rap2",
+  "section_line": 7,
+  "start": 115.0,
+  "end": 116.46,
+  "words": [
+   {
+    "word": "Please",
+    "start": 115.0,
+    "end": 115.52,
+    "probability": 0.5739008188247681
+   },
+   {
+    "word": "dont",
+    "start": 115.52,
+    "end": 115.66,
+    "probability": 0.18226906657218933
+   },
+   {
+    "word": "be",
+    "start": 115.66,
+    "end": 115.88,
+    "probability": 0.9813511371612549
+   },
+   {
+    "word": "so",
+    "start": 115.88,
+    "end": 116.06,
+    "probability": 0.9066854119300842
+   },
+   {
+    "word": "crazy",
+    "start": 116.06,
+    "end": 116.46,
+    "probability": 0.6973512768745422
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "section": "rap2",
+  "section_line": 8,
+  "start": 116.46,
+  "end": 117.72,
+  "words": [
+   {
+    "word": "Make",
+    "start": 116.46,
+    "end": 116.78,
+    "probability": 0.6604778170585632
+   },
+   {
+    "word": "you",
+    "start": 116.78,
+    "end": 116.92,
+    "probability": 0.8358414769172668
+   },
+   {
+    "word": "understand",
+    "start": 116.92,
+    "end": 117.36,
+    "probability": 0.9216684699058533
+   },
+   {
+    "word": "babe",
+    "start": 117.36,
+    "end": 117.72,
+    "probability": 0.8887354731559753
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "section": "rap2",
+  "section_line": 9,
+  "start": 117.72,
+  "end": 118.92,
+  "words": [
+   {
+    "word": "Never",
+    "start": 117.72,
+    "end": 118.1,
+    "probability": 0.8562186360359192
+   },
+   {
+    "word": "hate",
+    "start": 118.1,
+    "end": 118.4,
+    "probability": 0.9162992835044861
+   },
+   {
+    "word": "me",
+    "start": 118.4,
+    "end": 118.6,
+    "probability": 0.9695143103599548
+   },
+   {
+    "word": "back",
+    "start": 118.6,
+    "end": 118.92,
+    "probability": 0.9820097088813782
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "section": "rap2",
+  "section_line": 10,
+  "start": 118.92,
+  "end": 119.7,
+  "words": [
+   {
+    "word": "Im",
+    "start": 118.92,
+    "end": 119.28,
+    "probability": 0.1000932902097702
+   },
+   {
+    "word": "your",
+    "start": 119.28,
+    "end": 119.4,
+    "probability": 0.05544624105095863
+   },
+   {
+    "word": "candy",
+    "start": 119.4,
+    "end": 119.7,
+    "probability": 0.012864330783486366
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "section": "rap2",
+  "section_line": 11,
+  "start": 119.7,
+  "end": 121.38,
+  "words": [
+   {
+    "word": "Youre",
+    "start": 119.7,
+    "end": 120.08,
+    "probability": 0.04474113276228309
+   },
+   {
+    "word": "acting",
+    "start": 120.08,
+    "end": 120.24,
+    "probability": 0.8315401077270508
+   },
+   {
+    "word": "like",
+    "start": 120.24,
+    "end": 120.54,
+    "probability": 0.9882804155349731
+   },
+   {
+    "word": "a",
+    "start": 120.54,
+    "end": 120.76,
+    "probability": 0.9576523303985596
+   },
+   {
+    "word": "lady",
+    "start": 120.76,
+    "end": 120.98,
+    "probability": 0.8384009599685669
+   },
+   {
+    "word": "man",
+    "start": 120.98,
+    "end": 121.38,
+    "probability": 0.6343627572059631
+   }
+  ]
+ },
+ {
+  "id": 67,
+  "section": "rap2",
+  "section_line": 12,
+  "start": 121.38,
+  "end": 122.4,
+  "words": [
+   {
+    "word": "You",
+    "start": 121.38,
+    "end": 121.74,
+    "probability": 0.15672004222869873
+   },
+   {
+    "word": "may",
+    "start": 121.74,
+    "end": 121.92,
+    "probability": 0.001176435616798699
+   },
+   {
+    "word": "know",
+    "start": 121.92,
+    "end": 122.08,
+    "probability": 0.0504918210208416
+   },
+   {
+    "word": "the",
+    "start": 122.08,
+    "end": 122.18,
+    "probability": 0.029571661369118374
+   },
+   {
+    "word": "girls",
+    "start": 122.18,
+    "end": 122.4,
+    "probability": 0.029661595821380615
+   }
+  ]
+ },
+ {
+  "id": 68,
+  "section": "rap2",
+  "section_line": 13,
+  "start": 122.4,
+  "end": 123.72,
+  "words": [
+   {
+    "word": "Are",
+    "start": 122.4,
+    "end": 122.56,
+    "probability": 7.701810682192445e-05
+   },
+   {
+    "word": "trying",
+    "start": 122.56,
+    "end": 122.8,
+    "probability": 0.15302163005496064
+   },
+   {
+    "word": "to",
+    "start": 122.8,
+    "end": 122.94,
+    "probability": 0.19837392307817936
+   },
+   {
+    "word": "get",
+    "start": 122.94,
+    "end": 123.06,
+    "probability": 0.9493208527565002
+   },
+   {
+    "word": "involved",
+    "start": 123.06,
+    "end": 123.36,
+    "probability": 0.40442532300949097
+   },
+   {
+    "word": "with",
+    "start": 123.36,
+    "end": 123.62,
+    "probability": 0.7223279476165771
+   },
+   {
+    "word": "you",
+    "start": 123.62,
+    "end": 123.72,
+    "probability": 0.8707641363143921
+   }
+  ]
+ },
+ {
+  "id": 69,
+  "section": "rap2",
+  "section_line": 14,
+  "start": 123.72,
+  "end": 124.2,
+  "words": [
+   {
+    "word": "Theyre",
+    "start": 123.72,
+    "end": 123.94,
+    "probability": 0.2763517096173018
+   },
+   {
+    "word": "jealous",
+    "start": 123.94,
+    "end": 124.2,
+    "probability": 0.6487472653388977
+   }
+  ]
+ },
+ {
+  "id": 70,
+  "section": "rap2",
+  "section_line": 15,
+  "start": 124.2,
+  "end": 126.36,
+  "words": [
+   {
+    "word": "Three",
+    "start": 124.2,
+    "end": 124.46,
+    "probability": 0.00022125492978375405
+   },
+   {
+    "word": "sixtyfive",
+    "start": 124.46,
+    "end": 125.18,
+    "probability": 0.17029116302728653
+   },
+   {
+    "word": "Im",
+    "start": 125.18,
+    "end": 125.62,
+    "probability": 0.5032336711883545
+   },
+   {
+    "word": "thinking",
+    "start": 125.62,
+    "end": 125.94,
+    "probability": 0.0010364333866164088
+   },
+   {
+    "word": "of",
+    "start": 125.94,
+    "end": 126.18,
+    "probability": 0.9072149991989136
+   },
+   {
+    "word": "you",
+    "start": 126.18,
+    "end": 126.36,
+    "probability": 0.9286158084869385
+   }
+  ]
+ },
+ {
+  "id": 71,
+  "section": "rap2",
+  "section_line": 16,
+  "start": 126.82,
+  "end": 127.68,
+  "words": [
+   {
+    "word": "Even",
+    "start": 126.82,
+    "end": 126.845,
+    "probability": 0.002892844844609499
+   },
+   {
+    "word": "things",
+    "start": 126.845,
+    "end": 127.3,
+    "probability": 0.327665537003971
+   },
+   {
+    "word": "I",
+    "start": 127.3,
+    "end": 127.4,
+    "probability": 0.5080539584159851
+   },
+   {
+    "word": "like",
+    "start": 127.4,
+    "end": 127.68,
+    "probability": 0.9271409511566162
+   }
+  ]
+ },
+ {
+  "id": 72,
+  "section": "rap2",
+  "section_line": 17,
+  "start": 127.68,
+  "end": 129.08,
+  "words": [
+   {
+    "word": "Im",
+    "start": 127.68,
+    "end": 127.98,
+    "probability": 0.017085334286093712
+   },
+   {
+    "word": "doing",
+    "start": 127.98,
+    "end": 128.16,
+    "probability": 0.5920603275299072
+   },
+   {
+    "word": "so",
+    "start": 128.16,
+    "end": 128.46,
+    "probability": 0.3621022701263428
+   },
+   {
+    "word": "pretty",
+    "start": 128.46,
+    "end": 128.72,
+    "probability": 0.026704832911491394
+   },
+   {
+    "word": "girl",
+    "start": 128.72,
+    "end": 129.08,
+    "probability": 0.6804528832435608
+   }
+  ]
+ },
+ {
+  "id": 73,
+  "section": "rap2",
+  "section_line": 18,
+  "start": 129.08,
+  "end": 130.12,
+  "words": [
+   {
+    "word": "You",
+    "start": 129.08,
+    "end": 129.42,
+    "probability": 0.01987214758992195
+   },
+   {
+    "word": "just",
+    "start": 129.42,
+    "end": 129.5,
+    "probability": 0.18561486899852753
+   },
+   {
+    "word": "screw",
+    "start": 129.5,
+    "end": 129.66,
+    "probability": 0.12252042442560196
+   },
+   {
+    "word": "me",
+    "start": 129.66,
+    "end": 129.88,
+    "probability": 0.9307102560997009
+   },
+   {
+    "word": "down",
+    "start": 129.88,
+    "end": 130.12,
+    "probability": 0.8545424342155457
+   }
+  ]
+ },
+ {
+  "id": 74,
+  "section": "rap2",
+  "section_line": 19,
+  "start": 130.12,
+  "end": 131.44,
+  "words": [
+   {
+    "word": "For",
+    "start": 130.12,
+    "end": 130.34,
+    "probability": 0.05922282859683037
+   },
+   {
+    "word": "no",
+    "start": 130.34,
+    "end": 130.5,
+    "probability": 0.4991247057914734
+   },
+   {
+    "word": "reason",
+    "start": 130.5,
+    "end": 130.84,
+    "probability": 0.2120489776134491
+   },
+   {
+    "word": "at",
+    "start": 130.84,
+    "end": 131.2,
+    "probability": 0.9189773201942444
+   },
+   {
+    "word": "all",
+    "start": 131.2,
+    "end": 131.44,
+    "probability": 0.9949264526367188
+   }
+  ]
+ },
+ {
+  "id": 75,
+  "section": "rap2",
+  "section_line": 20,
+  "start": 131.44,
+  "end": 132.66,
+  "words": [
+   {
+    "word": "In",
+    "start": 131.44,
+    "end": 131.78,
+    "probability": 0.22962984442710876
+   },
+   {
+    "word": "the",
+    "start": 131.78,
+    "end": 131.9,
+    "probability": 0.0016542183784622466
+   },
+   {
+    "word": "cold",
+    "start": 131.9,
+    "end": 132.24,
+    "probability": 0.11814995110034943
+   },
+   {
+    "word": "morn",
+    "start": 132.24,
+    "end": 132.66,
+    "probability": 0.5019253832288086
+   }
+  ]
+ },
+ {
+  "id": 76,
+  "section": "rap2",
+  "section_line": 21,
+  "start": 132.66,
+  "end": 133.38,
+  "words": [
+   {
+    "word": "I",
+    "start": 132.66,
+    "end": 132.8,
+    "probability": 0.7267608642578125
+   },
+   {
+    "word": "feel",
+    "start": 132.8,
+    "end": 133.04,
+    "probability": 0.844400942325592
+   },
+   {
+    "word": "alone",
+    "start": 133.04,
+    "end": 133.38,
+    "probability": 0.9316924810409546
+   }
+  ]
+ },
+ {
+  "id": 77,
+  "section": "rap2",
+  "section_line": 22,
+  "start": 133.38,
+  "end": 134.96,
+  "words": [
+   {
+    "word": "I",
+    "start": 133.38,
+    "end": 133.6,
+    "probability": 0.8454742431640625
+   },
+   {
+    "word": "walk",
+    "start": 133.6,
+    "end": 133.84,
+    "probability": 0.0524018220603466
+   },
+   {
+    "word": "along",
+    "start": 133.84,
+    "end": 134.24,
+    "probability": 0.7078083753585815
+   },
+   {
+    "word": "the",
+    "start": 134.24,
+    "end": 134.5,
+    "probability": 0.10669671330833808
+   },
+   {
+    "word": "Sixth",
+    "start": 134.5,
+    "end": 134.84,
+    "probability": 0.023455031448975205
+   },
+   {
+    "word": "Lane",
+    "start": 134.84,
+    "end": 134.96,
+    "probability": 0.520315945148468
+   }
+  ]
+ },
+ {
+  "id": 78,
+  "section": "rap2",
+  "section_line": 23,
+  "start": 134.96,
+  "end": 136.08,
+  "words": [
+   {
+    "word": "Insane",
+    "start": 134.96,
+    "end": 135.42,
+    "probability": 0.06358811404061271
+   },
+   {
+    "word": "you",
+    "start": 135.42,
+    "end": 135.6,
+    "probability": 0.06221857666969299
+   },
+   {
+    "word": "dont",
+    "start": 135.6,
+    "end": 135.82,
+    "probability": 0.03011910803616047
+   },
+   {
+    "word": "phone",
+    "start": 135.82,
+    "end": 136.08,
+    "probability": 0.05005563050508499
+   }
+  ]
+ },
+ {
+  "id": 79,
+  "section": "rap2",
+  "section_line": 24,
+  "start": 136.08,
+  "end": 136.64,
+  "words": [
+   {
+    "word": "Im",
+    "start": 136.08,
+    "end": 136.28,
+    "probability": 0.07379016280174255
+   },
+   {
+    "word": "in",
+    "start": 136.28,
+    "end": 136.4,
+    "probability": 0.10958847403526306
+   },
+   {
+    "word": "pain",
+    "start": 136.4,
+    "end": 136.64,
+    "probability": 0.04028664156794548
+   }
+  ]
+ },
+ {
+  "id": 80,
+  "section": "rap2",
+  "section_line": 25,
+  "start": 136.64,
+  "end": 137.46,
+  "words": [
+   {
+    "word": "You",
+    "start": 136.64,
+    "end": 136.94,
+    "probability": 0.6945139765739441
+   },
+   {
+    "word": "never",
+    "start": 136.94,
+    "end": 137.2,
+    "probability": 0.8247440457344055
+   },
+   {
+    "word": "know",
+    "start": 137.2,
+    "end": 137.46,
+    "probability": 0.9790202975273132
+   }
+  ]
+ },
+ {
+  "id": 81,
+  "section": "rap2",
+  "section_line": 26,
+  "start": 137.46,
+  "end": 138.86,
+  "words": [
+   {
+    "word": "What",
+    "start": 137.46,
+    "end": 137.78,
+    "probability": 0.0066256169229745865
+   },
+   {
+    "word": "Janes",
+    "start": 137.78,
+    "end": 138.36,
+    "probability": 0.012595059553859755
+   },
+   {
+    "word": "nigga",
+    "start": 138.36,
+    "end": 138.56,
+    "probability": 0.042273253202438354
+   },
+   {
+    "word": "do",
+    "start": 138.56,
+    "end": 138.86,
+    "probability": 0.9680880904197693
+   }
+  ]
+ },
+ {
+  "id": 82,
+  "section": "rap2",
+  "section_line": 27,
+  "start": 138.86,
+  "end": 139.94,
+  "words": [
+   {
+    "word": "If",
+    "start": 138.86,
+    "end": 139.38,
+    "probability": 0.22986100614070892
+   },
+   {
+    "word": "Jane",
+    "start": 139.38,
+    "end": 139.66,
+    "probability": 0.0011375844478607178
+   },
+   {
+    "word": "knows",
+    "start": 139.66,
+    "end": 139.94,
+    "probability": 0.057197894901037216
+   }
+  ]
+ },
+ {
+  "id": 83,
+  "section": "rap2",
+  "section_line": 28,
+  "start": 139.94,
+  "end": 141.52,
+  "words": [
+   {
+    "word": "She",
+    "start": 139.94,
+    "end": 140.2,
+    "probability": 0.3884112238883972
+   },
+   {
+    "word": "might",
+    "start": 140.2,
+    "end": 140.4,
+    "probability": 0.9313490986824036
+   },
+   {
+    "word": "call",
+    "start": 140.4,
+    "end": 140.76,
+    "probability": 0.9803513884544373
+   },
+   {
+    "word": "it",
+    "start": 140.76,
+    "end": 140.98,
+    "probability": 0.09428972750902176
+   },
+   {
+    "word": "off",
+    "start": 140.98,
+    "end": 141.26,
+    "probability": 0.8421036601066589
+   },
+   {
+    "word": "too",
+    "start": 141.26,
+    "end": 141.52,
+    "probability": 0.18244353495538235
+   }
+  ]
+ },
+ {
+  "id": 84,
+  "section": "rap2",
+  "section_line": 29,
+  "start": 141.52,
+  "end": 142.76,
+  "words": [
+   {
+    "word": "Look",
+    "start": 141.52,
+    "end": 141.94,
+    "probability": 0.3732766807079315
+   },
+   {
+    "word": "Im",
+    "start": 141.94,
+    "end": 142.18,
+    "probability": 0.1716044396162033
+   },
+   {
+    "word": "really",
+    "start": 142.18,
+    "end": 142.44,
+    "probability": 0.02209373190999031
+   },
+   {
+    "word": "glad",
+    "start": 142.44,
+    "end": 142.76,
+    "probability": 0.03908926248550415
+   }
+  ]
+ },
+ {
+  "id": 85,
+  "section": "rap2",
+  "section_line": 30,
+  "start": 142.76,
+  "end": 143.94,
+  "words": [
+   {
+    "word": "Being",
+    "start": 142.76,
+    "end": 143.02,
+    "probability": 0.014013909734785557
+   },
+   {
+    "word": "steady",
+    "start": 143.02,
+    "end": 143.32,
+    "probability": 0.014182097278535366
+   },
+   {
+    "word": "with",
+    "start": 143.32,
+    "end": 143.62,
+    "probability": 0.928149938583374
+   },
+   {
+    "word": "you",
+    "start": 143.62,
+    "end": 143.94,
+    "probability": 0.9591050744056702
+   }
+  ]
+ },
+ {
+  "id": 86,
+  "section": "rap2",
+  "section_line": 31,
+  "start": 143.94,
+  "end": 145.3,
+  "words": [
+   {
+    "word": "I",
+    "start": 143.94,
+    "end": 144.26,
+    "probability": 0.853073000907898
+   },
+   {
+    "word": "dont",
+    "start": 144.26,
+    "end": 144.4,
+    "probability": 0.6521231532096863
+   },
+   {
+    "word": "wanna",
+    "start": 144.4,
+    "end": 144.62,
+    "probability": 0.6783648133277893
+   },
+   {
+    "word": "miss",
+    "start": 144.62,
+    "end": 144.96,
+    "probability": 0.9230214357376099
+   },
+   {
+    "word": "you",
+    "start": 144.96,
+    "end": 145.3,
+    "probability": 0.9660617709159851
+   }
+  ]
+ },
+ {
+  "id": 87,
+  "section": "rap2",
+  "section_line": 32,
+  "start": 145.3,
+  "end": 146.4,
+  "words": [
+   {
+    "word": "I",
+    "start": 145.3,
+    "end": 145.6,
+    "probability": 0.8562240600585938
+   },
+   {
+    "word": "wanna",
+    "start": 145.6,
+    "end": 145.8,
+    "probability": 0.9099637269973755
+   },
+   {
+    "word": "kiss",
+    "start": 145.8,
+    "end": 146.16,
+    "probability": 0.9678444862365723
+   },
+   {
+    "word": "you",
+    "start": 146.16,
+    "end": 146.4,
+    "probability": 0.9012008309364319
+   }
+  ]
+ },
+ {
+  "id": 88,
+  "section": "rap2",
+  "section_line": 33,
+  "start": 146.4,
+  "end": 147.7,
+  "words": [
+   {
+    "word": "PS",
+    "start": 146.4,
+    "end": 146.72,
+    "probability": 0.02643876150250435
+   },
+   {
+    "word": "we",
+    "start": 146.72,
+    "end": 146.98,
+    "probability": 0.23879340291023254
+   },
+   {
+    "word": "need",
+    "start": 146.98,
+    "end": 147.2,
+    "probability": 0.9563770890235901
+   },
+   {
+    "word": "each",
+    "start": 147.2,
+    "end": 147.44,
+    "probability": 0.9764612913131714
+   },
+   {
+    "word": "other",
+    "start": 147.44,
+    "end": 147.7,
+    "probability": 0.9241014719009399
+   }
+  ]
+ },
+ {
+  "id": 89,
+  "section": "rap2",
+  "section_line": 34,
+  "start": 147.7,
+  "end": 148.9,
+  "words": [
+   {
+    "word": "When",
+    "start": 147.7,
+    "end": 148.04,
+    "probability": 0.5380765795707703
+   },
+   {
+    "word": "you",
+    "start": 148.04,
+    "end": 148.2,
+    "probability": 0.18287554383277893
+   },
+   {
+    "word": "read",
+    "start": 148.2,
+    "end": 148.42,
+    "probability": 0.008607905358076096
+   },
+   {
+    "word": "this",
+    "start": 148.42,
+    "end": 148.68,
+    "probability": 0.05404078710125759
+   },
+   {
+    "word": "letter",
+    "start": 148.68,
+    "end": 148.9,
+    "probability": 0.8645848631858826
+   }
+  ]
+ },
+ {
+  "id": 90,
+  "section": "rap2",
+  "section_line": 35,
+  "start": 148.9,
+  "end": 150.38,
+  "words": [
+   {
+    "word": "Please",
+    "start": 148.9,
+    "end": 149.3,
+    "probability": 0.23746272921562195
+   },
+   {
+    "word": "treat",
+    "start": 149.3,
+    "end": 149.86,
+    "probability": 0.030468070410279324
+   },
+   {
+    "word": "me",
+    "start": 149.86,
+    "end": 150.02,
+    "probability": 0.9790928363800049
+   },
+   {
+    "word": "better",
+    "start": 150.02,
+    "end": 150.38,
+    "probability": 0.9889153838157654
+   }
+  ]
+ },
+ {
+  "id": 91,
+  "section": "rap2",
+  "section_line": 36,
+  "start": 150.38,
+  "end": 151.12,
+  "words": [
+   {
+    "word": "See",
+    "start": 150.38,
+    "end": 150.82,
+    "probability": 0.5314290523529053
+   },
+   {
+    "word": "you",
+    "start": 150.82,
+    "end": 150.92,
+    "probability": 0.8111055493354797
+   },
+   {
+    "word": "later",
+    "start": 150.92,
+    "end": 151.12,
+    "probability": 0.9714699387550354
+   }
+  ]
+ },
+ {
+  "id": 92,
+  "section": "chorus3",
+  "section_line": 0,
+  "start": 151.544,
+  "end": 153.848,
+  "words": [
+   {
+    "word": "mal",
+    "start": 151.544,
+    "end": 151.8,
+    "probability": 2.0712455750526715e-07
+   },
+   {
+    "word": "peththak",
+    "start": 151.8,
+    "end": 152.568,
+    "probability": 0.0010970570417233223
+   },
+   {
+    "word": "se",
+    "start": 152.568,
+    "end": 152.824,
+    "probability": 0.10418172925710678
+   },
+   {
+    "word": "susinidu",
+    "start": 152.824,
+    "end": 153.336,
+    "probability": 0.1882388711674139
+   },
+   {
+    "word": "sitha",
+    "start": 153.336,
+    "end": 153.848,
+    "probability": 0.4046900272369385
+   }
+  ]
+ },
+ {
+  "id": 93,
+  "section": "chorus3",
+  "section_line": 1,
+  "start": 153.848,
+  "end": 156.28,
+  "words": [
+   {
+    "word": "magen",
+    "start": 153.848,
+    "end": 154.36,
+    "probability": 0.15162739530205727
+   },
+   {
+    "word": "numba",
+    "start": 154.36,
+    "end": 154.616,
+    "probability": 0.0011873426872170967
+   },
+   {
+    "word": "kohindo",
+    "start": 154.616,
+    "end": 155.128,
+    "probability": 0.29715655247370404
+   },
+   {
+    "word": "horakam",
+    "start": 155.128,
+    "end": 156.024,
+    "probability": 0.29116841467718285
+   },
+   {
+    "word": "kara",
+    "start": 156.024,
+    "end": 156.28,
+    "probability": 0.04215959459543228
+   }
+  ]
+ },
+ {
+  "id": 94,
+  "section": "chorus3",
+  "section_line": 2,
+  "start": 156.28,
+  "end": 158.328,
+  "words": [
+   {
+    "word": "thawa",
+    "start": 156.28,
+    "end": 156.92,
+    "probability": 0.015468662884359219
+   },
+   {
+    "word": "ridenna",
+    "start": 156.92,
+    "end": 157.688,
+    "probability": 0.12168698074916999
+   },
+   {
+    "word": "ne",
+    "start": 157.688,
+    "end": 157.816,
+    "probability": 0.003953367471694946
+   },
+   {
+    "word": "idak",
+    "start": 157.816,
+    "end": 158.328,
+    "probability": 0.186931180593092
+   }
+  ]
+ },
+ {
+  "id": 95,
+  "section": "chorus3",
+  "section_line": 3,
+  "start": 158.328,
+  "end": 159.608,
+  "words": [
+   {
+    "word": "mage",
+    "start": 158.328,
+    "end": 158.84,
+    "probability": 0.5930008143186569
+   },
+   {
+    "word": "hadawathe",
+    "start": 158.84,
+    "end": 159.608,
+    "probability": 0.28876247808996897
+   }
+  ]
+ },
+ {
+  "id": 96,
+  "section": "chorus3",
+  "section_line": 4,
+  "start": 159.608,
+  "end": 161.528,
+  "words": [
+   {
+    "word": "mata",
+    "start": 159.608,
+    "end": 159.992,
+    "probability": 0.4020370841026306
+   },
+   {
+    "word": "dukada",
+    "start": 159.992,
+    "end": 160.632,
+    "probability": 0.37024015995363396
+   },
+   {
+    "word": "sathuta",
+    "start": 160.632,
+    "end": 161.272,
+    "probability": 0.4105737855037053
+   },
+   {
+    "word": "we",
+    "start": 161.272,
+    "end": 161.528,
+    "probability": 0.1411592960357666
+   }
+  ]
+ },
+ {
+  "id": 97,
+  "section": "chorus3",
+  "section_line": 5,
+  "start": 161.528,
+  "end": 164.472,
+  "words": [
+   {
+    "word": "kawuluwen",
+    "start": 161.528,
+    "end": 162.424,
+    "probability": 0.11520365760188156
+   },
+   {
+    "word": "epita",
+    "start": 162.424,
+    "end": 162.808,
+    "probability": 0.023748384652662935
+   },
+   {
+    "word": "maha",
+    "start": 162.808,
+    "end": 163.32,
+    "probability": 0.6867296397686005
+   },
+   {
+    "word": "warsha",
+    "start": 163.32,
+    "end": 163.832,
+    "probability": 0.46027671499177814
+   },
+   {
+    "word": "watenawa",
+    "start": 163.832,
+    "end": 164.472,
+    "probability": 0.09790905161450307
+   }
+  ]
+ },
+ {
+  "id": 98,
+  "section": "chorus3",
+  "section_line": 6,
+  "start": 164.472,
+  "end": 166.776,
+  "words": [
+   {
+    "word": "oba",
+    "start": 164.472,
+    "end": 165.112,
+    "probability": 0.307512067258358
+   },
+   {
+    "word": "thilina",
+    "start": 165.112,
+    "end": 165.496,
+    "probability": 0.19039425579831004
+   },
+   {
+    "word": "dun",
+    "start": 165.496,
+    "end": 165.752,
+    "probability": 0.593116283416748
+   },
+   {
+    "word": "rosa",
+    "start": 165.752,
+    "end": 166.264,
+    "probability": 0.4614193644374609
+   },
+   {
+    "word": "pandure",
+    "start": 166.264,
+    "end": 166.776,
+    "probability": 0.25050052255392075
+   }
+  ]
+ },
+ {
+  "id": 99,
+  "section": "chorus3",
+  "section_line": 7,
+  "start": 166.776,
+  "end": 169.72,
+  "words": [
+   {
+    "word": "pipunu",
+    "start": 166.776,
+    "end": 167.544,
+    "probability": 0.056733913253992796
+   },
+   {
+    "word": "male",
+    "start": 167.544,
+    "end": 167.928,
+    "probability": 0.748830258846283
+   },
+   {
+    "word": "pethi",
+    "start": 167.928,
+    "end": 168.44,
+    "probability": 0.4900055614610513
+   },
+   {
+    "word": "kada",
+    "start": 168.44,
+    "end": 168.696,
+    "probability": 0.5895077288150787
+   },
+   {
+    "word": "halenawa",
+    "start": 168.696,
+    "end": 169.72,
+    "probability": 0.506396288673083
+   }
+  ]
+ },
+ {
+  "id": 100,
+  "section": "chorus3",
+  "section_line": 8,
+  "start": 169.72,
+  "end": 171.064,
+  "words": [
+   {
+    "word": "mata",
+    "start": 169.72,
+    "end": 169.976,
+    "probability": 0.0001390718825859949
+   },
+   {
+    "word": "penawa",
+    "start": 169.976,
+    "end": 171.064,
+    "probability": 0.7133603990077972
+   }
+  ]
+ },
+ {
+  "id": 101,
+  "section": "dialogue",
+  "section_line": 0,
+  "start": 200.52,
+  "end": 201.48,
+  "words": [
+   {
+    "word": "Hello",
+    "start": 200.52,
+    "end": 201.48,
+    "probability": 0.17243558168411255
+   }
+  ]
+ },
+ {
+  "id": 102,
+  "section": "dialogue",
+  "section_line": 1,
+  "start": 202.0,
+  "end": 202.96,
+  "words": [
+   {
+    "word": "Hello",
+    "start": 202.0,
+    "end": 202.96,
+    "probability": 0.062876395881176
+   }
+  ]
+ },
+ {
+  "id": 103,
+  "section": "dialogue",
+  "section_line": 2,
+  "start": 203.76,
+  "end": 204.22,
+  "words": [
+   {
+    "word": "Hello",
+    "start": 203.76,
+    "end": 204.22,
+    "probability": 0.42827653884887695
+   }
+  ]
+ },
+ {
+  "id": 104,
+  "section": "dialogue",
+  "section_line": 3,
+  "start": 204.9,
+  "end": 205.44,
+  "words": [
+   {
+    "word": "What",
+    "start": 204.9,
+    "end": 204.98,
+    "probability": 0.39313066005706787
+   },
+   {
+    "word": "the",
+    "start": 204.98,
+    "end": 205.18,
+    "probability": 0.00036074150133913463
+   },
+   {
+    "word": "hell",
+    "start": 205.18,
+    "end": 205.44,
+    "probability": 0.9157199263572693
+   }
+  ]
+ },
+ {
+  "id": 105,
+  "section": "dialogue",
+  "section_line": 4,
+  "start": 205.76,
+  "end": 206.58,
+  "words": [
+   {
+    "word": "Whos",
+    "start": 205.76,
+    "end": 205.86,
+    "probability": 0.056576632671749394
+   },
+   {
+    "word": "calling",
+    "start": 205.86,
+    "end": 206.16,
+    "probability": 0.9755685925483704
+   },
+   {
+    "word": "me",
+    "start": 206.16,
+    "end": 206.58,
+    "probability": 0.983725368976593
+   }
+  ]
+ },
+ {
+  "id": 106,
+  "section": "dialogue",
+  "section_line": 5,
+  "start": 207.08,
+  "end": 207.8,
+  "words": [
+   {
+    "word": "A",
+    "start": 207.08,
+    "end": 207.15,
+    "probability": 0.0006441429140977561
+   },
+   {
+    "word": "nuisance",
+    "start": 207.15,
+    "end": 207.43,
+    "probability": 0.4575404360657558
+   },
+   {
+    "word": "call",
+    "start": 207.43,
+    "end": 207.8,
+    "probability": 0.0001248197804670781
+   }
+  ]
+ },
+ {
+  "id": 107,
+  "section": "chorus4",
+  "section_line": 0,
+  "start": 211.446,
+  "end": 213.878,
+  "words": [
+   {
+    "word": "mal",
+    "start": 211.446,
+    "end": 211.702,
+    "probability": 2.0712455750526715e-07
+   },
+   {
+    "word": "peththak",
+    "start": 211.702,
+    "end": 212.47,
+    "probability": 0.0010970570417233223
+   },
+   {
+    "word": "se",
+    "start": 212.47,
+    "end": 212.726,
+    "probability": 0.10418172925710678
+   },
+   {
+    "word": "susinidu",
+    "start": 212.726,
+    "end": 213.366,
+    "probability": 0.1882388711674139
+   },
+   {
+    "word": "sitha",
+    "start": 213.366,
+    "end": 213.878,
+    "probability": 0.4046900272369385
+   }
+  ]
+ },
+ {
+  "id": 108,
+  "section": "chorus4",
+  "section_line": 1,
+  "start": 213.878,
+  "end": 216.182,
+  "words": [
+   {
+    "word": "magen",
+    "start": 213.878,
+    "end": 214.262,
+    "probability": 0.15162739530205727
+   },
+   {
+    "word": "numba",
+    "start": 214.262,
+    "end": 214.518,
+    "probability": 0.0011873426872170967
+   },
+   {
+    "word": "kohindo",
+    "start": 214.518,
+    "end": 215.03,
+    "probability": 0.29715655247370404
+   },
+   {
+    "word": "horakam",
+    "start": 215.03,
+    "end": 215.926,
+    "probability": 0.29116841467718285
+   },
+   {
+    "word": "kara",
+    "start": 215.926,
+    "end": 216.182,
+    "probability": 0.04215959459543228
+   }
+  ]
+ },
+ {
+  "id": 109,
+  "section": "chorus4",
+  "section_line": 2,
+  "start": 216.182,
+  "end": 218.23,
+  "words": [
+   {
+    "word": "thawa",
+    "start": 216.182,
+    "end": 216.822,
+    "probability": 0.015468662884359219
+   },
+   {
+    "word": "ridenna",
+    "start": 216.822,
+    "end": 217.59,
+    "probability": 0.12168698074916999
+   },
+   {
+    "word": "ne",
+    "start": 217.59,
+    "end": 217.718,
+    "probability": 0.003953367471694946
+   },
+   {
+    "word": "idak",
+    "start": 217.718,
+    "end": 218.23,
+    "probability": 0.186931180593092
+   }
+  ]
+ },
+ {
+  "id": 110,
+  "section": "chorus4",
+  "section_line": 3,
+  "start": 218.23,
+  "end": 219.51,
+  "words": [
+   {
+    "word": "mage",
+    "start": 218.23,
+    "end": 218.87,
+    "probability": 0.5930008143186569
+   },
+   {
+    "word": "hadawathe",
+    "start": 218.87,
+    "end": 219.51,
+    "probability": 0.28876247808996897
+   }
+  ]
+ },
+ {
+  "id": 111,
+  "section": "chorus4",
+  "section_line": 4,
+  "start": 219.51,
+  "end": 221.558,
+  "words": [
+   {
+    "word": "mata",
+    "start": 219.51,
+    "end": 219.894,
+    "probability": 0.4020370841026306
+   },
+   {
+    "word": "dukada",
+    "start": 219.894,
+    "end": 220.534,
+    "probability": 0.37024015995363396
+   },
+   {
+    "word": "sathuta",
+    "start": 220.534,
+    "end": 221.174,
+    "probability": 0.4105737855037053
+   },
+   {
+    "word": "we",
+    "start": 221.174,
+    "end": 221.558,
+    "probability": 0.1411592960357666
+   }
+  ]
+ },
+ {
+  "id": 112,
+  "section": "chorus4",
+  "section_line": 5,
+  "start": 221.558,
+  "end": 224.502,
+  "words": [
+   {
+    "word": "kawuluwen",
+    "start": 221.558,
+    "end": 222.454,
+    "probability": 0.11520365760188156
+   },
+   {
+    "word": "epita",
+    "start": 222.454,
+    "end": 222.71,
+    "probability": 0.023748384652662935
+   },
+   {
+    "word": "maha",
+    "start": 222.71,
+    "end": 223.222,
+    "probability": 0.6867296397686005
+   },
+   {
+    "word": "warsha",
+    "start": 223.222,
+    "end": 223.734,
+    "probability": 0.46027671499177814
+   },
+   {
+    "word": "watenawa",
+    "start": 223.734,
+    "end": 224.502,
+    "probability": 0.09790905161450307
+   }
+  ]
+ },
+ {
+  "id": 113,
+  "section": "chorus4",
+  "section_line": 6,
+  "start": 224.502,
+  "end": 226.678,
+  "words": [
+   {
+    "word": "oba",
+    "start": 224.502,
+    "end": 225.014,
+    "probability": 0.307512067258358
+   },
+   {
+    "word": "thilina",
+    "start": 225.014,
+    "end": 225.398,
+    "probability": 0.19039425579831004
+   },
+   {
+    "word": "dun",
+    "start": 225.398,
+    "end": 225.654,
+    "probability": 0.593116283416748
+   },
+   {
+    "word": "rosa",
+    "start": 225.654,
+    "end": 226.166,
+    "probability": 0.4614193644374609
+   },
+   {
+    "word": "pandure",
+    "start": 226.166,
+    "end": 226.678,
+    "probability": 0.25050052255392075
+   }
+  ]
+ },
+ {
+  "id": 114,
+  "section": "chorus4",
+  "section_line": 7,
+  "start": 226.678,
+  "end": 229.75,
+  "words": [
+   {
+    "word": "pipunu",
+    "start": 226.678,
+    "end": 227.446,
+    "probability": 0.056733913253992796
+   },
+   {
+    "word": "male",
+    "start": 227.446,
+    "end": 227.83,
+    "probability": 0.748830258846283
+   },
+   {
+    "word": "pethi",
+    "start": 227.83,
+    "end": 228.406,
+    "probability": 0.4900055614610513
+   },
+   {
+    "word": "kada",
+    "start": 228.406,
+    "end": 228.726,
+    "probability": 0.5895077288150787
+   },
+   {
+    "word": "halenawa",
+    "start": 228.726,
+    "end": 229.75,
+    "probability": 0.506396288673083
+   }
+  ]
+ },
+ {
+  "id": 115,
+  "section": "chorus4",
+  "section_line": 8,
+  "start": 229.75,
+  "end": 230.902,
+  "words": [
+   {
+    "word": "mata",
+    "start": 229.75,
+    "end": 230.006,
+    "probability": 0.0001390718825859949
+   },
+   {
+    "word": "penawa",
+    "start": 230.006,
+    "end": 230.902,
+    "probability": 0.7133603990077972
+   }
+  ]
+ },
+ {
+  "id": 116,
+  "section": "chorus5",
+  "section_line": 0,
+  "start": 231.446,
+  "end": 233.75,
+  "words": [
+   {
+    "word": "mal",
+    "start": 231.446,
+    "end": 231.702,
+    "probability": 2.0712455750526715e-07
+   },
+   {
+    "word": "peththak",
+    "start": 231.702,
+    "end": 232.47,
+    "probability": 0.0010970570417233223
+   },
+   {
+    "word": "se",
+    "start": 232.47,
+    "end": 232.726,
+    "probability": 0.10418172925710678
+   },
+   {
+    "word": "susinidu",
+    "start": 232.726,
+    "end": 233.366,
+    "probability": 0.1882388711674139
+   },
+   {
+    "word": "sitha",
+    "start": 233.366,
+    "end": 233.75,
+    "probability": 0.4046900272369385
+   }
+  ]
+ },
+ {
+  "id": 117,
+  "section": "chorus5",
+  "section_line": 1,
+  "start": 233.75,
+  "end": 236.182,
+  "words": [
+   {
+    "word": "magen",
+    "start": 233.75,
+    "end": 234.262,
+    "probability": 0.15162739530205727
+   },
+   {
+    "word": "numba",
+    "start": 234.262,
+    "end": 234.518,
+    "probability": 0.0011873426872170967
+   },
+   {
+    "word": "kohindo",
+    "start": 234.518,
+    "end": 235.03,
+    "probability": 0.29715655247370404
+   },
+   {
+    "word": "horakam",
+    "start": 235.03,
+    "end": 235.926,
+    "probability": 0.29116841467718285
+   },
+   {
+    "word": "kara",
+    "start": 235.926,
+    "end": 236.182,
+    "probability": 0.04215959459543228
+   }
+  ]
+ },
+ {
+  "id": 118,
+  "section": "chorus5",
+  "section_line": 2,
+  "start": 236.182,
+  "end": 238.102,
+  "words": [
+   {
+    "word": "thawa",
+    "start": 236.182,
+    "end": 236.822,
+    "probability": 0.015468662884359219
+   },
+   {
+    "word": "ridenna",
+    "start": 236.822,
+    "end": 237.59,
+    "probability": 0.12168698074916999
+   },
+   {
+    "word": "ne",
+    "start": 237.59,
+    "end": 237.718,
+    "probability": 0.003953367471694946
+   },
+   {
+    "word": "idak",
+    "start": 237.718,
+    "end": 238.102,
+    "probability": 0.186931180593092
+   }
+  ]
+ },
+ {
+  "id": 119,
+  "section": "chorus5",
+  "section_line": 3,
+  "start": 238.102,
+  "end": 239.51,
+  "words": [
+   {
+    "word": "mage",
+    "start": 238.102,
+    "end": 238.742,
+    "probability": 0.5930008143186569
+   },
+   {
+    "word": "hadawathe",
+    "start": 238.742,
+    "end": 239.51,
+    "probability": 0.28876247808996897
+   }
+  ]
+ },
+ {
+  "id": 120,
+  "section": "chorus5",
+  "section_line": 4,
+  "start": 239.51,
+  "end": 241.43,
+  "words": [
+   {
+    "word": "mata",
+    "start": 239.51,
+    "end": 239.894,
+    "probability": 0.4020370841026306
+   },
+   {
+    "word": "dukada",
+    "start": 239.894,
+    "end": 240.534,
+    "probability": 0.37024015995363396
+   },
+   {
+    "word": "sathuta",
+    "start": 240.534,
+    "end": 241.174,
+    "probability": 0.4105737855037053
+   },
+   {
+    "word": "we",
+    "start": 241.174,
+    "end": 241.43,
+    "probability": 0.1411592960357666
+   }
+  ]
+ },
+ {
+  "id": 121,
+  "section": "chorus5",
+  "section_line": 5,
+  "start": 241.43,
+  "end": 244.374,
+  "words": [
+   {
+    "word": "kawuluwen",
+    "start": 241.43,
+    "end": 242.326,
+    "probability": 0.11520365760188156
+   },
+   {
+    "word": "epita",
+    "start": 242.326,
+    "end": 242.71,
+    "probability": 0.023748384652662935
+   },
+   {
+    "word": "maha",
+    "start": 242.71,
+    "end": 243.222,
+    "probability": 0.6867296397686005
+   },
+   {
+    "word": "warsha",
+    "start": 243.222,
+    "end": 243.734,
+    "probability": 0.46027671499177814
+   },
+   {
+    "word": "watenawa",
+    "start": 243.734,
+    "end": 244.374,
+    "probability": 0.09790905161450307
+   }
+  ]
+ },
+ {
+  "id": 122,
+  "section": "chorus5",
+  "section_line": 6,
+  "start": 244.374,
+  "end": 246.678,
+  "words": [
+   {
+    "word": "oba",
+    "start": 244.374,
+    "end": 245.014,
+    "probability": 0.307512067258358
+   },
+   {
+    "word": "thilina",
+    "start": 245.014,
+    "end": 245.398,
+    "probability": 0.19039425579831004
+   },
+   {
+    "word": "dun",
+    "start": 245.398,
+    "end": 245.654,
+    "probability": 0.593116283416748
+   },
+   {
+    "word": "rosa",
+    "start": 245.654,
+    "end": 246.166,
+    "probability": 0.4614193644374609
+   },
+   {
+    "word": "pandure",
+    "start": 246.166,
+    "end": 246.678,
+    "probability": 0.25050052255392075
+   }
+  ]
+ },
+ {
+  "id": 123,
+  "section": "chorus5",
+  "section_line": 7,
+  "start": 246.678,
+  "end": 249.622,
+  "words": [
+   {
+    "word": "pipunu",
+    "start": 246.678,
+    "end": 247.446,
+    "probability": 0.056733913253992796
+   },
+   {
+    "word": "male",
+    "start": 247.446,
+    "end": 247.83,
+    "probability": 0.748830258846283
+   },
+   {
+    "word": "pethi",
+    "start": 247.83,
+    "end": 248.342,
+    "probability": 0.4900055614610513
+   },
+   {
+    "word": "kada",
+    "start": 248.342,
+    "end": 248.598,
+    "probability": 0.5895077288150787
+   },
+   {
+    "word": "halenawa",
+    "start": 248.598,
+    "end": 249.622,
+    "probability": 0.506396288673083
+   }
+  ]
+ },
+ {
+  "id": 124,
+  "section": "chorus5",
+  "section_line": 8,
+  "start": 249.622,
+  "end": 250.902,
+  "words": [
+   {
+    "word": "mata",
+    "start": 249.622,
+    "end": 249.878,
+    "probability": 0.0001390718825859949
+   },
+   {
+    "word": "penawa",
+    "start": 249.878,
+    "end": 250.902,
+    "probability": 0.7133603990077972
+   }
+  ]
+ },
+ {
+  "id": 125,
+  "section": "chorus6",
+  "section_line": 0,
+  "start": 251.446,
+  "end": 253.75,
+  "words": [
+   {
+    "word": "mal",
+    "start": 251.446,
+    "end": 251.702,
+    "probability": 2.0712455750526715e-07
+   },
+   {
+    "word": "peththak",
+    "start": 251.702,
+    "end": 252.47,
+    "probability": 0.0010970570417233223
+   },
+   {
+    "word": "se",
+    "start": 252.47,
+    "end": 252.726,
+    "probability": 0.10418172925710678
+   },
+   {
+    "word": "susinidu",
+    "start": 252.726,
+    "end": 253.366,
+    "probability": 0.1882388711674139
+   },
+   {
+    "word": "sitha",
+    "start": 253.366,
+    "end": 253.75,
+    "probability": 0.4046900272369385
+   }
+  ]
+ },
+ {
+  "id": 126,
+  "section": "chorus6",
+  "section_line": 1,
+  "start": 253.75,
+  "end": 256.182,
+  "words": [
+   {
+    "word": "magen",
+    "start": 253.75,
+    "end": 254.262,
+    "probability": 0.15162739530205727
+   },
+   {
+    "word": "numba",
+    "start": 254.262,
+    "end": 254.518,
+    "probability": 0.0011873426872170967
+   },
+   {
+    "word": "kohindo",
+    "start": 254.518,
+    "end": 255.03,
+    "probability": 0.29715655247370404
+   },
+   {
+    "word": "horakam",
+    "start": 255.03,
+    "end": 255.926,
+    "probability": 0.29116841467718285
+   },
+   {
+    "word": "kara",
+    "start": 255.926,
+    "end": 256.182,
+    "probability": 0.04215959459543228
+   }
+  ]
+ },
+ {
+  "id": 127,
+  "section": "chorus6",
+  "section_line": 2,
+  "start": 256.182,
+  "end": 258.23,
+  "words": [
+   {
+    "word": "thawa",
+    "start": 256.182,
+    "end": 256.822,
+    "probability": 0.015468662884359219
+   },
+   {
+    "word": "ridenna",
+    "start": 256.822,
+    "end": 257.59,
+    "probability": 0.12168698074916999
+   },
+   {
+    "word": "ne",
+    "start": 257.59,
+    "end": 257.718,
+    "probability": 0.003953367471694946
+   },
+   {
+    "word": "idak",
+    "start": 257.718,
+    "end": 258.23,
+    "probability": 0.186931180593092
+   }
+  ]
+ },
+ {
+  "id": 128,
+  "section": "chorus6",
+  "section_line": 3,
+  "start": 258.23,
+  "end": 259.51,
+  "words": [
+   {
+    "word": "mage",
+    "start": 258.23,
+    "end": 258.742,
+    "probability": 0.5930008143186569
+   },
+   {
+    "word": "hadawathe",
+    "start": 258.742,
+    "end": 259.51,
+    "probability": 0.28876247808996897
+   }
+  ]
+ },
+ {
+  "id": 129,
+  "section": "chorus6",
+  "section_line": 4,
+  "start": 259.51,
+  "end": 261.43,
+  "words": [
+   {
+    "word": "mata",
+    "start": 259.51,
+    "end": 259.894,
+    "probability": 0.4020370841026306
+   },
+   {
+    "word": "dukada",
+    "start": 259.894,
+    "end": 260.534,
+    "probability": 0.37024015995363396
+   },
+   {
+    "word": "sathuta",
+    "start": 260.534,
+    "end": 261.174,
+    "probability": 0.4105737855037053
+   },
+   {
+    "word": "we",
+    "start": 261.174,
+    "end": 261.43,
+    "probability": 0.1411592960357666
+   }
+  ]
+ },
+ {
+  "id": 130,
+  "section": "chorus6",
+  "section_line": 5,
+  "start": 261.43,
+  "end": 264.374,
+  "words": [
+   {
+    "word": "kawuluwen",
+    "start": 261.43,
+    "end": 262.326,
+    "probability": 0.11520365760188156
+   },
+   {
+    "word": "epita",
+    "start": 262.326,
+    "end": 262.71,
+    "probability": 0.023748384652662935
+   },
+   {
+    "word": "maha",
+    "start": 262.71,
+    "end": 263.222,
+    "probability": 0.6867296397686005
+   },
+   {
+    "word": "warsha",
+    "start": 263.222,
+    "end": 263.734,
+    "probability": 0.46027671499177814
+   },
+   {
+    "word": "watenawa",
+    "start": 263.734,
+    "end": 264.374,
+    "probability": 0.09790905161450307
+   }
+  ]
+ },
+ {
+  "id": 131,
+  "section": "chorus6",
+  "section_line": 6,
+  "start": 264.374,
+  "end": 266.678,
+  "words": [
+   {
+    "word": "oba",
+    "start": 264.374,
+    "end": 265.014,
+    "probability": 0.307512067258358
+   },
+   {
+    "word": "thilina",
+    "start": 265.014,
+    "end": 265.398,
+    "probability": 0.19039425579831004
+   },
+   {
+    "word": "dun",
+    "start": 265.398,
+    "end": 265.654,
+    "probability": 0.593116283416748
+   },
+   {
+    "word": "rosa",
+    "start": 265.654,
+    "end": 266.166,
+    "probability": 0.4614193644374609
+   },
+   {
+    "word": "pandure",
+    "start": 266.166,
+    "end": 266.678,
+    "probability": 0.25050052255392075
+   }
+  ]
+ },
+ {
+  "id": 132,
+  "section": "chorus6",
+  "section_line": 7,
+  "start": 266.678,
+  "end": 269.494,
+  "words": [
+   {
+    "word": "pipunu",
+    "start": 266.678,
+    "end": 267.446,
+    "probability": 0.056733913253992796
+   },
+   {
+    "word": "male",
+    "start": 267.446,
+    "end": 267.83,
+    "probability": 0.748830258846283
+   },
+   {
+    "word": "pethi",
+    "start": 267.83,
+    "end": 268.342,
+    "probability": 0.4900055614610513
+   },
+   {
+    "word": "kada",
+    "start": 268.342,
+    "end": 268.598,
+    "probability": 0.5895077288150787
+   },
+   {
+    "word": "halenawa",
+    "start": 268.598,
+    "end": 269.494,
+    "probability": 0.506396288673083
+   }
+  ]
+ },
+ {
+  "id": 133,
+  "section": "chorus6",
+  "section_line": 8,
+  "start": 269.494,
+  "end": 271.542,
+  "words": [
+   {
+    "word": "mata",
+    "start": 269.494,
+    "end": 269.622,
+    "probability": 0.0001390718825859949
+   },
+   {
+    "word": "penawa",
+    "start": 269.622,
+    "end": 271.542,
+    "probability": 0.7133603990077972
+   }
+  ]
+ }
+]

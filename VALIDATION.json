@@ -23,11 +23,27 @@
       "flash_bytes": 9786,
       "static_sram_bytes": 1635,
       "sram_remaining": 413
+    },
+    "mal-peththak": {
+      "flash_bytes": 9786,
+      "static_sram_bytes": 1635,
+      "sram_remaining": 413
     }
   },
   "notes": [
     "Streaming firmware compilation reports low SRAM headroom (413 bytes); this packages the existing firmware without changing its buffer allocation.",
     "Publishing checks did not reupload firmware or replay audio.",
     "Transport validation does not independently confirm alignment with sung vocals."
-  ]
+  ],
+  "mal_peththak": {
+    "lyrics_id": "7adf4043e2519158",
+    "clean_lines": 134,
+    "bitmap_count": 1014,
+    "portable_rebuild_matches_final_frames": true,
+    "final_alignment_preserved": true,
+    "syntax_and_dry_run": "passed",
+    "prepublish_gitleaks": "no detected secrets",
+    "recording_included": false,
+    "system_arial_font_included": false
+  }
 }

@@ -1,0 +1,74 @@
+{
+  "chorus_entry_seconds": {
+    "chorus1": 21.55,
+    "chorus2": 86.55,
+    "chorus4": 211.55,
+    "chorus5": 231.55,
+    "chorus6": 251.55,
+    "chorus3": 151.52
+  },
+  "collapsed_timestamp_repairs": [
+    {
+      "word": "my",
+      "old": 41.78,
+      "new": 41.805
+    },
+    {
+      "word": "groaned",
+      "old": 61.84,
+      "new": 61.865
+    },
+    {
+      "word": "I",
+      "old": 69.6,
+      "new": 69.625
+    },
+    {
+      "word": "was",
+      "old": 70.64,
+      "new": 70.665
+    },
+    {
+      "word": "to",
+      "old": 71.76,
+      "new": 71.785
+    },
+    {
+      "word": "dont",
+      "old": 76.76,
+      "new": 76.785
+    },
+    {
+      "word": "Shane",
+      "old": 82.38,
+      "new": 82.405
+    },
+    {
+      "word": "Rose",
+      "old": 106.86,
+      "new": 106.885
+    },
+    {
+      "word": "miss",
+      "old": 109.26,
+      "new": 109.285
+    },
+    {
+      "word": "tried",
+      "old": 111.4,
+      "new": 111.425
+    },
+    {
+      "word": "things",
+      "old": 126.82,
+      "new": 126.845
+    }
+  ],
+  "listening_confirmed": false,
+  "notes": [
+    "Known supplied words aligned locally with small Whisper model.",
+    "Repeated refrains match independently in spectral features.",
+    "Only spoken/sung text is rendered; annotations and instrumental labels are omitted.",
+    "Exact vocal synchronization still requires listening confirmation."
+  ]
+}
