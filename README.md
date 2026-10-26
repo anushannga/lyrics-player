@@ -2,7 +2,7 @@
 
 Arduino UNO + ST7920 128×64 Sinhala LCD lyric players by Pasan Anushanga.
 Music plays through a Mac while an Arduino UNO displays Sinhala lyrics over USB.
-This repository contains the latest played versions of all four projects.
+This repository contains the latest played versions of all six projects.
 
 ## Songs
 
@@ -12,6 +12,9 @@ This repository contains the latest played versions of all four projects.
 | Sandawaka Mathaka | [sandawaka-mathaka](lyrics-player/sandawaka-mathaka/) | Stored lyric bitmaps, 30 timed lines, dissolve transitions |
 | Sandawathiye | [sandawathiye](lyrics-player/sandawathiye/) | Word reveal, fixed ellipses, music-note animation in the middle solo |
 | Mal Peththak | [mal-peththak](lyrics-player/mal-peththak/) | Sinhala/English lyrics with calm letter reveal |
+
+| Aadariye | [aadariye](lyrics-player/aadariye/) | Whole-word reveal, separate hook scenes, progressive sustain dots |
+| Adare Wediwela | [adare-wediwela](lyrics-player/adare-wediwela/) | Vocal-aligned word reveal, selected phrase-final sustain dots |
 
 ## Requirements
 
@@ -73,6 +76,12 @@ lyrics-player/
   sandawathiye/
     SandawathiyeLCD/          # Arduino sketch
     player.py                # Mac playback + word reveal
+  aadariye/
+    AadariyeLCD/             # Arduino sketch
+    player.py                # Separate hook scenes and sustain dots
+  adare-wediwela/
+    AdareWediwelaLCD/         # Arduino sketch
+    player.py                # Word reveal and selected sustain dots
   mal-peththak/
     MalPeththakLCD/           # Arduino sketch
     player.py                # Sinhala/English letter reveal

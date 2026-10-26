@@ -1,0 +1,266 @@
+[
+  {
+    "id": 0,
+    "section": "verse1",
+    "section_line": 0,
+    "language": "si",
+    "text": "කාලයක් පුරා",
+    "alignment_text": "kaalayak puraa"
+  },
+  {
+    "id": 1,
+    "section": "verse1",
+    "section_line": 1,
+    "language": "si",
+    "text": "හිතෙහි ඇවිලෙනා",
+    "alignment_text": "hithehi awilenaa"
+  },
+  {
+    "id": 2,
+    "section": "verse1",
+    "section_line": 2,
+    "language": "si",
+    "text": "දුක් ගග දැන් අවසන්",
+    "alignment_text": "duk ganga daen awasan"
+  },
+  {
+    "id": 3,
+    "section": "verse1",
+    "section_line": 3,
+    "language": "si",
+    "text": "නුඹ හා මා පැතූ ප්‍රාර්ථනාවන්",
+    "alignment_text": "numba haa maa paethuu praarthanawan"
+  },
+  {
+    "id": 4,
+    "section": "verse1",
+    "section_line": 4,
+    "language": "si",
+    "text": "යමු අපි දැන් සපුරන්",
+    "alignment_text": "yamu api daen sapuran"
+  },
+  {
+    "id": 5,
+    "section": "hook1",
+    "section_line": 0,
+    "language": "si",
+    "text": "නුබට මං පේවිලා..",
+    "alignment_text": "nubata man pewilaa"
+  },
+  {
+    "id": 6,
+    "section": "hook1",
+    "section_line": 1,
+    "language": "si",
+    "text": "කදුලු ගංගා පැරදුවා..",
+    "alignment_text": "kadulu gangaa paeraduwaa"
+  },
+  {
+    "id": 7,
+    "section": "hook1",
+    "section_line": 2,
+    "language": "si",
+    "text": "අපේ ආදරේ මහිමේ නිසා..",
+    "alignment_text": "ape aadare mahime nisaa"
+  },
+  {
+    "id": 8,
+    "section": "hook1",
+    "section_line": 3,
+    "language": "si",
+    "text": "පෙම්වන්තියේ.",
+    "alignment_text": "pemwanthiye"
+  },
+  {
+    "id": 9,
+    "section": "hook1",
+    "section_line": 4,
+    "language": "si",
+    "text": "ජීවිතේම කැප කරා..",
+    "alignment_text": "jeewithema kaepa karaa"
+  },
+  {
+    "id": 10,
+    "section": "hook1",
+    "section_line": 5,
+    "language": "si",
+    "text": "ආකාසේ තරු පසෙකලා..",
+    "alignment_text": "aakaase tharu pasekalaa"
+  },
+  {
+    "id": 11,
+    "section": "hook1",
+    "section_line": 6,
+    "language": "si",
+    "text": "මගේ නාමේ ඔබ හදේ සදා..",
+    "alignment_text": "mage naame oba hade sadaa"
+  },
+  {
+    "id": 12,
+    "section": "hook1",
+    "section_line": 7,
+    "language": "si",
+    "text": "රන්දා ප්‍රියේ..",
+    "alignment_text": "randaa priye"
+  },
+  {
+    "id": 13,
+    "section": "hook1",
+    "section_line": 8,
+    "language": "si",
+    "text": "ආදරේ වැඩිවෙලා වගේ..",
+    "alignment_text": "aadare waediwelaa wage"
+  },
+  {
+    "id": 14,
+    "section": "hook1",
+    "section_line": 9,
+    "language": "si",
+    "text": "ආදරේ වැඩිවෙලා වගේ..",
+    "alignment_text": "aadare waediwelaa wage"
+  },
+  {
+    "id": 15,
+    "section": "hook1",
+    "section_line": 10,
+    "language": "si",
+    "text": "වෙනදා වගේ නෙවෙයි අනේ..",
+    "alignment_text": "wenadaa wage neweyi ane"
+  },
+  {
+    "id": 16,
+    "section": "hook1",
+    "section_line": 11,
+    "language": "si",
+    "text": "ආදරේ වැඩිවෙලා වගේ..",
+    "alignment_text": "aadare waediwelaa wage"
+  },
+  {
+    "id": 17,
+    "section": "verse2",
+    "section_line": 0,
+    "language": "si",
+    "text": "මා නිවෙනා මගේ ලෝකයේ",
+    "alignment_text": "maa niwenaa mage lokaye"
+  },
+  {
+    "id": 18,
+    "section": "verse2",
+    "section_line": 1,
+    "language": "si",
+    "text": "නුඹ පතිනිය වේනම්",
+    "alignment_text": "numba pathiniya wenam"
+  },
+  {
+    "id": 19,
+    "section": "verse2",
+    "section_line": 2,
+    "language": "si",
+    "text": "සසර පුරා රන් තිලකෙන් නළලත",
+    "alignment_text": "sasara puraa ran thilaken nalalatha"
+  },
+  {
+    "id": 20,
+    "section": "verse2",
+    "section_line": 3,
+    "language": "si",
+    "text": "මම නුඹේ සරසන්නම්",
+    "alignment_text": "mama numbe sarasannam"
+  },
+  {
+    "id": 21,
+    "section": "hook2",
+    "section_line": 0,
+    "language": "si",
+    "text": "නුබට මං පේවිලා..",
+    "alignment_text": "nubata man pewilaa"
+  },
+  {
+    "id": 22,
+    "section": "hook2",
+    "section_line": 1,
+    "language": "si",
+    "text": "කදුලු ගංගා පැරදුවා..",
+    "alignment_text": "kadulu gangaa paeraduwaa"
+  },
+  {
+    "id": 23,
+    "section": "hook2",
+    "section_line": 2,
+    "language": "si",
+    "text": "අපේ ආදරේ මහිමේ නිසා..",
+    "alignment_text": "ape aadare mahime nisaa"
+  },
+  {
+    "id": 24,
+    "section": "hook2",
+    "section_line": 3,
+    "language": "si",
+    "text": "පෙම්වන්තියේ.",
+    "alignment_text": "pemwanthiye"
+  },
+  {
+    "id": 25,
+    "section": "hook2",
+    "section_line": 4,
+    "language": "si",
+    "text": "ජීවිතේම කැප කරා..",
+    "alignment_text": "jeewithema kaepa karaa"
+  },
+  {
+    "id": 26,
+    "section": "hook2",
+    "section_line": 5,
+    "language": "si",
+    "text": "ආකාසේ තරු පසෙකලා..",
+    "alignment_text": "aakaase tharu pasekalaa"
+  },
+  {
+    "id": 27,
+    "section": "hook2",
+    "section_line": 6,
+    "language": "si",
+    "text": "මගේ නාමේ ඔබ හදේ සදා..",
+    "alignment_text": "mage naame oba hade sadaa"
+  },
+  {
+    "id": 28,
+    "section": "hook2",
+    "section_line": 7,
+    "language": "si",
+    "text": "රන්දා ප්‍රියේ..",
+    "alignment_text": "randaa priye"
+  },
+  {
+    "id": 29,
+    "section": "hook2",
+    "section_line": 8,
+    "language": "si",
+    "text": "ආදරේ වැඩිවෙලා වගේ..",
+    "alignment_text": "aadare waediwelaa wage"
+  },
+  {
+    "id": 30,
+    "section": "hook2",
+    "section_line": 9,
+    "language": "si",
+    "text": "ආදරේ වැඩිවෙලා වගේ..",
+    "alignment_text": "aadare waediwelaa wage"
+  },
+  {
+    "id": 31,
+    "section": "hook2",
+    "section_line": 10,
+    "language": "si",
+    "text": "වෙනදා වගේ නෙවෙයි අනේ..",
+    "alignment_text": "wenadaa wage neweyi ane"
+  },
+  {
+    "id": 32,
+    "section": "hook2",
+    "section_line": 11,
+    "language": "si",
+    "text": "ආදරේ වැඩිවෙලා වගේ..",
+    "alignment_text": "aadare waediwelaa wage"
+  }
+]

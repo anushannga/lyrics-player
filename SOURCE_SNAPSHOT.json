@@ -302,5 +302,197 @@
         "sha256": "4ac8130e92fd4f72f19bb260d0d6a004643fccc19ac3b1290132f5dfac6e7290"
       }
     ]
+  },
+  {
+    "song": "aadariye",
+    "source_project": "AadariyeLCD",
+    "original_source_files": [
+      {
+        "file": "player.py",
+        "sha256": "19f955a559d6953f88b45bc3f424e4700c9ae3212a705e373830a1d4fdd84a89"
+      },
+      {
+        "file": "player_settings.json",
+        "sha256": "c5d787e6c57becf2254c63fb38b854ff65f79c20e1631a13eeecb3191c5a75dd"
+      },
+      {
+        "file": "README.md",
+        "sha256": "068bb8a35fcc5fe59544a040e2a7d682c51b97ccae79879516ee4e0374dcb936"
+      },
+      {
+        "file": "lyrics.json",
+        "sha256": "47b86277ab1450cac17b6e3986bde552b77f3d3e197fdf5c23ad28f1b7f4bfc5"
+      },
+      {
+        "file": "lyrics_unicode.txt",
+        "sha256": "7d2acc5adb2a6e831bafee16c67163b8ec56a69f448ba6fb41727e16cd51538e"
+      },
+      {
+        "file": "alignment.json",
+        "sha256": "323633f451d479a93aebc7c66bd5cc4a242d7ed79627bd55e00d37a310ae673a"
+      },
+      {
+        "file": "frames.bin",
+        "sha256": "508d8073f9640073eab208a308de8eab5258f2a4056028c22ac8be3e32822e6c"
+      },
+      {
+        "file": "manifest.json",
+        "sha256": "80616a088d7a36e94b9b166e8d52f31a80386985375bd60aacc90133667f9712"
+      },
+      {
+        "file": "timings.json",
+        "sha256": "0de1df9dbc15599ab1a603800efb556308c481f4bbe859bb2af8c28bc869d4f0"
+      },
+      {
+        "file": "sustain_marks.json",
+        "sha256": "fe56309464f21672c42a2270d87cb7ad59fed3a1bf21ab04893d8677ace8e81c"
+      },
+      {
+        "file": "alignment_raw.json",
+        "sha256": "f9c10d2efd6a37166f47f6b6a36ab227611d61733c93f3b72eb7e5db54547f9a"
+      },
+      {
+        "file": "hook3_refined.json",
+        "sha256": "8e5c56ab1abe415335409fab8e0496d0ad378c755248855c364777f3fcdafff8"
+      },
+      {
+        "file": "vocal_onset_corrections.json",
+        "sha256": "69b0d9acab6ed233534f8b25017eedfda5802f38b82a88784f78bd019e0d2a66"
+      },
+      {
+        "file": "display_hold_adjustments.json",
+        "sha256": "89afe509d1cc3723a81b1bdfa61f0e7ca41cd9963dc330c81fd07450b60fbbb5"
+      },
+      {
+        "file": "lyrics_phonetic.txt",
+        "sha256": "bfb13084383807499f15b8dc387b31c8d0cfce3461590e0c761b1ec31b85a260"
+      },
+      {
+        "file": "tools/build_display.py",
+        "sha256": "ef134e128f62400c96add913573d979780ddf94aff68f5e7a2bac345873dbaee"
+      },
+      {
+        "file": "tools/audio_clock.m",
+        "sha256": "66c5894dd73b7b8df8b2f62adf0ebe6ec823a0559eb8c6f8e9bbff0a61fadd4a"
+      },
+      {
+        "file": "tools/pixel_format.py",
+        "sha256": "32c5da149058041af7d5d76196cbfd96c04ac2928dfd5ef9c12c1ba862d3e794"
+      },
+      {
+        "file": "tools/prepare_lyrics.py",
+        "sha256": "3206ed51c556bf01c63d7a62079e2fb9b2a3c1bd6b0afdce946d1bba2f9224d4"
+      },
+      {
+        "file": "tools/finalize_alignment.py",
+        "sha256": "9dfd3781296e7d3a8ace38827188ddd700fb5cdae978cfe36d182a73172e2b63"
+      },
+      {
+        "file": "AadariyeLCD.ino",
+        "sha256": "4ac8130e92fd4f72f19bb260d0d6a004643fccc19ac3b1290132f5dfac6e7290"
+      }
+    ]
+  },
+  {
+    "song": "adare-wediwela",
+    "source_project": "AdareWediwelaLCD",
+    "original_source_files": [
+      {
+        "file": "player.py",
+        "sha256": "7bcd180d73c0da42c91bd1509c695e12e614ed6c0e07612bde0667f2519041af"
+      },
+      {
+        "file": "player_settings.json",
+        "sha256": "c5d787e6c57becf2254c63fb38b854ff65f79c20e1631a13eeecb3191c5a75dd"
+      },
+      {
+        "file": "README.md",
+        "sha256": "877c5e4181764e6e5de87f83ac60c8036ca53fd5ba99aa321847c6e4ac5b34e3"
+      },
+      {
+        "file": "lyrics.json",
+        "sha256": "c8b96c3ac4785a95a89360dae82ea52a4622f182897a3117e4a9b4082ead5c22"
+      },
+      {
+        "file": "lyrics_unicode.txt",
+        "sha256": "395863c297066341c9242f2424c3188ffcad607ed218d16a2774e306ab970a0d"
+      },
+      {
+        "file": "alignment.json",
+        "sha256": "c53dc561b8cf5a673220cfb070a1c31334d522b9f8799a4298e38e321c4bc5c9"
+      },
+      {
+        "file": "frames.bin",
+        "sha256": "64329e8bd9cc792950e5b95b99f40e983730c9f8d2157b3c14adc40d988943db"
+      },
+      {
+        "file": "manifest.json",
+        "sha256": "61449aaf998acae2e70975d775a777a093ed15b5fa3492a40a548cb738c1fefa"
+      },
+      {
+        "file": "timings.json",
+        "sha256": "95bd61c3ffdd759536ef9f85ffadc1e349e8aaa2abb8e06de31ec3d429290e1d"
+      },
+      {
+        "file": "sustain_marks.json",
+        "sha256": "1f1cfb3245fa795891824efdea068b158b1e9792d02779af472093fa16cdf8ce"
+      },
+      {
+        "file": "alignment_windows.json",
+        "sha256": "31f39c6f0d7267407856623e037529a3fd91282ad5cecd610fea2b2d7b1a1f61"
+      },
+      {
+        "file": "sustain_selection.json",
+        "sha256": "f86628c3f21d13e405d5dcf10efe2254457df82d02df5ba4710ce56888aaf2de"
+      },
+      {
+        "file": "repeat_evidence.json",
+        "sha256": "9065a43ff2d58f110e86ab2800b571e7dffc98af43815ded5976412a2023978e"
+      },
+      {
+        "file": "vocal_boundary_changes.json",
+        "sha256": "de5158283ebcdc227ac24cf4472f34bd7ff8740917c64791acf8bf5c4c9ff7e6"
+      },
+      {
+        "file": "tools/build_display.py",
+        "sha256": "d5e5299158115100c65e9554fb8d869cb3870d0ecb3c3fe550dfbab97d94ee0a"
+      },
+      {
+        "file": "tools/audio_clock.m",
+        "sha256": "66c5894dd73b7b8df8b2f62adf0ebe6ec823a0559eb8c6f8e9bbff0a61fadd4a"
+      },
+      {
+        "file": "tools/pixel_format.py",
+        "sha256": "32c5da149058041af7d5d76196cbfd96c04ac2928dfd5ef9c12c1ba862d3e794"
+      },
+      {
+        "file": "tools/align_lyrics.py",
+        "sha256": "ba05852b3b2ac166afe4da4b15e462e7a310fb6dc0d28ee649679fe4f4ebf5b4"
+      },
+      {
+        "file": "tools/align_vocals.py",
+        "sha256": "f4bf6131df099d1056a85ea5977ae0749c4d81a8acb9d08108f9bdc60243a275"
+      },
+      {
+        "file": "tools/isolate_vocals.py",
+        "sha256": "7f6af45665ab87ea7c2477debed6ebf746dfc3525750b124cd604008af9c539f"
+      },
+      {
+        "file": "tools/check_repeats.py",
+        "sha256": "c95859bb663bdb2300858f3ce24ff7c70a0da8eb2f55bed66df830b8b5baaf90"
+      },
+      {
+        "file": "tools/refine_vocal_boundaries.py",
+        "sha256": "a94647fbc0a019c3c30077f31b8e40fcb2c657d1f8d43cecd388128b37ad788f"
+      },
+      {
+        "file": "tools/select_sustains.py",
+        "sha256": "4eb18e0e69ce9602b0ba412a56f0cf1e2f9a5e8a1ead56f4f59afa8006e62b3d"
+      },
+      {
+        "file": "AdareWediwelaLCD.ino",
+        "sha256": "4ac8130e92fd4f72f19bb260d0d6a004643fccc19ac3b1290132f5dfac6e7290"
+      }
+    ]
   }
 ]

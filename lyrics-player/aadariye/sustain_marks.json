@@ -1,0 +1,292 @@
+{
+  "selection": "All requested Aadariye entries plus long aligned content words; not listening-confirmed",
+  "words": [
+    {
+      "line": 0,
+      "word": 1,
+      "text": "හිතුණාද",
+      "duration": 1.74,
+      "basis": "long aligned vocal word"
+    },
+    {
+      "line": 2,
+      "word": 0,
+      "text": "නොදැනීම",
+      "duration": 2.04,
+      "basis": "long aligned vocal word"
+    },
+    {
+      "line": 4,
+      "word": 0,
+      "text": "දුටුවාද",
+      "duration": 2.0,
+      "basis": "long aligned vocal word"
+    },
+    {
+      "line": 4,
+      "word": 1,
+      "text": "පෙරදාක",
+      "duration": 1.76,
+      "basis": "long aligned vocal word"
+    },
+    {
+      "line": 6,
+      "word": 0,
+      "text": "මතුදාක",
+      "duration": 2.04,
+      "basis": "long aligned vocal word"
+    },
+    {
+      "line": 6,
+      "word": 1,
+      "text": "නිමවේද",
+      "duration": 1.74,
+      "basis": "long aligned vocal word"
+    },
+    {
+      "line": 8,
+      "word": 0,
+      "text": "මන්දාරම්",
+      "duration": 3.13,
+      "basis": "long aligned vocal word"
+    },
+    {
+      "line": 9,
+      "word": 0,
+      "text": "ආදරියේ",
+      "duration": 1.46,
+      "basis": "requested hook dots"
+    },
+    {
+      "line": 10,
+      "word": 0,
+      "text": "මගේ",
+      "duration": 0.92,
+      "basis": "requested hook dots"
+    },
+    {
+      "line": 11,
+      "word": 0,
+      "text": "ආදරියේ",
+      "duration": 4.0,
+      "basis": "requested hook dots"
+    },
+    {
+      "line": 12,
+      "word": 0,
+      "text": "රැයේ",
+      "duration": 2.98,
+      "basis": "requested hook dots"
+    },
+    {
+      "line": 13,
+      "word": 2,
+      "text": "බලා",
+      "duration": 2.1,
+      "basis": "long aligned vocal word"
+    },
+    {
+      "line": 15,
+      "word": 0,
+      "text": "ආදරියේ",
+      "duration": 2.9,
+      "basis": "requested hook dots"
+    },
+    {
+      "line": 16,
+      "word": 0,
+      "text": "මගේ",
+      "duration": 0.68,
+      "basis": "requested hook dots"
+    },
+    {
+      "line": 17,
+      "word": 0,
+      "text": "රිදුණාද",
+      "duration": 2.12,
+      "basis": "long aligned vocal word"
+    },
+    {
+      "line": 17,
+      "word": 1,
+      "text": "කිසිදාක",
+      "duration": 1.86,
+      "basis": "long aligned vocal word"
+    },
+    {
+      "line": 19,
+      "word": 0,
+      "text": "නොහිතාම",
+      "duration": 2.12,
+      "basis": "long aligned vocal word"
+    },
+    {
+      "line": 19,
+      "word": 1,
+      "text": "දෙඩුවාද",
+      "duration": 1.66,
+      "basis": "long aligned vocal word"
+    },
+    {
+      "line": 20,
+      "word": 0,
+      "text": "පෑරෙනා",
+      "duration": 2.3,
+      "basis": "long aligned vocal word"
+    },
+    {
+      "line": 26,
+      "word": 0,
+      "text": "මන්දාරම්",
+      "duration": 3.11,
+      "basis": "long aligned vocal word"
+    },
+    {
+      "line": 27,
+      "word": 0,
+      "text": "ආදරියේ",
+      "duration": 1.94,
+      "basis": "requested hook dots"
+    },
+    {
+      "line": 28,
+      "word": 0,
+      "text": "මගේ",
+      "duration": 0.82,
+      "basis": "requested hook dots"
+    },
+    {
+      "line": 29,
+      "word": 0,
+      "text": "ආදරියේ",
+      "duration": 4.12,
+      "basis": "requested hook dots"
+    },
+    {
+      "line": 30,
+      "word": 0,
+      "text": "රැයේ",
+      "duration": 2.84,
+      "basis": "requested hook dots"
+    },
+    {
+      "line": 31,
+      "word": 2,
+      "text": "බලා",
+      "duration": 2.02,
+      "basis": "long aligned vocal word"
+    },
+    {
+      "line": 33,
+      "word": 0,
+      "text": "ආදරියේ",
+      "duration": 3.16,
+      "basis": "requested hook dots"
+    },
+    {
+      "line": 34,
+      "word": 0,
+      "text": "මගේ",
+      "duration": 0.84,
+      "basis": "requested hook dots"
+    },
+    {
+      "line": 35,
+      "word": 4,
+      "text": "වින්දා",
+      "duration": 1.56,
+      "basis": "long aligned vocal word"
+    },
+    {
+      "line": 41,
+      "word": 1,
+      "text": "ළංවේදෝ",
+      "duration": 1.8,
+      "basis": "long aligned vocal word"
+    },
+    {
+      "line": 42,
+      "word": 0,
+      "text": "ආදරියේ",
+      "duration": 2.12,
+      "basis": "requested hook dots"
+    },
+    {
+      "line": 43,
+      "word": 0,
+      "text": "මගේ",
+      "duration": 1.52,
+      "basis": "requested hook dots"
+    },
+    {
+      "line": 44,
+      "word": 0,
+      "text": "ආදරියේ",
+      "duration": 4.18,
+      "basis": "requested hook dots"
+    },
+    {
+      "line": 45,
+      "word": 0,
+      "text": "රැයේ",
+      "duration": 3.62,
+      "basis": "requested hook dots"
+    },
+    {
+      "line": 46,
+      "word": 2,
+      "text": "බලා",
+      "duration": 2.1,
+      "basis": "long aligned vocal word"
+    },
+    {
+      "line": 47,
+      "word": 1,
+      "text": "මිදෙන්නකෝ",
+      "duration": 1.58,
+      "basis": "long aligned vocal word"
+    },
+    {
+      "line": 48,
+      "word": 0,
+      "text": "ආදරියේ",
+      "duration": 3.0,
+      "basis": "requested hook dots"
+    },
+    {
+      "line": 49,
+      "word": 0,
+      "text": "මගේ",
+      "duration": 1.12,
+      "basis": "requested hook dots"
+    },
+    {
+      "line": 50,
+      "word": 4,
+      "text": "වින්දා",
+      "duration": 1.52,
+      "basis": "long aligned vocal word"
+    },
+    {
+      "line": 52,
+      "word": 3,
+      "text": "ආදරේ",
+      "duration": 1.52,
+      "basis": "long aligned vocal word"
+    },
+    {
+      "line": 54,
+      "word": 1,
+      "text": "පාරා",
+      "duration": 1.52,
+      "basis": "long aligned vocal word"
+    },
+    {
+      "line": 56,
+      "word": 2,
+      "text": "ආදරේ",
+      "duration": 2.4,
+      "basis": "long aligned vocal word"
+    }
+  ]
+}

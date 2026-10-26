@@ -1,0 +1,444 @@
+{
+  "changes": [
+    {
+      "line": 9,
+      "word_index": 0,
+      "word": "aadariye",
+      "old_onset": 45.18,
+      "new_onset": 43.66,
+      "basis": "Forced alignment of isolated vocals; third hook excludes the preceding phrase tail."
+    },
+    {
+      "line": 10,
+      "word_index": 0,
+      "word": "maage",
+      "old_onset": 46.94,
+      "new_onset": 47.3,
+      "basis": "User identified early Mage entries; matched unprompted vocal word starts instead of the preceding held note."
+    },
+    {
+      "line": 11,
+      "word_index": 0,
+      "word": "aadariye",
+      "old_onset": 48.8,
+      "new_onset": 48.22,
+      "basis": "Forced alignment of isolated vocals; third hook excludes the preceding phrase tail."
+    },
+    {
+      "line": 12,
+      "word_index": 0,
+      "word": "raye",
+      "old_onset": 53.68,
+      "new_onset": 53.7,
+      "basis": "Forced alignment of isolated vocals; third hook excludes the preceding phrase tail."
+    },
+    {
+      "line": 13,
+      "word_index": 0,
+      "word": "maa",
+      "old_onset": 56.78,
+      "new_onset": 56.68,
+      "basis": "Forced alignment of isolated vocals; third hook excludes the preceding phrase tail."
+    },
+    {
+      "line": 13,
+      "word_index": 1,
+      "word": "diha",
+      "old_onset": 57.9,
+      "new_onset": 57.88,
+      "basis": "Forced alignment of isolated vocals; third hook excludes the preceding phrase tail."
+    },
+    {
+      "line": 13,
+      "word_index": 2,
+      "word": "bala",
+      "old_onset": 58.48,
+      "new_onset": 58.5,
+      "basis": "Forced alignment of isolated vocals; third hook excludes the preceding phrase tail."
+    },
+    {
+      "line": 14,
+      "word_index": 0,
+      "word": "heenekin",
+      "old_onset": 60.26,
+      "new_onset": 60.6,
+      "basis": "Forced alignment of isolated vocals; third hook excludes the preceding phrase tail."
+    },
+    {
+      "line": 14,
+      "word_index": 1,
+      "word": "midennako",
+      "old_onset": 61.92,
+      "new_onset": 62.02,
+      "basis": "Forced alignment of isolated vocals; third hook excludes the preceding phrase tail."
+    },
+    {
+      "line": 15,
+      "word_index": 0,
+      "word": "aadariye",
+      "old_onset": 63.65,
+      "new_onset": 63.5,
+      "basis": "Forced alignment of isolated vocals; third hook excludes the preceding phrase tail."
+    },
+    {
+      "line": 16,
+      "word_index": 0,
+      "word": "maage",
+      "old_onset": 68.12,
+      "new_onset": 68.12,
+      "basis": "User identified early Mage entries; matched unprompted vocal word starts instead of the preceding held note."
+    },
+    {
+      "line": 27,
+      "word_index": 0,
+      "word": "aadariye",
+      "old_onset": 112.95,
+      "new_onset": 112.3,
+      "basis": "Forced alignment of isolated vocals; third hook excludes the preceding phrase tail."
+    },
+    {
+      "line": 28,
+      "word_index": 0,
+      "word": "maage",
+      "old_onset": 116.1,
+      "new_onset": 116.1,
+      "basis": "User identified early Mage entries; matched unprompted vocal word starts instead of the preceding held note."
+    },
+    {
+      "line": 29,
+      "word_index": 0,
+      "word": "aadariye",
+      "old_onset": 117.2,
+      "new_onset": 116.92,
+      "basis": "Forced alignment of isolated vocals; third hook excludes the preceding phrase tail."
+    },
+    {
+      "line": 30,
+      "word_index": 0,
+      "word": "raye",
+      "old_onset": 122.34,
+      "new_onset": 122.62,
+      "basis": "Forced alignment of isolated vocals; third hook excludes the preceding phrase tail."
+    },
+    {
+      "line": 31,
+      "word_index": 0,
+      "word": "maa",
+      "old_onset": 125.42,
+      "new_onset": 125.46,
+      "basis": "Forced alignment of isolated vocals; third hook excludes the preceding phrase tail."
+    },
+    {
+      "line": 31,
+      "word_index": 1,
+      "word": "diha",
+      "old_onset": 126.46,
+      "new_onset": 126.46,
+      "basis": "Forced alignment of isolated vocals; third hook excludes the preceding phrase tail."
+    },
+    {
+      "line": 31,
+      "word_index": 2,
+      "word": "bala",
+      "old_onset": 127.14,
+      "new_onset": 127.16,
+      "basis": "Forced alignment of isolated vocals; third hook excludes the preceding phrase tail."
+    },
+    {
+      "line": 32,
+      "word_index": 0,
+      "word": "heenekin",
+      "old_onset": 128.84,
+      "new_onset": 129.18,
+      "basis": "Forced alignment of isolated vocals; third hook excludes the preceding phrase tail."
+    },
+    {
+      "line": 32,
+      "word_index": 1,
+      "word": "midennako",
+      "old_onset": 130.52,
+      "new_onset": 130.6,
+      "basis": "Forced alignment of isolated vocals; third hook excludes the preceding phrase tail."
+    },
+    {
+      "line": 33,
+      "word_index": 0,
+      "word": "aadariye",
+      "old_onset": 132.25,
+      "new_onset": 132.06,
+      "basis": "Forced alignment of isolated vocals; third hook excludes the preceding phrase tail."
+    },
+    {
+      "line": 34,
+      "word_index": 0,
+      "word": "maage",
+      "old_onset": 136.66,
+      "new_onset": 136.66,
+      "basis": "User identified early Mage entries; matched unprompted vocal word starts instead of the preceding held note."
+    },
+    {
+      "line": 42,
+      "word_index": 0,
+      "word": "aadariye",
+      "old_onset": 168.82,
+      "new_onset": 167.2,
+      "basis": "Forced alignment of isolated vocals; third hook excludes the preceding phrase tail."
+    },
+    {
+      "line": 43,
+      "word_index": 0,
+      "word": "maage",
+      "old_onset": 170.22,
+      "new_onset": 170.22,
+      "basis": "User identified early Mage entries; matched unprompted vocal word starts instead of the preceding held note."
+    },
+    {
+      "line": 44,
+      "word_index": 0,
+      "word": "aadariye",
+      "old_onset": 171.87,
+      "new_onset": 171.74,
+      "basis": "Forced alignment of isolated vocals; third hook excludes the preceding phrase tail."
+    },
+    {
+      "line": 45,
+      "word_index": 0,
+      "word": "raye",
+      "old_onset": 177.46,
+      "new_onset": 176.8,
+      "basis": "Forced alignment of isolated vocals; third hook excludes the preceding phrase tail."
+    },
+    {
+      "line": 46,
+      "word_index": 0,
+      "word": "maa",
+      "old_onset": 180.32,
+      "new_onset": 180.42,
+      "basis": "Forced alignment of isolated vocals; third hook excludes the preceding phrase tail."
+    },
+    {
+      "line": 46,
+      "word_index": 1,
+      "word": "diha",
+      "old_onset": 181.28,
+      "new_onset": 181.28,
+      "basis": "Forced alignment of isolated vocals; third hook excludes the preceding phrase tail."
+    },
+    {
+      "line": 46,
+      "word_index": 2,
+      "word": "bala",
+      "old_onset": 181.98,
+      "new_onset": 181.82,
+      "basis": "Forced alignment of isolated vocals; third hook excludes the preceding phrase tail."
+    },
+    {
+      "line": 47,
+      "word_index": 0,
+      "word": "heenekin",
+      "old_onset": 183.48,
+      "new_onset": 183.92,
+      "basis": "Forced alignment of isolated vocals; third hook excludes the preceding phrase tail."
+    },
+    {
+      "line": 47,
+      "word_index": 1,
+      "word": "midennako",
+      "old_onset": 185.34,
+      "new_onset": 185.36,
+      "basis": "Forced alignment of isolated vocals; third hook excludes the preceding phrase tail."
+    },
+    {
+      "line": 48,
+      "word_index": 0,
+      "word": "aadariye",
+      "old_onset": 187.42,
+      "new_onset": 186.94,
+      "basis": "Forced alignment of isolated vocals; third hook excludes the preceding phrase tail."
+    },
+    {
+      "line": 49,
+      "word_index": 0,
+      "word": "maage",
+      "old_onset": 191.0,
+      "new_onset": 191.0,
+      "basis": "User identified early Mage entries; matched unprompted vocal word starts instead of the preceding held note."
+    }
+  ],
+  "end_corrections": [
+    {
+      "line": 9,
+      "word_index": 0,
+      "end": 45.12
+    },
+    {
+      "line": 10,
+      "word_index": 0,
+      "end": 48.22
+    },
+    {
+      "line": 11,
+      "word_index": 0,
+      "end": 53.7
+    },
+    {
+      "line": 12,
+      "word_index": 0,
+      "end": 56.68
+    },
+    {
+      "line": 13,
+      "word_index": 0,
+      "end": 57.88
+    },
+    {
+      "line": 13,
+      "word_index": 1,
+      "end": 58.5
+    },
+    {
+      "line": 13,
+      "word_index": 2,
+      "end": 60.6
+    },
+    {
+      "line": 14,
+      "word_index": 0,
+      "end": 62.02
+    },
+    {
+      "line": 14,
+      "word_index": 1,
+      "end": 63.5
+    },
+    {
+      "line": 15,
+      "word_index": 0,
+      "end": 66.4
+    },
+    {
+      "line": 16,
+      "word_index": 0,
+      "end": 68.8
+    },
+    {
+      "line": 27,
+      "word_index": 0,
+      "end": 114.24
+    },
+    {
+      "line": 28,
+      "word_index": 0,
+      "end": 116.92
+    },
+    {
+      "line": 29,
+      "word_index": 0,
+      "end": 122.62
+    },
+    {
+      "line": 30,
+      "word_index": 0,
+      "end": 125.46
+    },
+    {
+      "line": 31,
+      "word_index": 0,
+      "end": 126.46
+    },
+    {
+      "line": 31,
+      "word_index": 1,
+      "end": 127.16
+    },
+    {
+      "line": 31,
+      "word_index": 2,
+      "end": 129.18
+    },
+    {
+      "line": 32,
+      "word_index": 0,
+      "end": 130.6
+    },
+    {
+      "line": 32,
+      "word_index": 1,
+      "end": 132.06
+    },
+    {
+      "line": 33,
+      "word_index": 0,
+      "end": 135.22
+    },
+    {
+      "line": 34,
+      "word_index": 0,
+      "end": 137.5
+    },
+    {
+      "line": 42,
+      "word_index": 0,
+      "end": 169.32
+    },
+    {
+      "line": 43,
+      "word_index": 0,
+      "end": 171.74
+    },
+    {
+      "line": 44,
+      "word_index": 0,
+      "end": 176.8
+    },
+    {
+      "line": 45,
+      "word_index": 0,
+      "end": 180.42
+    },
+    {
+      "line": 46,
+      "word_index": 0,
+      "end": 181.28
+    },
+    {
+      "line": 46,
+      "word_index": 1,
+      "end": 181.82
+    },
+    {
+      "line": 46,
+      "word_index": 2,
+      "end": 183.92
+    },
+    {
+      "line": 47,
+      "word_index": 0,
+      "end": 185.36
+    },
+    {
+      "line": 47,
+      "word_index": 1,
+      "end": 186.94
+    },
+    {
+      "line": 48,
+      "word_index": 0,
+      "end": 189.94
+    },
+    {
+      "line": 49,
+      "word_index": 0,
+      "end": 192.12
+    }
+  ],
+  "source": "local isolated-vocal phonetic alignment",
+  "listening_confirmed": false,
+  "notes": [
+    "Replaces the previous user-report/ASR delay estimates.",
+    "No global offset is applied.",
+    "Full words remain visible until the next aligned word; no clearing inside hooks.",
+    "Vocal-only Sinhala-script alignment had collapsed timestamps and was excluded.",
+    "Only six Mage entries delayed after targeted user feedback; Aadariye, verses and layout unchanged."
+  ]
+}

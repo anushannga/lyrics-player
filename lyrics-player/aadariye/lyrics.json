@@ -1,0 +1,515 @@
+[
+  {
+    "id": 0,
+    "section": "verse1",
+    "section_line": 0,
+    "language": "si",
+    "text": "කවදාක හිතුණාද",
+    "alignment_text": "kawadaka hithunada",
+    "display_text": "Y{n£Y ƒ‹lªj£n"
+  },
+  {
+    "id": 1,
+    "section": "verse1",
+    "section_line": 1,
+    "language": "si",
+    "text": "මේ තරම් ආදරේ",
+    "alignment_text": "me tharam aadare",
+    "display_text": "»K lyK R£n»M"
+  },
+  {
+    "id": 2,
+    "section": "verse1",
+    "section_line": 2,
+    "language": "si",
+    "text": "නොදැනීම දින යාද",
+    "alignment_text": "nodaneema dina yaada",
+    "display_text": "»p£n¥pšv ´p x£n"
+  },
+  {
+    "id": 3,
+    "section": "verse1",
+    "section_line": 3,
+    "language": "si",
+    "text": "ලතවෙමි මේ හිතේ",
+    "alignment_text": "lathawemi me hithe",
+    "display_text": "zl»{ñ »K ƒ‹»lŠ"
+  },
+  {
+    "id": 4,
+    "section": "verse1",
+    "section_line": 4,
+    "language": "si",
+    "text": "දුටුවාද පෙරදාක",
+    "alignment_text": "dutuwada peradaka",
+    "display_text": "ãf§{£n »ryn£Y"
+  },
+  {
+    "id": 5,
+    "section": "verse1",
+    "section_line": 5,
+    "language": "si",
+    "text": "මේ හිඩැස පපුතුරේ",
+    "alignment_text": "me hidasa paputhure",
+    "display_text": "»K ƒ‹h¥~ rr§lª»M"
+  },
+  {
+    "id": 6,
+    "section": "verse1",
+    "section_line": 6,
+    "language": "si",
+    "text": "මතුදාක නිමවේද",
+    "alignment_text": "mathudaka nimaweda",
+    "display_text": "vlªn£Y p‹v»Nn"
+  },
+  {
+    "id": 7,
+    "section": "pre1",
+    "section_line": 0,
+    "language": "si",
+    "text": "ආයේ ආයේ මා හදේ",
+    "alignment_text": "aaye aaye maa hade",
+    "display_text": "R£»xŠ R£»xŠ v£ ƒ»nŠ"
+  },
+  {
+    "id": 8,
+    "section": "pre1",
+    "section_line": 1,
+    "language": "si",
+    "text": "මන්දාරම් කතා විඳිම් මේ ආදරේ",
+    "alignment_text": "mandaaram kathaa vindim me aadare",
+    "display_text": "vpŠn£yK Yl£ ýq‹K »K R£n»M"
+  },
+  {
+    "id": 9,
+    "section": "hook1",
+    "section_line": 0,
+    "language": "si",
+    "text": "ආදරියේ",
+    "alignment_text": "aadariye",
+    "display_text": "R£nù»xŠ"
+  },
+  {
+    "id": 10,
+    "section": "hook1",
+    "section_line": 1,
+    "language": "si",
+    "text": "මගේ",
+    "alignment_text": "maage",
+    "display_text": "v»[Š"
+  },
+  {
+    "id": 11,
+    "section": "hook1",
+    "section_line": 2,
+    "language": "si",
+    "text": "ආදරියේ",
+    "alignment_text": "aadariye",
+    "display_text": "R£nù»xŠ"
+  },
+  {
+    "id": 12,
+    "section": "hook1",
+    "section_line": 3,
+    "language": "si",
+    "text": "රැයේ",
+    "alignment_text": "raye",
+    "display_text": "÷»xŠ"
+  },
+  {
+    "id": 13,
+    "section": "hook1",
+    "section_line": 4,
+    "language": "si",
+    "text": "මා දිහා බලා",
+    "alignment_text": "maa diha bala",
+    "display_text": "v£ ´ƒ£ tz£"
+  },
+  {
+    "id": 14,
+    "section": "hook1",
+    "section_line": 5,
+    "language": "si",
+    "text": "හීනෙකින් මිදෙන්නකෝ",
+    "alignment_text": "heenekin midennako",
+    "display_text": "ƒš»pY‹pŠ ñ»npŠp»Y£Š"
+  },
+  {
+    "id": 15,
+    "section": "hook1",
+    "section_line": 6,
+    "language": "si",
+    "text": "ආදරියේ",
+    "alignment_text": "aadariye",
+    "display_text": "R£nù»xŠ"
+  },
+  {
+    "id": 16,
+    "section": "hook1",
+    "section_line": 7,
+    "language": "si",
+    "text": "මගේ",
+    "alignment_text": "maage",
+    "display_text": "v»[Š"
+  },
+  {
+    "id": 17,
+    "section": "verse2",
+    "section_line": 0,
+    "language": "si",
+    "text": "රිදුණාද කිසිදාක",
+    "alignment_text": "ridunada kisidaaka",
+    "display_text": "ùãj£n Y‹~‹n£Y"
+  },
+  {
+    "id": 18,
+    "section": "verse2",
+    "section_line": 1,
+    "language": "si",
+    "text": "මේ සියුම් පපුතුරේ",
+    "alignment_text": "me siyum paputhure",
+    "display_text": "»K ~‹x§K rr§lª»M"
+  },
+  {
+    "id": 19,
+    "section": "verse2",
+    "section_line": 2,
+    "language": "si",
+    "text": "නොහිතාම දෙඩුවාද",
+    "alignment_text": "nohithaama deduwada",
+    "display_text": "»p£ƒ‹l£v »nh§{£n"
+  },
+  {
+    "id": 20,
+    "section": "verse2",
+    "section_line": 3,
+    "language": "si",
+    "text": "පෑරෙනා හදවතේ",
+    "alignment_text": "paarenaa hadawathe",
+    "display_text": "r¦»yp£ ƒn{»lŠ"
+  },
+  {
+    "id": 21,
+    "section": "verse2",
+    "section_line": 4,
+    "language": "si",
+    "text": "මතුදාක නුඹ වේද",
+    "alignment_text": "mathudaka numba weda",
+    "display_text": "vlªn£Y p§w »Nn"
+  },
+  {
+    "id": 22,
+    "section": "verse2",
+    "section_line": 5,
+    "language": "si",
+    "text": "ආයෙමත් ආදරේ",
+    "alignment_text": "aayemath aadare",
+    "display_text": "R£»xvlŠ R£n»M"
+  },
+  {
+    "id": 23,
+    "section": "verse2",
+    "section_line": 6,
+    "language": "si",
+    "text": "මගේ නේද",
+    "alignment_text": "maage neda",
+    "display_text": "v»[Š »pŠn"
+  },
+  {
+    "id": 24,
+    "section": "verse2",
+    "section_line": 7,
+    "language": "si",
+    "text": "මගේ නේද",
+    "alignment_text": "maage neda",
+    "display_text": "v»[Š »pŠn"
+  },
+  {
+    "id": 25,
+    "section": "pre2",
+    "section_line": 0,
+    "language": "si",
+    "text": "ආයේ ආයේ මා හදේ",
+    "alignment_text": "aaye aaye maa hade",
+    "display_text": "R£»xŠ R£»xŠ v£ ƒ»nŠ"
+  },
+  {
+    "id": 26,
+    "section": "pre2",
+    "section_line": 1,
+    "language": "si",
+    "text": "මන්දාරම් කතා විඳිම් මේ ආදරේ",
+    "alignment_text": "mandaaram kathaa vindim me aadare",
+    "display_text": "vpŠn£yK Yl£ ýq‹K »K R£n»M"
+  },
+  {
+    "id": 27,
+    "section": "hook2",
+    "section_line": 0,
+    "language": "si",
+    "text": "ආදරියේ",
+    "alignment_text": "aadariye",
+    "display_text": "R£nù»xŠ"
+  },
+  {
+    "id": 28,
+    "section": "hook2",
+    "section_line": 1,
+    "language": "si",
+    "text": "මගේ",
+    "alignment_text": "maage",
+    "display_text": "v»[Š"
+  },
+  {
+    "id": 29,
+    "section": "hook2",
+    "section_line": 2,
+    "language": "si",
+    "text": "ආදරියේ",
+    "alignment_text": "aadariye",
+    "display_text": "R£nù»xŠ"
+  },
+  {
+    "id": 30,
+    "section": "hook2",
+    "section_line": 3,
+    "language": "si",
+    "text": "රැයේ",
+    "alignment_text": "raye",
+    "display_text": "÷»xŠ"
+  },
+  {
+    "id": 31,
+    "section": "hook2",
+    "section_line": 4,
+    "language": "si",
+    "text": "මා දිහා බලා",
+    "alignment_text": "maa diha bala",
+    "display_text": "v£ ´ƒ£ tz£"
+  },
+  {
+    "id": 32,
+    "section": "hook2",
+    "section_line": 5,
+    "language": "si",
+    "text": "හීනෙකින් මිදෙන්නකෝ",
+    "alignment_text": "heenekin midennako",
+    "display_text": "ƒš»pY‹pŠ ñ»npŠp»Y£Š"
+  },
+  {
+    "id": 33,
+    "section": "hook2",
+    "section_line": 6,
+    "language": "si",
+    "text": "ආදරියේ",
+    "alignment_text": "aadariye",
+    "display_text": "R£nù»xŠ"
+  },
+  {
+    "id": 34,
+    "section": "hook2",
+    "section_line": 7,
+    "language": "si",
+    "text": "මගේ",
+    "alignment_text": "maage",
+    "display_text": "v»[Š"
+  },
+  {
+    "id": 35,
+    "section": "bridge1",
+    "section_line": 0,
+    "language": "si",
+    "text": "හීනෙන් ඈ හා ළංවීම වින්දා",
+    "alignment_text": "heenen ae haa lanweema vindaa",
+    "display_text": "ƒš»ppŠ R¦ ƒ£ …¹þv ýpŠn£"
+  },
+  {
+    "id": 36,
+    "section": "bridge1",
+    "section_line": 1,
+    "language": "si",
+    "text": "ගෙව්වේ ආදරේ මා හා",
+    "alignment_text": "gewwe aadare maa haa",
+    "display_text": "»[N»N R£n»M v£ ƒ£"
+  },
+  {
+    "id": 37,
+    "section": "bridge1",
+    "section_line": 2,
+    "language": "si",
+    "text": "දෑහින් මා නිවාදෝ ආදරේ",
+    "alignment_text": "daehin maa niwaado aadare",
+    "display_text": "n¦ƒ‹pŠ v£ p‹{£»àŠ R£n»M"
+  },
+  {
+    "id": 38,
+    "section": "bridge1",
+    "section_line": 3,
+    "language": "si",
+    "text": "ඈ හා මතකේ",
+    "alignment_text": "ae haa mathake",
+    "display_text": "R¦ ƒ£ vl»YŠ"
+  },
+  {
+    "id": 39,
+    "section": "bridge1",
+    "section_line": 4,
+    "language": "si",
+    "text": "වින්දාද පාරා",
+    "alignment_text": "windaada paara",
+    "display_text": "ýpŠn£n r£y£"
+  },
+  {
+    "id": 40,
+    "section": "bridge1",
+    "section_line": 5,
+    "language": "si",
+    "text": "මා හිඳීදෝ ඈ හා",
+    "alignment_text": "maa hindido ae haa",
+    "display_text": "v£ ƒ‹qš»àŠ R¦ ƒ£"
+  },
+  {
+    "id": 41,
+    "section": "bridge1",
+    "section_line": 6,
+    "language": "si",
+    "text": "කවදා ළංවේදෝ ආදරේ",
+    "alignment_text": "kawada lanwedo aadare",
+    "display_text": "Y{n£ …¹»N»àŠ R£n»M"
+  },
+  {
+    "id": 42,
+    "section": "hook3",
+    "section_line": 0,
+    "language": "si",
+    "text": "ආදරියේ",
+    "alignment_text": "aadariye",
+    "display_text": "R£nù»xŠ"
+  },
+  {
+    "id": 43,
+    "section": "hook3",
+    "section_line": 1,
+    "language": "si",
+    "text": "මගේ",
+    "alignment_text": "maage",
+    "display_text": "v»[Š"
+  },
+  {
+    "id": 44,
+    "section": "hook3",
+    "section_line": 2,
+    "language": "si",
+    "text": "ආදරියේ",
+    "alignment_text": "aadariye",
+    "display_text": "R£nù»xŠ"
+  },
+  {
+    "id": 45,
+    "section": "hook3",
+    "section_line": 3,
+    "language": "si",
+    "text": "රැයේ",
+    "alignment_text": "raye",
+    "display_text": "÷»xŠ"
+  },
+  {
+    "id": 46,
+    "section": "hook3",
+    "section_line": 4,
+    "language": "si",
+    "text": "මා දිහා බලා",
+    "alignment_text": "maa diha bala",
+    "display_text": "v£ ´ƒ£ tz£"
+  },
+  {
+    "id": 47,
+    "section": "hook3",
+    "section_line": 5,
+    "language": "si",
+    "text": "හීනෙකින් මිදෙන්නකෝ",
+    "alignment_text": "heenekin midennako",
+    "display_text": "ƒš»pY‹pŠ ñ»npŠp»Y£Š"
+  },
+  {
+    "id": 48,
+    "section": "hook3",
+    "section_line": 6,
+    "language": "si",
+    "text": "ආදරියේ",
+    "alignment_text": "aadariye",
+    "display_text": "R£nù»xŠ"
+  },
+  {
+    "id": 49,
+    "section": "hook3",
+    "section_line": 7,
+    "language": "si",
+    "text": "මගේ",
+    "alignment_text": "maage",
+    "display_text": "v»[Š"
+  },
+  {
+    "id": 50,
+    "section": "bridge2",
+    "section_line": 0,
+    "language": "si",
+    "text": "හීනෙන් ඈ හා ළංවීම වින්දා",
+    "alignment_text": "heenen ae haa lanweema vindaa",
+    "display_text": "ƒš»ppŠ R¦ ƒ£ …¹þv ýpŠn£"
+  },
+  {
+    "id": 51,
+    "section": "bridge2",
+    "section_line": 1,
+    "language": "si",
+    "text": "ගෙව්වේ ආදරේ මා හා",
+    "alignment_text": "gewwe aadare maa haa",
+    "display_text": "»[N»N R£n»M v£ ƒ£"
+  },
+  {
+    "id": 52,
+    "section": "bridge2",
+    "section_line": 2,
+    "language": "si",
+    "text": "දෑහින් මා නිවාදෝ ආදරේ",
+    "alignment_text": "daehin maa niwaado aadare",
+    "display_text": "n¦ƒ‹pŠ v£ p‹{£»àŠ R£n»M"
+  },
+  {
+    "id": 53,
+    "section": "bridge2",
+    "section_line": 3,
+    "language": "si",
+    "text": "ඈ හා මතකේ",
+    "alignment_text": "ae haa mathake",
+    "display_text": "R¦ ƒ£ vl»YŠ"
+  },
+  {
+    "id": 54,
+    "section": "bridge2",
+    "section_line": 4,
+    "language": "si",
+    "text": "වින්දාද පාරා",
+    "alignment_text": "windaada paara",
+    "display_text": "ýpŠn£n r£y£"
+  },
+  {
+    "id": 55,
+    "section": "bridge2",
+    "section_line": 5,
+    "language": "si",
+    "text": "මා හිඳීදෝ ඈ හා",
+    "alignment_text": "maa hindido ae haa",
+    "display_text": "v£ ƒ‹qš»àŠ R¦ ƒ£"
+  },
+  {
+    "id": 56,
+    "section": "bridge2",
+    "section_line": 6,
+    "language": "si",
+    "text": "කවදා ළංවේදෝ ආදරේ",
+    "alignment_text": "kawada lanwedo aadare",
+    "display_text": "Y{n£ …¹»N»àŠ R£n»M"
+  }
+]

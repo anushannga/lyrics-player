@@ -1,0 +1,61 @@
+{
+  "listening_confirmed": false,
+  "changes": [
+    {
+      "line": 8,
+      "old": 34.28,
+      "new": 34.83,
+      "reason": "Mandaram displayed early; trial delay from user feedback"
+    },
+    {
+      "line": 11,
+      "old": 48.22,
+      "new": 49.7,
+      "reason": "Hold Mage scene for at least 2.4 seconds"
+    },
+    {
+      "line": 17,
+      "old": 71.84,
+      "new": 71.84,
+      "reason": "Hold Mage scene for at least 2.4 seconds"
+    },
+    {
+      "line": 26,
+      "old": 102.86,
+      "new": 103.41,
+      "reason": "Mandaram displayed early; trial delay from user feedback"
+    },
+    {
+      "line": 29,
+      "old": 116.92,
+      "new": 118.5,
+      "reason": "Hold Mage scene for at least 2.4 seconds"
+    },
+    {
+      "line": 35,
+      "old": 138.82,
+      "new": 139.06,
+      "reason": "Hold Mage scene for at least 2.4 seconds"
+    },
+    {
+      "line": 44,
+      "old": 171.74,
+      "new": 172.62,
+      "reason": "Hold Mage scene for at least 2.4 seconds"
+    },
+    {
+      "line": 50,
+      "old": 193.72,
+      "new": 193.72,
+      "reason": "Hold Mage scene for at least 2.4 seconds"
+    },
+    {
+      "line": 56,
+      "word_index": 2,
+      "old": 217.86,
+      "new": 218.36,
+      "end": 220.76,
+      "reason": "User requested later final Aadare and a longer progressive ellipsis hold"
+    }
+  ]
+}

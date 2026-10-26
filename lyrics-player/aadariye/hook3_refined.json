@@ -1,0 +1,140 @@
+[
+  {
+    "id": 42,
+    "section": "hook3",
+    "section_line": 0,
+    "start": 167.24,
+    "end": 169.86,
+    "words": [
+      {
+        "word": "aadariye",
+        "start": 167.24,
+        "end": 169.86,
+        "probability": 0.15396546869305894
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "section": "hook3",
+    "section_line": 1,
+    "start": 169.86,
+    "end": 171.54,
+    "words": [
+      {
+        "word": "maage",
+        "start": 169.86,
+        "end": 171.54,
+        "probability": 0.06392113072797656
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "section": "hook3",
+    "section_line": 2,
+    "start": 171.54,
+    "end": 177.46,
+    "words": [
+      {
+        "word": "aadariye",
+        "start": 171.54,
+        "end": 177.46,
+        "probability": 0.8851608484983444
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "section": "hook3",
+    "section_line": 3,
+    "start": 177.46,
+    "end": 180.32,
+    "words": [
+      {
+        "word": "raye",
+        "start": 177.46,
+        "end": 180.32,
+        "probability": 0.00907355808885768
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "section": "hook3",
+    "section_line": 4,
+    "start": 180.32,
+    "end": 183.48,
+    "words": [
+      {
+        "word": "maa",
+        "start": 180.32,
+        "end": 181.28,
+        "probability": 0.058199500665068626
+      },
+      {
+        "word": "diha",
+        "start": 181.28,
+        "end": 181.98,
+        "probability": 0.06500160694122314
+      },
+      {
+        "word": "bala",
+        "start": 181.98,
+        "end": 183.48,
+        "probability": 0.5385236144065857
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "section": "hook3",
+    "section_line": 5,
+    "start": 183.48,
+    "end": 186.74,
+    "words": [
+      {
+        "word": "heenekin",
+        "start": 183.48,
+        "end": 185.34,
+        "probability": 0.06426619598641992
+      },
+      {
+        "word": "midennako",
+        "start": 185.34,
+        "end": 186.74,
+        "probability": 0.03619877540040761
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "section": "hook3",
+    "section_line": 6,
+    "start": 186.74,
+    "end": 189.88,
+    "words": [
+      {
+        "word": "aadariye",
+        "start": 186.74,
+        "end": 189.88,
+        "probability": 0.9440264850854874
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "section": "hook3",
+    "section_line": 7,
+    "start": 189.88,
+    "end": 192.14,
+    "words": [
+      {
+        "word": "maage",
+        "start": 189.88,
+        "end": 192.14,
+        "probability": 0.9504204392433167
+      }
+    ]
+  }
+]

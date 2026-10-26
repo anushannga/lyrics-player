@@ -1,0 +1,16 @@
+[
+  {
+    "song": "aadariye",
+    "python_syntax": true,
+    "dry_run": true,
+    "display_rebuild_identical": true,
+    "package_hashes": true
+  },
+  {
+    "song": "adare-wediwela",
+    "python_syntax": true,
+    "dry_run": true,
+    "display_rebuild_identical": true,
+    "package_hashes": true
+  }
+]

@@ -1,0 +1,1337 @@
+[
+  {
+    "id": 0,
+    "section": "verse1",
+    "section_line": 0,
+    "start": 4.22,
+    "end": 7.06,
+    "words": [
+      {
+        "word": "kawadaka",
+        "start": 4.22,
+        "end": 5.32,
+        "probability": 0.018421091488562524
+      },
+      {
+        "word": "hithunada",
+        "start": 5.32,
+        "end": 7.06,
+        "probability": 0.23936949631752213
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "section": "verse1",
+    "section_line": 1,
+    "start": 7.06,
+    "end": 10.28,
+    "words": [
+      {
+        "word": "me",
+        "start": 7.06,
+        "end": 8.46,
+        "probability": 0.17771510779857635
+      },
+      {
+        "word": "tharam",
+        "start": 8.46,
+        "end": 9.16,
+        "probability": 0.10409123112913221
+      },
+      {
+        "word": "aadare",
+        "start": 9.16,
+        "end": 10.28,
+        "probability": 0.4062567303578059
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "section": "verse1",
+    "section_line": 2,
+    "start": 10.28,
+    "end": 14.16,
+    "words": [
+      {
+        "word": "nodaneema",
+        "start": 10.28,
+        "end": 12.32,
+        "probability": 0.042145184241235256
+      },
+      {
+        "word": "dina",
+        "start": 12.32,
+        "end": 13.16,
+        "probability": 0.47443972527980804
+      },
+      {
+        "word": "yaada",
+        "start": 13.16,
+        "end": 14.16,
+        "probability": 0.1528545320034027
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "section": "verse1",
+    "section_line": 3,
+    "start": 14.16,
+    "end": 17.14,
+    "words": [
+      {
+        "word": "lathawemi",
+        "start": 14.16,
+        "end": 15.84,
+        "probability": 0.4228399173152866
+      },
+      {
+        "word": "me",
+        "start": 15.84,
+        "end": 16.5,
+        "probability": 0.6077826619148254
+      },
+      {
+        "word": "hithe",
+        "start": 16.5,
+        "end": 17.14,
+        "probability": 0.14455685392022133
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "section": "verse1",
+    "section_line": 4,
+    "start": 17.14,
+    "end": 20.9,
+    "words": [
+      {
+        "word": "dutuwada",
+        "start": 17.14,
+        "end": 19.14,
+        "probability": 0.5296655397396535
+      },
+      {
+        "word": "peradaka",
+        "start": 19.14,
+        "end": 20.9,
+        "probability": 0.4779953757921855
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "section": "verse1",
+    "section_line": 5,
+    "start": 20.9,
+    "end": 23.98,
+    "words": [
+      {
+        "word": "me",
+        "start": 20.9,
+        "end": 22.16,
+        "probability": 0.8576898574829102
+      },
+      {
+        "word": "hidasa",
+        "start": 22.16,
+        "end": 22.98,
+        "probability": 0.1908467086032033
+      },
+      {
+        "word": "paputhure",
+        "start": 22.98,
+        "end": 23.98,
+        "probability": 0.3619894242535035
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "section": "verse1",
+    "section_line": 6,
+    "start": 23.98,
+    "end": 27.76,
+    "words": [
+      {
+        "word": "mathudaka",
+        "start": 23.98,
+        "end": 26.02,
+        "probability": 0.33709990481535596
+      },
+      {
+        "word": "nimaweda",
+        "start": 26.02,
+        "end": 27.76,
+        "probability": 0.3804254067751269
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "section": "pre1",
+    "section_line": 0,
+    "start": 31.7,
+    "end": 34.28,
+    "words": [
+      {
+        "word": "aaye",
+        "start": 31.7,
+        "end": 32.4,
+        "probability": 0.007566394750028849
+      },
+      {
+        "word": "aaye",
+        "start": 32.4,
+        "end": 33.26,
+        "probability": 0.6859769821166992
+      },
+      {
+        "word": "maa",
+        "start": 33.26,
+        "end": 33.88,
+        "probability": 0.406202033162117
+      },
+      {
+        "word": "hade",
+        "start": 33.88,
+        "end": 34.28,
+        "probability": 0.0013160264352336526
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "section": "pre1",
+    "section_line": 1,
+    "start": 34.28,
+    "end": 41.06,
+    "words": [
+      {
+        "word": "mandaaram",
+        "start": 34.28,
+        "end": 37.96,
+        "probability": 0.1752267306049665
+      },
+      {
+        "word": "kathaa",
+        "start": 37.96,
+        "end": 38.98,
+        "probability": 0.27440016778806847
+      },
+      {
+        "word": "vindim",
+        "start": 38.98,
+        "end": 39.82,
+        "probability": 0.3049001581966877
+      },
+      {
+        "word": "me",
+        "start": 39.82,
+        "end": 40.16,
+        "probability": 0.007524923887103796
+      },
+      {
+        "word": "aadare",
+        "start": 40.16,
+        "end": 41.06,
+        "probability": 0.48476146658261615
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "section": "hook1",
+    "section_line": 0,
+    "start": 43.66,
+    "end": 45.12,
+    "words": [
+      {
+        "word": "aadariye",
+        "start": 43.66,
+        "end": 45.12,
+        "probability": 0.26561910497548524
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "section": "hook1",
+    "section_line": 1,
+    "start": 47.3,
+    "end": 48.22,
+    "words": [
+      {
+        "word": "maage",
+        "start": 47.3,
+        "end": 48.22,
+        "probability": 0.024292757152579725
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "section": "hook1",
+    "section_line": 2,
+    "start": 48.22,
+    "end": 53.7,
+    "words": [
+      {
+        "word": "aadariye",
+        "start": 48.22,
+        "end": 53.7,
+        "probability": 0.800888903439045
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "section": "hook1",
+    "section_line": 3,
+    "start": 53.7,
+    "end": 56.68,
+    "words": [
+      {
+        "word": "raye",
+        "start": 53.7,
+        "end": 56.68,
+        "probability": 0.03832735901232809
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "section": "hook1",
+    "section_line": 4,
+    "start": 56.68,
+    "end": 60.6,
+    "words": [
+      {
+        "word": "maa",
+        "start": 56.68,
+        "end": 57.88,
+        "probability": 0.1834338791668415
+      },
+      {
+        "word": "diha",
+        "start": 57.88,
+        "end": 58.5,
+        "probability": 0.09473612636793405
+      },
+      {
+        "word": "bala",
+        "start": 58.5,
+        "end": 60.6,
+        "probability": 0.3560326509177685
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "section": "hook1",
+    "section_line": 5,
+    "start": 60.6,
+    "end": 63.5,
+    "words": [
+      {
+        "word": "heenekin",
+        "start": 60.6,
+        "end": 62.02,
+        "probability": 0.2846959690214135
+      },
+      {
+        "word": "midennako",
+        "start": 62.02,
+        "end": 63.5,
+        "probability": 0.07180018691966931
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "section": "hook1",
+    "section_line": 6,
+    "start": 63.5,
+    "end": 66.4,
+    "words": [
+      {
+        "word": "aadariye",
+        "start": 63.5,
+        "end": 66.4,
+        "probability": 0.946330189704895
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "section": "hook1",
+    "section_line": 7,
+    "start": 68.12,
+    "end": 68.8,
+    "words": [
+      {
+        "word": "maage",
+        "start": 68.12,
+        "end": 68.8,
+        "probability": 0.9641838073730469
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "section": "verse2",
+    "section_line": 0,
+    "start": 71.84,
+    "end": 75.82,
+    "words": [
+      {
+        "word": "ridunada",
+        "start": 71.84,
+        "end": 73.96,
+        "probability": 0.12602441016497323
+      },
+      {
+        "word": "kisidaaka",
+        "start": 73.96,
+        "end": 75.82,
+        "probability": 0.16458136681467295
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "section": "verse2",
+    "section_line": 1,
+    "start": 75.82,
+    "end": 78.84,
+    "words": [
+      {
+        "word": "me",
+        "start": 75.82,
+        "end": 77.12,
+        "probability": 0.004977759905159473
+      },
+      {
+        "word": "siyum",
+        "start": 77.12,
+        "end": 77.82,
+        "probability": 0.36474797626336414
+      },
+      {
+        "word": "paputhure",
+        "start": 77.82,
+        "end": 78.84,
+        "probability": 0.15931673611824712
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "section": "verse2",
+    "section_line": 2,
+    "start": 78.84,
+    "end": 82.62,
+    "words": [
+      {
+        "word": "nohithaama",
+        "start": 78.84,
+        "end": 80.96,
+        "probability": 0.2236039310693741
+      },
+      {
+        "word": "deduwada",
+        "start": 80.96,
+        "end": 82.62,
+        "probability": 0.4504679616851111
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "section": "verse2",
+    "section_line": 3,
+    "start": 82.62,
+    "end": 85.92,
+    "words": [
+      {
+        "word": "paarenaa",
+        "start": 82.62,
+        "end": 84.92,
+        "probability": 0.07876762278222789
+      },
+      {
+        "word": "hadawathe",
+        "start": 84.92,
+        "end": 85.92,
+        "probability": 0.20491540750178197
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "section": "verse2",
+    "section_line": 4,
+    "start": 85.92,
+    "end": 90.04,
+    "words": [
+      {
+        "word": "mathudaka",
+        "start": 85.92,
+        "end": 87.7,
+        "probability": 0.14528457261621952
+      },
+      {
+        "word": "numba",
+        "start": 87.7,
+        "end": 88.84,
+        "probability": 0.002097770688124001
+      },
+      {
+        "word": "weda",
+        "start": 88.84,
+        "end": 90.04,
+        "probability": 0.08631128149681899
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "section": "verse2",
+    "section_line": 5,
+    "start": 90.04,
+    "end": 92.54,
+    "words": [
+      {
+        "word": "aayemath",
+        "start": 90.04,
+        "end": 91.72,
+        "probability": 0.09505202691070735
+      },
+      {
+        "word": "aadare",
+        "start": 91.72,
+        "end": 92.54,
+        "probability": 0.31080543498198193
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "section": "verse2",
+    "section_line": 6,
+    "start": 92.54,
+    "end": 94.56,
+    "words": [
+      {
+        "word": "maage",
+        "start": 92.54,
+        "end": 93.86,
+        "probability": 0.21541615563910455
+      },
+      {
+        "word": "neda",
+        "start": 93.86,
+        "end": 94.56,
+        "probability": 0.052762119099497795
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "section": "verse2",
+    "section_line": 7,
+    "start": 94.56,
+    "end": 96.34,
+    "words": [
+      {
+        "word": "maage",
+        "start": 94.56,
+        "end": 95.54,
+        "probability": 0.726304441690445
+      },
+      {
+        "word": "neda",
+        "start": 95.54,
+        "end": 96.34,
+        "probability": 0.9947150647640228
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "section": "pre2",
+    "section_line": 0,
+    "start": 100.26,
+    "end": 102.86,
+    "words": [
+      {
+        "word": "aaye",
+        "start": 100.26,
+        "end": 100.98,
+        "probability": 0.00779806706123054
+      },
+      {
+        "word": "aaye",
+        "start": 100.98,
+        "end": 101.82,
+        "probability": 0.6576036065816879
+      },
+      {
+        "word": "maa",
+        "start": 101.82,
+        "end": 102.46,
+        "probability": 0.4292638748884201
+      },
+      {
+        "word": "hade",
+        "start": 102.46,
+        "end": 102.86,
+        "probability": 0.0009535836288705468
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "section": "pre2",
+    "section_line": 1,
+    "start": 102.86,
+    "end": 109.68,
+    "words": [
+      {
+        "word": "mandaaram",
+        "start": 102.86,
+        "end": 106.52,
+        "probability": 0.06991719671835502
+      },
+      {
+        "word": "kathaa",
+        "start": 106.52,
+        "end": 107.54,
+        "probability": 0.23601913824677467
+      },
+      {
+        "word": "vindim",
+        "start": 107.54,
+        "end": 108.4,
+        "probability": 0.3709303289651871
+      },
+      {
+        "word": "me",
+        "start": 108.4,
+        "end": 108.72,
+        "probability": 0.013294719159603119
+      },
+      {
+        "word": "aadare",
+        "start": 108.72,
+        "end": 109.68,
+        "probability": 0.4586353674530983
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "section": "hook2",
+    "section_line": 0,
+    "start": 112.3,
+    "end": 114.24,
+    "words": [
+      {
+        "word": "aadariye",
+        "start": 112.3,
+        "end": 114.24,
+        "probability": 0.25367053007357754
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "section": "hook2",
+    "section_line": 1,
+    "start": 116.1,
+    "end": 116.92,
+    "words": [
+      {
+        "word": "maage",
+        "start": 116.1,
+        "end": 116.92,
+        "probability": 0.06506844109389931
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "section": "hook2",
+    "section_line": 2,
+    "start": 116.92,
+    "end": 122.62,
+    "words": [
+      {
+        "word": "aadariye",
+        "start": 116.92,
+        "end": 122.62,
+        "probability": 0.792880192399025
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "section": "hook2",
+    "section_line": 3,
+    "start": 122.62,
+    "end": 125.46,
+    "words": [
+      {
+        "word": "raye",
+        "start": 122.62,
+        "end": 125.46,
+        "probability": 0.018607560161399306
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "section": "hook2",
+    "section_line": 4,
+    "start": 125.46,
+    "end": 129.18,
+    "words": [
+      {
+        "word": "maa",
+        "start": 125.46,
+        "end": 126.46,
+        "probability": 0.21949179098010063
+      },
+      {
+        "word": "diha",
+        "start": 126.46,
+        "end": 127.16,
+        "probability": 0.22546618431806564
+      },
+      {
+        "word": "bala",
+        "start": 127.16,
+        "end": 129.18,
+        "probability": 0.4713571146130562
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "section": "hook2",
+    "section_line": 5,
+    "start": 129.18,
+    "end": 132.06,
+    "words": [
+      {
+        "word": "heenekin",
+        "start": 129.18,
+        "end": 130.6,
+        "probability": 0.19441354711307213
+      },
+      {
+        "word": "midennako",
+        "start": 130.6,
+        "end": 132.06,
+        "probability": 0.013670542587836584
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "section": "hook2",
+    "section_line": 6,
+    "start": 132.06,
+    "end": 135.22,
+    "words": [
+      {
+        "word": "aadariye",
+        "start": 132.06,
+        "end": 135.22,
+        "probability": 0.9410183131694794
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "section": "hook2",
+    "section_line": 7,
+    "start": 136.66,
+    "end": 137.5,
+    "words": [
+      {
+        "word": "maage",
+        "start": 136.66,
+        "end": 137.5,
+        "probability": 0.9565574526786804
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "section": "bridge1",
+    "section_line": 0,
+    "start": 138.82,
+    "end": 143.36,
+    "words": [
+      {
+        "word": "heenen",
+        "start": 138.82,
+        "end": 139.52,
+        "probability": 0.0008116515818983316
+      },
+      {
+        "word": "ae",
+        "start": 139.52,
+        "end": 140.44,
+        "probability": 0.08461637901200447
+      },
+      {
+        "word": "haa",
+        "start": 140.44,
+        "end": 140.56,
+        "probability": 0.09205765649676323
+      },
+      {
+        "word": "lanweema",
+        "start": 140.56,
+        "end": 141.8,
+        "probability": 0.002006672410061583
+      },
+      {
+        "word": "vindaa",
+        "start": 141.8,
+        "end": 143.36,
+        "probability": 0.01639563239950803
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "section": "bridge1",
+    "section_line": 1,
+    "start": 143.36,
+    "end": 147.42,
+    "words": [
+      {
+        "word": "gewwe",
+        "start": 143.36,
+        "end": 144.46,
+        "probability": 0.002256225503515452
+      },
+      {
+        "word": "aadare",
+        "start": 144.46,
+        "end": 145.66,
+        "probability": 0.0050807727966457605
+      },
+      {
+        "word": "maa",
+        "start": 145.66,
+        "end": 146.82,
+        "probability": 0.35816244035959244
+      },
+      {
+        "word": "haa",
+        "start": 146.82,
+        "end": 147.42,
+        "probability": 0.38278725437339745
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "section": "bridge1",
+    "section_line": 2,
+    "start": 147.42,
+    "end": 151.06,
+    "words": [
+      {
+        "word": "daehin",
+        "start": 147.42,
+        "end": 147.88,
+        "probability": 0.06792118772864342
+      },
+      {
+        "word": "maa",
+        "start": 147.88,
+        "end": 148.5,
+        "probability": 0.15744293294847012
+      },
+      {
+        "word": "niwaado",
+        "start": 148.5,
+        "end": 149.78,
+        "probability": 0.017292132552635547
+      },
+      {
+        "word": "aadare",
+        "start": 149.78,
+        "end": 151.06,
+        "probability": 0.5750924050807953
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "section": "bridge1",
+    "section_line": 3,
+    "start": 151.06,
+    "end": 153.96,
+    "words": [
+      {
+        "word": "ae",
+        "start": 151.06,
+        "end": 153.02,
+        "probability": 0.04736768454313278
+      },
+      {
+        "word": "haa",
+        "start": 153.02,
+        "end": 153.44,
+        "probability": 0.6156674027442932
+      },
+      {
+        "word": "mathake",
+        "start": 153.44,
+        "end": 153.96,
+        "probability": 0.1353705785004422
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "section": "bridge1",
+    "section_line": 4,
+    "start": 153.96,
+    "end": 156.64,
+    "words": [
+      {
+        "word": "windaada",
+        "start": 153.96,
+        "end": 155.44,
+        "probability": 0.12902503992881975
+      },
+      {
+        "word": "paara",
+        "start": 155.44,
+        "end": 156.64,
+        "probability": 0.18071162651176564
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "section": "bridge1",
+    "section_line": 5,
+    "start": 156.64,
+    "end": 160.6,
+    "words": [
+      {
+        "word": "maa",
+        "start": 156.64,
+        "end": 157.72,
+        "probability": 0.6449487805366516
+      },
+      {
+        "word": "hindido",
+        "start": 157.72,
+        "end": 158.7,
+        "probability": 0.0005170608710614033
+      },
+      {
+        "word": "ae",
+        "start": 158.7,
+        "end": 159.5,
+        "probability": 0.8603810369968414
+      },
+      {
+        "word": "haa",
+        "start": 159.5,
+        "end": 160.6,
+        "probability": 0.9577107429504395
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "section": "bridge1",
+    "section_line": 6,
+    "start": 160.6,
+    "end": 164.48,
+    "words": [
+      {
+        "word": "kawada",
+        "start": 160.6,
+        "end": 161.28,
+        "probability": 0.15005945165952048
+      },
+      {
+        "word": "lanwedo",
+        "start": 161.28,
+        "end": 163.08,
+        "probability": 0.2235402368241921
+      },
+      {
+        "word": "aadare",
+        "start": 163.08,
+        "end": 164.48,
+        "probability": 0.9492481748263041
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "section": "hook3",
+    "section_line": 0,
+    "start": 167.2,
+    "end": 169.32,
+    "words": [
+      {
+        "word": "aadariye",
+        "start": 167.2,
+        "end": 169.32,
+        "probability": 0.15396546869305894
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "section": "hook3",
+    "section_line": 1,
+    "start": 170.22,
+    "end": 171.74,
+    "words": [
+      {
+        "word": "maage",
+        "start": 170.22,
+        "end": 171.74,
+        "probability": 0.06392113072797656
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "section": "hook3",
+    "section_line": 2,
+    "start": 171.74,
+    "end": 176.8,
+    "words": [
+      {
+        "word": "aadariye",
+        "start": 171.74,
+        "end": 176.8,
+        "probability": 0.8851608484983444
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "section": "hook3",
+    "section_line": 3,
+    "start": 176.8,
+    "end": 180.42,
+    "words": [
+      {
+        "word": "raye",
+        "start": 176.8,
+        "end": 180.42,
+        "probability": 0.00907355808885768
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "section": "hook3",
+    "section_line": 4,
+    "start": 180.42,
+    "end": 183.92,
+    "words": [
+      {
+        "word": "maa",
+        "start": 180.42,
+        "end": 181.28,
+        "probability": 0.058199500665068626
+      },
+      {
+        "word": "diha",
+        "start": 181.28,
+        "end": 181.82,
+        "probability": 0.06500160694122314
+      },
+      {
+        "word": "bala",
+        "start": 181.82,
+        "end": 183.92,
+        "probability": 0.5385236144065857
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "section": "hook3",
+    "section_line": 5,
+    "start": 183.92,
+    "end": 186.94,
+    "words": [
+      {
+        "word": "heenekin",
+        "start": 183.92,
+        "end": 185.36,
+        "probability": 0.06426619598641992
+      },
+      {
+        "word": "midennako",
+        "start": 185.36,
+        "end": 186.94,
+        "probability": 0.03619877540040761
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "section": "hook3",
+    "section_line": 6,
+    "start": 186.94,
+    "end": 189.94,
+    "words": [
+      {
+        "word": "aadariye",
+        "start": 186.94,
+        "end": 189.94,
+        "probability": 0.9440264850854874
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "section": "hook3",
+    "section_line": 7,
+    "start": 191.0,
+    "end": 192.12,
+    "words": [
+      {
+        "word": "maage",
+        "start": 191.0,
+        "end": 192.12,
+        "probability": 0.9504204392433167
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "section": "bridge2",
+    "section_line": 0,
+    "start": 193.72,
+    "end": 198.12,
+    "words": [
+      {
+        "word": "heenen",
+        "start": 193.72,
+        "end": 194.36,
+        "probability": 0.00022461270600615535
+      },
+      {
+        "word": "ae",
+        "start": 194.36,
+        "end": 195.28,
+        "probability": 0.04799105299753137
+      },
+      {
+        "word": "haa",
+        "start": 195.28,
+        "end": 195.32,
+        "probability": 0.06766735389828682
+      },
+      {
+        "word": "lanweema",
+        "start": 195.32,
+        "end": 196.6,
+        "probability": 0.0004184417484793812
+      },
+      {
+        "word": "vindaa",
+        "start": 196.6,
+        "end": 198.12,
+        "probability": 0.004443274677214504
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "section": "bridge2",
+    "section_line": 1,
+    "start": 198.12,
+    "end": 202.14,
+    "words": [
+      {
+        "word": "gewwe",
+        "start": 198.12,
+        "end": 199.36,
+        "probability": 0.0021383871826401446
+      },
+      {
+        "word": "aadare",
+        "start": 199.36,
+        "end": 200.2,
+        "probability": 0.003634526685345918
+      },
+      {
+        "word": "maa",
+        "start": 200.2,
+        "end": 201.46,
+        "probability": 0.2755616568028927
+      },
+      {
+        "word": "haa",
+        "start": 201.46,
+        "end": 202.14,
+        "probability": 0.40361739027139265
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "section": "bridge2",
+    "section_line": 2,
+    "start": 202.14,
+    "end": 205.92,
+    "words": [
+      {
+        "word": "daehin",
+        "start": 202.14,
+        "end": 202.64,
+        "probability": 0.04017196939093992
+      },
+      {
+        "word": "maa",
+        "start": 202.64,
+        "end": 203.4,
+        "probability": 0.2554430514574051
+      },
+      {
+        "word": "niwaado",
+        "start": 203.4,
+        "end": 204.4,
+        "probability": 0.1278609229096522
+      },
+      {
+        "word": "aadare",
+        "start": 204.4,
+        "end": 205.92,
+        "probability": 0.39112479115525883
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "section": "bridge2",
+    "section_line": 3,
+    "start": 205.92,
+    "end": 208.84,
+    "words": [
+      {
+        "word": "ae",
+        "start": 205.92,
+        "end": 207.88,
+        "probability": 0.13130240887403488
+      },
+      {
+        "word": "haa",
+        "start": 207.88,
+        "end": 208.26,
+        "probability": 0.6663113534450531
+      },
+      {
+        "word": "mathake",
+        "start": 208.26,
+        "end": 208.84,
+        "probability": 0.06401646439917386
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "section": "bridge2",
+    "section_line": 4,
+    "start": 208.84,
+    "end": 211.88,
+    "words": [
+      {
+        "word": "windaada",
+        "start": 208.84,
+        "end": 210.36,
+        "probability": 0.13417506633413723
+      },
+      {
+        "word": "paara",
+        "start": 210.36,
+        "end": 211.88,
+        "probability": 0.04104834608733654
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "section": "bridge2",
+    "section_line": 5,
+    "start": 211.88,
+    "end": 215.54,
+    "words": [
+      {
+        "word": "maa",
+        "start": 211.88,
+        "end": 212.42,
+        "probability": 0.36874935249215923
+      },
+      {
+        "word": "hindido",
+        "start": 212.42,
+        "end": 213.46,
+        "probability": 0.0008528814923920436
+      },
+      {
+        "word": "ae",
+        "start": 213.46,
+        "end": 214.52,
+        "probability": 0.7834053337574005
+      },
+      {
+        "word": "haa",
+        "start": 214.52,
+        "end": 215.54,
+        "probability": 0.9179012179374695
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "section": "bridge2",
+    "section_line": 6,
+    "start": 215.54,
+    "end": 219.4,
+    "words": [
+      {
+        "word": "kawada",
+        "start": 215.54,
+        "end": 216.46,
+        "probability": 0.09141969059904416
+      },
+      {
+        "word": "lanwedo",
+        "start": 216.46,
+        "end": 217.86,
+        "probability": 0.024587766354670748
+      },
+      {
+        "word": "aadare",
+        "start": 217.86,
+        "end": 219.4,
+        "probability": 0.8582374056180319
+      }
+    ]
+  }
+]

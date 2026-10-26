@@ -1,0 +1,1497 @@
+{
+  "id": "19f821af0a94d16d",
+  "pixel_format": "st7920-horizontal-msb",
+  "font": "ISI Gurulugomi",
+  "font_size": 24,
+  "effect": "word-reveal-with-progressive-sustain-dots",
+  "line_count": 33,
+  "bitmap_count": 117,
+  "pages": [
+    {
+      "layout": 0,
+      "line": 0,
+      "word": 0,
+      "language": "si",
+      "bitmap": 0
+    },
+    {
+      "layout": 0,
+      "line": 0,
+      "word": 1,
+      "language": "si",
+      "bitmap": 1
+    },
+    {
+      "layout": 0,
+      "line": 0,
+      "word": 1,
+      "dots": 1,
+      "language": "si",
+      "bitmap": 2
+    },
+    {
+      "layout": 0,
+      "line": 0,
+      "word": 1,
+      "dots": 2,
+      "language": "si",
+      "bitmap": 3
+    },
+    {
+      "layout": 0,
+      "line": 0,
+      "word": 1,
+      "dots": 3,
+      "language": "si",
+      "bitmap": 4
+    },
+    {
+      "layout": 1,
+      "line": 1,
+      "word": 0,
+      "language": "si",
+      "bitmap": 5
+    },
+    {
+      "layout": 1,
+      "line": 1,
+      "word": 1,
+      "language": "si",
+      "bitmap": 6
+    },
+    {
+      "layout": 1,
+      "line": 1,
+      "word": 1,
+      "dots": 1,
+      "language": "si",
+      "bitmap": 7
+    },
+    {
+      "layout": 1,
+      "line": 1,
+      "word": 1,
+      "dots": 2,
+      "language": "si",
+      "bitmap": 8
+    },
+    {
+      "layout": 1,
+      "line": 1,
+      "word": 1,
+      "dots": 3,
+      "language": "si",
+      "bitmap": 9
+    },
+    {
+      "layout": 2,
+      "line": 2,
+      "word": 0,
+      "language": "si",
+      "bitmap": 10
+    },
+    {
+      "layout": 2,
+      "line": 2,
+      "word": 1,
+      "language": "si",
+      "bitmap": 11
+    },
+    {
+      "layout": 2,
+      "line": 2,
+      "word": 2,
+      "language": "si",
+      "bitmap": 12
+    },
+    {
+      "layout": 2,
+      "line": 2,
+      "word": 3,
+      "language": "si",
+      "bitmap": 13
+    },
+    {
+      "layout": 2,
+      "line": 2,
+      "word": 3,
+      "dots": 1,
+      "language": "si",
+      "bitmap": 14
+    },
+    {
+      "layout": 2,
+      "line": 2,
+      "word": 3,
+      "dots": 2,
+      "language": "si",
+      "bitmap": 15
+    },
+    {
+      "layout": 2,
+      "line": 2,
+      "word": 3,
+      "dots": 3,
+      "language": "si",
+      "bitmap": 16
+    },
+    {
+      "layout": 3,
+      "line": 3,
+      "word": 0,
+      "language": "si",
+      "bitmap": 17
+    },
+    {
+      "layout": 3,
+      "line": 3,
+      "word": 1,
+      "language": "si",
+      "bitmap": 18
+    },
+    {
+      "layout": 3,
+      "line": 3,
+      "word": 2,
+      "language": "si",
+      "bitmap": 19
+    },
+    {
+      "layout": 3,
+      "line": 3,
+      "word": 3,
+      "language": "si",
+      "bitmap": 20
+    },
+    {
+      "layout": 3,
+      "line": 3,
+      "word": 4,
+      "language": "si",
+      "bitmap": 21
+    },
+    {
+      "layout": 3,
+      "line": 3,
+      "word": 4,
+      "dots": 1,
+      "language": "si",
+      "bitmap": 22
+    },
+    {
+      "layout": 3,
+      "line": 3,
+      "word": 4,
+      "dots": 2,
+      "language": "si",
+      "bitmap": 23
+    },
+    {
+      "layout": 3,
+      "line": 3,
+      "word": 4,
+      "dots": 3,
+      "language": "si",
+      "bitmap": 24
+    },
+    {
+      "layout": 4,
+      "line": 4,
+      "word": 0,
+      "language": "si",
+      "bitmap": 25
+    },
+    {
+      "layout": 4,
+      "line": 4,
+      "word": 1,
+      "language": "si",
+      "bitmap": 26
+    },
+    {
+      "layout": 4,
+      "line": 4,
+      "word": 2,
+      "language": "si",
+      "bitmap": 27
+    },
+    {
+      "layout": 4,
+      "line": 4,
+      "word": 3,
+      "language": "si",
+      "bitmap": 28
+    },
+    {
+      "layout": 4,
+      "line": 4,
+      "word": 3,
+      "dots": 1,
+      "language": "si",
+      "bitmap": 29
+    },
+    {
+      "layout": 4,
+      "line": 4,
+      "word": 3,
+      "dots": 2,
+      "language": "si",
+      "bitmap": 30
+    },
+    {
+      "layout": 4,
+      "line": 4,
+      "word": 3,
+      "dots": 3,
+      "language": "si",
+      "bitmap": 31
+    },
+    {
+      "layout": 5,
+      "line": 5,
+      "word": 0,
+      "language": "si",
+      "bitmap": 32
+    },
+    {
+      "layout": 5,
+      "line": 5,
+      "word": 1,
+      "language": "si",
+      "bitmap": 33
+    },
+    {
+      "layout": 5,
+      "line": 5,
+      "word": 2,
+      "language": "si",
+      "bitmap": 34
+    },
+    {
+      "layout": 5,
+      "line": 5,
+      "word": 2,
+      "dots": 1,
+      "language": "si",
+      "bitmap": 35
+    },
+    {
+      "layout": 5,
+      "line": 5,
+      "word": 2,
+      "dots": 2,
+      "language": "si",
+      "bitmap": 36
+    },
+    {
+      "layout": 5,
+      "line": 5,
+      "word": 2,
+      "dots": 3,
+      "language": "si",
+      "bitmap": 37
+    },
+    {
+      "layout": 6,
+      "line": 6,
+      "word": 0,
+      "language": "si",
+      "bitmap": 38
+    },
+    {
+      "layout": 6,
+      "line": 6,
+      "word": 1,
+      "language": "si",
+      "bitmap": 39
+    },
+    {
+      "layout": 6,
+      "line": 6,
+      "word": 2,
+      "language": "si",
+      "bitmap": 40
+    },
+    {
+      "layout": 6,
+      "line": 6,
+      "word": 2,
+      "dots": 1,
+      "language": "si",
+      "bitmap": 41
+    },
+    {
+      "layout": 6,
+      "line": 6,
+      "word": 2,
+      "dots": 2,
+      "language": "si",
+      "bitmap": 42
+    },
+    {
+      "layout": 6,
+      "line": 6,
+      "word": 2,
+      "dots": 3,
+      "language": "si",
+      "bitmap": 43
+    },
+    {
+      "layout": 7,
+      "line": 7,
+      "word": 0,
+      "language": "si",
+      "bitmap": 44
+    },
+    {
+      "layout": 7,
+      "line": 7,
+      "word": 1,
+      "language": "si",
+      "bitmap": 45
+    },
+    {
+      "layout": 7,
+      "line": 7,
+      "word": 2,
+      "language": "si",
+      "bitmap": 46
+    },
+    {
+      "layout": 7,
+      "line": 7,
+      "word": 3,
+      "language": "si",
+      "bitmap": 47
+    },
+    {
+      "layout": 7,
+      "line": 7,
+      "word": 3,
+      "dots": 1,
+      "language": "si",
+      "bitmap": 48
+    },
+    {
+      "layout": 7,
+      "line": 7,
+      "word": 3,
+      "dots": 2,
+      "language": "si",
+      "bitmap": 49
+    },
+    {
+      "layout": 7,
+      "line": 7,
+      "word": 3,
+      "dots": 3,
+      "language": "si",
+      "bitmap": 50
+    },
+    {
+      "layout": 8,
+      "line": 8,
+      "word": 0,
+      "language": "si",
+      "bitmap": 51
+    },
+    {
+      "layout": 8,
+      "line": 8,
+      "word": 0,
+      "dots": 1,
+      "language": "si",
+      "bitmap": 52
+    },
+    {
+      "layout": 8,
+      "line": 8,
+      "word": 0,
+      "dots": 2,
+      "language": "si",
+      "bitmap": 53
+    },
+    {
+      "layout": 8,
+      "line": 8,
+      "word": 0,
+      "dots": 3,
+      "language": "si",
+      "bitmap": 54
+    },
+    {
+      "layout": 9,
+      "line": 9,
+      "word": 0,
+      "language": "si",
+      "bitmap": 55
+    },
+    {
+      "layout": 9,
+      "line": 9,
+      "word": 1,
+      "language": "si",
+      "bitmap": 56
+    },
+    {
+      "layout": 9,
+      "line": 9,
+      "word": 2,
+      "language": "si",
+      "bitmap": 57
+    },
+    {
+      "layout": 10,
+      "line": 10,
+      "word": 0,
+      "language": "si",
+      "bitmap": 58
+    },
+    {
+      "layout": 10,
+      "line": 10,
+      "word": 1,
+      "language": "si",
+      "bitmap": 59
+    },
+    {
+      "layout": 10,
+      "line": 10,
+      "word": 2,
+      "language": "si",
+      "bitmap": 60
+    },
+    {
+      "layout": 10,
+      "line": 10,
+      "word": 2,
+      "dots": 1,
+      "language": "si",
+      "bitmap": 61
+    },
+    {
+      "layout": 10,
+      "line": 10,
+      "word": 2,
+      "dots": 2,
+      "language": "si",
+      "bitmap": 62
+    },
+    {
+      "layout": 10,
+      "line": 10,
+      "word": 2,
+      "dots": 3,
+      "language": "si",
+      "bitmap": 63
+    },
+    {
+      "layout": 11,
+      "line": 11,
+      "word": 0,
+      "language": "si",
+      "bitmap": 64
+    },
+    {
+      "layout": 11,
+      "line": 11,
+      "word": 1,
+      "language": "si",
+      "bitmap": 65
+    },
+    {
+      "layout": 11,
+      "line": 11,
+      "word": 2,
+      "language": "si",
+      "bitmap": 66
+    },
+    {
+      "layout": 11,
+      "line": 11,
+      "word": 3,
+      "language": "si",
+      "bitmap": 67
+    },
+    {
+      "layout": 11,
+      "line": 11,
+      "word": 4,
+      "language": "si",
+      "bitmap": 68
+    },
+    {
+      "layout": 11,
+      "line": 11,
+      "word": 4,
+      "dots": 1,
+      "language": "si",
+      "bitmap": 69
+    },
+    {
+      "layout": 11,
+      "line": 11,
+      "word": 4,
+      "dots": 2,
+      "language": "si",
+      "bitmap": 70
+    },
+    {
+      "layout": 11,
+      "line": 11,
+      "word": 4,
+      "dots": 3,
+      "language": "si",
+      "bitmap": 71
+    },
+    {
+      "layout": 12,
+      "line": 12,
+      "word": 0,
+      "language": "si",
+      "bitmap": 72
+    },
+    {
+      "layout": 12,
+      "line": 12,
+      "word": 1,
+      "language": "si",
+      "bitmap": 73
+    },
+    {
+      "layout": 12,
+      "line": 12,
+      "word": 1,
+      "dots": 1,
+      "language": "si",
+      "bitmap": 74
+    },
+    {
+      "layout": 12,
+      "line": 12,
+      "word": 1,
+      "dots": 2,
+      "language": "si",
+      "bitmap": 75
+    },
+    {
+      "layout": 12,
+      "line": 12,
+      "word": 1,
+      "dots": 3,
+      "language": "si",
+      "bitmap": 76
+    },
+    {
+      "layout": 13,
+      "line": 13,
+      "word": 0,
+      "language": "si",
+      "bitmap": 77
+    },
+    {
+      "layout": 13,
+      "line": 13,
+      "word": 1,
+      "language": "si",
+      "bitmap": 78
+    },
+    {
+      "layout": 13,
+      "line": 13,
+      "word": 2,
+      "language": "si",
+      "bitmap": 79
+    },
+    {
+      "layout": 13,
+      "line": 13,
+      "word": 2,
+      "dots": 1,
+      "language": "si",
+      "bitmap": 80
+    },
+    {
+      "layout": 13,
+      "line": 13,
+      "word": 2,
+      "dots": 2,
+      "language": "si",
+      "bitmap": 81
+    },
+    {
+      "layout": 13,
+      "line": 13,
+      "word": 2,
+      "dots": 3,
+      "language": "si",
+      "bitmap": 82
+    },
+    {
+      "layout": 14,
+      "line": 14,
+      "word": 0,
+      "language": "si",
+      "bitmap": 77
+    },
+    {
+      "layout": 14,
+      "line": 14,
+      "word": 1,
+      "language": "si",
+      "bitmap": 78
+    },
+    {
+      "layout": 14,
+      "line": 14,
+      "word": 2,
+      "language": "si",
+      "bitmap": 79
+    },
+    {
+      "layout": 14,
+      "line": 14,
+      "word": 2,
+      "dots": 1,
+      "language": "si",
+      "bitmap": 80
+    },
+    {
+      "layout": 14,
+      "line": 14,
+      "word": 2,
+      "dots": 2,
+      "language": "si",
+      "bitmap": 81
+    },
+    {
+      "layout": 14,
+      "line": 14,
+      "word": 2,
+      "dots": 3,
+      "language": "si",
+      "bitmap": 82
+    },
+    {
+      "layout": 15,
+      "line": 15,
+      "word": 0,
+      "language": "si",
+      "bitmap": 83
+    },
+    {
+      "layout": 15,
+      "line": 15,
+      "word": 1,
+      "language": "si",
+      "bitmap": 84
+    },
+    {
+      "layout": 15,
+      "line": 15,
+      "word": 2,
+      "language": "si",
+      "bitmap": 85
+    },
+    {
+      "layout": 15,
+      "line": 15,
+      "word": 3,
+      "language": "si",
+      "bitmap": 86
+    },
+    {
+      "layout": 15,
+      "line": 15,
+      "word": 3,
+      "dots": 1,
+      "language": "si",
+      "bitmap": 87
+    },
+    {
+      "layout": 15,
+      "line": 15,
+      "word": 3,
+      "dots": 2,
+      "language": "si",
+      "bitmap": 88
+    },
+    {
+      "layout": 15,
+      "line": 15,
+      "word": 3,
+      "dots": 3,
+      "language": "si",
+      "bitmap": 89
+    },
+    {
+      "layout": 16,
+      "line": 16,
+      "word": 0,
+      "language": "si",
+      "bitmap": 77
+    },
+    {
+      "layout": 16,
+      "line": 16,
+      "word": 1,
+      "language": "si",
+      "bitmap": 78
+    },
+    {
+      "layout": 16,
+      "line": 16,
+      "word": 2,
+      "language": "si",
+      "bitmap": 79
+    },
+    {
+      "layout": 16,
+      "line": 16,
+      "word": 2,
+      "dots": 1,
+      "language": "si",
+      "bitmap": 80
+    },
+    {
+      "layout": 16,
+      "line": 16,
+      "word": 2,
+      "dots": 2,
+      "language": "si",
+      "bitmap": 81
+    },
+    {
+      "layout": 16,
+      "line": 16,
+      "word": 2,
+      "dots": 3,
+      "language": "si",
+      "bitmap": 82
+    },
+    {
+      "layout": 17,
+      "line": 17,
+      "word": 0,
+      "language": "si",
+      "bitmap": 90
+    },
+    {
+      "layout": 17,
+      "line": 17,
+      "word": 1,
+      "language": "si",
+      "bitmap": 91
+    },
+    {
+      "layout": 17,
+      "line": 17,
+      "word": 2,
+      "language": "si",
+      "bitmap": 92
+    },
+    {
+      "layout": 17,
+      "line": 17,
+      "word": 3,
+      "language": "si",
+      "bitmap": 93
+    },
+    {
+      "layout": 17,
+      "line": 17,
+      "word": 3,
+      "dots": 1,
+      "language": "si",
+      "bitmap": 94
+    },
+    {
+      "layout": 17,
+      "line": 17,
+      "word": 3,
+      "dots": 2,
+      "language": "si",
+      "bitmap": 95
+    },
+    {
+      "layout": 17,
+      "line": 17,
+      "word": 3,
+      "dots": 3,
+      "language": "si",
+      "bitmap": 96
+    },
+    {
+      "layout": 18,
+      "line": 18,
+      "word": 0,
+      "language": "si",
+      "bitmap": 97
+    },
+    {
+      "layout": 18,
+      "line": 18,
+      "word": 1,
+      "language": "si",
+      "bitmap": 98
+    },
+    {
+      "layout": 18,
+      "line": 18,
+      "word": 2,
+      "language": "si",
+      "bitmap": 99
+    },
+    {
+      "layout": 18,
+      "line": 18,
+      "word": 2,
+      "dots": 1,
+      "language": "si",
+      "bitmap": 100
+    },
+    {
+      "layout": 18,
+      "line": 18,
+      "word": 2,
+      "dots": 2,
+      "language": "si",
+      "bitmap": 101
+    },
+    {
+      "layout": 18,
+      "line": 18,
+      "word": 2,
+      "dots": 3,
+      "language": "si",
+      "bitmap": 102
+    },
+    {
+      "layout": 19,
+      "line": 19,
+      "word": 0,
+      "language": "si",
+      "bitmap": 103
+    },
+    {
+      "layout": 19,
+      "line": 19,
+      "word": 1,
+      "language": "si",
+      "bitmap": 104
+    },
+    {
+      "layout": 19,
+      "line": 19,
+      "word": 2,
+      "language": "si",
+      "bitmap": 105
+    },
+    {
+      "layout": 19,
+      "line": 19,
+      "word": 3,
+      "language": "si",
+      "bitmap": 106
+    },
+    {
+      "layout": 20,
+      "line": 19,
+      "word": 4,
+      "language": "si",
+      "bitmap": 107
+    },
+    {
+      "layout": 20,
+      "line": 19,
+      "word": 4,
+      "dots": 1,
+      "language": "si",
+      "bitmap": 108
+    },
+    {
+      "layout": 20,
+      "line": 19,
+      "word": 4,
+      "dots": 2,
+      "language": "si",
+      "bitmap": 109
+    },
+    {
+      "layout": 20,
+      "line": 19,
+      "word": 4,
+      "dots": 3,
+      "language": "si",
+      "bitmap": 110
+    },
+    {
+      "layout": 21,
+      "line": 20,
+      "word": 0,
+      "language": "si",
+      "bitmap": 111
+    },
+    {
+      "layout": 21,
+      "line": 20,
+      "word": 1,
+      "language": "si",
+      "bitmap": 112
+    },
+    {
+      "layout": 21,
+      "line": 20,
+      "word": 2,
+      "language": "si",
+      "bitmap": 113
+    },
+    {
+      "layout": 21,
+      "line": 20,
+      "word": 2,
+      "dots": 1,
+      "language": "si",
+      "bitmap": 114
+    },
+    {
+      "layout": 21,
+      "line": 20,
+      "word": 2,
+      "dots": 2,
+      "language": "si",
+      "bitmap": 115
+    },
+    {
+      "layout": 21,
+      "line": 20,
+      "word": 2,
+      "dots": 3,
+      "language": "si",
+      "bitmap": 116
+    },
+    {
+      "layout": 22,
+      "line": 21,
+      "word": 0,
+      "language": "si",
+      "bitmap": 32
+    },
+    {
+      "layout": 22,
+      "line": 21,
+      "word": 1,
+      "language": "si",
+      "bitmap": 33
+    },
+    {
+      "layout": 22,
+      "line": 21,
+      "word": 2,
+      "language": "si",
+      "bitmap": 34
+    },
+    {
+      "layout": 22,
+      "line": 21,
+      "word": 2,
+      "dots": 1,
+      "language": "si",
+      "bitmap": 35
+    },
+    {
+      "layout": 22,
+      "line": 21,
+      "word": 2,
+      "dots": 2,
+      "language": "si",
+      "bitmap": 36
+    },
+    {
+      "layout": 22,
+      "line": 21,
+      "word": 2,
+      "dots": 3,
+      "language": "si",
+      "bitmap": 37
+    },
+    {
+      "layout": 23,
+      "line": 22,
+      "word": 0,
+      "language": "si",
+      "bitmap": 38
+    },
+    {
+      "layout": 23,
+      "line": 22,
+      "word": 1,
+      "language": "si",
+      "bitmap": 39
+    },
+    {
+      "layout": 23,
+      "line": 22,
+      "word": 2,
+      "language": "si",
+      "bitmap": 40
+    },
+    {
+      "layout": 23,
+      "line": 22,
+      "word": 2,
+      "dots": 1,
+      "language": "si",
+      "bitmap": 41
+    },
+    {
+      "layout": 23,
+      "line": 22,
+      "word": 2,
+      "dots": 2,
+      "language": "si",
+      "bitmap": 42
+    },
+    {
+      "layout": 23,
+      "line": 22,
+      "word": 2,
+      "dots": 3,
+      "language": "si",
+      "bitmap": 43
+    },
+    {
+      "layout": 24,
+      "line": 23,
+      "word": 0,
+      "language": "si",
+      "bitmap": 44
+    },
+    {
+      "layout": 24,
+      "line": 23,
+      "word": 1,
+      "language": "si",
+      "bitmap": 45
+    },
+    {
+      "layout": 24,
+      "line": 23,
+      "word": 2,
+      "language": "si",
+      "bitmap": 46
+    },
+    {
+      "layout": 24,
+      "line": 23,
+      "word": 3,
+      "language": "si",
+      "bitmap": 47
+    },
+    {
+      "layout": 24,
+      "line": 23,
+      "word": 3,
+      "dots": 1,
+      "language": "si",
+      "bitmap": 48
+    },
+    {
+      "layout": 24,
+      "line": 23,
+      "word": 3,
+      "dots": 2,
+      "language": "si",
+      "bitmap": 49
+    },
+    {
+      "layout": 24,
+      "line": 23,
+      "word": 3,
+      "dots": 3,
+      "language": "si",
+      "bitmap": 50
+    },
+    {
+      "layout": 25,
+      "line": 24,
+      "word": 0,
+      "language": "si",
+      "bitmap": 51
+    },
+    {
+      "layout": 25,
+      "line": 24,
+      "word": 0,
+      "dots": 1,
+      "language": "si",
+      "bitmap": 52
+    },
+    {
+      "layout": 25,
+      "line": 24,
+      "word": 0,
+      "dots": 2,
+      "language": "si",
+      "bitmap": 53
+    },
+    {
+      "layout": 25,
+      "line": 24,
+      "word": 0,
+      "dots": 3,
+      "language": "si",
+      "bitmap": 54
+    },
+    {
+      "layout": 26,
+      "line": 25,
+      "word": 0,
+      "language": "si",
+      "bitmap": 55
+    },
+    {
+      "layout": 26,
+      "line": 25,
+      "word": 1,
+      "language": "si",
+      "bitmap": 56
+    },
+    {
+      "layout": 26,
+      "line": 25,
+      "word": 2,
+      "language": "si",
+      "bitmap": 57
+    },
+    {
+      "layout": 27,
+      "line": 26,
+      "word": 0,
+      "language": "si",
+      "bitmap": 58
+    },
+    {
+      "layout": 27,
+      "line": 26,
+      "word": 1,
+      "language": "si",
+      "bitmap": 59
+    },
+    {
+      "layout": 27,
+      "line": 26,
+      "word": 2,
+      "language": "si",
+      "bitmap": 60
+    },
+    {
+      "layout": 27,
+      "line": 26,
+      "word": 2,
+      "dots": 1,
+      "language": "si",
+      "bitmap": 61
+    },
+    {
+      "layout": 27,
+      "line": 26,
+      "word": 2,
+      "dots": 2,
+      "language": "si",
+      "bitmap": 62
+    },
+    {
+      "layout": 27,
+      "line": 26,
+      "word": 2,
+      "dots": 3,
+      "language": "si",
+      "bitmap": 63
+    },
+    {
+      "layout": 28,
+      "line": 27,
+      "word": 0,
+      "language": "si",
+      "bitmap": 64
+    },
+    {
+      "layout": 28,
+      "line": 27,
+      "word": 1,
+      "language": "si",
+      "bitmap": 65
+    },
+    {
+      "layout": 28,
+      "line": 27,
+      "word": 2,
+      "language": "si",
+      "bitmap": 66
+    },
+    {
+      "layout": 28,
+      "line": 27,
+      "word": 3,
+      "language": "si",
+      "bitmap": 67
+    },
+    {
+      "layout": 28,
+      "line": 27,
+      "word": 4,
+      "language": "si",
+      "bitmap": 68
+    },
+    {
+      "layout": 28,
+      "line": 27,
+      "word": 4,
+      "dots": 1,
+      "language": "si",
+      "bitmap": 69
+    },
+    {
+      "layout": 28,
+      "line": 27,
+      "word": 4,
+      "dots": 2,
+      "language": "si",
+      "bitmap": 70
+    },
+    {
+      "layout": 28,
+      "line": 27,
+      "word": 4,
+      "dots": 3,
+      "language": "si",
+      "bitmap": 71
+    },
+    {
+      "layout": 29,
+      "line": 28,
+      "word": 0,
+      "language": "si",
+      "bitmap": 72
+    },
+    {
+      "layout": 29,
+      "line": 28,
+      "word": 1,
+      "language": "si",
+      "bitmap": 73
+    },
+    {
+      "layout": 29,
+      "line": 28,
+      "word": 1,
+      "dots": 1,
+      "language": "si",
+      "bitmap": 74
+    },
+    {
+      "layout": 29,
+      "line": 28,
+      "word": 1,
+      "dots": 2,
+      "language": "si",
+      "bitmap": 75
+    },
+    {
+      "layout": 29,
+      "line": 28,
+      "word": 1,
+      "dots": 3,
+      "language": "si",
+      "bitmap": 76
+    },
+    {
+      "layout": 30,
+      "line": 29,
+      "word": 0,
+      "language": "si",
+      "bitmap": 77
+    },
+    {
+      "layout": 30,
+      "line": 29,
+      "word": 1,
+      "language": "si",
+      "bitmap": 78
+    },
+    {
+      "layout": 30,
+      "line": 29,
+      "word": 2,
+      "language": "si",
+      "bitmap": 79
+    },
+    {
+      "layout": 30,
+      "line": 29,
+      "word": 2,
+      "dots": 1,
+      "language": "si",
+      "bitmap": 80
+    },
+    {
+      "layout": 30,
+      "line": 29,
+      "word": 2,
+      "dots": 2,
+      "language": "si",
+      "bitmap": 81
+    },
+    {
+      "layout": 30,
+      "line": 29,
+      "word": 2,
+      "dots": 3,
+      "language": "si",
+      "bitmap": 82
+    },
+    {
+      "layout": 31,
+      "line": 30,
+      "word": 0,
+      "language": "si",
+      "bitmap": 77
+    },
+    {
+      "layout": 31,
+      "line": 30,
+      "word": 1,
+      "language": "si",
+      "bitmap": 78
+    },
+    {
+      "layout": 31,
+      "line": 30,
+      "word": 2,
+      "language": "si",
+      "bitmap": 79
+    },
+    {
+      "layout": 31,
+      "line": 30,
+      "word": 2,
+      "dots": 1,
+      "language": "si",
+      "bitmap": 80
+    },
+    {
+      "layout": 31,
+      "line": 30,
+      "word": 2,
+      "dots": 2,
+      "language": "si",
+      "bitmap": 81
+    },
+    {
+      "layout": 31,
+      "line": 30,
+      "word": 2,
+      "dots": 3,
+      "language": "si",
+      "bitmap": 82
+    },
+    {
+      "layout": 32,
+      "line": 31,
+      "word": 0,
+      "language": "si",
+      "bitmap": 83
+    },
+    {
+      "layout": 32,
+      "line": 31,
+      "word": 1,
+      "language": "si",
+      "bitmap": 84
+    },
+    {
+      "layout": 32,
+      "line": 31,
+      "word": 2,
+      "language": "si",
+      "bitmap": 85
+    },
+    {
+      "layout": 32,
+      "line": 31,
+      "word": 3,
+      "language": "si",
+      "bitmap": 86
+    },
+    {
+      "layout": 32,
+      "line": 31,
+      "word": 3,
+      "dots": 1,
+      "language": "si",
+      "bitmap": 87
+    },
+    {
+      "layout": 32,
+      "line": 31,
+      "word": 3,
+      "dots": 2,
+      "language": "si",
+      "bitmap": 88
+    },
+    {
+      "layout": 32,
+      "line": 31,
+      "word": 3,
+      "dots": 3,
+      "language": "si",
+      "bitmap": 89
+    },
+    {
+      "layout": 33,
+      "line": 32,
+      "word": 0,
+      "language": "si",
+      "bitmap": 77
+    },
+    {
+      "layout": 33,
+      "line": 32,
+      "word": 1,
+      "language": "si",
+      "bitmap": 78
+    },
+    {
+      "layout": 33,
+      "line": 32,
+      "word": 2,
+      "language": "si",
+      "bitmap": 79
+    },
+    {
+      "layout": 33,
+      "line": 32,
+      "word": 2,
+      "dots": 1,
+      "language": "si",
+      "bitmap": 80
+    },
+    {
+      "layout": 33,
+      "line": 32,
+      "word": 2,
+      "dots": 2,
+      "language": "si",
+      "bitmap": 81
+    },
+    {
+      "layout": 33,
+      "line": 32,
+      "word": 2,
+      "dots": 3,
+      "language": "si",
+      "bitmap": 82
+    }
+  ]
+}
