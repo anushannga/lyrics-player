@@ -1,0 +1,1060 @@
+{
+  "words": [
+    [
+      4,
+      4
+    ],
+    [
+      5,
+      2
+    ],
+    [
+      6,
+      2
+    ],
+    [
+      9,
+      1
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      11,
+      4
+    ],
+    [
+      12,
+      7
+    ],
+    [
+      16,
+      4
+    ],
+    [
+      17,
+      2
+    ],
+    [
+      18,
+      2
+    ],
+    [
+      20,
+      3
+    ],
+    [
+      21,
+      1
+    ],
+    [
+      22,
+      4
+    ],
+    [
+      23,
+      4
+    ],
+    [
+      24,
+      4
+    ],
+    [
+      25,
+      0
+    ],
+    [
+      25,
+      4
+    ]
+  ],
+  "evidence": [
+    {
+      "line": 0,
+      "word": 0,
+      "text": "ආදරෙන්",
+      "duration": 1.059,
+      "voiced": 0.99,
+      "selected": false
+    },
+    {
+      "line": 0,
+      "word": 1,
+      "text": "වෙලා",
+      "duration": 1.46,
+      "voiced": 1.42,
+      "selected": false
+    },
+    {
+      "line": 0,
+      "word": 2,
+      "text": "ඔබ",
+      "duration": 0.569,
+      "voiced": 0.31,
+      "selected": false
+    },
+    {
+      "line": 0,
+      "word": 3,
+      "text": "රාගෙක",
+      "duration": 0.819,
+      "voiced": 0.68,
+      "selected": false
+    },
+    {
+      "line": 0,
+      "word": 4,
+      "text": "මා",
+      "duration": 0.479,
+      "voiced": 0.46,
+      "selected": false
+    },
+    {
+      "line": 0,
+      "word": 5,
+      "text": "හට",
+      "duration": 0.379,
+      "voiced": 0.28,
+      "selected": false
+    },
+    {
+      "line": 0,
+      "word": 6,
+      "text": "පෙම්",
+      "duration": 0.359,
+      "voiced": 0.21,
+      "selected": false
+    },
+    {
+      "line": 0,
+      "word": 7,
+      "text": "කරනා",
+      "duration": 0.98,
+      "voiced": 0.92,
+      "selected": false
+    },
+    {
+      "line": 1,
+      "word": 0,
+      "text": "මා",
+      "duration": 0.419,
+      "voiced": 0.4,
+      "selected": false
+    },
+    {
+      "line": 1,
+      "word": 1,
+      "text": "ලයේ",
+      "duration": 0.539,
+      "voiced": 0.52,
+      "selected": false
+    },
+    {
+      "line": 1,
+      "word": 2,
+      "text": "රගා",
+      "duration": 1.199,
+      "voiced": 1.18,
+      "selected": false
+    },
+    {
+      "line": 1,
+      "word": 3,
+      "text": "නෙතගේ",
+      "duration": 1.279,
+      "voiced": 0.72,
+      "selected": false
+    },
+    {
+      "line": 1,
+      "word": 4,
+      "text": "නුබෙ",
+      "duration": 0.559,
+      "voiced": 0.54,
+      "selected": false
+    },
+    {
+      "line": 1,
+      "word": 5,
+      "text": "ආලය",
+      "duration": 0.919,
+      "voiced": 0.9,
+      "selected": false
+    },
+    {
+      "line": 1,
+      "word": 6,
+      "text": "මා",
+      "duration": 0.399,
+      "voiced": 0.38,
+      "selected": false
+    },
+    {
+      "line": 1,
+      "word": 7,
+      "text": "සතපා",
+      "duration": 0.51,
+      "voiced": 0.33,
+      "selected": false
+    },
+    {
+      "line": 2,
+      "word": 0,
+      "text": "සිපගන්නට",
+      "duration": 1.139,
+      "voiced": 0.92,
+      "selected": false
+    },
+    {
+      "line": 2,
+      "word": 1,
+      "text": "ඔය",
+      "duration": 0.479,
+      "voiced": 0.37,
+      "selected": false
+    },
+    {
+      "line": 2,
+      "word": 2,
+      "text": "රුව",
+      "duration": 0.459,
+      "voiced": 0.44,
+      "selected": false
+    },
+    {
+      "line": 2,
+      "word": 3,
+      "text": "මා",
+      "duration": 0.419,
+      "voiced": 0.4,
+      "selected": false
+    },
+    {
+      "line": 2,
+      "word": 4,
+      "text": "ලග",
+      "duration": 0.62,
+      "voiced": 0.44,
+      "selected": false
+    },
+    {
+      "line": 3,
+      "word": 0,
+      "text": "නැලවෙන්නට",
+      "duration": 1.039,
+      "voiced": 0.98,
+      "selected": false
+    },
+    {
+      "line": 3,
+      "word": 1,
+      "text": "ඔය",
+      "duration": 0.499,
+      "voiced": 0.36,
+      "selected": false
+    },
+    {
+      "line": 3,
+      "word": 2,
+      "text": "වත",
+      "duration": 0.419,
+      "voiced": 0.33,
+      "selected": false
+    },
+    {
+      "line": 3,
+      "word": 3,
+      "text": "මා",
+      "duration": 0.499,
+      "voiced": 0.48,
+      "selected": false
+    },
+    {
+      "line": 3,
+      "word": 4,
+      "text": "ලග",
+      "duration": 0.7,
+      "voiced": 0.54,
+      "selected": false
+    },
+    {
+      "line": 4,
+      "word": 0,
+      "text": "ඇගෙ",
+      "duration": 0.359,
+      "voiced": 0.32,
+      "selected": false
+    },
+    {
+      "line": 4,
+      "word": 1,
+      "text": "ඉග",
+      "duration": 0.439,
+      "voiced": 0.42,
+      "selected": false
+    },
+    {
+      "line": 4,
+      "word": 2,
+      "text": "මට",
+      "duration": 0.319,
+      "voiced": 0.25,
+      "selected": false
+    },
+    {
+      "line": 4,
+      "word": 3,
+      "text": "බෑ",
+      "duration": 0.459,
+      "voiced": 0.35,
+      "selected": false
+    },
+    {
+      "line": 4,
+      "word": 4,
+      "text": "ඉවසන්නට",
+      "duration": 1.46,
+      "voiced": 1.25,
+      "selected": true
+    },
+    {
+      "line": 5,
+      "word": 0,
+      "text": "මේ",
+      "duration": 0.219,
+      "voiced": 0.2,
+      "selected": false
+    },
+    {
+      "line": 5,
+      "word": 1,
+      "text": "රෑ",
+      "duration": 0.699,
+      "voiced": 0.68,
+      "selected": false
+    },
+    {
+      "line": 5,
+      "word": 2,
+      "text": "පුරා",
+      "duration": 2.47,
+      "voiced": 2.41,
+      "selected": true
+    },
+    {
+      "line": 6,
+      "word": 0,
+      "text": "ඔහේ",
+      "duration": 0.579,
+      "voiced": 0.56,
+      "selected": false
+    },
+    {
+      "line": 6,
+      "word": 1,
+      "text": "ගියාම",
+      "duration": 1.239,
+      "voiced": 1.22,
+      "selected": false
+    },
+    {
+      "line": 6,
+      "word": 2,
+      "text": "තේරුනා",
+      "duration": 1.49,
+      "voiced": 1.28,
+      "selected": true
+    },
+    {
+      "line": 7,
+      "word": 0,
+      "text": "නුරා",
+      "duration": 0.839,
+      "voiced": 0.82,
+      "selected": false
+    },
+    {
+      "line": 7,
+      "word": 1,
+      "text": "අනන්තෙ",
+      "duration": 0.959,
+      "voiced": 0.91,
+      "selected": false
+    },
+    {
+      "line": 7,
+      "word": 2,
+      "text": "ඈ",
+      "duration": 0.719,
+      "voiced": 0.66,
+      "selected": false
+    },
+    {
+      "line": 7,
+      "word": 3,
+      "text": "වුනා",
+      "duration": 0.57,
+      "voiced": 0.51,
+      "selected": false
+    },
+    {
+      "line": 8,
+      "word": 0,
+      "text": "අගේ",
+      "duration": 0.219,
+      "voiced": 0.19,
+      "selected": false
+    },
+    {
+      "line": 8,
+      "word": 1,
+      "text": "හිනා",
+      "duration": 1.459,
+      "voiced": 1.22,
+      "selected": false
+    },
+    {
+      "line": 8,
+      "word": 2,
+      "text": "ඇගේ",
+      "duration": 0.359,
+      "voiced": 0.29,
+      "selected": false
+    },
+    {
+      "line": 8,
+      "word": 3,
+      "text": "කතා",
+      "duration": 1.21,
+      "voiced": 1.19,
+      "selected": false
+    },
+    {
+      "line": 9,
+      "word": 0,
+      "text": "මගේ",
+      "duration": 0.399,
+      "voiced": 0.38,
+      "selected": false
+    },
+    {
+      "line": 9,
+      "word": 1,
+      "text": "වෙලා",
+      "duration": 3.25,
+      "voiced": 2.94,
+      "selected": true
+    },
+    {
+      "line": 10,
+      "word": 0,
+      "text": "ඔබ",
+      "duration": 1.719,
+      "voiced": 1.24,
+      "selected": false
+    },
+    {
+      "line": 10,
+      "word": 1,
+      "text": "මා",
+      "duration": 0.439,
+      "voiced": 0.42,
+      "selected": false
+    },
+    {
+      "line": 10,
+      "word": 2,
+      "text": "ලගින්",
+      "duration": 0.459,
+      "voiced": 0.39,
+      "selected": false
+    },
+    {
+      "line": 10,
+      "word": 3,
+      "text": "වෙලා",
+      "duration": 0.859,
+      "voiced": 0.7,
+      "selected": false
+    },
+    {
+      "line": 10,
+      "word": 4,
+      "text": "හඩන්නෙපා",
+      "duration": 2.59,
+      "voiced": 2.41,
+      "selected": true
+    },
+    {
+      "line": 11,
+      "word": 0,
+      "text": "ඔබ",
+      "duration": 1.539,
+      "voiced": 1.17,
+      "selected": false
+    },
+    {
+      "line": 11,
+      "word": 1,
+      "text": "මා",
+      "duration": 0.439,
+      "voiced": 0.41,
+      "selected": false
+    },
+    {
+      "line": 11,
+      "word": 2,
+      "text": "ලගින්",
+      "duration": 0.519,
+      "voiced": 0.5,
+      "selected": false
+    },
+    {
+      "line": 11,
+      "word": 3,
+      "text": "වෙලා",
+      "duration": 0.639,
+      "voiced": 0.62,
+      "selected": false
+    },
+    {
+      "line": 11,
+      "word": 4,
+      "text": "දුවන්නෙපා",
+      "duration": 3.51,
+      "voiced": 3.18,
+      "selected": true
+    },
+    {
+      "line": 12,
+      "word": 0,
+      "text": "මා",
+      "duration": 0.539,
+      "voiced": 0.52,
+      "selected": false
+    },
+    {
+      "line": 12,
+      "word": 1,
+      "text": "ලගින්",
+      "duration": 0.599,
+      "voiced": 0.55,
+      "selected": false
+    },
+    {
+      "line": 12,
+      "word": 2,
+      "text": "වෙලා",
+      "duration": 1.5,
+      "voiced": 1.39,
+      "selected": false
+    },
+    {
+      "line": 12,
+      "word": 3,
+      "text": "සයනේ",
+      "duration": 0.749,
+      "voiced": 0.67,
+      "selected": false
+    },
+    {
+      "line": 12,
+      "word": 4,
+      "text": "වැතිරී",
+      "duration": 1.159,
+      "voiced": 1.03,
+      "selected": false
+    },
+    {
+      "line": 12,
+      "word": 5,
+      "text": "ඔබ",
+      "duration": 0.379,
+      "voiced": 0.36,
+      "selected": false
+    },
+    {
+      "line": 12,
+      "word": 6,
+      "text": "පෙම්",
+      "duration": 0.339,
+      "voiced": 0.24,
+      "selected": false
+    },
+    {
+      "line": 12,
+      "word": 7,
+      "text": "කෙරුවා",
+      "duration": 1.27,
+      "voiced": 1.19,
+      "selected": true
+    },
+    {
+      "line": 13,
+      "word": 0,
+      "text": "ආදරේ",
+      "duration": 0.819,
+      "voiced": 0.78,
+      "selected": false
+    },
+    {
+      "line": 13,
+      "word": 1,
+      "text": "කලා",
+      "duration": 1.6,
+      "voiced": 1.39,
+      "selected": false
+    },
+    {
+      "line": 13,
+      "word": 2,
+      "text": "තනිවෙන්නට",
+      "duration": 1.199,
+      "voiced": 1.04,
+      "selected": false
+    },
+    {
+      "line": 13,
+      "word": 3,
+      "text": "නෑ",
+      "duration": 0.599,
+      "voiced": 0.58,
+      "selected": false
+    },
+    {
+      "line": 13,
+      "word": 4,
+      "text": "හිත",
+      "duration": 0.339,
+      "voiced": 0.21,
+      "selected": false
+    },
+    {
+      "line": 13,
+      "word": 5,
+      "text": "බෑ",
+      "duration": 0.419,
+      "voiced": 0.28,
+      "selected": false
+    },
+    {
+      "line": 13,
+      "word": 6,
+      "text": "රවටා",
+      "duration": 0.47,
+      "voiced": 0.42,
+      "selected": false
+    },
+    {
+      "line": 14,
+      "word": 0,
+      "text": "සිපගන්නට",
+      "duration": 1.219,
+      "voiced": 1.02,
+      "selected": false
+    },
+    {
+      "line": 14,
+      "word": 1,
+      "text": "ඔය",
+      "duration": 0.459,
+      "voiced": 0.34,
+      "selected": false
+    },
+    {
+      "line": 14,
+      "word": 2,
+      "text": "රුව",
+      "duration": 0.459,
+      "voiced": 0.44,
+      "selected": false
+    },
+    {
+      "line": 14,
+      "word": 3,
+      "text": "මා",
+      "duration": 0.339,
+      "voiced": 0.32,
+      "selected": false
+    },
+    {
+      "line": 14,
+      "word": 4,
+      "text": "ලග",
+      "duration": 0.7,
+      "voiced": 0.59,
+      "selected": false
+    },
+    {
+      "line": 15,
+      "word": 0,
+      "text": "නැලවෙන්නට",
+      "duration": 0.979,
+      "voiced": 0.92,
+      "selected": false
+    },
+    {
+      "line": 15,
+      "word": 1,
+      "text": "ඔය",
+      "duration": 0.499,
+      "voiced": 0.36,
+      "selected": false
+    },
+    {
+      "line": 15,
+      "word": 2,
+      "text": "වත",
+      "duration": 0.439,
+      "voiced": 0.35,
+      "selected": false
+    },
+    {
+      "line": 15,
+      "word": 3,
+      "text": "මා",
+      "duration": 0.479,
+      "voiced": 0.46,
+      "selected": false
+    },
+    {
+      "line": 15,
+      "word": 4,
+      "text": "ලග",
+      "duration": 0.7,
+      "voiced": 0.68,
+      "selected": false
+    },
+    {
+      "line": 16,
+      "word": 0,
+      "text": "ඇගෙ",
+      "duration": 0.339,
+      "voiced": 0.32,
+      "selected": false
+    },
+    {
+      "line": 16,
+      "word": 1,
+      "text": "ඉග",
+      "duration": 0.459,
+      "voiced": 0.44,
+      "selected": false
+    },
+    {
+      "line": 16,
+      "word": 2,
+      "text": "මට",
+      "duration": 0.319,
+      "voiced": 0.24,
+      "selected": false
+    },
+    {
+      "line": 16,
+      "word": 3,
+      "text": "බෑ",
+      "duration": 0.639,
+      "voiced": 0.54,
+      "selected": false
+    },
+    {
+      "line": 16,
+      "word": 4,
+      "text": "ඉවසන්නට",
+      "duration": 1.36,
+      "voiced": 1.06,
+      "selected": true
+    },
+    {
+      "line": 17,
+      "word": 0,
+      "text": "මේ",
+      "duration": 0.039,
+      "voiced": 0.02,
+      "selected": false
+    },
+    {
+      "line": 17,
+      "word": 1,
+      "text": "රෑ",
+      "duration": 0.539,
+      "voiced": 0.52,
+      "selected": false
+    },
+    {
+      "line": 17,
+      "word": 2,
+      "text": "පුරා",
+      "duration": 2.57,
+      "voiced": 2.55,
+      "selected": true
+    },
+    {
+      "line": 18,
+      "word": 0,
+      "text": "ඔහේ",
+      "duration": 0.599,
+      "voiced": 0.58,
+      "selected": false
+    },
+    {
+      "line": 18,
+      "word": 1,
+      "text": "ගියාම",
+      "duration": 1.26,
+      "voiced": 1.24,
+      "selected": false
+    },
+    {
+      "line": 18,
+      "word": 2,
+      "text": "තේරුනා",
+      "duration": 1.34,
+      "voiced": 1.24,
+      "selected": true
+    },
+    {
+      "line": 19,
+      "word": 0,
+      "text": "නුරා",
+      "duration": 0.859,
+      "voiced": 0.84,
+      "selected": false
+    },
+    {
+      "line": 19,
+      "word": 1,
+      "text": "අනන්තෙ",
+      "duration": 0.959,
+      "voiced": 0.94,
+      "selected": false
+    },
+    {
+      "line": 19,
+      "word": 2,
+      "text": "ඈ",
+      "duration": 0.619,
+      "voiced": 0.6,
+      "selected": false
+    },
+    {
+      "line": 19,
+      "word": 3,
+      "text": "වුනා",
+      "duration": 0.79,
+      "voiced": 0.77,
+      "selected": false
+    },
+    {
+      "line": 20,
+      "word": 0,
+      "text": "අගේ",
+      "duration": 0.199,
+      "voiced": 0.18,
+      "selected": false
+    },
+    {
+      "line": 20,
+      "word": 1,
+      "text": "හිනා",
+      "duration": 1.459,
+      "voiced": 1.23,
+      "selected": false
+    },
+    {
+      "line": 20,
+      "word": 2,
+      "text": "ඇගේ",
+      "duration": 0.359,
+      "voiced": 0.34,
+      "selected": false
+    },
+    {
+      "line": 20,
+      "word": 3,
+      "text": "කතා",
+      "duration": 1.25,
+      "voiced": 1.23,
+      "selected": true
+    },
+    {
+      "line": 21,
+      "word": 0,
+      "text": "මගේ",
+      "duration": 0.419,
+      "voiced": 0.4,
+      "selected": false
+    },
+    {
+      "line": 21,
+      "word": 1,
+      "text": "වෙලා",
+      "duration": 3.23,
+      "voiced": 2.92,
+      "selected": true
+    },
+    {
+      "line": 22,
+      "word": 0,
+      "text": "ඔබ",
+      "duration": 1.619,
+      "voiced": 1.17,
+      "selected": false
+    },
+    {
+      "line": 22,
+      "word": 1,
+      "text": "මා",
+      "duration": 0.399,
+      "voiced": 0.38,
+      "selected": false
+    },
+    {
+      "line": 22,
+      "word": 2,
+      "text": "ලගින්",
+      "duration": 0.479,
+      "voiced": 0.43,
+      "selected": false
+    },
+    {
+      "line": 22,
+      "word": 3,
+      "text": "වෙලා",
+      "duration": 0.879,
+      "voiced": 0.73,
+      "selected": false
+    },
+    {
+      "line": 22,
+      "word": 4,
+      "text": "හඩන්නෙපා",
+      "duration": 2.59,
+      "voiced": 2.42,
+      "selected": true
+    },
+    {
+      "line": 23,
+      "word": 0,
+      "text": "ඔබ",
+      "duration": 1.699,
+      "voiced": 1.33,
+      "selected": false
+    },
+    {
+      "line": 23,
+      "word": 1,
+      "text": "මා",
+      "duration": 0.339,
+      "voiced": 0.32,
+      "selected": false
+    },
+    {
+      "line": 23,
+      "word": 2,
+      "text": "ලගින්",
+      "duration": 0.539,
+      "voiced": 0.52,
+      "selected": false
+    },
+    {
+      "line": 23,
+      "word": 3,
+      "text": "වෙලා",
+      "duration": 0.779,
+      "voiced": 0.76,
+      "selected": false
+    },
+    {
+      "line": 23,
+      "word": 4,
+      "text": "දුවන්නෙපා",
+      "duration": 2.79,
+      "voiced": 2.63,
+      "selected": true
+    },
+    {
+      "line": 24,
+      "word": 0,
+      "text": "ඔබ",
+      "duration": 1.099,
+      "voiced": 0.91,
+      "selected": false
+    },
+    {
+      "line": 24,
+      "word": 1,
+      "text": "මා",
+      "duration": 0.499,
+      "voiced": 0.48,
+      "selected": false
+    },
+    {
+      "line": 24,
+      "word": 2,
+      "text": "ලගින්",
+      "duration": 0.479,
+      "voiced": 0.46,
+      "selected": false
+    },
+    {
+      "line": 24,
+      "word": 3,
+      "text": "වෙලා",
+      "duration": 0.819,
+      "voiced": 0.71,
+      "selected": false
+    },
+    {
+      "line": 24,
+      "word": 4,
+      "text": "හඩන්නෙපා",
+      "duration": 2.829,
+      "voiced": 2.63,
+      "selected": true
+    },
+    {
+      "line": 25,
+      "word": 0,
+      "text": "ඔබ",
+      "duration": 2.079,
+      "voiced": 2.03,
+      "selected": true
+    },
+    {
+      "line": 25,
+      "word": 1,
+      "text": "මා",
+      "duration": 0.419,
+      "voiced": 0.4,
+      "selected": false
+    },
+    {
+      "line": 25,
+      "word": 2,
+      "text": "ලගින්",
+      "duration": 0.459,
+      "voiced": 0.44,
+      "selected": false
+    },
+    {
+      "line": 25,
+      "word": 3,
+      "text": "වෙලා",
+      "duration": 0.699,
+      "voiced": 0.68,
+      "selected": false
+    },
+    {
+      "line": 25,
+      "word": 4,
+      "text": "දුවන්නෙපා",
+      "duration": 6.66,
+      "voiced": 5.24,
+      "selected": true
+    }
+  ],
+  "listening_confirmed": false,
+  "method": "Long aligned content words with isolated vocal activity; punctuation is not a timing cue"
+}

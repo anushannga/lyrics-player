@@ -1,0 +1,30 @@
+[
+  {
+    "line": 2,
+    "word": 0,
+    "old": 47.4,
+    "new": 47.59,
+    "reason": "silent lead-in in isolated vocals"
+  },
+  {
+    "line": 5,
+    "word": 0,
+    "old": 62.2,
+    "new": 62.42,
+    "reason": "silent lead-in in isolated vocals"
+  },
+  {
+    "line": 25,
+    "word": 2,
+    "old": 147.78,
+    "new": 147.91,
+    "reason": "silent lead-in in isolated vocals"
+  },
+  {
+    "line": 36,
+    "word": 0,
+    "old": 201.05,
+    "new": 201.61,
+    "reason": "silent lead-in in isolated vocals"
+  }
+]

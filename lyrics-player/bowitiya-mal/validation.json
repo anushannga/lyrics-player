@@ -1,0 +1,10 @@
+{
+  "lines": 42,
+  "words": 172,
+  "sustained_words": 27,
+  "ordered_onsets": true,
+  "three_dots_per_selected_word": true,
+  "listening_confirmed": false,
+  "hardware_frames_verified": 158,
+  "hardware_crc_ack": true
+}

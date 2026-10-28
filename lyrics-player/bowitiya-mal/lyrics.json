@@ -1,0 +1,338 @@
+[
+  {
+    "id": 0,
+    "section": "intro",
+    "section_line": 0,
+    "language": "si",
+    "text": "බෝවිටියා මල් සුලගෙ වැනෙනකොට",
+    "alignment_text": "bowitiya mal sulage waenenakota"
+  },
+  {
+    "id": 1,
+    "section": "intro",
+    "section_line": 1,
+    "language": "si",
+    "text": "කෙවිට තියාපන් අහකින්",
+    "alignment_text": "kewita thiyaapan ahakin"
+  },
+  {
+    "id": 2,
+    "section": "intro",
+    "section_line": 2,
+    "language": "si",
+    "text": "කබරගොයින් දැක නියර උඩින් පැන",
+    "alignment_text": "kabaragoyin daeka niyara udin paena"
+  },
+  {
+    "id": 3,
+    "section": "intro",
+    "section_line": 3,
+    "language": "si",
+    "text": "දුවලා වරේං මගෙ මලේ…",
+    "alignment_text": "duwala waren mage male"
+  },
+  {
+    "id": 4,
+    "section": "govinda",
+    "section_line": 0,
+    "language": "si",
+    "text": "ගෝවින්දා හේ කදු මැද්දෙන්",
+    "alignment_text": "govindaa he kadu maedden"
+  },
+  {
+    "id": 5,
+    "section": "govinda",
+    "section_line": 1,
+    "language": "si",
+    "text": "වහීන්නත් වගේ",
+    "alignment_text": "waheennath wage"
+  },
+  {
+    "id": 6,
+    "section": "govinda",
+    "section_line": 2,
+    "language": "si",
+    "text": "ගෝවින්දා ඒ කදු මැද්දෙන්",
+    "alignment_text": "govindaa e kadu maedden"
+  },
+  {
+    "id": 7,
+    "section": "govinda",
+    "section_line": 3,
+    "language": "si",
+    "text": "වහීන්නත් වගේ",
+    "alignment_text": "waheennath wage"
+  },
+  {
+    "id": 8,
+    "section": "hook",
+    "section_line": 0,
+    "language": "si",
+    "text": "ගගුලැල්ලේ පවනැල්ලේ හසරැල්ලේ පියඹන්නේ",
+    "alignment_text": "gangulaelle pawanaelle hasaraelle piyambanne"
+  },
+  {
+    "id": 9,
+    "section": "hook",
+    "section_line": 1,
+    "language": "si",
+    "text": "අකුරක් ඒ නොදනිම්…",
+    "alignment_text": "akurak e nodanim"
+  },
+  {
+    "id": 10,
+    "section": "hook",
+    "section_line": 2,
+    "language": "si",
+    "text": "ගගුලැල්ලේ පවනැල්ලේ හසරැල්ලේ පියඹන්නේ",
+    "alignment_text": "gangulaelle pawanaelle hasaraelle piyambanne"
+  },
+  {
+    "id": 11,
+    "section": "hook",
+    "section_line": 3,
+    "language": "si",
+    "text": "අකුරක් ඒ නොදනිම්…",
+    "alignment_text": "akurak e nodanim"
+  },
+  {
+    "id": 12,
+    "section": "rap",
+    "section_line": 0,
+    "language": "si",
+    "text": "පැන්සල දෙකට කඩාගෙන",
+    "alignment_text": "paensala dekata kadaagena"
+  },
+  {
+    "id": 13,
+    "section": "rap",
+    "section_line": 1,
+    "language": "si",
+    "text": "මදටිය ඇට එකතු කරාගෙන",
+    "alignment_text": "madatiya aeta ekathu karaagena"
+  },
+  {
+    "id": 14,
+    "section": "rap",
+    "section_line": 2,
+    "language": "si",
+    "text": "පෑන පොතට පිරියක් නෑ මට",
+    "alignment_text": "paena pothata piriyak nae mata"
+  },
+  {
+    "id": 15,
+    "section": "rap",
+    "section_line": 3,
+    "language": "si",
+    "text": "වාගේ ඒවා නෑ මේ හරිත කලාවට",
+    "alignment_text": "waage ewa nae me haritha kalaawata"
+  },
+  {
+    "id": 16,
+    "section": "rap",
+    "section_line": 4,
+    "language": "si",
+    "text": "මී අඹ ගස් අත්තෙ පැහිල හොද",
+    "alignment_text": "mee amba gas atthe paehila honda"
+  },
+  {
+    "id": 17,
+    "section": "rap",
+    "section_line": 5,
+    "language": "si",
+    "text": "මාල ගිරව් වට ගනන් හදනවද",
+    "alignment_text": "maala giraw wata ganan hadanawada"
+  },
+  {
+    "id": 18,
+    "section": "rap",
+    "section_line": 6,
+    "language": "si",
+    "text": "චක්කරේට වඩා දන්නව මං",
+    "alignment_text": "chakkareta wadaa dannawa man"
+  },
+  {
+    "id": 19,
+    "section": "rap",
+    "section_line": 7,
+    "language": "si",
+    "text": "මන්තරෙ මේ කදු කතා කරන හඩ",
+    "alignment_text": "manthare me kadu kathaa karana handa"
+  },
+  {
+    "id": 20,
+    "section": "rap",
+    "section_line": 8,
+    "language": "si",
+    "text": "නැව්ගල කන්දෙන් ඒ එහාට",
+    "alignment_text": "naewgala kanden e ehaata"
+  },
+  {
+    "id": 21,
+    "section": "rap",
+    "section_line": 9,
+    "language": "si",
+    "text": "මල් පිපිලා ඇති මලින බරව",
+    "alignment_text": "mal pipilaa aethi malina barawa"
+  },
+  {
+    "id": 22,
+    "section": "rap",
+    "section_line": 10,
+    "language": "si",
+    "text": "යන්න ඕනෙ දවසක බලං ඉන්න",
+    "alignment_text": "yanna one dawasaka balan inna"
+  },
+  {
+    "id": 23,
+    "section": "rap",
+    "section_line": 11,
+    "language": "si",
+    "text": "හත් කදු පිසගෙන ඉර වඩිනා රග",
+    "alignment_text": "hath kadu pisagena ira wadinaa ranga"
+  },
+  {
+    "id": 24,
+    "section": "rap",
+    "section_line": 12,
+    "language": "si",
+    "text": "අමර ඉතිං මං එන්නෑ හෙට",
+    "alignment_text": "amara ithin man ennae heta"
+  },
+  {
+    "id": 25,
+    "section": "rap",
+    "section_line": 13,
+    "language": "si",
+    "text": "වේවැල කෙවිටක් වෙන් නෑ තව",
+    "alignment_text": "wewaela kewitak wen nae thawa"
+  },
+  {
+    "id": 26,
+    "section": "rap",
+    "section_line": 14,
+    "language": "si",
+    "text": "බාන එක්ක යාය පුරාවට",
+    "alignment_text": "baana ekka yaaya puraawata"
+  },
+  {
+    "id": 27,
+    "section": "rap",
+    "section_line": 15,
+    "language": "si",
+    "text": "ගොපලු රජා වෙන්නම් මේ යායට",
+    "alignment_text": "gopalu rajaa wennam me yaayata"
+  },
+  {
+    "id": 28,
+    "section": "govinda2",
+    "section_line": 0,
+    "language": "si",
+    "text": "ගෝවින්දා හේ කදු මැද්දෙන්",
+    "alignment_text": "govindaa he kadu maedden"
+  },
+  {
+    "id": 29,
+    "section": "govinda2",
+    "section_line": 1,
+    "language": "si",
+    "text": "වහීන්නත් වගේ",
+    "alignment_text": "waheennath wage"
+  },
+  {
+    "id": 30,
+    "section": "hook2",
+    "section_line": 0,
+    "language": "si",
+    "text": "ගගුලැල්ලේ පවනැල්ලේ හසරැල්ලේ පියඹන්නේ",
+    "alignment_text": "gangulaelle pawanaelle hasaraelle piyambanne"
+  },
+  {
+    "id": 31,
+    "section": "hook2",
+    "section_line": 1,
+    "language": "si",
+    "text": "අකුරක් ඒ නොදනිම්…",
+    "alignment_text": "akurak e nodanim"
+  },
+  {
+    "id": 32,
+    "section": "hook2",
+    "section_line": 2,
+    "language": "si",
+    "text": "ගගුලැල්ලේ පවනැල්ලේ හසරැල්ලේ පියඹන්නේ",
+    "alignment_text": "gangulaelle pawanaelle hasaraelle piyambanne"
+  },
+  {
+    "id": 33,
+    "section": "hook2",
+    "section_line": 3,
+    "language": "si",
+    "text": "අකුරක් ඒ නොදනිම්…",
+    "alignment_text": "akurak e nodanim"
+  },
+  {
+    "id": 34,
+    "section": "intro2",
+    "section_line": 0,
+    "language": "si",
+    "text": "බෝවිටියා මල් සුලගෙ වැනෙනකොට",
+    "alignment_text": "bowitiya mal sulage waenenakota"
+  },
+  {
+    "id": 35,
+    "section": "intro2",
+    "section_line": 1,
+    "language": "si",
+    "text": "කෙවිට තියාපන් අහකින්",
+    "alignment_text": "kewita thiyaapan ahakin"
+  },
+  {
+    "id": 36,
+    "section": "intro2",
+    "section_line": 2,
+    "language": "si",
+    "text": "කබරගොයින් දැක නියර උඩින් පැන",
+    "alignment_text": "kabaragoyin daeka niyara udin paena"
+  },
+  {
+    "id": 37,
+    "section": "intro2",
+    "section_line": 3,
+    "language": "si",
+    "text": "දුවලා වරේං මගෙ මලේ…",
+    "alignment_text": "duwala waren mage male"
+  },
+  {
+    "id": 38,
+    "section": "intro3",
+    "section_line": 0,
+    "language": "si",
+    "text": "බෝවිටියා මල් සුලගෙ වැනෙනකොට",
+    "alignment_text": "bowitiya mal sulage waenenakota"
+  },
+  {
+    "id": 39,
+    "section": "intro3",
+    "section_line": 1,
+    "language": "si",
+    "text": "කෙවිට තියාපන් අහකින්",
+    "alignment_text": "kewita thiyaapan ahakin"
+  },
+  {
+    "id": 40,
+    "section": "intro3",
+    "section_line": 2,
+    "language": "si",
+    "text": "කබරගොයින් දැක නියර උඩින් පැන",
+    "alignment_text": "kabaragoyin daeka niyara udin paena"
+  },
+  {
+    "id": 41,
+    "section": "intro3",
+    "section_line": 3,
+    "language": "si",
+    "text": "දුවලා වරේං මගෙ මලේ…",
+    "alignment_text": "duwala waren mage male"
+  }
+]

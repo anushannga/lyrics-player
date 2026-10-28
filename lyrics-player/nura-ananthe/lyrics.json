@@ -1,0 +1,210 @@
+[
+  {
+    "id": 0,
+    "section": "verse1",
+    "section_line": 0,
+    "language": "si",
+    "text": "ආදරෙන් වෙලා ඔබ රාගෙක මා හට පෙම් කරනා",
+    "alignment_text": "aadaren welaa oba raageka maa hata pem karanaa"
+  },
+  {
+    "id": 1,
+    "section": "verse1",
+    "section_line": 1,
+    "language": "si",
+    "text": "මා ලයේ රගා නෙතගේ නුබෙ ආලය මා සතපා",
+    "alignment_text": "maa laye ragaa nethage nube aalaya maa sathapaa"
+  },
+  {
+    "id": 2,
+    "section": "pre1",
+    "section_line": 0,
+    "language": "si",
+    "text": "සිපගන්නට ඔය රුව මා ලග",
+    "alignment_text": "sipagannata oya ruwa maa langa"
+  },
+  {
+    "id": 3,
+    "section": "pre1",
+    "section_line": 1,
+    "language": "si",
+    "text": "නැලවෙන්නට ඔය වත මා ලග",
+    "alignment_text": "naelawennata oya watha maa langa"
+  },
+  {
+    "id": 4,
+    "section": "pre1",
+    "section_line": 2,
+    "language": "si",
+    "text": "ඇගෙ ඉග මට බෑ ඉවසන්නට",
+    "alignment_text": "aege iga mata bae iwasannata"
+  },
+  {
+    "id": 5,
+    "section": "pre1",
+    "section_line": 3,
+    "language": "si",
+    "text": "මේ රෑ පුරා",
+    "alignment_text": "me rae puraa"
+  },
+  {
+    "id": 6,
+    "section": "hook1",
+    "section_line": 0,
+    "language": "si",
+    "text": "ඔහේ ගියාම තේරුනා",
+    "alignment_text": "ohe giyaama therunaa"
+  },
+  {
+    "id": 7,
+    "section": "hook1",
+    "section_line": 1,
+    "language": "si",
+    "text": "නුරා අනන්තෙ ඈ වුනා",
+    "alignment_text": "nuraa ananthe ae wunaa"
+  },
+  {
+    "id": 8,
+    "section": "hook1",
+    "section_line": 2,
+    "language": "si",
+    "text": "අගේ හිනා ඇගේ කතා",
+    "alignment_text": "age hinaa aege kathaa"
+  },
+  {
+    "id": 9,
+    "section": "hook1",
+    "section_line": 3,
+    "language": "si",
+    "text": "මගේ වෙලා",
+    "alignment_text": "mage welaa"
+  },
+  {
+    "id": 10,
+    "section": "post1",
+    "section_line": 0,
+    "language": "si",
+    "text": "ඔබ මා ලගින් වෙලා හඩන්නෙපා",
+    "alignment_text": "oba maa langin welaa handannepaa"
+  },
+  {
+    "id": 11,
+    "section": "post1",
+    "section_line": 1,
+    "language": "si",
+    "text": "ඔබ මා ලගින් වෙලා දුවන්නෙපා",
+    "alignment_text": "oba maa langin welaa duwannepaa"
+  },
+  {
+    "id": 12,
+    "section": "verse2",
+    "section_line": 0,
+    "language": "si",
+    "text": "මා ලගින් වෙලා සයනේ වැතිරී ඔබ පෙම් කෙරුවා",
+    "alignment_text": "maa langin welaa sayane waethiree oba pem keruwaa"
+  },
+  {
+    "id": 13,
+    "section": "verse2",
+    "section_line": 1,
+    "language": "si",
+    "text": "ආදරේ කලා තනිවෙන්නට නෑ හිත බෑ රවටා",
+    "alignment_text": "aadare kalaa thaniwennata nae hitha bae rawataa"
+  },
+  {
+    "id": 14,
+    "section": "pre2",
+    "section_line": 0,
+    "language": "si",
+    "text": "සිපගන්නට ඔය රුව මා ලග",
+    "alignment_text": "sipagannata oya ruwa maa langa"
+  },
+  {
+    "id": 15,
+    "section": "pre2",
+    "section_line": 1,
+    "language": "si",
+    "text": "නැලවෙන්නට ඔය වත මා ලග",
+    "alignment_text": "naelawennata oya watha maa langa"
+  },
+  {
+    "id": 16,
+    "section": "pre2",
+    "section_line": 2,
+    "language": "si",
+    "text": "ඇගෙ ඉග මට බෑ ඉවසන්නට",
+    "alignment_text": "aege iga mata bae iwasannata"
+  },
+  {
+    "id": 17,
+    "section": "pre2",
+    "section_line": 3,
+    "language": "si",
+    "text": "මේ රෑ පුරා",
+    "alignment_text": "me rae puraa"
+  },
+  {
+    "id": 18,
+    "section": "hook2",
+    "section_line": 0,
+    "language": "si",
+    "text": "ඔහේ ගියාම තේරුනා",
+    "alignment_text": "ohe giyaama therunaa"
+  },
+  {
+    "id": 19,
+    "section": "hook2",
+    "section_line": 1,
+    "language": "si",
+    "text": "නුරා අනන්තෙ ඈ වුනා",
+    "alignment_text": "nuraa ananthe ae wunaa"
+  },
+  {
+    "id": 20,
+    "section": "hook2",
+    "section_line": 2,
+    "language": "si",
+    "text": "අගේ හිනා ඇගේ කතා",
+    "alignment_text": "age hinaa aege kathaa"
+  },
+  {
+    "id": 21,
+    "section": "hook2",
+    "section_line": 3,
+    "language": "si",
+    "text": "මගේ වෙලා",
+    "alignment_text": "mage welaa"
+  },
+  {
+    "id": 22,
+    "section": "post2",
+    "section_line": 0,
+    "language": "si",
+    "text": "ඔබ මා ලගින් වෙලා හඩන්නෙපා",
+    "alignment_text": "oba maa langin welaa handannepaa"
+  },
+  {
+    "id": 23,
+    "section": "post2",
+    "section_line": 1,
+    "language": "si",
+    "text": "ඔබ මා ලගින් වෙලා දුවන්නෙපා",
+    "alignment_text": "oba maa langin welaa duwannepaa"
+  },
+  {
+    "id": 24,
+    "section": "post3",
+    "section_line": 0,
+    "language": "si",
+    "text": "ඔබ මා ලගින් වෙලා හඩන්නෙපා",
+    "alignment_text": "oba maa langin welaa handannepaa"
+  },
+  {
+    "id": 25,
+    "section": "post3",
+    "section_line": 1,
+    "language": "si",
+    "text": "ඔබ මා ලගින් වෙලා දුවන්නෙපා",
+    "alignment_text": "oba maa langin welaa duwannepaa"
+  }
+]

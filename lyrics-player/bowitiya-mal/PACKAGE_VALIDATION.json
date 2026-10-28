@@ -1,0 +1,13 @@
+{
+  "song": "bowitiya-mal",
+  "syntax": true,
+  "dry_run": true,
+  "rebuild_identical": {
+    "frames.bin": true,
+    "manifest.json": true,
+    "timings.json": true
+  },
+  "recordings_excluded": true,
+  "personal_paths_and_token_patterns_checked": true,
+  "listening_confirmed": false
+}
