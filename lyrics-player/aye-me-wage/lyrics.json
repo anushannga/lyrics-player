@@ -1,0 +1,330 @@
+[
+  {
+    "id": 0,
+    "section": "verse1",
+    "section_line": 0,
+    "language": "si",
+    "text": "නැවතෙන්නට හිතනා",
+    "alignment_text": "naewathennata hithanaa"
+  },
+  {
+    "id": 1,
+    "section": "verse1",
+    "section_line": 1,
+    "language": "si",
+    "text": "හදවත මත අතපා",
+    "alignment_text": "hadawatha matha athapaa"
+  },
+  {
+    "id": 2,
+    "section": "verse1",
+    "section_line": 2,
+    "language": "si",
+    "text": "තව ඉවසන්නට මා",
+    "alignment_text": "thawa iwasannata maa"
+  },
+  {
+    "id": 3,
+    "section": "verse1",
+    "section_line": 3,
+    "language": "si",
+    "text": "තරවටූ උනා",
+    "alignment_text": "tharawatuu unaa"
+  },
+  {
+    "id": 4,
+    "section": "verse1",
+    "section_line": 4,
+    "language": "si",
+    "text": "නෙතඟින් පිට පනිනා",
+    "alignment_text": "nethangin pita paninaa"
+  },
+  {
+    "id": 5,
+    "section": "verse1",
+    "section_line": 5,
+    "language": "si",
+    "text": "කඳුලැලි කැට පිසලා",
+    "alignment_text": "kandulaeli kaeta pisalaa"
+  },
+  {
+    "id": 6,
+    "section": "verse1",
+    "section_line": 6,
+    "language": "si",
+    "text": "නෙතු පතුලෙම හංගන්නට",
+    "alignment_text": "nethu pathulema hangannata"
+  },
+  {
+    "id": 7,
+    "section": "verse1",
+    "section_line": 7,
+    "language": "si",
+    "text": "වෑයමේ මෙමා",
+    "alignment_text": "waeyame memaa"
+  },
+  {
+    "id": 8,
+    "section": "pre1",
+    "section_line": 0,
+    "language": "si",
+    "text": "ඔබ හා රැඳෙන්න මොහොතක් පවා",
+    "alignment_text": "oba haa raendenna mohothak pawaa"
+  },
+  {
+    "id": 9,
+    "section": "pre1",
+    "section_line": 1,
+    "language": "si",
+    "text": "යදිනා හදේ විඩා",
+    "alignment_text": "yadinaa hade widaa"
+  },
+  {
+    "id": 10,
+    "section": "pre1",
+    "section_line": 2,
+    "language": "si",
+    "text": "මට බෑ නිවෙන්න ඇතුලින් මෙමා",
+    "alignment_text": "mata bae niwenna aethulin memaa"
+  },
+  {
+    "id": 11,
+    "section": "pre1",
+    "section_line": 3,
+    "language": "si",
+    "text": "ගිනියම්ව ඇවිලිලා",
+    "alignment_text": "giniyamwa aewililaa"
+  },
+  {
+    "id": 12,
+    "section": "hook1",
+    "section_line": 0,
+    "language": "si",
+    "text": "ආයේ මේ වාගේ",
+    "alignment_text": "aaye me waage"
+  },
+  {
+    "id": 13,
+    "section": "hook1",
+    "section_line": 1,
+    "language": "si",
+    "text": "අවසන රිදෙනා ඒ",
+    "alignment_text": "awasana ridenaa e"
+  },
+  {
+    "id": 14,
+    "section": "hook1",
+    "section_line": 2,
+    "language": "si",
+    "text": "ප්‍රේමේ කතා.. තව එපා",
+    "alignment_text": "preme kathaa thawa epaa"
+  },
+  {
+    "id": 15,
+    "section": "hook1",
+    "section_line": 3,
+    "language": "si",
+    "text": "නුබ නොරිදෙන විලසේ මං",
+    "alignment_text": "nuba noridena wilase man"
+  },
+  {
+    "id": 16,
+    "section": "hook1",
+    "section_line": 4,
+    "language": "si",
+    "text": "නුබ ලඟ ඉන්නම්",
+    "alignment_text": "nuba langa innam"
+  },
+  {
+    "id": 17,
+    "section": "hook1",
+    "section_line": 5,
+    "language": "si",
+    "text": "කඳුලැල් හංගලා.. හිනෑහිලා",
+    "alignment_text": "kandulael hangalaa hinaehilaa"
+  },
+  {
+    "id": 18,
+    "section": "verse2",
+    "section_line": 0,
+    "language": "si",
+    "text": "පිය සටහන් මැකිලා",
+    "alignment_text": "piya satahan maekilaa"
+  },
+  {
+    "id": 19,
+    "section": "verse2",
+    "section_line": 1,
+    "language": "si",
+    "text": "අපි ආ දුර නොතකා",
+    "alignment_text": "api aa dura nothakaa"
+  },
+  {
+    "id": 20,
+    "section": "verse2",
+    "section_line": 2,
+    "language": "si",
+    "text": "මෙතනින් නවතිමු",
+    "alignment_text": "methanin nawathimu"
+  },
+  {
+    "id": 21,
+    "section": "verse2",
+    "section_line": 3,
+    "language": "si",
+    "text": "තව නොහඬා",
+    "alignment_text": "thawa nohandaa"
+  },
+  {
+    "id": 22,
+    "section": "verse2",
+    "section_line": 4,
+    "language": "si",
+    "text": "අවසන් හාදුව සේ",
+    "alignment_text": "awasan haaduwa se"
+  },
+  {
+    "id": 23,
+    "section": "verse2",
+    "section_line": 5,
+    "language": "si",
+    "text": "නලලත තවරා හාදූ මා",
+    "alignment_text": "nalalatha thawaraa haaduu maa"
+  },
+  {
+    "id": 24,
+    "section": "verse2",
+    "section_line": 6,
+    "language": "si",
+    "text": "ආදරෙ දරා",
+    "alignment_text": "aadare daraa"
+  },
+  {
+    "id": 25,
+    "section": "pre2",
+    "section_line": 0,
+    "language": "si",
+    "text": "නුබ හා රැඳෙන්න මොහොතක් පවා",
+    "alignment_text": "nuba haa raendenna mohothak pawaa"
+  },
+  {
+    "id": 26,
+    "section": "pre2",
+    "section_line": 1,
+    "language": "si",
+    "text": "යදිනා හදේ විඩා",
+    "alignment_text": "yadinaa hade widaa"
+  },
+  {
+    "id": 27,
+    "section": "pre2",
+    "section_line": 2,
+    "language": "si",
+    "text": "ඉවසා දරාන ඉනු කෝම මා",
+    "alignment_text": "iwasaa daraana inu koma maa"
+  },
+  {
+    "id": 28,
+    "section": "pre2",
+    "section_line": 3,
+    "language": "si",
+    "text": "සමුදෙන්නෙ පෙමට මා",
+    "alignment_text": "samudenne pemata maa"
+  },
+  {
+    "id": 29,
+    "section": "hook2",
+    "section_line": 0,
+    "language": "si",
+    "text": "ආයේ මේ වාගේ",
+    "alignment_text": "aaye me waage"
+  },
+  {
+    "id": 30,
+    "section": "hook2",
+    "section_line": 1,
+    "language": "si",
+    "text": "අවසන රිදෙනා ඒ",
+    "alignment_text": "awasana ridenaa e"
+  },
+  {
+    "id": 31,
+    "section": "hook2",
+    "section_line": 2,
+    "language": "si",
+    "text": "ප්‍රේමේ කතා.. තව එපා",
+    "alignment_text": "preme kathaa thawa epaa"
+  },
+  {
+    "id": 32,
+    "section": "hook2",
+    "section_line": 3,
+    "language": "si",
+    "text": "නුබ නොරිදෙන විලසේ මං",
+    "alignment_text": "nuba noridena wilase man"
+  },
+  {
+    "id": 33,
+    "section": "hook2",
+    "section_line": 4,
+    "language": "si",
+    "text": "නුබ ලඟ ඉන්නම්",
+    "alignment_text": "nuba langa innam"
+  },
+  {
+    "id": 34,
+    "section": "hook2",
+    "section_line": 5,
+    "language": "si",
+    "text": "කඳුලැල් හංගලා.. හිනැහිලා",
+    "alignment_text": "kandulael hangalaa hinaehilaa"
+  },
+  {
+    "id": 35,
+    "section": "hook3",
+    "section_line": 0,
+    "language": "si",
+    "text": "ආයේ මේ වාගෙ",
+    "alignment_text": "aaye me waage"
+  },
+  {
+    "id": 36,
+    "section": "hook3",
+    "section_line": 1,
+    "language": "si",
+    "text": "අවසන රිදෙනා ඒ",
+    "alignment_text": "awasana ridenaa e"
+  },
+  {
+    "id": 37,
+    "section": "hook3",
+    "section_line": 2,
+    "language": "si",
+    "text": "ප්‍රේමේ කතා.. තව එපා",
+    "alignment_text": "preme kathaa thawa epaa"
+  },
+  {
+    "id": 38,
+    "section": "hook3",
+    "section_line": 3,
+    "language": "si",
+    "text": "නුබ නොරිදෙන විලසේ මං",
+    "alignment_text": "nuba noridena wilase man"
+  },
+  {
+    "id": 39,
+    "section": "hook3",
+    "section_line": 4,
+    "language": "si",
+    "text": "නුබ ලඟ ඉන්නම්",
+    "alignment_text": "nuba langa innam"
+  },
+  {
+    "id": 40,
+    "section": "hook3",
+    "section_line": 5,
+    "language": "si",
+    "text": "කඳුලැල් හංගලා.. හිනැහිලා",
+    "alignment_text": "kandulael hangalaa hinaehilaa"
+  }
+]
