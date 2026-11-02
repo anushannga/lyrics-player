@@ -1,0 +1,89 @@
+{
+  "selection": "Long phrase-final isolated vocals; punctuation alone does not add dots; not listening-confirmed",
+  "words": [
+    {
+      "line": 2,
+      "word": 4,
+      "text": "මෙදා",
+      "duration": 2.22,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 5,
+      "word": 3,
+      "text": "පායලා",
+      "duration": 3.02,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 6,
+      "word": 3,
+      "text": "එහා",
+      "duration": 1.259,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 7,
+      "word": 2,
+      "text": "ඉන්නවා",
+      "duration": 2.47,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 13,
+      "word": 2,
+      "text": "කැන්දා",
+      "duration": 1.659,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 19,
+      "word": 2,
+      "text": "කැන්දා",
+      "duration": 1.78,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 23,
+      "word": 0,
+      "text": "මගෙ",
+      "duration": 2.979,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 25,
+      "word": 2,
+      "text": "මා",
+      "duration": 2.74,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 27,
+      "word": 2,
+      "text": "ඉන්නවා",
+      "duration": 3.799,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 33,
+      "word": 2,
+      "text": "කැන්දා",
+      "duration": 1.679,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 39,
+      "word": 2,
+      "text": "කැන්දා",
+      "duration": 1.659,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 45,
+      "word": 2,
+      "text": "කැන්දා",
+      "duration": 2.14,
+      "basis": "isolated vocal duration; sustained content word"
+    }
+  ]
+}

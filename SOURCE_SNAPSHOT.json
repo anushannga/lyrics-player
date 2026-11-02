@@ -796,5 +796,309 @@
         "sha256": "4ac8130e92fd4f72f19bb260d0d6a004643fccc19ac3b1290132f5dfac6e7290"
       }
     ]
+  },
+  {
+    "song": "deviyange-bare",
+    "source_project": "DeviyangeBareLCD",
+    "original_source_files": [
+      {
+        "file": "player.py",
+        "sha256": "c6d0e4c1bfbf1a98a3eb7a4eae4588c3da65ed2877f78891b57036a7933b9c81"
+      },
+      {
+        "file": "player_settings.json",
+        "sha256": "c5d787e6c57becf2254c63fb38b854ff65f79c20e1631a13eeecb3191c5a75dd"
+      },
+      {
+        "file": "README.md",
+        "sha256": "afc636915f4004df814673d0848e8ffe2c560a13f936be0ceb04f8db12d8efa9"
+      },
+      {
+        "file": "lyrics.json",
+        "sha256": "fa739d38766dee121560ae3f1fc0d44da3771740a23b12f114c19f4fd19a143a"
+      },
+      {
+        "file": "lyrics_unicode.txt",
+        "sha256": "dcf7900161d439d687c0d55d542a97f75b2928fc6a7c5422b885f242afb1d7ca"
+      },
+      {
+        "file": "alignment.json",
+        "sha256": "a560d1c5b4f013fc31423e7296e0d8bb292ca31094e5e7f6ef94f993fb54d943"
+      },
+      {
+        "file": "alignment_windows.json",
+        "sha256": "3d6493d36b1e325c4f3209f94bf6935e0559c88fd442f905b3ef6634313f50fc"
+      },
+      {
+        "file": "frames.bin",
+        "sha256": "11654ddf2ea6bc701e839cd2fb0658b6d8702fa10adff52d99225395a06fb5bb"
+      },
+      {
+        "file": "manifest.json",
+        "sha256": "001b3160d6373c70ba5b29c727d17eb1e8a556bd85cc63459f3d44cb102adac1"
+      },
+      {
+        "file": "timings.json",
+        "sha256": "ebe6b9184234246cbf780926143915dc1f3d04685e44992017ab2442c858afdc"
+      },
+      {
+        "file": "sustain_marks.json",
+        "sha256": "0fefe6f25575b50a2b3c68caf8d40871fabff7f796b2b2a7d7be35bac14fa7ba"
+      },
+      {
+        "file": "sustain_selection.json",
+        "sha256": "614388b96273e555bf3f3542f6e8a3f8767114c541745a43bd3bad083258c949"
+      },
+      {
+        "file": "vocal_boundary_changes.json",
+        "sha256": "fdab2aed6745d27c38c7c6ab30f96531b8cf49b54f6d17058b9a5105e63316c0"
+      },
+      {
+        "file": "validation.json",
+        "sha256": "4c3fe8c6bedfa1e8fd2829f3eef2858916c1a4e3d76129a7188f9a8ecf601b48"
+      },
+      {
+        "file": "combined_alignment.json",
+        "sha256": "e921f08f8a7676dbdddf261eeda038002df3a8db4de9cf427176d1f4c338e576"
+      },
+      {
+        "file": "rap_refinements.json",
+        "sha256": "974f4d834d6bc6ec4569285fe372f11fa1c4e0f9723458d7269be12f8558fef2"
+      },
+      {
+        "file": "chorus1_alignment.json",
+        "sha256": "3aa2a5dbdfb56bafdee7c5ef4e00fcfb6298217a7741343ca3f16963e3bba9a4"
+      },
+      {
+        "file": "chorus2_alignment.json",
+        "sha256": "1dddc2ca4669f92c08480858cd0d485b80d035385464f9df8ef712a4fad2e41f"
+      },
+      {
+        "file": "tools/align_chorus1.py",
+        "sha256": "81cdb0b55203956ebe62267b9f66fd3928c7e7f98b0e2f1c2706f1aea2883138"
+      },
+      {
+        "file": "tools/align_chorus2.py",
+        "sha256": "eec7456fed3ccee3cdafa118028c15185920affcdb0497349f844b903303a3ae"
+      },
+      {
+        "file": "tools/align_choruses.py",
+        "sha256": "85a3bb94c32182dd41b34ea7b0762467452a485ec54a040b816423d658ba4e03"
+      },
+      {
+        "file": "tools/align_rap.py",
+        "sha256": "67a2ca8ef767585e3842c1e724a18ed1f75cb89af1a61eb13926c4c55f3e3717"
+      },
+      {
+        "file": "tools/align_rap_refinements.py",
+        "sha256": "5b9158611d3f917f5b34687838b79f9e92933c05a71449e10549939a664c6fd3"
+      },
+      {
+        "file": "tools/align_tail.py",
+        "sha256": "639f42933800e4aab156da6a8102e37245300bdc3885a666277c17a448832ec9"
+      },
+      {
+        "file": "tools/align_vocals.py",
+        "sha256": "d3b98c7ed9a8b41eeb021e68d43231a2f794019eac7ede104b6a5aba70b4084e"
+      },
+      {
+        "file": "tools/bootstrap_alignment.py",
+        "sha256": "b904059e5db282c1cb1765b1abbd85d03cc0e1535ce253350a287c962d5aa8e9"
+      },
+      {
+        "file": "tools/build_display.py",
+        "sha256": "59ef9bd7d14b476718b88cf8dcc5eb84e14f34fa2a709b6d55171e8a9d1a867d"
+      },
+      {
+        "file": "tools/finalize_alignment.py",
+        "sha256": "e985bff42830d5b7c74042b8e43cc85e8fcdeab7413fd62e29c4fc83b44b7421"
+      },
+      {
+        "file": "tools/isolate_vocals.py",
+        "sha256": "369043ba5df6e0b4deea1f225a18d6fd279ffd279797ea0aa64b7d3b161f49d1"
+      },
+      {
+        "file": "tools/pixel_format.py",
+        "sha256": "32c5da149058041af7d5d76196cbfd96c04ac2928dfd5ef9c12c1ba862d3e794"
+      },
+      {
+        "file": "tools/prepare_lyrics.py",
+        "sha256": "44a4cd163b750baa5b9e31cc949f0e78abd04391282d4379c72e46deefadee6d"
+      },
+      {
+        "file": "tools/refine_vocal_boundaries.py",
+        "sha256": "a308b6a33ce03dd7b243cf1fa27ccb0fbe4f429ea19ccae4a70abd05ab842d13"
+      },
+      {
+        "file": "tools/repair_alignment.py",
+        "sha256": "09b13296700b7243b5ab6c8fc511002d58f1c3444265b5fa8d0b7d10d449d7d6"
+      },
+      {
+        "file": "tools/repair_final.py",
+        "sha256": "74c3abca425dc54bea8245e7fac99d38e9b68f342d061b5b5356e0748a55fbed"
+      },
+      {
+        "file": "tools/scan_audio.py",
+        "sha256": "138a8d71fe9c110f6d5e44ddba2e2b145fbfeec19161f4403e7927a4ae78cfb6"
+      },
+      {
+        "file": "tools/select_sustains.py",
+        "sha256": "57fd235faf60fbecd03d218914c3b9ebdc0ed76f288a897e00e1174f94ad18b6"
+      },
+      {
+        "file": "tools/audio_clock.m",
+        "sha256": "66c5894dd73b7b8df8b2f62adf0ebe6ec823a0559eb8c6f8e9bbff0a61fadd4a"
+      },
+      {
+        "file": "assets/su_naga.ttf",
+        "sha256": "ac2d189cdd3ab59677765a4dcc559ccb0a2015dd83053dd3f9139bf2657bf36d"
+      },
+      {
+        "file": "assets/fm-rules.json",
+        "sha256": "0db6b417f198a021768bfe76996ca56affb280bcd52c1e215581b3c69db4ff70"
+      },
+      {
+        "file": "DeviyangeBareLCD.ino",
+        "sha256": "4ac8130e92fd4f72f19bb260d0d6a004643fccc19ac3b1290132f5dfac6e7290"
+      }
+    ]
+  },
+  {
+    "song": "ithin-maa-numbawa-banda",
+    "source_project": "IthinMaaNumbawaBandaLCD",
+    "original_source_files": [
+      {
+        "file": "player.py",
+        "sha256": "052b38dcb2913c61e3b286be907b7e5ff65330c078f47e912d6ec9e64424acc3"
+      },
+      {
+        "file": "player_settings.json",
+        "sha256": "c5d787e6c57becf2254c63fb38b854ff65f79c20e1631a13eeecb3191c5a75dd"
+      },
+      {
+        "file": "README.md",
+        "sha256": "04ae3006691d53f4b9fdaa9e5eca1ea2564ce99879de42a2d7bda97415ea4da7"
+      },
+      {
+        "file": "lyrics.json",
+        "sha256": "834ce0a1d6a3eb8a4d368fb1f15e2b2b1c4205fdc6bdb3d0a9a400d1aff7cb8e"
+      },
+      {
+        "file": "lyrics_unicode.txt",
+        "sha256": "359ce88ec2701910af3604b29929ed3a57331920e4ea7701fbf2ef5a918ca34f"
+      },
+      {
+        "file": "alignment.json",
+        "sha256": "0f31dd421bb9b5d4cbd9076c93c4f38b7ae4392cc33f40036365d473d011511f"
+      },
+      {
+        "file": "alignment_windows.json",
+        "sha256": "e7d343825f06df945e6d68ff60ecb8183f2b7b75f58105b134bcf29303db5420"
+      },
+      {
+        "file": "frames.bin",
+        "sha256": "9cd344048659003f975dd378b3f595e5799ce3f690b952e8bbf5f9943cc8c2ff"
+      },
+      {
+        "file": "manifest.json",
+        "sha256": "80324950be4724df35f3f7335548d3c8d300f6df9bb3ff5ee52d4ec8256c5870"
+      },
+      {
+        "file": "timings.json",
+        "sha256": "fa52b0392124cafd5f4c5fd6505c2bdd3f40c960e9f18f1fb40ad12d18eb974b"
+      },
+      {
+        "file": "sustain_marks.json",
+        "sha256": "fa0c3b6b91cc5c0c54a100bffc4d28301cce02ee56ef6d76604b794c79a4a4ce"
+      },
+      {
+        "file": "sustain_selection.json",
+        "sha256": "9548c4e9dd4fac99da3e5cc0a9ebd5642f4d86f140719bf4c0f8a70ad082b090"
+      },
+      {
+        "file": "vocal_boundary_changes.json",
+        "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+      },
+      {
+        "file": "validation.json",
+        "sha256": "4a3a6ebacec4591d2de2052d4e352187a05743ade8d6ebf0c3d23cc32b35ceef"
+      },
+      {
+        "file": "song.json",
+        "sha256": "048d783ea754984d6e8726389c3904a7e410917869e618c3246f97c5b389ec2f"
+      },
+      {
+        "file": "repeat_evidence.json",
+        "sha256": "59745912ce696333f38e60a0f23384e5a15f10d3a5c2b2c8921c24142ad79c11"
+      },
+      {
+        "file": "vocal_repeat_evidence.json",
+        "sha256": "58ff487871b7c9e85b8a1e786f2fa4064c6bf4a4345283d9efafc4b0396466ff"
+      },
+      {
+        "file": "tools/align_vocals.py",
+        "sha256": "4674720d441257d69e7850a8bb0d9e81d644402c130366f0e018289145369832"
+      },
+      {
+        "file": "tools/bootstrap_alignment.py",
+        "sha256": "a06f4ae7eafaa4c8d5c5cc9960a665f8ee140b1267beb8887e542a05b539a197"
+      },
+      {
+        "file": "tools/build_display.py",
+        "sha256": "0b774267334f4ad1e64a991f5aba8458f7be7084c795724e4f235ce18ec9b186"
+      },
+      {
+        "file": "tools/check_repeat_words.py",
+        "sha256": "1dc4b43cf636879a7fa39d63828476ddeb49f40a42bb6e556bdf6733f9426999"
+      },
+      {
+        "file": "tools/check_repeats.py",
+        "sha256": "bb729ec1559c07ebd83060afc2ee47c1e1812ed6057cb58f5b733feb48322012"
+      },
+      {
+        "file": "tools/check_vocal_repeats.py",
+        "sha256": "da400a2c9a4b674ceaa9e6a29280346ac17919a9c12e1fc70424f3fc733fdf4a"
+      },
+      {
+        "file": "tools/isolate_vocals.py",
+        "sha256": "99e257e26f60304174c39e043846c26689415bda9c3a1a348817c616e525e8e3"
+      },
+      {
+        "file": "tools/pixel_format.py",
+        "sha256": "32c5da149058041af7d5d76196cbfd96c04ac2928dfd5ef9c12c1ba862d3e794"
+      },
+      {
+        "file": "tools/prepare_lyrics.py",
+        "sha256": "22f8e18c5745d0187d2380b88c1af956b6f92a36902e89a5002fc23e52a6db30"
+      },
+      {
+        "file": "tools/refine_vocal_boundaries.py",
+        "sha256": "a308b6a33ce03dd7b243cf1fa27ccb0fbe4f429ea19ccae4a70abd05ab842d13"
+      },
+      {
+        "file": "tools/select_sustains.py",
+        "sha256": "ced9cdd50971042de01cbedf424703dc44d887223961cffbe342179446332b09"
+      },
+      {
+        "file": "tools/transcribe_audio.py",
+        "sha256": "7a28a888f773c8d3695d05c34694eb897f63798aa28874745f68ad3a712d8b70"
+      },
+      {
+        "file": "tools/audio_clock.m",
+        "sha256": "66c5894dd73b7b8df8b2f62adf0ebe6ec823a0559eb8c6f8e9bbff0a61fadd4a"
+      },
+      {
+        "file": "assets/isigurul_0.ttf",
+        "sha256": "1d23be650901b60998699fd5e13b1b9ff196173c61e84bf4bda8e6ac5deb9228"
+      },
+      {
+        "file": "assets/isi-rules.json",
+        "sha256": "4fd82180469dce991ceac1a9a9d6889c1d5cf5ab2e5f542b7997f264b5ef7c0d"
+      },
+      {
+        "file": "IthinMaaNumbawaBandaLCD.ino",
+        "sha256": "4ac8130e92fd4f72f19bb260d0d6a004643fccc19ac3b1290132f5dfac6e7290"
+      }
+    ]
   }
 ]

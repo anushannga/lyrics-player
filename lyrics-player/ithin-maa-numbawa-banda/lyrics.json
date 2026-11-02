@@ -1,0 +1,370 @@
+[
+  {
+    "id": 0,
+    "section": "verse1",
+    "section_line": 0,
+    "language": "si",
+    "text": "මනමල් හිනාවේ මුහුණේ",
+    "alignment_text": "manamal hinaawe muhune"
+  },
+  {
+    "id": 1,
+    "section": "verse1",
+    "section_line": 1,
+    "language": "si",
+    "text": "උරුමෙන් ගෙනා",
+    "alignment_text": "urumen genaa"
+  },
+  {
+    "id": 2,
+    "section": "verse1",
+    "section_line": 2,
+    "language": "si",
+    "text": "පෙති පීදේ මලක් වී මෙදා",
+    "alignment_text": "pethi peede malak wee medaa"
+  },
+  {
+    "id": 3,
+    "section": "verse1",
+    "section_line": 3,
+    "language": "si",
+    "text": "කැටයම් වුණානේ හර්දේ",
+    "alignment_text": "kaetayam wunaane harde"
+  },
+  {
+    "id": 4,
+    "section": "verse1",
+    "section_line": 4,
+    "language": "si",
+    "text": "නමකින් මනා",
+    "alignment_text": "namakin manaa"
+  },
+  {
+    "id": 5,
+    "section": "verse1",
+    "section_line": 5,
+    "language": "si",
+    "text": "සුභ හීනේ හඳක් පායලා",
+    "alignment_text": "subha heene handak paayalaa"
+  },
+  {
+    "id": 6,
+    "section": "pre1",
+    "section_line": 0,
+    "language": "si",
+    "text": "නෑරාම දෑතේ මෙතෙකින් එහා",
+    "alignment_text": "naeraama daethe methekin ehaa"
+  },
+  {
+    "id": 7,
+    "section": "pre1",
+    "section_line": 1,
+    "language": "si",
+    "text": "හැමදේදී ළඟින් ඉන්නවා",
+    "alignment_text": "haemadedi langin innawaa"
+  },
+  {
+    "id": 8,
+    "section": "hook1",
+    "section_line": 0,
+    "language": "si",
+    "text": "සඳත් මාගේ නුඹ",
+    "alignment_text": "sandath maage numba"
+  },
+  {
+    "id": 9,
+    "section": "hook1",
+    "section_line": 1,
+    "language": "si",
+    "text": "ඉරත් මාගේ නුඹ",
+    "alignment_text": "irath maage numba"
+  },
+  {
+    "id": 10,
+    "section": "hook1",
+    "section_line": 2,
+    "language": "si",
+    "text": "ඉතින් මා නුඹව බැන්දා",
+    "alignment_text": "ithin maa numbawa baendaa"
+  },
+  {
+    "id": 11,
+    "section": "hook1",
+    "section_line": 3,
+    "language": "si",
+    "text": "අදත් මාගේ නුඹ",
+    "alignment_text": "adath maage numba"
+  },
+  {
+    "id": 12,
+    "section": "hook1",
+    "section_line": 4,
+    "language": "si",
+    "text": "හෙටත් මාගේ නුඹ",
+    "alignment_text": "hetath maage numba"
+  },
+  {
+    "id": 13,
+    "section": "hook1",
+    "section_line": 5,
+    "language": "si",
+    "text": "වඩම්මාන යම් කැන්දා",
+    "alignment_text": "wadammaana yam kaendaa"
+  },
+  {
+    "id": 14,
+    "section": "hook2",
+    "section_line": 0,
+    "language": "si",
+    "text": "සඳත් මාගේ නුඹ",
+    "alignment_text": "sandath maage numba"
+  },
+  {
+    "id": 15,
+    "section": "hook2",
+    "section_line": 1,
+    "language": "si",
+    "text": "ඉරත් මාගේ නුඹ",
+    "alignment_text": "irath maage numba"
+  },
+  {
+    "id": 16,
+    "section": "hook2",
+    "section_line": 2,
+    "language": "si",
+    "text": "ඉතින් මා නුඹව බැන්දා",
+    "alignment_text": "ithin maa numbawa baendaa"
+  },
+  {
+    "id": 17,
+    "section": "hook2",
+    "section_line": 3,
+    "language": "si",
+    "text": "අදත් මාගේ නුඹ",
+    "alignment_text": "adath maage numba"
+  },
+  {
+    "id": 18,
+    "section": "hook2",
+    "section_line": 4,
+    "language": "si",
+    "text": "හෙටත් මාගේ නුඹ",
+    "alignment_text": "hetath maage numba"
+  },
+  {
+    "id": 19,
+    "section": "hook2",
+    "section_line": 5,
+    "language": "si",
+    "text": "වඩම්මාන යම් කැන්දා",
+    "alignment_text": "wadammaana yam kaendaa"
+  },
+  {
+    "id": 20,
+    "section": "bridge",
+    "section_line": 0,
+    "language": "si",
+    "text": "මගෙ අභියස ලෝකයක් තියා",
+    "alignment_text": "mage abhiyasa lokayak thiyaa"
+  },
+  {
+    "id": 21,
+    "section": "bridge",
+    "section_line": 1,
+    "language": "si",
+    "text": "වටිනම දෙය තෝරගන් කියා",
+    "alignment_text": "watinama deya thoragan kiyaa"
+  },
+  {
+    "id": 22,
+    "section": "bridge",
+    "section_line": 2,
+    "language": "si",
+    "text": "කියුවොතින් එකපාරින් නුඹ වෙත එනවා",
+    "alignment_text": "kiyuwothin ekapaarin numba wetha enawaa"
+  },
+  {
+    "id": 23,
+    "section": "bridge",
+    "section_line": 3,
+    "language": "si",
+    "text": "මගෙ හදවත මාලයක් තනා",
+    "alignment_text": "mage hadawatha maalayak thanaa"
+  },
+  {
+    "id": 24,
+    "section": "bridge",
+    "section_line": 4,
+    "language": "si",
+    "text": "නුඹෙ හදවතෙහි ළඟින් තියා",
+    "alignment_text": "numbe hadawathehi langin thiyaa"
+  },
+  {
+    "id": 25,
+    "section": "bridge",
+    "section_line": 5,
+    "language": "si",
+    "text": "හැමදාටම පලඳන්නෙමි මා",
+    "alignment_text": "haemadaatama palandannemi maa"
+  },
+  {
+    "id": 26,
+    "section": "pre2",
+    "section_line": 0,
+    "language": "si",
+    "text": "නෑරාම දෑතේ මෙතෙකින් එහා",
+    "alignment_text": "naeraama daethe methekin ehaa"
+  },
+  {
+    "id": 27,
+    "section": "pre2",
+    "section_line": 1,
+    "language": "si",
+    "text": "හැමදේදී ළඟින් ඉන්නවා",
+    "alignment_text": "haemadedi langin innawaa"
+  },
+  {
+    "id": 28,
+    "section": "hook3",
+    "section_line": 0,
+    "language": "si",
+    "text": "සඳත් මාගේ නුඹ",
+    "alignment_text": "sandath maage numba"
+  },
+  {
+    "id": 29,
+    "section": "hook3",
+    "section_line": 1,
+    "language": "si",
+    "text": "ඉරත් මාගේ නුඹ",
+    "alignment_text": "irath maage numba"
+  },
+  {
+    "id": 30,
+    "section": "hook3",
+    "section_line": 2,
+    "language": "si",
+    "text": "ඉතින් මා නුඹව බැන්දා",
+    "alignment_text": "ithin maa numbawa baendaa"
+  },
+  {
+    "id": 31,
+    "section": "hook3",
+    "section_line": 3,
+    "language": "si",
+    "text": "අදත් මාගේ නුඹ",
+    "alignment_text": "adath maage numba"
+  },
+  {
+    "id": 32,
+    "section": "hook3",
+    "section_line": 4,
+    "language": "si",
+    "text": "හෙටත් මාගේ නුඹ",
+    "alignment_text": "hetath maage numba"
+  },
+  {
+    "id": 33,
+    "section": "hook3",
+    "section_line": 5,
+    "language": "si",
+    "text": "වඩම්මාන යම් කැන්දා",
+    "alignment_text": "wadammaana yam kaendaa"
+  },
+  {
+    "id": 34,
+    "section": "hook4",
+    "section_line": 0,
+    "language": "si",
+    "text": "සඳත් මාගේ නුඹ",
+    "alignment_text": "sandath maage numba"
+  },
+  {
+    "id": 35,
+    "section": "hook4",
+    "section_line": 1,
+    "language": "si",
+    "text": "ඉරත් මාගේ නුඹ",
+    "alignment_text": "irath maage numba"
+  },
+  {
+    "id": 36,
+    "section": "hook4",
+    "section_line": 2,
+    "language": "si",
+    "text": "ඉතින් මා නුඹව බැන්දා",
+    "alignment_text": "ithin maa numbawa baendaa"
+  },
+  {
+    "id": 37,
+    "section": "hook4",
+    "section_line": 3,
+    "language": "si",
+    "text": "අදත් මාගේ නුඹ",
+    "alignment_text": "adath maage numba"
+  },
+  {
+    "id": 38,
+    "section": "hook4",
+    "section_line": 4,
+    "language": "si",
+    "text": "හෙටත් මාගේ නුඹ",
+    "alignment_text": "hetath maage numba"
+  },
+  {
+    "id": 39,
+    "section": "hook4",
+    "section_line": 5,
+    "language": "si",
+    "text": "වඩම්මාන යම් කැන්දා",
+    "alignment_text": "wadammaana yam kaendaa"
+  },
+  {
+    "id": 40,
+    "section": "hook5",
+    "section_line": 0,
+    "language": "si",
+    "text": "සඳත් මාගේ නුඹ",
+    "alignment_text": "sandath maage numba"
+  },
+  {
+    "id": 41,
+    "section": "hook5",
+    "section_line": 1,
+    "language": "si",
+    "text": "ඉරත් මාගේ නුඹ",
+    "alignment_text": "irath maage numba"
+  },
+  {
+    "id": 42,
+    "section": "hook5",
+    "section_line": 2,
+    "language": "si",
+    "text": "ඉතින් මා නුඹව බැන්දා",
+    "alignment_text": "ithin maa numbawa baendaa"
+  },
+  {
+    "id": 43,
+    "section": "hook5",
+    "section_line": 3,
+    "language": "si",
+    "text": "අදත් මාගේ නුඹ",
+    "alignment_text": "adath maage numba"
+  },
+  {
+    "id": 44,
+    "section": "hook5",
+    "section_line": 4,
+    "language": "si",
+    "text": "හෙටත් මාගේ නුඹ",
+    "alignment_text": "hetath maage numba"
+  },
+  {
+    "id": 45,
+    "section": "hook5",
+    "section_line": 5,
+    "language": "si",
+    "text": "වඩම්මාන යම් කැන්දා",
+    "alignment_text": "wadammaana yam kaendaa"
+  }
+]

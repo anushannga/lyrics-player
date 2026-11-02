@@ -15,3 +15,5 @@ added on behalf of owners of the bundled third-party assets.
 Mal Peththak uses user-supplied ISI Gurulugomi and local SinKey Unicode-to-ISI
 conversion rules. English captions were generated using the Mac system Arial
 font. Arial.ttf is not redistributed; rebuilding uses a locally installed copy.
+
+Deviyange Bare uses the user-supplied Su Naga font (su_naga.ttf), and local FM-style Unicode-to-legacy conversion rules. Ithin Maa Numbawa Banda uses the user-supplied ISI Gurulugomi font and Unicode-to-ISI rules. Their existing owners retain their rights; no new third-party asset license is asserted.

@@ -1,0 +1,1272 @@
+{
+  "words": [
+    [
+      2,
+      4
+    ],
+    [
+      5,
+      3
+    ],
+    [
+      6,
+      3
+    ],
+    [
+      7,
+      2
+    ],
+    [
+      13,
+      2
+    ],
+    [
+      19,
+      2
+    ],
+    [
+      23,
+      0
+    ],
+    [
+      25,
+      2
+    ],
+    [
+      27,
+      2
+    ],
+    [
+      33,
+      2
+    ],
+    [
+      39,
+      2
+    ],
+    [
+      45,
+      2
+    ]
+  ],
+  "evidence": [
+    {
+      "line": 0,
+      "word": 0,
+      "text": "මනමල්",
+      "duration": 0.579,
+      "voiced": 0.56,
+      "selected": false
+    },
+    {
+      "line": 0,
+      "word": 1,
+      "text": "හිනාවේ",
+      "duration": 0.759,
+      "voiced": 0.74,
+      "selected": false
+    },
+    {
+      "line": 0,
+      "word": 2,
+      "text": "මුහුණේ",
+      "duration": 0.86,
+      "voiced": 0.83,
+      "selected": false
+    },
+    {
+      "line": 1,
+      "word": 0,
+      "text": "උරුමෙන්",
+      "duration": 0.499,
+      "voiced": 0.48,
+      "selected": false
+    },
+    {
+      "line": 1,
+      "word": 1,
+      "text": "ගෙනා",
+      "duration": 0.76,
+      "voiced": 0.74,
+      "selected": false
+    },
+    {
+      "line": 2,
+      "word": 0,
+      "text": "පෙති",
+      "duration": 0.499,
+      "voiced": 0.36,
+      "selected": false
+    },
+    {
+      "line": 2,
+      "word": 1,
+      "text": "පීදේ",
+      "duration": 0.719,
+      "voiced": 0.6,
+      "selected": false
+    },
+    {
+      "line": 2,
+      "word": 2,
+      "text": "මලක්",
+      "duration": 0.939,
+      "voiced": 0.85,
+      "selected": false
+    },
+    {
+      "line": 2,
+      "word": 3,
+      "text": "වී",
+      "duration": 0.419,
+      "voiced": 0.4,
+      "selected": false
+    },
+    {
+      "line": 2,
+      "word": 4,
+      "text": "මෙදා",
+      "duration": 2.22,
+      "voiced": 2.2,
+      "selected": true
+    },
+    {
+      "line": 3,
+      "word": 0,
+      "text": "කැටයම්",
+      "duration": 0.679,
+      "voiced": 0.54,
+      "selected": false
+    },
+    {
+      "line": 3,
+      "word": 1,
+      "text": "වුණානේ",
+      "duration": 0.639,
+      "voiced": 0.62,
+      "selected": false
+    },
+    {
+      "line": 3,
+      "word": 2,
+      "text": "හර්දේ",
+      "duration": 0.94,
+      "voiced": 0.87,
+      "selected": false
+    },
+    {
+      "line": 4,
+      "word": 0,
+      "text": "නමකින්",
+      "duration": 0.619,
+      "voiced": 0.47,
+      "selected": false
+    },
+    {
+      "line": 4,
+      "word": 1,
+      "text": "මනා",
+      "duration": 1.04,
+      "voiced": 1.02,
+      "selected": false
+    },
+    {
+      "line": 5,
+      "word": 0,
+      "text": "සුභ",
+      "duration": 0.599,
+      "voiced": 0.52,
+      "selected": false
+    },
+    {
+      "line": 5,
+      "word": 1,
+      "text": "හීනේ",
+      "duration": 0.599,
+      "voiced": 0.58,
+      "selected": false
+    },
+    {
+      "line": 5,
+      "word": 2,
+      "text": "හඳක්",
+      "duration": 0.879,
+      "voiced": 0.79,
+      "selected": false
+    },
+    {
+      "line": 5,
+      "word": 3,
+      "text": "පායලා",
+      "duration": 3.02,
+      "voiced": 2.91,
+      "selected": true
+    },
+    {
+      "line": 6,
+      "word": 0,
+      "text": "නෑරාම",
+      "duration": 0.799,
+      "voiced": 0.78,
+      "selected": false
+    },
+    {
+      "line": 6,
+      "word": 1,
+      "text": "දෑතේ",
+      "duration": 1.239,
+      "voiced": 1.1,
+      "selected": false
+    },
+    {
+      "line": 6,
+      "word": 2,
+      "text": "මෙතෙකින්",
+      "duration": 1.119,
+      "voiced": 0.75,
+      "selected": false
+    },
+    {
+      "line": 6,
+      "word": 3,
+      "text": "එහා",
+      "duration": 1.259,
+      "voiced": 1.07,
+      "selected": true
+    },
+    {
+      "line": 7,
+      "word": 0,
+      "text": "හැමදේදී",
+      "duration": 1.039,
+      "voiced": 1.0,
+      "selected": false
+    },
+    {
+      "line": 7,
+      "word": 1,
+      "text": "ළඟින්",
+      "duration": 1.239,
+      "voiced": 1.16,
+      "selected": false
+    },
+    {
+      "line": 7,
+      "word": 2,
+      "text": "ඉන්නවා",
+      "duration": 2.47,
+      "voiced": 2.4,
+      "selected": true
+    },
+    {
+      "line": 8,
+      "word": 0,
+      "text": "සඳත්",
+      "duration": 0.399,
+      "voiced": 0.33,
+      "selected": false
+    },
+    {
+      "line": 8,
+      "word": 1,
+      "text": "මාගේ",
+      "duration": 0.499,
+      "voiced": 0.48,
+      "selected": false
+    },
+    {
+      "line": 8,
+      "word": 2,
+      "text": "නුඹ",
+      "duration": 0.459,
+      "voiced": 0.44,
+      "selected": false
+    },
+    {
+      "line": 9,
+      "word": 0,
+      "text": "ඉරත්",
+      "duration": 0.359,
+      "voiced": 0.33,
+      "selected": false
+    },
+    {
+      "line": 9,
+      "word": 1,
+      "text": "මාගේ",
+      "duration": 0.519,
+      "voiced": 0.5,
+      "selected": false
+    },
+    {
+      "line": 9,
+      "word": 2,
+      "text": "නුඹ",
+      "duration": 0.5,
+      "voiced": 0.44,
+      "selected": false
+    },
+    {
+      "line": 10,
+      "word": 0,
+      "text": "ඉතින්",
+      "duration": 0.159,
+      "voiced": 0.14,
+      "selected": false
+    },
+    {
+      "line": 10,
+      "word": 1,
+      "text": "මා",
+      "duration": 0.419,
+      "voiced": 0.4,
+      "selected": false
+    },
+    {
+      "line": 10,
+      "word": 2,
+      "text": "නුඹව",
+      "duration": 0.419,
+      "voiced": 0.39,
+      "selected": false
+    },
+    {
+      "line": 10,
+      "word": 3,
+      "text": "බැන්දා",
+      "duration": 0.86,
+      "voiced": 0.82,
+      "selected": false
+    },
+    {
+      "line": 11,
+      "word": 0,
+      "text": "අදත්",
+      "duration": 0.299,
+      "voiced": 0.28,
+      "selected": false
+    },
+    {
+      "line": 11,
+      "word": 1,
+      "text": "මාගේ",
+      "duration": 0.579,
+      "voiced": 0.56,
+      "selected": false
+    },
+    {
+      "line": 11,
+      "word": 2,
+      "text": "නුඹ",
+      "duration": 0.399,
+      "voiced": 0.38,
+      "selected": false
+    },
+    {
+      "line": 12,
+      "word": 0,
+      "text": "හෙටත්",
+      "duration": 0.339,
+      "voiced": 0.25,
+      "selected": false
+    },
+    {
+      "line": 12,
+      "word": 1,
+      "text": "මාගේ",
+      "duration": 0.619,
+      "voiced": 0.57,
+      "selected": false
+    },
+    {
+      "line": 12,
+      "word": 2,
+      "text": "නුඹ",
+      "duration": 0.199,
+      "voiced": 0.18,
+      "selected": false
+    },
+    {
+      "line": 13,
+      "word": 0,
+      "text": "වඩම්මාන",
+      "duration": 1.139,
+      "voiced": 1.05,
+      "selected": false
+    },
+    {
+      "line": 13,
+      "word": 1,
+      "text": "යම්",
+      "duration": 0.279,
+      "voiced": 0.26,
+      "selected": false
+    },
+    {
+      "line": 13,
+      "word": 2,
+      "text": "කැන්දා",
+      "duration": 1.659,
+      "voiced": 1.58,
+      "selected": true
+    },
+    {
+      "line": 14,
+      "word": 0,
+      "text": "සඳත්",
+      "duration": 0.159,
+      "voiced": 0.14,
+      "selected": false
+    },
+    {
+      "line": 14,
+      "word": 1,
+      "text": "මාගේ",
+      "duration": 0.539,
+      "voiced": 0.48,
+      "selected": false
+    },
+    {
+      "line": 14,
+      "word": 2,
+      "text": "නුඹ",
+      "duration": 0.46,
+      "voiced": 0.41,
+      "selected": false
+    },
+    {
+      "line": 15,
+      "word": 0,
+      "text": "ඉරත්",
+      "duration": 0.339,
+      "voiced": 0.29,
+      "selected": false
+    },
+    {
+      "line": 15,
+      "word": 1,
+      "text": "මාගේ",
+      "duration": 0.499,
+      "voiced": 0.45,
+      "selected": false
+    },
+    {
+      "line": 15,
+      "word": 2,
+      "text": "නුඹ",
+      "duration": 0.419,
+      "voiced": 0.4,
+      "selected": false
+    },
+    {
+      "line": 16,
+      "word": 0,
+      "text": "ඉතින්",
+      "duration": 0.339,
+      "voiced": 0.19,
+      "selected": false
+    },
+    {
+      "line": 16,
+      "word": 1,
+      "text": "මා",
+      "duration": 0.459,
+      "voiced": 0.44,
+      "selected": false
+    },
+    {
+      "line": 16,
+      "word": 2,
+      "text": "නුඹව",
+      "duration": 0.479,
+      "voiced": 0.46,
+      "selected": false
+    },
+    {
+      "line": 16,
+      "word": 3,
+      "text": "බැන්දා",
+      "duration": 0.719,
+      "voiced": 0.69,
+      "selected": false
+    },
+    {
+      "line": 17,
+      "word": 0,
+      "text": "අදත්",
+      "duration": 0.979,
+      "voiced": 0.9,
+      "selected": false
+    },
+    {
+      "line": 17,
+      "word": 1,
+      "text": "මාගේ",
+      "duration": 0.599,
+      "voiced": 0.57,
+      "selected": false
+    },
+    {
+      "line": 17,
+      "word": 2,
+      "text": "නුඹ",
+      "duration": 0.319,
+      "voiced": 0.3,
+      "selected": false
+    },
+    {
+      "line": 18,
+      "word": 0,
+      "text": "හෙටත්",
+      "duration": 0.339,
+      "voiced": 0.29,
+      "selected": false
+    },
+    {
+      "line": 18,
+      "word": 1,
+      "text": "මාගේ",
+      "duration": 0.659,
+      "voiced": 0.57,
+      "selected": false
+    },
+    {
+      "line": 18,
+      "word": 2,
+      "text": "නුඹ",
+      "duration": 0.099,
+      "voiced": 0.08,
+      "selected": false
+    },
+    {
+      "line": 19,
+      "word": 0,
+      "text": "වඩම්මාන",
+      "duration": 1.299,
+      "voiced": 1.26,
+      "selected": false
+    },
+    {
+      "line": 19,
+      "word": 1,
+      "text": "යම්",
+      "duration": 0.299,
+      "voiced": 0.28,
+      "selected": false
+    },
+    {
+      "line": 19,
+      "word": 2,
+      "text": "කැන්දා",
+      "duration": 1.78,
+      "voiced": 1.64,
+      "selected": true
+    },
+    {
+      "line": 20,
+      "word": 0,
+      "text": "මගෙ",
+      "duration": 1.279,
+      "voiced": 0.29,
+      "selected": false
+    },
+    {
+      "line": 20,
+      "word": 1,
+      "text": "අභියස",
+      "duration": 0.599,
+      "voiced": 0.45,
+      "selected": false
+    },
+    {
+      "line": 20,
+      "word": 2,
+      "text": "ලෝකයක්",
+      "duration": 1.019,
+      "voiced": 0.7,
+      "selected": false
+    },
+    {
+      "line": 20,
+      "word": 3,
+      "text": "තියා",
+      "duration": 0.51,
+      "voiced": 0.46,
+      "selected": false
+    },
+    {
+      "line": 21,
+      "word": 0,
+      "text": "වටිනම",
+      "duration": 0.599,
+      "voiced": 0.46,
+      "selected": false
+    },
+    {
+      "line": 21,
+      "word": 1,
+      "text": "දෙය",
+      "duration": 0.499,
+      "voiced": 0.37,
+      "selected": false
+    },
+    {
+      "line": 21,
+      "word": 2,
+      "text": "තෝරගන්",
+      "duration": 0.699,
+      "voiced": 0.66,
+      "selected": false
+    },
+    {
+      "line": 21,
+      "word": 3,
+      "text": "කියා",
+      "duration": 0.899,
+      "voiced": 0.79,
+      "selected": false
+    },
+    {
+      "line": 22,
+      "word": 0,
+      "text": "කියුවොතින්",
+      "duration": 1.039,
+      "voiced": 0.87,
+      "selected": false
+    },
+    {
+      "line": 22,
+      "word": 1,
+      "text": "එකපාරින්",
+      "duration": 1.119,
+      "voiced": 0.61,
+      "selected": false
+    },
+    {
+      "line": 22,
+      "word": 2,
+      "text": "නුඹ",
+      "duration": 0.359,
+      "voiced": 0.26,
+      "selected": false
+    },
+    {
+      "line": 22,
+      "word": 3,
+      "text": "වෙත",
+      "duration": 0.039,
+      "voiced": 0.02,
+      "selected": false
+    },
+    {
+      "line": 22,
+      "word": 4,
+      "text": "එනවා",
+      "duration": 0.04,
+      "voiced": 0.02,
+      "selected": false
+    },
+    {
+      "line": 23,
+      "word": 0,
+      "text": "මගෙ",
+      "duration": 2.979,
+      "voiced": 2.82,
+      "selected": true
+    },
+    {
+      "line": 23,
+      "word": 1,
+      "text": "හදවත",
+      "duration": 0.579,
+      "voiced": 0.5,
+      "selected": false
+    },
+    {
+      "line": 23,
+      "word": 2,
+      "text": "මාලයක්",
+      "duration": 0.819,
+      "voiced": 0.8,
+      "selected": false
+    },
+    {
+      "line": 23,
+      "word": 3,
+      "text": "තනා",
+      "duration": 0.68,
+      "voiced": 0.5,
+      "selected": false
+    },
+    {
+      "line": 24,
+      "word": 0,
+      "text": "නුඹෙ",
+      "duration": 0.319,
+      "voiced": 0.3,
+      "selected": false
+    },
+    {
+      "line": 24,
+      "word": 1,
+      "text": "හදවතෙහි",
+      "duration": 0.939,
+      "voiced": 0.89,
+      "selected": false
+    },
+    {
+      "line": 24,
+      "word": 2,
+      "text": "ළඟින්",
+      "duration": 0.419,
+      "voiced": 0.4,
+      "selected": false
+    },
+    {
+      "line": 24,
+      "word": 3,
+      "text": "තියා",
+      "duration": 0.559,
+      "voiced": 0.49,
+      "selected": false
+    },
+    {
+      "line": 25,
+      "word": 0,
+      "text": "හැමදාටම",
+      "duration": 1.359,
+      "voiced": 1.26,
+      "selected": false
+    },
+    {
+      "line": 25,
+      "word": 1,
+      "text": "පලඳන්නෙමි",
+      "duration": 1.539,
+      "voiced": 1.23,
+      "selected": false
+    },
+    {
+      "line": 25,
+      "word": 2,
+      "text": "මා",
+      "duration": 2.74,
+      "voiced": 2.72,
+      "selected": true
+    },
+    {
+      "line": 26,
+      "word": 0,
+      "text": "නෑරාම",
+      "duration": 0.819,
+      "voiced": 0.8,
+      "selected": false
+    },
+    {
+      "line": 26,
+      "word": 1,
+      "text": "දෑතේ",
+      "duration": 1.319,
+      "voiced": 1.3,
+      "selected": false
+    },
+    {
+      "line": 26,
+      "word": 2,
+      "text": "මෙතෙකින්",
+      "duration": 1.079,
+      "voiced": 0.98,
+      "selected": false
+    },
+    {
+      "line": 26,
+      "word": 3,
+      "text": "එහා",
+      "duration": 1.09,
+      "voiced": 1.03,
+      "selected": false
+    },
+    {
+      "line": 27,
+      "word": 0,
+      "text": "හැමදේදී",
+      "duration": 0.979,
+      "voiced": 0.91,
+      "selected": false
+    },
+    {
+      "line": 27,
+      "word": 1,
+      "text": "ළඟින්",
+      "duration": 1.099,
+      "voiced": 1.08,
+      "selected": false
+    },
+    {
+      "line": 27,
+      "word": 2,
+      "text": "ඉන්නවා",
+      "duration": 3.799,
+      "voiced": 3.77,
+      "selected": true
+    },
+    {
+      "line": 28,
+      "word": 0,
+      "text": "සඳත්",
+      "duration": 0.619,
+      "voiced": 0.6,
+      "selected": false
+    },
+    {
+      "line": 28,
+      "word": 1,
+      "text": "මාගේ",
+      "duration": 0.239,
+      "voiced": 0.22,
+      "selected": false
+    },
+    {
+      "line": 28,
+      "word": 2,
+      "text": "නුඹ",
+      "duration": 0.219,
+      "voiced": 0.2,
+      "selected": false
+    },
+    {
+      "line": 29,
+      "word": 0,
+      "text": "ඉරත්",
+      "duration": 1.359,
+      "voiced": 0.87,
+      "selected": false
+    },
+    {
+      "line": 29,
+      "word": 1,
+      "text": "මාගේ",
+      "duration": 0.119,
+      "voiced": 0.1,
+      "selected": false
+    },
+    {
+      "line": 29,
+      "word": 2,
+      "text": "නුඹ",
+      "duration": 0.039,
+      "voiced": 0.02,
+      "selected": false
+    },
+    {
+      "line": 30,
+      "word": 0,
+      "text": "ඉතින්",
+      "duration": 0.039,
+      "voiced": 0.02,
+      "selected": false
+    },
+    {
+      "line": 30,
+      "word": 1,
+      "text": "මා",
+      "duration": 0.039,
+      "voiced": 0.02,
+      "selected": false
+    },
+    {
+      "line": 30,
+      "word": 2,
+      "text": "නුඹව",
+      "duration": 0.479,
+      "voiced": 0.46,
+      "selected": false
+    },
+    {
+      "line": 30,
+      "word": 3,
+      "text": "බැන්දා",
+      "duration": 1.199,
+      "voiced": 0.98,
+      "selected": false
+    },
+    {
+      "line": 31,
+      "word": 0,
+      "text": "අදත්",
+      "duration": 0.519,
+      "voiced": 0.5,
+      "selected": false
+    },
+    {
+      "line": 31,
+      "word": 1,
+      "text": "මාගේ",
+      "duration": 0.579,
+      "voiced": 0.56,
+      "selected": false
+    },
+    {
+      "line": 31,
+      "word": 2,
+      "text": "නුඹ",
+      "duration": 1.1,
+      "voiced": 1.08,
+      "selected": false
+    },
+    {
+      "line": 32,
+      "word": 0,
+      "text": "හෙටත්",
+      "duration": 0.399,
+      "voiced": 0.27,
+      "selected": false
+    },
+    {
+      "line": 32,
+      "word": 1,
+      "text": "මාගේ",
+      "duration": 0.139,
+      "voiced": 0.12,
+      "selected": false
+    },
+    {
+      "line": 32,
+      "word": 2,
+      "text": "නුඹ",
+      "duration": 0.54,
+      "voiced": 0.52,
+      "selected": false
+    },
+    {
+      "line": 33,
+      "word": 0,
+      "text": "වඩම්මාන",
+      "duration": 1.059,
+      "voiced": 1.04,
+      "selected": false
+    },
+    {
+      "line": 33,
+      "word": 1,
+      "text": "යම්",
+      "duration": 0.039,
+      "voiced": 0.02,
+      "selected": false
+    },
+    {
+      "line": 33,
+      "word": 2,
+      "text": "කැන්දා",
+      "duration": 1.679,
+      "voiced": 1.51,
+      "selected": true
+    },
+    {
+      "line": 34,
+      "word": 0,
+      "text": "සඳත්",
+      "duration": 0.219,
+      "voiced": 0.2,
+      "selected": false
+    },
+    {
+      "line": 34,
+      "word": 1,
+      "text": "මාගේ",
+      "duration": 0.499,
+      "voiced": 0.48,
+      "selected": false
+    },
+    {
+      "line": 34,
+      "word": 2,
+      "text": "නුඹ",
+      "duration": 0.459,
+      "voiced": 0.41,
+      "selected": false
+    },
+    {
+      "line": 35,
+      "word": 0,
+      "text": "ඉරත්",
+      "duration": 0.319,
+      "voiced": 0.3,
+      "selected": false
+    },
+    {
+      "line": 35,
+      "word": 1,
+      "text": "මාගේ",
+      "duration": 0.539,
+      "voiced": 0.52,
+      "selected": false
+    },
+    {
+      "line": 35,
+      "word": 2,
+      "text": "නුඹ",
+      "duration": 0.49,
+      "voiced": 0.41,
+      "selected": false
+    },
+    {
+      "line": 36,
+      "word": 0,
+      "text": "ඉතින්",
+      "duration": 0.239,
+      "voiced": 0.21,
+      "selected": false
+    },
+    {
+      "line": 36,
+      "word": 1,
+      "text": "මා",
+      "duration": 0.379,
+      "voiced": 0.36,
+      "selected": false
+    },
+    {
+      "line": 36,
+      "word": 2,
+      "text": "නුඹව",
+      "duration": 0.399,
+      "voiced": 0.38,
+      "selected": false
+    },
+    {
+      "line": 36,
+      "word": 3,
+      "text": "බැන්දා",
+      "duration": 0.9,
+      "voiced": 0.85,
+      "selected": false
+    },
+    {
+      "line": 37,
+      "word": 0,
+      "text": "අදත්",
+      "duration": 0.339,
+      "voiced": 0.26,
+      "selected": false
+    },
+    {
+      "line": 37,
+      "word": 1,
+      "text": "මාගේ",
+      "duration": 0.619,
+      "voiced": 0.6,
+      "selected": false
+    },
+    {
+      "line": 37,
+      "word": 2,
+      "text": "නුඹ",
+      "duration": 0.44,
+      "voiced": 0.42,
+      "selected": false
+    },
+    {
+      "line": 38,
+      "word": 0,
+      "text": "හෙටත්",
+      "duration": 0.259,
+      "voiced": 0.16,
+      "selected": false
+    },
+    {
+      "line": 38,
+      "word": 1,
+      "text": "මාගේ",
+      "duration": 0.579,
+      "voiced": 0.5,
+      "selected": false
+    },
+    {
+      "line": 38,
+      "word": 2,
+      "text": "නුඹ",
+      "duration": 0.319,
+      "voiced": 0.3,
+      "selected": false
+    },
+    {
+      "line": 39,
+      "word": 0,
+      "text": "වඩම්මාන",
+      "duration": 1.079,
+      "voiced": 1.01,
+      "selected": false
+    },
+    {
+      "line": 39,
+      "word": 1,
+      "text": "යම්",
+      "duration": 0.239,
+      "voiced": 0.22,
+      "selected": false
+    },
+    {
+      "line": 39,
+      "word": 2,
+      "text": "කැන්දා",
+      "duration": 1.659,
+      "voiced": 1.59,
+      "selected": true
+    },
+    {
+      "line": 40,
+      "word": 0,
+      "text": "සඳත්",
+      "duration": 0.139,
+      "voiced": 0.12,
+      "selected": false
+    },
+    {
+      "line": 40,
+      "word": 1,
+      "text": "මාගේ",
+      "duration": 0.559,
+      "voiced": 0.54,
+      "selected": false
+    },
+    {
+      "line": 40,
+      "word": 2,
+      "text": "නුඹ",
+      "duration": 0.439,
+      "voiced": 0.42,
+      "selected": false
+    },
+    {
+      "line": 41,
+      "word": 0,
+      "text": "ඉරත්",
+      "duration": 0.399,
+      "voiced": 0.34,
+      "selected": false
+    },
+    {
+      "line": 41,
+      "word": 1,
+      "text": "මාගේ",
+      "duration": 0.479,
+      "voiced": 0.46,
+      "selected": false
+    },
+    {
+      "line": 41,
+      "word": 2,
+      "text": "නුඹ",
+      "duration": 0.459,
+      "voiced": 0.42,
+      "selected": false
+    },
+    {
+      "line": 42,
+      "word": 0,
+      "text": "ඉතින්",
+      "duration": 0.299,
+      "voiced": 0.15,
+      "selected": false
+    },
+    {
+      "line": 42,
+      "word": 1,
+      "text": "මා",
+      "duration": 0.519,
+      "voiced": 0.5,
+      "selected": false
+    },
+    {
+      "line": 42,
+      "word": 2,
+      "text": "නුඹව",
+      "duration": 0.399,
+      "voiced": 0.38,
+      "selected": false
+    },
+    {
+      "line": 42,
+      "word": 3,
+      "text": "බැන්දා",
+      "duration": 0.86,
+      "voiced": 0.84,
+      "selected": false
+    },
+    {
+      "line": 43,
+      "word": 0,
+      "text": "අදත්",
+      "duration": 0.159,
+      "voiced": 0.14,
+      "selected": false
+    },
+    {
+      "line": 43,
+      "word": 1,
+      "text": "මාගේ",
+      "duration": 0.559,
+      "voiced": 0.54,
+      "selected": false
+    },
+    {
+      "line": 43,
+      "word": 2,
+      "text": "නුඹ",
+      "duration": 0.479,
+      "voiced": 0.46,
+      "selected": false
+    },
+    {
+      "line": 44,
+      "word": 0,
+      "text": "හෙටත්",
+      "duration": 0.279,
+      "voiced": 0.17,
+      "selected": false
+    },
+    {
+      "line": 44,
+      "word": 1,
+      "text": "මාගේ",
+      "duration": 0.619,
+      "voiced": 0.59,
+      "selected": false
+    },
+    {
+      "line": 44,
+      "word": 2,
+      "text": "නුඹ",
+      "duration": 0.279,
+      "voiced": 0.26,
+      "selected": false
+    },
+    {
+      "line": 45,
+      "word": 0,
+      "text": "වඩම්මාන",
+      "duration": 1.099,
+      "voiced": 1.06,
+      "selected": false
+    },
+    {
+      "line": 45,
+      "word": 1,
+      "text": "යම්",
+      "duration": 0.259,
+      "voiced": 0.24,
+      "selected": false
+    },
+    {
+      "line": 45,
+      "word": 2,
+      "text": "කැන්දා",
+      "duration": 2.14,
+      "voiced": 2.0,
+      "selected": true
+    }
+  ],
+  "listening_confirmed": false,
+  "method": "Long aligned content words with isolated vocal activity; punctuation is not a timing cue"
+}

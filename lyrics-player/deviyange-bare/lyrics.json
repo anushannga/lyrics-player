@@ -1,0 +1,1042 @@
+[
+  {
+    "id": 0,
+    "section": "section1",
+    "section_line": 0,
+    "language": "si",
+    "text": "මතකයි අද වැනි දවසක",
+    "alignment_text": "mathakayi ada waeni dawasaka"
+  },
+  {
+    "id": 1,
+    "section": "section1",
+    "section_line": 1,
+    "language": "si",
+    "text": "සැමරුවා උපන්දින සාදය අප",
+    "alignment_text": "saemaruwaa upandina saadaya apa"
+  },
+  {
+    "id": 2,
+    "section": "section1",
+    "section_line": 2,
+    "language": "si",
+    "text": "මොනවගෙන්ද අඩුපාඩු බොන්නද කන්නද",
+    "alignment_text": "monawagenda adupaadu bonnada kannada"
+  },
+  {
+    "id": 3,
+    "section": "section1",
+    "section_line": 3,
+    "language": "si",
+    "text": "සල්ලිම ජීවිතේ වුණේ විඳවන්නද",
+    "alignment_text": "sallima jeewithe wune windawannada"
+  },
+  {
+    "id": 4,
+    "section": "section1",
+    "section_line": 4,
+    "language": "si",
+    "text": "අතැඟිලි බැඳ ගිවිසුණු පෝරුව",
+    "alignment_text": "athaengili baenda giwisunu poruwa"
+  },
+  {
+    "id": 5,
+    "section": "section1",
+    "section_line": 5,
+    "language": "si",
+    "text": "බින්ඳා පොරොන්දු මම අඩිකෝදුව",
+    "alignment_text": "binndaa porondu mama adikoduwa"
+  },
+  {
+    "id": 6,
+    "section": "section1",
+    "section_line": 6,
+    "language": "si",
+    "text": "මැන්නා දහසක් දේ ඇය ගියා සමග දුව සූදුව හුරුව පව පූරුව",
+    "alignment_text": "maennaa dahasak de aeya giyaa samaga duwa suuduwa huruwa pawa puuruwa"
+  },
+  {
+    "id": 7,
+    "section": "section1",
+    "section_line": 7,
+    "language": "si",
+    "text": "ණයටත් ණයයි අවුරුදු හයයි",
+    "alignment_text": "nayatath nayayi awurudu hayayi"
+  },
+  {
+    "id": 8,
+    "section": "section1",
+    "section_line": 8,
+    "language": "si",
+    "text": "කූරු ගණිනවා හිර ගේ හිත බයයි",
+    "alignment_text": "kuuru ganinawaa hira ge hitha bayayi"
+  },
+  {
+    "id": 9,
+    "section": "section1",
+    "section_line": 9,
+    "language": "si",
+    "text": "මළ මනස මළ හිත අලස කරයි අදත් ශාප ඒ තණ්හාව",
+    "alignment_text": "mala manasa mala hitha alasa karayi adath shaapa e thanhaawa"
+  },
+  {
+    "id": 10,
+    "section": "section1",
+    "section_line": 10,
+    "language": "si",
+    "text": "අත හැරියා රස්සාව",
+    "alignment_text": "atha haeriyaa rassaawa"
+  },
+  {
+    "id": 11,
+    "section": "section1",
+    "section_line": 11,
+    "language": "si",
+    "text": "සූදු කෙළින්නට මගේ ආසාව",
+    "alignment_text": "suudu kelinnata mage aasaawa"
+  },
+  {
+    "id": 12,
+    "section": "section1",
+    "section_line": 12,
+    "language": "si",
+    "text": "සල්ලි පනම් ගොඩගහන් උත්සාහ",
+    "alignment_text": "salli panam godagahan uthsaaha"
+  },
+  {
+    "id": 13,
+    "section": "section1",
+    "section_line": 13,
+    "language": "si",
+    "text": "කළා රැවටිලි අඟුරු කැබලි ගෙන හා මතුදාක",
+    "alignment_text": "kalaa raewatili anguru kaebali gena haa mathudaaka"
+  },
+  {
+    "id": 14,
+    "section": "section1",
+    "section_line": 14,
+    "language": "si",
+    "text": "ලියමි මගේ වරද බිත්ති අතර පතර",
+    "alignment_text": "liyami mage warada biththi athara pathara"
+  },
+  {
+    "id": 15,
+    "section": "section1",
+    "section_line": 15,
+    "language": "si",
+    "text": "කඳුළු බිඳු මකා දමන්න හමන්න",
+    "alignment_text": "kandulu bindu makaa damanna hamanna"
+  },
+  {
+    "id": 16,
+    "section": "section1",
+    "section_line": 16,
+    "language": "si",
+    "text": "සුවඳ සුළඟ ජීවිතේ",
+    "alignment_text": "suwanda sulanga jeewithe"
+  },
+  {
+    "id": 17,
+    "section": "section1",
+    "section_line": 17,
+    "language": "si",
+    "text": "පැමිණ මා වැළඳගන්න",
+    "alignment_text": "paemina maa waelandaganna"
+  },
+  {
+    "id": 18,
+    "section": "section2",
+    "section_line": 0,
+    "language": "si",
+    "text": "මිනිසෙකු පිට නැගි අසරුවෙකුට හැකිවිය දවනට ළය ගිනි දස මසකට",
+    "alignment_text": "miniseku pita naegi asaruwekuta haekiwiya dawanata laya gini dasa masakata"
+  },
+  {
+    "id": 19,
+    "section": "section2",
+    "section_line": 1,
+    "language": "si",
+    "text": "ණය හතරවට එක්තැන් පත්තර පිට නොදැනිම පිවිසුණේ කාබාසිනි සයනට",
+    "alignment_text": "naya hatharawata ekthaen paththara pita nodaenima piwisune kaabaasini sayanata"
+  },
+  {
+    "id": 20,
+    "section": "section2",
+    "section_line": 2,
+    "language": "si",
+    "text": "අස්ථිර දිවි කාලකණ්ණි විකාරය",
+    "alignment_text": "asthira diwi kaalakanni wikaaraya"
+  },
+  {
+    "id": 21,
+    "section": "section2",
+    "section_line": 3,
+    "language": "si",
+    "text": "උළු ගේ හතරකොණ උරා බොන්නේ සාරය",
+    "alignment_text": "ulu ge hatharakona uraa bonne saaraya"
+  },
+  {
+    "id": 22,
+    "section": "section2",
+    "section_line": 4,
+    "language": "si",
+    "text": "වාරය පව් පිටවාන දුමාරය",
+    "alignment_text": "waaraya paw pitawaana dumaaraya"
+  },
+  {
+    "id": 23,
+    "section": "section2",
+    "section_line": 5,
+    "language": "si",
+    "text": "ශාපලත් ජීවිතේ දෙවියන්ට භාරය",
+    "alignment_text": "shaapalath jeewithe dewiyanta bhaaraya"
+  },
+  {
+    "id": 24,
+    "section": "section2",
+    "section_line": 6,
+    "language": "si",
+    "text": "කාලය නාව ගාව තැවිලි නැත සමාව යාව හිත වාව මාව උපමාව",
+    "alignment_text": "kaalaya naawa gaawa thaewili naetha samaawa yaawa hitha waawa maawa upamaawa"
+  },
+  {
+    "id": 25,
+    "section": "section2",
+    "section_line": 7,
+    "language": "si",
+    "text": "පනිනු පෙර දැල්වෙන සිව්පා ගිණිකොළ අස්සර මත වස්තර වෙත විසිරෙන",
+    "alignment_text": "paninu pera daelwena siwpaa ginikola assara matha wasthara wetha wisirena"
+  },
+  {
+    "id": 26,
+    "section": "section2",
+    "section_line": 8,
+    "language": "si",
+    "text": "තරමට ලැදි කාරණ වරමට ණය වී කලාබර",
+    "alignment_text": "tharamata laedi kaarana waramata naya wee kalaabara"
+  },
+  {
+    "id": 27,
+    "section": "section2",
+    "section_line": 9,
+    "language": "si",
+    "text": "සරුවට ගෙව් පිරුවට ඇන්දු කළකිරි දිවි කලාවට",
+    "alignment_text": "saruwata gew piruwata aendu kalakiri diwi kalaawata"
+  },
+  {
+    "id": 28,
+    "section": "section2",
+    "section_line": 10,
+    "language": "si",
+    "text": "නිරුවත කළ මුසාවට තරවටු වී දිවි මුලාවට",
+    "alignment_text": "niruwatha kala musaawata tharawatu wee diwi mulaawata"
+  },
+  {
+    "id": 29,
+    "section": "section2",
+    "section_line": 11,
+    "language": "si",
+    "text": "කරුමෙට හුරු පුරුදු වූ සූදු රටාවට",
+    "alignment_text": "karumeta huru purudu wuu suudu rataawata"
+  },
+  {
+    "id": 30,
+    "section": "section2",
+    "section_line": 12,
+    "language": "si",
+    "text": "සින්න වුණේ ඔප්පුව නව වෙනි ලංසුව",
+    "alignment_text": "sinna wune oppuwa nawa weni langsuwa"
+  },
+  {
+    "id": 31,
+    "section": "section2",
+    "section_line": 13,
+    "language": "si",
+    "text": "හැංගුවා පොලී ණය වැටුණේ විලංගුව",
+    "alignment_text": "haengguwaa polee naya waetune wilangguwa"
+  },
+  {
+    "id": 32,
+    "section": "section2",
+    "section_line": 14,
+    "language": "si",
+    "text": "පෙරළි නිරන්තර ලිව් අනු දෛවය",
+    "alignment_text": "perali niranthara liw anu daiwaya"
+  },
+  {
+    "id": 33,
+    "section": "section2",
+    "section_line": 15,
+    "language": "si",
+    "text": "සෘණ දෙවි සරණ කොටුවූ අඳුරු කුටියට",
+    "alignment_text": "sruna dewi sarana kotuwuu anduru kutiyata"
+  },
+  {
+    "id": 34,
+    "section": "section3",
+    "section_line": 0,
+    "language": "si",
+    "text": "අනූ වසරකට වුණි චූදිත",
+    "alignment_text": "anuu wasarakata wuni chuuditha"
+  },
+  {
+    "id": 35,
+    "section": "section3",
+    "section_line": 1,
+    "language": "si",
+    "text": "අමූලික බොරු කරන් මූලික",
+    "alignment_text": "amuulika boru karan muulika"
+  },
+  {
+    "id": 36,
+    "section": "section3",
+    "section_line": 2,
+    "language": "si",
+    "text": "ජරාගික සමාජ භේද වාර්ගික",
+    "alignment_text": "jaraagika samaaja bheda waargika"
+  },
+  {
+    "id": 37,
+    "section": "section3",
+    "section_line": 3,
+    "language": "si",
+    "text": "ඒ අහිංසක යයි හිංසක මාර්ගෙක",
+    "alignment_text": "e ahingsaka yayi hingsaka maargeka"
+  },
+  {
+    "id": 38,
+    "section": "section3",
+    "section_line": 4,
+    "language": "si",
+    "text": "ජීවිත කනමදු මනසට හැඟීම මගෙ පොරබැදු",
+    "alignment_text": "jeewitha kanamadu manasata haengeema mage porabaedu"
+  },
+  {
+    "id": 39,
+    "section": "section3",
+    "section_line": 5,
+    "language": "si",
+    "text": "මායාව මා වැදූ හැදූ රුධිර ලේ මස් ඒ දුක දනි",
+    "alignment_text": "maayaawa maa waeduu haeduu rudhira le mas e duka dani"
+  },
+  {
+    "id": 40,
+    "section": "section3",
+    "section_line": 6,
+    "language": "si",
+    "text": "ඇති බොරු කළා දැන් පිළිගමු",
+    "alignment_text": "aethi boru kalaa daen piligamu"
+  },
+  {
+    "id": 41,
+    "section": "section4",
+    "section_line": 0,
+    "language": "si",
+    "text": "සත්‍යයේ අරුත ගෙනදෙයි හිරිගඩු",
+    "alignment_text": "sathyaye arutha genadeyi hirigadu"
+  },
+  {
+    "id": 42,
+    "section": "section4",
+    "section_line": 1,
+    "language": "si",
+    "text": "වර්ණයේ ගරුක පුපුරයි ගිනිකඳු",
+    "alignment_text": "warnaye garuka pupurayi ginikandu"
+  },
+  {
+    "id": 43,
+    "section": "section4",
+    "section_line": 2,
+    "language": "si",
+    "text": "කාලයේ අරුම මිනිසද ගුණමකු",
+    "alignment_text": "kaalaye aruma minisada gunamaku"
+  },
+  {
+    "id": 44,
+    "section": "section4",
+    "section_line": 3,
+    "language": "si",
+    "text": "කල්පනා කරමි සෑය ළඟ ගිරිහඩු",
+    "alignment_text": "kalpanaa karami saeya langa girihadu"
+  },
+  {
+    "id": 45,
+    "section": "section5",
+    "section_line": 0,
+    "language": "si",
+    "text": "මරාගෙන මැරෙන කඩාගෙන හැදෙන",
+    "alignment_text": "maraagena maerena kadaagena haedena"
+  },
+  {
+    "id": 46,
+    "section": "section5",
+    "section_line": 1,
+    "language": "si",
+    "text": "සමාජය නගනයක් ඇහැක් ඇරියම",
+    "alignment_text": "samaajaya naganayak aehaek aeriyama"
+  },
+  {
+    "id": 47,
+    "section": "section5",
+    "section_line": 2,
+    "language": "si",
+    "text": "පතාගෙන ඇවිද හිතාගෙන ලැබෙන",
+    "alignment_text": "pathaagena aewida hithaagena laebena"
+  },
+  {
+    "id": 48,
+    "section": "section5",
+    "section_line": 3,
+    "language": "si",
+    "text": "දේ බාර කරපන් දෙවියන්ගේ බාරෙට",
+    "alignment_text": "de baara karapan dewiyange baareta"
+  },
+  {
+    "id": 49,
+    "section": "section6",
+    "section_line": 0,
+    "language": "si",
+    "text": "දුහුවිලි මාවතේ දේවතා එළි පෙනෙයි ද ආදරෙන්?",
+    "alignment_text": "duhuwili maawathe dewathaa eli peneyi da aadaren"
+  },
+  {
+    "id": 50,
+    "section": "section6",
+    "section_line": 1,
+    "language": "si",
+    "text": "ළතැවුල් මාරුතෙන් සැඟවියවත් හැකිදෝ ශ්‍රී නාමයෙන්?",
+    "alignment_text": "lathaewul maaruthen saengawiyawath haekido shree naamayen"
+  },
+  {
+    "id": 51,
+    "section": "section6",
+    "section_line": 2,
+    "language": "si",
+    "text": "සියල්ල හදවතේ පිළිරැව් නවතියි ද ඝණ්ටා නාදයෙන්",
+    "alignment_text": "siyalla hadawathe piliraew nawathiyi da ghantaa naadayen"
+  },
+  {
+    "id": 52,
+    "section": "section6",
+    "section_line": 3,
+    "language": "si",
+    "text": "විය යුතු මොහොතකින් ගැලවීදෝ දෙවියන්ගේ බාරයෙන්?",
+    "alignment_text": "wiya yuthu mohothakin gaelaweedo dewiyange baarayen"
+  },
+  {
+    "id": 53,
+    "section": "section7",
+    "section_line": 0,
+    "language": "si",
+    "text": "මායාව රජවෙලා ඇත්ත නැත්ත බලු වෙලා නැති වෙලා",
+    "alignment_text": "maayaawa rajawelaa aeththa naeththa balu welaa naethi welaa"
+  },
+  {
+    "id": 54,
+    "section": "section7",
+    "section_line": 1,
+    "language": "si",
+    "text": "ලස්සන ජීවිත හැඩිවෙලා බලන් ඉන්න බෑ තව මටනම් ඇති වෙලා",
+    "alignment_text": "lassana jeewitha haediwelaa balan inna bae thawa matanam aethi welaa"
+  },
+  {
+    "id": 55,
+    "section": "section7",
+    "section_line": 2,
+    "language": "si",
+    "text": "කනමදු ජීවිත කළුවර වී ඇත කෝ ඔය දෙවියන්",
+    "alignment_text": "kanamadu jeewitha kaluwara wee aetha ko oya dewiyan"
+  },
+  {
+    "id": 56,
+    "section": "section7",
+    "section_line": 3,
+    "language": "si",
+    "text": "වැටුපට උපවාස කරයි හෙදියන්",
+    "alignment_text": "waetupata upawaasa karayi hediyan"
+  },
+  {
+    "id": 57,
+    "section": "section7",
+    "section_line": 4,
+    "language": "si",
+    "text": "ගුණ මෙහෙ ගරුක එතැන මැවියන්",
+    "alignment_text": "guna mehe garuka ethaena maewiyan"
+  },
+  {
+    "id": 58,
+    "section": "section7",
+    "section_line": 5,
+    "language": "si",
+    "text": "කතාකරමු නැත්තන් සාරියේ එතියන්",
+    "alignment_text": "kathaakaramu naeththan saariye ethiyan"
+  },
+  {
+    "id": 59,
+    "section": "section8",
+    "section_line": 0,
+    "language": "si",
+    "text": "හිත සී සී කඩ අද වීදී වල",
+    "alignment_text": "hitha see see kada ada weedee wala"
+  },
+  {
+    "id": 60,
+    "section": "section8",
+    "section_line": 1,
+    "language": "si",
+    "text": "සතුට රැඳෙන්නේ අද ප්‍රීතී වල",
+    "alignment_text": "sathuta raendenne ada preethee wala"
+  },
+  {
+    "id": 61,
+    "section": "section8",
+    "section_line": 2,
+    "language": "si",
+    "text": "භීති කළ ඒ කී දේ කළ",
+    "alignment_text": "bheethi kala e kee de kala"
+  },
+  {
+    "id": 62,
+    "section": "section8",
+    "section_line": 3,
+    "language": "si",
+    "text": "දුන්න දෙවියන් තීරණ ඊතල",
+    "alignment_text": "dunna dewiyan theerana eethala"
+  },
+  {
+    "id": 63,
+    "section": "section9",
+    "section_line": 0,
+    "language": "si",
+    "text": "අද දියවැඩියාවට වඩා රටේ කටෙ හැදියාව",
+    "alignment_text": "ada diyawaediyaawata wadaa rate kate haediyaawa"
+  },
+  {
+    "id": 64,
+    "section": "section9",
+    "section_line": 1,
+    "language": "si",
+    "text": "ඇති නැති කම වෙනස් කළ රැකියාව",
+    "alignment_text": "aethi naethi kama wenas kala raekiyaawa"
+  },
+  {
+    "id": 65,
+    "section": "section9",
+    "section_line": 2,
+    "language": "si",
+    "text": "හිත ගත කතා කළේම නැතියාව",
+    "alignment_text": "hitha gatha kathaa kalema naethiyaawa"
+  },
+  {
+    "id": 66,
+    "section": "section9",
+    "section_line": 3,
+    "language": "si",
+    "text": "වට කරන් කෙළ කළේ වැඩිහිටියාව",
+    "alignment_text": "wata karan kela kale waedihitiyaawa"
+  },
+  {
+    "id": 67,
+    "section": "section10",
+    "section_line": 0,
+    "language": "si",
+    "text": "හිත හීලයි කරගත්තේ මම බීලයි",
+    "alignment_text": "hitha heelayi karagaththe mama beelayi"
+  },
+  {
+    "id": 68,
+    "section": "section10",
+    "section_line": 1,
+    "language": "si",
+    "text": "දුක යනු සිරිමත් ගැන විතරක් කවි ගුණබස් කීමයි ලිවීමයි",
+    "alignment_text": "duka yanu sirimath gaena witharak kawi gunabas keemayi liweemayi"
+  },
+  {
+    "id": 69,
+    "section": "section10",
+    "section_line": 2,
+    "language": "si",
+    "text": "පොඩිකාලේ තිබ්බ බය පංතියේ අන්තිම වීමයි හීනයි",
+    "alignment_text": "podikaale thibba baya pangthiye anthima weemayi heenayi"
+  },
+  {
+    "id": 70,
+    "section": "section10",
+    "section_line": 3,
+    "language": "si",
+    "text": "සුරයක් දැම්මා බැරි තැන",
+    "alignment_text": "surayak daemmaa baeri thaena"
+  },
+  {
+    "id": 71,
+    "section": "section10",
+    "section_line": 4,
+    "language": "si",
+    "text": "යකා ඉන්නේ ඇතුළේ කියා දැන දැන",
+    "alignment_text": "yakaa inne aethule kiyaa daena daena"
+  },
+  {
+    "id": 72,
+    "section": "section10",
+    "section_line": 5,
+    "language": "si",
+    "text": "බැණ බැණ කිව්වා අති දැන් ඇණ ඇණ",
+    "alignment_text": "baena baena kiwwaa athi daen aena aena"
+  },
+  {
+    "id": 73,
+    "section": "section10",
+    "section_line": 6,
+    "language": "si",
+    "text": "මේ දෙවෙනි ලියුම දෙවියන් බාරෙට",
+    "alignment_text": "me deweni liyuma dewiyan baareta"
+  },
+  {
+    "id": 74,
+    "section": "section11",
+    "section_line": 0,
+    "language": "si",
+    "text": "නක්ෂත්‍ර නොසිත ඉපිද ෆැන්ටසි ලෝකෙක මේ එළිසමේ",
+    "alignment_text": "nakshathra nositha ipida faentasi lokeka me elisame"
+  },
+  {
+    "id": 75,
+    "section": "section11",
+    "section_line": 1,
+    "language": "si",
+    "text": "වැඳගෙන කරගෙන පාවා දී මායම් දී නෑ මගේ ගූ හිතේ",
+    "alignment_text": "waendagena karagena paawaa dee maayam dee nae mage guu hithe"
+  },
+  {
+    "id": 76,
+    "section": "section11",
+    "section_line": 2,
+    "language": "si",
+    "text": "මොන මොන සෙල්ලම් දැම්මත් හෙළුවැලි කෙල්ලන් මගේ ෆැන්ටසි ලෝකෙට",
+    "alignment_text": "mona mona sellam daemmath heluwaeli kellan mage faentasi loketa"
+  },
+  {
+    "id": 77,
+    "section": "section11",
+    "section_line": 3,
+    "language": "si",
+    "text": "මතකෙට එල්ලන් නෑ එක කෙල්ලක් ගැලවුණේ රෙදිපිළි මෝලෙට",
+    "alignment_text": "mathaketa ellan nae eka kellak gaelawune redipili moleta"
+  },
+  {
+    "id": 78,
+    "section": "section11",
+    "section_line": 4,
+    "language": "si",
+    "text": "එද්දී ගෙනාවේ නෑ මොණර කොළ පාවෙන",
+    "alignment_text": "eddee genaawe nae monara kola paawena"
+  },
+  {
+    "id": 79,
+    "section": "section11",
+    "section_line": 5,
+    "language": "si",
+    "text": "තොටිලි වල නිදාගෙන නෑ මැද පංතියේ පදික",
+    "alignment_text": "thotili wala nidaagena nae maeda pangthiye padika"
+  },
+  {
+    "id": 80,
+    "section": "section11",
+    "section_line": 6,
+    "language": "si",
+    "text": "වඩිග පටුන නටන ජීවිත පදයට යටව",
+    "alignment_text": "wadiga patuna natana jeewitha padayata yatawa"
+  },
+  {
+    "id": 81,
+    "section": "section11",
+    "section_line": 7,
+    "language": "si",
+    "text": "මන්දිර සඳලු තල මවමින් සිහින වන්නම",
+    "alignment_text": "mandira sandalu thala mawamin sihina wannama"
+  },
+  {
+    "id": 82,
+    "section": "section11",
+    "section_line": 8,
+    "language": "si",
+    "text": "කාට කියන්නද ඒ මියෙන සිහින මැද",
+    "alignment_text": "kaata kiyannada e miyena sihina maeda"
+  },
+  {
+    "id": 83,
+    "section": "section11",
+    "section_line": 9,
+    "language": "si",
+    "text": "පණ තියෙන ලියන දුවන පන්හිඳ අතින්",
+    "alignment_text": "pana thiyena liyana duwana panhinda athin"
+  },
+  {
+    "id": 84,
+    "section": "section11",
+    "section_line": 10,
+    "language": "si",
+    "text": "තුඩගින් බසින ලවණ රුධිරය වී බැස",
+    "alignment_text": "thudagin basina lawana rudhiraya wee baesa"
+  },
+  {
+    "id": 85,
+    "section": "section11",
+    "section_line": 11,
+    "language": "si",
+    "text": "පිරවුණු රූල් පිටු පොත ජීවිතේ වී ඇත",
+    "alignment_text": "pirawunu ruul pitu potha jeewithe wee aetha"
+  },
+  {
+    "id": 86,
+    "section": "section11",
+    "section_line": 12,
+    "language": "si",
+    "text": "මනස දෙකනෙ වදින වචන මතකයිද",
+    "alignment_text": "manasa dekane wadina wachana mathakayida"
+  },
+  {
+    "id": 87,
+    "section": "section11",
+    "section_line": 13,
+    "language": "si",
+    "text": "මගේ බොළඳ හීන අතර මගේ කඳුළු බින්දු ඇයි",
+    "alignment_text": "mage bolanda heena athara mage kandulu bindu aeyi"
+  },
+  {
+    "id": 88,
+    "section": "section11",
+    "section_line": 14,
+    "language": "si",
+    "text": "වාෂ්ප වෙන්නේ දකින සිහින වටින කියන පයිය",
+    "alignment_text": "waashpa wenne dakina sihina watina kiyana payiya"
+  },
+  {
+    "id": 89,
+    "section": "section11",
+    "section_line": 15,
+    "language": "si",
+    "text": "උඹේ ඇටේ ඉඳන් උඹේ ආච්චිට බඳිනවා මං වෛර",
+    "alignment_text": "umbe aete indan umbe aachchita bandinawaa mang waira"
+  },
+  {
+    "id": 90,
+    "section": "section11",
+    "section_line": 16,
+    "language": "si",
+    "text": "මතක නැද්ද මට කියපුවා ගනින් මතකෙට වරෙන් අද හෙට",
+    "alignment_text": "mathaka naedda mata kiyapuwaa ganin mathaketa waren ada heta"
+  },
+  {
+    "id": 91,
+    "section": "section11",
+    "section_line": 17,
+    "language": "si",
+    "text": "දෙන්නම් මතකෙට කට කුඩු කරලා උඹේ දත් ටික",
+    "alignment_text": "dennam mathaketa kata kudu karalaa umbe dath tika"
+  },
+  {
+    "id": 92,
+    "section": "section11",
+    "section_line": 18,
+    "language": "si",
+    "text": "වළඳෙන් පිහ කෑ කුලි ගෙට රෑ සඳ මිතුරා විය",
+    "alignment_text": "walanden piha kae kuli geta rae sanda mithuraa wiya"
+  },
+  {
+    "id": 93,
+    "section": "section11",
+    "section_line": 19,
+    "language": "si",
+    "text": "පිටු බලි ගෑ නිල් තුඩ පෑන් වදන් ගෙතුවා ලිය",
+    "alignment_text": "pitu bali gae nil thuda paen wadan gethuwaa liya"
+  },
+  {
+    "id": 94,
+    "section": "section11",
+    "section_line": 20,
+    "language": "si",
+    "text": "මං ආස කරපු පාට හීන වලට හදපු මාව",
+    "alignment_text": "mang aasa karapu paata heena walata hadapu maawa"
+  },
+  {
+    "id": 95,
+    "section": "section11",
+    "section_line": 21,
+    "language": "si",
+    "text": "කඩලා බිඳලා විසි කරනවා හිත නොදැනිම මාව",
+    "alignment_text": "kadalaa bindalaa wisi karanawaa hitha nodaenima maawa"
+  },
+  {
+    "id": 96,
+    "section": "section11",
+    "section_line": 22,
+    "language": "si",
+    "text": "ඇයි මාව අම්මේ මැරුවේ නැත්තේ මම ඉපදුණු දාම",
+    "alignment_text": "aeyi maawa amme maeruwe naeththe mama ipadunu daama"
+  },
+  {
+    "id": 97,
+    "section": "section11",
+    "section_line": 23,
+    "language": "si",
+    "text": "මට දුක හිතෙනවා උඹ මහනවා හැමදාම",
+    "alignment_text": "mata duka hithenawaa umba mahanawaa haemadaama"
+  },
+  {
+    "id": 98,
+    "section": "section11",
+    "section_line": 24,
+    "language": "si",
+    "text": "කළු කපුටා සුදු වෙනතුරු මානසික පැතුමක් හිත මැරුවා",
+    "alignment_text": "kalu kaputaa sudu wenathuru maanasika paethumak hitha maeruwaa"
+  },
+  {
+    "id": 99,
+    "section": "section11",
+    "section_line": 25,
+    "language": "si",
+    "text": "හදවතක හීන මගේ ලේ වලින් ලිව්වා",
+    "alignment_text": "hadawathaka heena mage le walin liwwaa"
+  },
+  {
+    "id": 100,
+    "section": "section11",
+    "section_line": 26,
+    "language": "si",
+    "text": "කවුරු කිව්වත් හිතේ දුවන ගැම්ම අත පය වල තිව්වා",
+    "alignment_text": "kawuru kiwwath hithe duwana gaemma atha paya wala thiwwaa"
+  },
+  {
+    "id": 101,
+    "section": "section11",
+    "section_line": 27,
+    "language": "si",
+    "text": "මම කන අතටම රිව්වා මගේ මනස කොඳුරා කිව්වා මට",
+    "alignment_text": "mama kana athatama riwwaa mage manasa konduraa kiwwaa mata"
+  },
+  {
+    "id": 102,
+    "section": "section12",
+    "section_line": 0,
+    "language": "si",
+    "text": "දුහුවිලි මාවතේ දේවතා එළි පෙනෙයි ද ආදරෙන්?",
+    "alignment_text": "duhuwili maawathe dewathaa eli peneyi da aadaren"
+  },
+  {
+    "id": 103,
+    "section": "section12",
+    "section_line": 1,
+    "language": "si",
+    "text": "ළතැවුල් මාරුතෙන් සැඟවියවත් හැකිදෝ ශ්‍රී නාමයෙන්?",
+    "alignment_text": "lathaewul maaruthen saengawiyawath haekido shree naamayen"
+  },
+  {
+    "id": 104,
+    "section": "section12",
+    "section_line": 2,
+    "language": "si",
+    "text": "සියල්ල හදවතේ පිළිරැව් නවතියි ද ඝණ්ටා නාදයෙන්",
+    "alignment_text": "siyalla hadawathe piliraew nawathiyi da ghantaa naadayen"
+  },
+  {
+    "id": 105,
+    "section": "section12",
+    "section_line": 3,
+    "language": "si",
+    "text": "විය යුතු මොහොතකින් ගැලවීදෝ දෙවියන්ගේ බාරයෙන්?",
+    "alignment_text": "wiya yuthu mohothakin gaelaweedo dewiyange baarayen"
+  },
+  {
+    "id": 106,
+    "section": "section13",
+    "section_line": 0,
+    "language": "si",
+    "text": "අදටත් නින්දක් නැති ෆිල්ටර් නැති මතකයන්",
+    "alignment_text": "adatath nindak naethi filtar naethi mathakayan"
+  },
+  {
+    "id": 107,
+    "section": "section13",
+    "section_line": 1,
+    "language": "si",
+    "text": "මතටත් තිතක් නැති හිතුවෙවත් නැති වියමන්",
+    "alignment_text": "mathatath thithak naethi hithuwewath naethi wiyaman"
+  },
+  {
+    "id": 108,
+    "section": "section13",
+    "section_line": 2,
+    "language": "si",
+    "text": "රිවර්ස් වදින්නැති ගියර් වැටෙන්නැති පල්ලම් නැති",
+    "alignment_text": "riwars wadinnaethi giyar waetennaethi pallam naethi"
+  },
+  {
+    "id": 109,
+    "section": "section13",
+    "section_line": 3,
+    "language": "si",
+    "text": "සිතියම් නැති සිතුවිලි අන්තිම හුස්මට ණයගැති",
+    "alignment_text": "sithiyam naethi sithuwili anthima husmata nayagaethi"
+  },
+  {
+    "id": 110,
+    "section": "section13",
+    "section_line": 4,
+    "language": "si",
+    "text": "කාලය මැන්නේ සිවිලිමක් නැති වහල දෙස බලා",
+    "alignment_text": "kaalaya maenne siwilimak naethi wahala desa balaa"
+  },
+  {
+    "id": 111,
+    "section": "section13",
+    "section_line": 5,
+    "language": "si",
+    "text": "සැපයි කියලා හිතලා මෙමට නිදාගන්න එපා වෙලා",
+    "alignment_text": "saepayi kiyalaa hithalaa memata nidaaganna epaa welaa"
+  },
+  {
+    "id": 112,
+    "section": "section13",
+    "section_line": 6,
+    "language": "si",
+    "text": "යන්නට මට තැනක් නෑ කරන්නට දෙයක් නෑ",
+    "alignment_text": "yannata mata thaenak nae karannata deyak nae"
+  },
+  {
+    "id": 113,
+    "section": "section13",
+    "section_line": 7,
+    "language": "si",
+    "text": "දිව්‍ය ලෝක ඕන නෑ අපායට බයත් නෑ",
+    "alignment_text": "diwya loka ona nae apaayata bayath nae"
+  },
+  {
+    "id": 114,
+    "section": "section13",
+    "section_line": 8,
+    "language": "si",
+    "text": "දැවිලා දැවිලා නිවෙන නිවිලා තිබිලා නැවත දැවෙන",
+    "alignment_text": "daewilaa daewilaa niwena niwilaa thibilaa naewatha daewena"
+  },
+  {
+    "id": 115,
+    "section": "section13",
+    "section_line": 9,
+    "language": "si",
+    "text": "දුමක සුවඳ දුකක නිවෙන කැපි කැපි කැපි යාවෙන",
+    "alignment_text": "dumaka suwanda dukaka niwena kaepi kaepi kaepi yaawena"
+  },
+  {
+    "id": 116,
+    "section": "section13",
+    "section_line": 10,
+    "language": "si",
+    "text": "යන්න නො එන ගමන තෙක් පරම සත්‍ය සැඟවෙන",
+    "alignment_text": "yanna no ena gamana thek parama sathya saengawena"
+  },
+  {
+    "id": 117,
+    "section": "section13",
+    "section_line": 11,
+    "language": "si",
+    "text": "පටබැඳි නම කඩවරගම වටේම බොරු මවාපාන",
+    "alignment_text": "patabaendi nama kadawaragama watema boru mawaapaana"
+  },
+  {
+    "id": 118,
+    "section": "section13",
+    "section_line": 12,
+    "language": "si",
+    "text": "දෙවියන්ගේ මල්ලිට ඔටුනු පැළඳි කල් හි",
+    "alignment_text": "dewiyange mallita otunu paelandi kal hi"
+  },
+  {
+    "id": 119,
+    "section": "section13",
+    "section_line": 13,
+    "language": "si",
+    "text": "ලෝකය තනි යායකි සවණක් ගණ රැස් නැති",
+    "alignment_text": "lokaya thani yaayaki sawanak gana raes naethi"
+  },
+  {
+    "id": 120,
+    "section": "section13",
+    "section_line": 14,
+    "language": "si",
+    "text": "පවට පිනදි මම ද මැදිවී ස්වාර්ථයට කිමිදී",
+    "alignment_text": "pawata pinadi mama da maediwee swaarthayata kimidee"
+  },
+  {
+    "id": 121,
+    "section": "section13",
+    "section_line": 15,
+    "language": "si",
+    "text": "උඹට මතක ද එදා මම විතරද වැරදී",
+    "alignment_text": "umbata mathaka da edaa mama witharada waeradee"
+  },
+  {
+    "id": 122,
+    "section": "section13",
+    "section_line": 16,
+    "language": "si",
+    "text": "යක්ෂ වේශ සංක්‍රාන්ති පාවා දී පියවි දෑස",
+    "alignment_text": "yaksha wesha sangkraanthi paawaa dee piyawi daesa"
+  },
+  {
+    "id": 123,
+    "section": "section13",
+    "section_line": 17,
+    "language": "si",
+    "text": "මිට මොළවා සිටගෙන දිවුරනවා ගනු හුස්ම පිණිස",
+    "alignment_text": "mita molawaa sitagena diwuranawaa ganu husma pinisa"
+  },
+  {
+    "id": 124,
+    "section": "section13",
+    "section_line": 18,
+    "language": "si",
+    "text": "පාපයක් වෙන්නෙම නැත අනිවා ශාපයක් වුණත්",
+    "alignment_text": "paapayak wennema naetha aniwaa shaapayak wunath"
+  },
+  {
+    "id": 125,
+    "section": "section13",
+    "section_line": 19,
+    "language": "si",
+    "text": "උඹේ සෛල මරනවා මම නැවත මොනවා මට වුණත්",
+    "alignment_text": "umbe saila maranawaa mama naewatha monawaa mata wunath"
+  },
+  {
+    "id": 126,
+    "section": "section13",
+    "section_line": 20,
+    "language": "si",
+    "text": "ඇත්ත තිත්තක් වුණත් කාට කෙසේ තෙරුණත්",
+    "alignment_text": "aeththa thiththak wunath kaata kese therunath"
+  },
+  {
+    "id": 127,
+    "section": "section13",
+    "section_line": 21,
+    "language": "si",
+    "text": "ප්‍රශ්න එක පිට එක එකින් එකට විසඳුවත්",
+    "alignment_text": "prashna eka pita eka ekin ekata wisanduwath"
+  },
+  {
+    "id": 128,
+    "section": "section13",
+    "section_line": 22,
+    "language": "si",
+    "text": "මුල මැද අග පැටළුණ විට ඇතුළත ගිනි පැසවන විට",
+    "alignment_text": "mula maeda aga paetaluna wita aethulatha gini paesawana wita"
+  },
+  {
+    "id": 129,
+    "section": "section13",
+    "section_line": 23,
+    "language": "si",
+    "text": "කෝ දෙවියන් කෝ මගේ හෘද සාක්ෂි පුපුරන විට පිට පිට",
+    "alignment_text": "ko dewiyan ko mage hruda saakshi pupurana wita pita pita"
+  }
+]

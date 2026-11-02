@@ -1,0 +1,75 @@
+{
+  "selection": "Long phrase-final isolated vocals; punctuation alone does not add dots; not listening-confirmed",
+  "words": [
+    {
+      "line": 49,
+      "word": 6,
+      "text": "ආදරෙන්?",
+      "duration": 0.95,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 50,
+      "word": 2,
+      "text": "සැඟවියවත්",
+      "duration": 1.479,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 50,
+      "word": 5,
+      "text": "නාමයෙන්?",
+      "duration": 1.339,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 51,
+      "word": 6,
+      "text": "නාදයෙන්",
+      "duration": 1.439,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 52,
+      "word": 3,
+      "text": "ගැලවීදෝ",
+      "duration": 1.519,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 102,
+      "word": 6,
+      "text": "ආදරෙන්?",
+      "duration": 1.0,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 103,
+      "word": 5,
+      "text": "නාමයෙන්?",
+      "duration": 1.08,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 104,
+      "word": 6,
+      "text": "නාදයෙන්",
+      "duration": 1.39,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 105,
+      "word": 3,
+      "text": "ගැලවීදෝ",
+      "duration": 1.499,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 105,
+      "word": 5,
+      "text": "බාරයෙන්?",
+      "duration": 0.999,
+      "basis": "isolated vocal duration; sustained content word"
+    }
+  ]
+}

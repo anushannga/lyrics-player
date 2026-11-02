@@ -1,0 +1,194 @@
+[
+  {
+    "id": 102,
+    "section": "section12",
+    "section_line": 0,
+    "start": 342.35,
+    "end": 346.95,
+    "words": [
+      {
+        "word": "duhuwili",
+        "start": 342.35,
+        "end": 342.99,
+        "probability": 0.14595979011210147
+      },
+      {
+        "word": "maawathe",
+        "start": 342.99,
+        "end": 343.83,
+        "probability": 0.22601490108839548
+      },
+      {
+        "word": "dewathaa",
+        "start": 343.83,
+        "end": 345.23,
+        "probability": 0.052149049598180376
+      },
+      {
+        "word": "eli",
+        "start": 345.23,
+        "end": 345.57,
+        "probability": 0.0010643878486007452
+      },
+      {
+        "word": "peneyi",
+        "start": 345.57,
+        "end": 346.19,
+        "probability": 0.3177060443364705
+      },
+      {
+        "word": "da",
+        "start": 346.19,
+        "end": 346.31,
+        "probability": 0.301827609539032
+      },
+      {
+        "word": "aadaren",
+        "start": 346.31,
+        "end": 346.95,
+        "probability": 0.5416473007450501
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "section": "section12",
+    "section_line": 1,
+    "start": 347.62,
+    "end": 352.26,
+    "words": [
+      {
+        "word": "lathaewul",
+        "start": 347.62,
+        "end": 348.18,
+        "probability": 0.11314617736206856
+      },
+      {
+        "word": "maaruthen",
+        "start": 348.18,
+        "end": 349.1,
+        "probability": 0.020151046725610893
+      },
+      {
+        "word": "saengawiyawath",
+        "start": 349.1,
+        "end": 350.46,
+        "probability": 0.11579152064708371
+      },
+      {
+        "word": "haekido",
+        "start": 350.46,
+        "end": 351.0,
+        "probability": 0.07123293130037685
+      },
+      {
+        "word": "shree",
+        "start": 351.0,
+        "end": 351.5,
+        "probability": 0.22076511237537488
+      },
+      {
+        "word": "naamayen",
+        "start": 351.5,
+        "end": 352.26,
+        "probability": 0.3212688728235662
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "section": "section12",
+    "section_line": 2,
+    "start": 352.82,
+    "end": 357.62,
+    "words": [
+      {
+        "word": "siyalla",
+        "start": 352.82,
+        "end": 353.34,
+        "probability": 0.014166528669496378
+      },
+      {
+        "word": "hadawathe",
+        "start": 353.34,
+        "end": 354.22,
+        "probability": 0.055711586852946006
+      },
+      {
+        "word": "piliraew",
+        "start": 354.22,
+        "end": 355.44,
+        "probability": 0.0226694823577418
+      },
+      {
+        "word": "nawathiyi",
+        "start": 355.44,
+        "end": 355.9,
+        "probability": 0.0006848590322382128
+      },
+      {
+        "word": "da",
+        "start": 355.9,
+        "end": 356.04,
+        "probability": 0.7195120453834534
+      },
+      {
+        "word": "ghantaa",
+        "start": 356.04,
+        "end": 356.66,
+        "probability": 0.020234827417880297
+      },
+      {
+        "word": "naadayen",
+        "start": 356.66,
+        "end": 357.62,
+        "probability": 0.19089088588953018
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "section": "section12",
+    "section_line": 3,
+    "start": 358.06,
+    "end": 362.7,
+    "words": [
+      {
+        "word": "wiya",
+        "start": 358.06,
+        "end": 358.32,
+        "probability": 0.007806369103491306
+      },
+      {
+        "word": "yuthu",
+        "start": 358.32,
+        "end": 358.7,
+        "probability": 0.13743152015376836
+      },
+      {
+        "word": "mohothakin",
+        "start": 358.7,
+        "end": 359.32,
+        "probability": 0.2510251251515001
+      },
+      {
+        "word": "gaelaweedo",
+        "start": 359.32,
+        "end": 360.82,
+        "probability": 0.02971395685653988
+      },
+      {
+        "word": "dewiyange",
+        "start": 360.82,
+        "end": 361.6,
+        "probability": 0.0228862168029688
+      },
+      {
+        "word": "baarayen",
+        "start": 361.6,
+        "end": 362.7,
+        "probability": 0.04242838502250379
+      }
+    ]
+  }
+]
