@@ -1,0 +1,124 @@
+{
+  "selection": "Long phrase-final isolated vocals; punctuation alone does not add dots; not listening-confirmed",
+  "words": [
+    {
+      "line": 6,
+      "word": 4,
+      "text": "මාරුතේ",
+      "duration": 1.12,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 10,
+      "word": 3,
+      "text": "වෑහුනේ",
+      "duration": 0.66,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 11,
+      "word": 2,
+      "text": "ඔයා",
+      "duration": 1.18,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 14,
+      "word": 5,
+      "text": "තනිවෙලා",
+      "duration": 1.6,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 17,
+      "word": 3,
+      "text": "තවරලා",
+      "duration": 1.3,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 20,
+      "word": 5,
+      "text": "තනිවෙලා",
+      "duration": 1.38,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 21,
+      "word": 4,
+      "text": "වළාවක",
+      "duration": 0.9,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 23,
+      "word": 3,
+      "text": "තවරලා",
+      "duration": 1.9,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 24,
+      "word": 6,
+      "text": "තිබුනේ",
+      "duration": 0.5,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 25,
+      "word": 3,
+      "text": "මවා",
+      "duration": 1.82,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 27,
+      "word": 2,
+      "text": "මත්වෙලා",
+      "duration": 1.88,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 34,
+      "word": 3,
+      "text": "වෑහුනේ",
+      "duration": 0.66,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 35,
+      "word": 2,
+      "text": "ඔයා",
+      "duration": 1.26,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 38,
+      "word": 5,
+      "text": "තනිවෙලා",
+      "duration": 1.56,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 41,
+      "word": 3,
+      "text": "තවරලා",
+      "duration": 1.14,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 44,
+      "word": 5,
+      "text": "තනිවෙලා",
+      "duration": 1.48,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 47,
+      "word": 3,
+      "text": "තවරලා",
+      "duration": 2.2,
+      "basis": "isolated vocal duration; sustained content word"
+    }
+  ]
+}

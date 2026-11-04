@@ -2,7 +2,7 @@
 
 Arduino UNO + ST7920 128×64 Sinhala LCD lyric players by Pasan Anushanga.
 Music plays through a Mac while an Arduino UNO displays Sinhala lyrics over USB.
-This repository contains the latest played versions of all eleven projects.
+This repository contains the latest played versions of all sixteen projects.
 
 ## Songs
 
@@ -19,6 +19,12 @@ This repository contains the latest played versions of all eleven projects.
 | Nura Ananthe | [nura-ananthe](lyrics-player/nura-ananthe/) | Whole-word lyrics and progressive sustain dots |
 | Deviyange Bare | [deviyange-bare](lyrics-player/deviyange-bare/) | Word reveal with Su Naga font and selected chorus sustain dots |
 | Ithin Maa Numbawa Banda | [ithin-maa-numbawa-banda](lyrics-player/ithin-maa-numbawa-banda/) | ISI Gurulugomi, matched repeated choruses and progressive dots |
+
+| Double Eke | [double-eke](lyrics-player/double-eke/) | Whole-word lyrics with selected sustained endings |
+| Dawas Hathak | [dawas-hathak](lyrics-player/dawas-hathak/) | Whole-word lyrics with selected sustained endings |
+| Numba Kagedo | [numba-kagedo](lyrics-player/numba-kagedo/) | Whole-word lyrics with selected sustained endings |
+| Paata As | [paata-as](lyrics-player/paata-as/) | Whole-word lyrics with selected sustained endings |
+| Numba Tharam | [numba-tharam](lyrics-player/numba-tharam/) | Whole-word lyrics with selected sustained endings |
 
 ## Requirements
 

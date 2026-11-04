@@ -1,0 +1,266 @@
+[
+  {
+    "id": 0,
+    "section": "intro",
+    "section_line": 0,
+    "language": "si",
+    "text": "සන්සුන් පවන් සුවඳින් හමාවී ඈ වරලේ ගැටෙනා",
+    "alignment_text": "sansun pawan suwandin hamaawee ae warale gaetenaa"
+  },
+  {
+    "id": 1,
+    "section": "intro",
+    "section_line": 1,
+    "language": "si",
+    "text": "නිල්වන් සිහිල් නෙතගින් බලාවී ඈ මා සිතේ ඇඳෙනා",
+    "alignment_text": "nilwan sihil nethagin balaawee ae maa sithe aendenaa"
+  },
+  {
+    "id": 2,
+    "section": "hook1",
+    "section_line": 0,
+    "language": "si",
+    "text": "මේ දෙව් දූ සුරලෝකෙන් ආවාදෝ",
+    "alignment_text": "me dew du suraloken aawaado"
+  },
+  {
+    "id": 3,
+    "section": "hook1",
+    "section_line": 1,
+    "language": "si",
+    "text": "තරු අතරින් ආවාදෝ",
+    "alignment_text": "tharu atharin aawaado"
+  },
+  {
+    "id": 4,
+    "section": "hook1",
+    "section_line": 2,
+    "language": "si",
+    "text": "රෑ සිහිනෙන් පේනා නුඹ කාගෙදෝ? මාගේ දෝ",
+    "alignment_text": "rae sihinen penaa numba kaagedo maage do"
+  },
+  {
+    "id": 5,
+    "section": "hook1",
+    "section_line": 3,
+    "language": "si",
+    "text": "නුඹ කාගේදෝ",
+    "alignment_text": "numba kaagedo"
+  },
+  {
+    "id": 6,
+    "section": "hook1",
+    "section_line": 4,
+    "language": "si",
+    "text": "නුඹ මාගේදෝ",
+    "alignment_text": "numba maagedo"
+  },
+  {
+    "id": 7,
+    "section": "hook1",
+    "section_line": 5,
+    "language": "si",
+    "text": "නුඹ කාගේදෝ",
+    "alignment_text": "numba kaagedo"
+  },
+  {
+    "id": 8,
+    "section": "post1",
+    "section_line": 0,
+    "language": "si",
+    "text": "කෝලම් පාවී දෑසින් ඈගේ",
+    "alignment_text": "kolam paawee daesin aege"
+  },
+  {
+    "id": 9,
+    "section": "post1",
+    "section_line": 1,
+    "language": "si",
+    "text": "මායම් කලා සිත් මාගේ",
+    "alignment_text": "maayam kalaa sith maage"
+  },
+  {
+    "id": 10,
+    "section": "post1",
+    "section_line": 2,
+    "language": "si",
+    "text": "මායාවියක් දෝ ඈ නෙත් යාවෙනා",
+    "alignment_text": "maayaawiyak do ae neth yaawenaa"
+  },
+  {
+    "id": 11,
+    "section": "post1_repeat",
+    "section_line": 0,
+    "language": "si",
+    "text": "කෝලම් පාවී දෑසින් ඈගේ",
+    "alignment_text": "kolam paawee daesin aege"
+  },
+  {
+    "id": 12,
+    "section": "post1_repeat",
+    "section_line": 1,
+    "language": "si",
+    "text": "මායම් කලා සිත් මාගේ",
+    "alignment_text": "maayam kalaa sith maage"
+  },
+  {
+    "id": 13,
+    "section": "post1_repeat",
+    "section_line": 2,
+    "language": "si",
+    "text": "මායාවියක් දෝ ඈ නෙත් යාවෙනා",
+    "alignment_text": "maayaawiyak do ae neth yaawenaa"
+  },
+  {
+    "id": 14,
+    "section": "bridge",
+    "section_line": 0,
+    "language": "si",
+    "text": "දකින දකින සිහිනෙදි මට නුඹවම මැවුනා",
+    "alignment_text": "dakina dakina sihinedi mata numbawama maewunaa"
+  },
+  {
+    "id": 15,
+    "section": "bridge",
+    "section_line": 1,
+    "language": "si",
+    "text": "දකින දකින හැම සිහිනෙම",
+    "alignment_text": "dakina dakina haema sihinema"
+  },
+  {
+    "id": 16,
+    "section": "bridge",
+    "section_line": 2,
+    "language": "si",
+    "text": "ගැයෙන වැයෙන තිස්සෙම ගී කවි නුඹට ලියවුනා",
+    "alignment_text": "gaeyena waeyena thissema gee kawi numbata liyawunaa"
+  },
+  {
+    "id": 17,
+    "section": "bridge",
+    "section_line": 3,
+    "language": "si",
+    "text": "නුඹ හින්දා මේ පෙම් කුමරා",
+    "alignment_text": "numba hindaa me pem kumaraa"
+  },
+  {
+    "id": 18,
+    "section": "bridge",
+    "section_line": 4,
+    "language": "si",
+    "text": "නටාවී රඟ මඩලේ පෙම් තනු වයලා",
+    "alignment_text": "nataawee ranga madale pem thanu wayalaa"
+  },
+  {
+    "id": 19,
+    "section": "bridge",
+    "section_line": 5,
+    "language": "si",
+    "text": "හද මැදුරේ මේ දොර ඇරලා",
+    "alignment_text": "hada maedure me dora aeralaa"
+  },
+  {
+    "id": 20,
+    "section": "bridge",
+    "section_line": 6,
+    "language": "si",
+    "text": "තියාවී මගෙ කුමරී නුඹටම කියලා",
+    "alignment_text": "thiyaawee mage kumaree numbatama kiyalaa"
+  },
+  {
+    "id": 21,
+    "section": "hook2",
+    "section_line": 0,
+    "language": "si",
+    "text": "මේ දෙව් දූ සුරලෝකෙන් ආවාදෝ",
+    "alignment_text": "me dew du suraloken aawaado"
+  },
+  {
+    "id": 22,
+    "section": "hook2",
+    "section_line": 1,
+    "language": "si",
+    "text": "තරු අතරින් ආවාදෝ",
+    "alignment_text": "tharu atharin aawaado"
+  },
+  {
+    "id": 23,
+    "section": "hook2",
+    "section_line": 2,
+    "language": "si",
+    "text": "රෑ සිහිනෙන් පේනා නුඹ කාගෙදෝ? මාගේ දෝ",
+    "alignment_text": "rae sihinen penaa numba kaagedo maage do"
+  },
+  {
+    "id": 24,
+    "section": "hook2",
+    "section_line": 3,
+    "language": "si",
+    "text": "නුඹ කාගේදෝ",
+    "alignment_text": "numba kaagedo"
+  },
+  {
+    "id": 25,
+    "section": "hook2",
+    "section_line": 4,
+    "language": "si",
+    "text": "නුඹ මාගේදෝ",
+    "alignment_text": "numba maagedo"
+  },
+  {
+    "id": 26,
+    "section": "hook2",
+    "section_line": 5,
+    "language": "si",
+    "text": "නුඹ කාගේදෝ",
+    "alignment_text": "numba kaagedo"
+  },
+  {
+    "id": 27,
+    "section": "post2",
+    "section_line": 0,
+    "language": "si",
+    "text": "කෝලම් පාවී දෑසින් ඈගේ",
+    "alignment_text": "kolam paawee daesin aege"
+  },
+  {
+    "id": 28,
+    "section": "post2",
+    "section_line": 1,
+    "language": "si",
+    "text": "මායම් කලා සිත් මාගේ",
+    "alignment_text": "maayam kalaa sith maage"
+  },
+  {
+    "id": 29,
+    "section": "post2",
+    "section_line": 2,
+    "language": "si",
+    "text": "මායාවියක් දෝ ඈ නෙත් යාවෙනා",
+    "alignment_text": "maayaawiyak do ae neth yaawenaa"
+  },
+  {
+    "id": 30,
+    "section": "post2_repeat",
+    "section_line": 0,
+    "language": "si",
+    "text": "කෝලම් පාවී දෑසින් ඈගේ",
+    "alignment_text": "kolam paawee daesin aege"
+  },
+  {
+    "id": 31,
+    "section": "post2_repeat",
+    "section_line": 1,
+    "language": "si",
+    "text": "මායම් කලා සිත් මාගේ",
+    "alignment_text": "maayam kalaa sith maage"
+  },
+  {
+    "id": 32,
+    "section": "post2_repeat",
+    "section_line": 2,
+    "language": "si",
+    "text": "මායාවියක් දෝ ඈ නෙත් යාවෙනා",
+    "alignment_text": "maayaawiyak do ae neth yaawenaa"
+  }
+]

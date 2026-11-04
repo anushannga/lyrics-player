@@ -1,0 +1,173 @@
+{
+  "selection": "Long aligned word endings held until the next lyric; not listening-confirmed",
+  "words": [
+    {
+      "line": 0,
+      "word": 3,
+      "text": "ආදරේ",
+      "duration": 1.22,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 1,
+      "word": 3,
+      "text": "වගේ",
+      "duration": 0.46,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 2,
+      "word": 2,
+      "text": "ජීවිතේ",
+      "duration": 0.78,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 3,
+      "word": 3,
+      "text": "ලගින්",
+      "duration": 0.9,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 4,
+      "word": 3,
+      "text": "හුස්මවී",
+      "duration": 2.56,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 5,
+      "word": 4,
+      "text": "පෙරළුනා",
+      "duration": 3.38,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 6,
+      "word": 5,
+      "text": "වැටහුනා",
+      "duration": 3.82,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 7,
+      "word": 4,
+      "text": "තවරනා",
+      "duration": 2.52,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 8,
+      "word": 2,
+      "text": "සනසනා",
+      "duration": 3.24,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 9,
+      "word": 3,
+      "text": "සරා",
+      "duration": 2.36,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 10,
+      "word": 3,
+      "text": "එපා",
+      "duration": 0.9,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 11,
+      "word": 3,
+      "text": "සිනා",
+      "duration": 2.3,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 12,
+      "word": 4,
+      "text": "නිසා",
+      "duration": 1.7,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 13,
+      "word": 3,
+      "text": "වෙලා",
+      "duration": 1.24,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 14,
+      "word": 3,
+      "text": "ලංවෙලා",
+      "duration": 1.96,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 15,
+      "word": 3,
+      "text": "ආදරේ",
+      "duration": 0.94,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 16,
+      "word": 3,
+      "text": "වගේ",
+      "duration": 0.52,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 17,
+      "word": 2,
+      "text": "ජීවිතේ",
+      "duration": 0.74,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 18,
+      "word": 3,
+      "text": "ලගින්",
+      "duration": 0.96,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 19,
+      "word": 3,
+      "text": "හුස්මවී",
+      "duration": 2.44,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 20,
+      "word": 4,
+      "text": "පෙරළුනා",
+      "duration": 2.92,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 21,
+      "word": 5,
+      "text": "වැටහුනා",
+      "duration": 3.46,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 22,
+      "word": 4,
+      "text": "තවරනා",
+      "duration": 2.24,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 23,
+      "word": 2,
+      "text": "සනසනා",
+      "duration": 2.56,
+      "basis": "isolated vocal duration; sustained content word"
+    }
+  ]
+}

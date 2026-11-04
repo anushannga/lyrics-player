@@ -1,0 +1,386 @@
+[
+  {
+    "id": 0,
+    "section": "intro",
+    "section_line": 0,
+    "language": "si",
+    "text": "ඈත පේන තාරුකා වල පාට තේරුවා මන්",
+    "alignment_text": "aetha pena thaarukaa wala paata theruwaa man"
+  },
+  {
+    "id": 1,
+    "section": "intro",
+    "section_line": 1,
+    "language": "si",
+    "text": "නුඹනම් ඒ දේවදුන්න සඳ දෙව්ලිය අහසෙ මැව්",
+    "alignment_text": "numbanam e dewadunna sanda dewliya ahase maew"
+  },
+  {
+    "id": 2,
+    "section": "intro",
+    "section_line": 2,
+    "language": "si",
+    "text": "මායාවකි චන්ද්‍ර කොපුළ වළාකුලට හාදු දුන්",
+    "alignment_text": "maayaawaki chandra kopula walaakulata haadu dun"
+  },
+  {
+    "id": 3,
+    "section": "intro",
+    "section_line": 3,
+    "language": "si",
+    "text": "හිත දවනා නාරිලතා මල නුඹයි හීනෙ සැඟව උන්",
+    "alignment_text": "hitha dawanaa naarilathaa mala numbayi heene saengawa un"
+  },
+  {
+    "id": 4,
+    "section": "hook1",
+    "section_line": 0,
+    "language": "si",
+    "text": "මට කියාගන්න බැරි ආදරේ",
+    "alignment_text": "mata kiyaaganna baeri aadare"
+  },
+  {
+    "id": 5,
+    "section": "hook1",
+    "section_line": 1,
+    "language": "si",
+    "text": "මම ලියාදුන්න එක සීරුවේ",
+    "alignment_text": "mama liyaadunna eka seeruwe"
+  },
+  {
+    "id": 6,
+    "section": "hook1",
+    "section_line": 2,
+    "language": "si",
+    "text": "හද හඬා ගලන පෙම් මාරුතේ",
+    "alignment_text": "hada handaa galana pem maaruthe"
+  },
+  {
+    "id": 7,
+    "section": "hook1",
+    "section_line": 3,
+    "language": "si",
+    "text": "තියේ හිත් මායිමේ පුරා",
+    "alignment_text": "thiye hith maayime puraa"
+  },
+  {
+    "id": 8,
+    "section": "hook1",
+    "section_line": 4,
+    "language": "si",
+    "text": "අඩ සඳට මම තනුව මිමිණුවේ",
+    "alignment_text": "ada sandata mama thanuwa miminuwe"
+  },
+  {
+    "id": 9,
+    "section": "hook1",
+    "section_line": 5,
+    "language": "si",
+    "text": "මල් සුවඳ නුඹ තමයි තේරුවේ",
+    "alignment_text": "mal suwanda numba thamayi theruwe"
+  },
+  {
+    "id": 10,
+    "section": "hook1",
+    "section_line": 6,
+    "language": "si",
+    "text": "අඩමාන පෙම් රාව වෑහුනේ",
+    "alignment_text": "adamaana pem raawa waehune"
+  },
+  {
+    "id": 11,
+    "section": "hook1",
+    "section_line": 7,
+    "language": "si",
+    "text": "දෙව්ලියක් නොවෙදෝ ඔයා",
+    "alignment_text": "dewliyak nowedo oyaa"
+  },
+  {
+    "id": 12,
+    "section": "post1",
+    "section_line": 0,
+    "language": "si",
+    "text": "මරතෝණ්ඩි ඇඳි නුඹෙ දෑත මට කීව",
+    "alignment_text": "marathondi aendi numbe daetha mata keewa"
+  },
+  {
+    "id": 13,
+    "section": "post1",
+    "section_line": 1,
+    "language": "si",
+    "text": "රහස කාටත් කියන්නට බැරිද",
+    "alignment_text": "rahasa kaatath kiyannata baerida"
+  },
+  {
+    "id": 14,
+    "section": "post1",
+    "section_line": 2,
+    "language": "si",
+    "text": "පාට ඇස් ලඟ තාම මන් තනිවෙලා",
+    "alignment_text": "paata aes langa thaama man thaniwelaa"
+  },
+  {
+    "id": 15,
+    "section": "post1",
+    "section_line": 3,
+    "language": "si",
+    "text": "සුදු පාට තවරපු සේද වළාවක",
+    "alignment_text": "sudu paata thawarapu seda walaawaka"
+  },
+  {
+    "id": 16,
+    "section": "post1",
+    "section_line": 4,
+    "language": "si",
+    "text": "ආදරේ මම ලියා එවන්නද",
+    "alignment_text": "aadare mama liyaa ewannada"
+  },
+  {
+    "id": 17,
+    "section": "post1",
+    "section_line": 5,
+    "language": "si",
+    "text": "තියාගන්න එය ආදරේ තවරලා",
+    "alignment_text": "thiyaaganna eya aadare thawaralaa"
+  },
+  {
+    "id": 18,
+    "section": "post1_repeat",
+    "section_line": 0,
+    "language": "si",
+    "text": "මරතෝණ්ඩි ඇඳි නුඹෙ දෑත මට කීව",
+    "alignment_text": "marathondi aendi numbe daetha mata keewa"
+  },
+  {
+    "id": 19,
+    "section": "post1_repeat",
+    "section_line": 1,
+    "language": "si",
+    "text": "රහස කාටත් කියන්නට බැරිද",
+    "alignment_text": "rahasa kaatath kiyannata baerida"
+  },
+  {
+    "id": 20,
+    "section": "post1_repeat",
+    "section_line": 2,
+    "language": "si",
+    "text": "පාට ඇස් ලඟ තාම මන් තනිවෙලා",
+    "alignment_text": "paata aes langa thaama man thaniwelaa"
+  },
+  {
+    "id": 21,
+    "section": "post1_repeat",
+    "section_line": 3,
+    "language": "si",
+    "text": "සුදු පාට තවරපු සේද වළාවක",
+    "alignment_text": "sudu paata thawarapu seda walaawaka"
+  },
+  {
+    "id": 22,
+    "section": "post1_repeat",
+    "section_line": 4,
+    "language": "si",
+    "text": "ආදරේ මම ලියා එවන්නද",
+    "alignment_text": "aadare mama liyaa ewannada"
+  },
+  {
+    "id": 23,
+    "section": "post1_repeat",
+    "section_line": 5,
+    "language": "si",
+    "text": "තියාගන්න එය ආදරේ තවරලා",
+    "alignment_text": "thiyaaganna eya aadare thawaralaa"
+  },
+  {
+    "id": 24,
+    "section": "bridge",
+    "section_line": 0,
+    "language": "si",
+    "text": "දම් පාට ඇස් අතරේ කෝමළ රේඛා තිබුනේ",
+    "alignment_text": "dam paata aes athare komala rekhaa thibune"
+  },
+  {
+    "id": 25,
+    "section": "bridge",
+    "section_line": 1,
+    "language": "si",
+    "text": "මේ හිතට ආශා මවා",
+    "alignment_text": "me hithata aashaa mawaa"
+  },
+  {
+    "id": 26,
+    "section": "bridge",
+    "section_line": 2,
+    "language": "si",
+    "text": "තව ඉන්න බෑ අඳුරේ ලං වෙන්න මට සොඳුරේ",
+    "alignment_text": "thawa inna bae andure lan wenna mata sondure"
+  },
+  {
+    "id": 27,
+    "section": "bridge",
+    "section_line": 3,
+    "language": "si",
+    "text": "හිත ආදරෙන් මත්වෙලා",
+    "alignment_text": "hitha aadaren mathwelaa"
+  },
+  {
+    "id": 28,
+    "section": "hook2",
+    "section_line": 0,
+    "language": "si",
+    "text": "මට කියාගන්න බැරි ආදරේ",
+    "alignment_text": "mata kiyaaganna baeri aadare"
+  },
+  {
+    "id": 29,
+    "section": "hook2",
+    "section_line": 1,
+    "language": "si",
+    "text": "මම ලියාදුන්න එක සීරුවේ",
+    "alignment_text": "mama liyaadunna eka seeruwe"
+  },
+  {
+    "id": 30,
+    "section": "hook2",
+    "section_line": 2,
+    "language": "si",
+    "text": "හද හඬා ගලන පෙම් මාරුතේ",
+    "alignment_text": "hada handaa galana pem maaruthe"
+  },
+  {
+    "id": 31,
+    "section": "hook2",
+    "section_line": 3,
+    "language": "si",
+    "text": "තියේ හිත් මායිමේ පුරා",
+    "alignment_text": "thiye hith maayime puraa"
+  },
+  {
+    "id": 32,
+    "section": "hook2",
+    "section_line": 4,
+    "language": "si",
+    "text": "අඩ සඳට මම තනුව මිමිණුවේ",
+    "alignment_text": "ada sandata mama thanuwa miminuwe"
+  },
+  {
+    "id": 33,
+    "section": "hook2",
+    "section_line": 5,
+    "language": "si",
+    "text": "මල් සුවඳ නුඹ තමයි තේරුවේ",
+    "alignment_text": "mal suwanda numba thamayi theruwe"
+  },
+  {
+    "id": 34,
+    "section": "hook2",
+    "section_line": 6,
+    "language": "si",
+    "text": "අඩමාන පෙම් රාව වෑහුනේ",
+    "alignment_text": "adamaana pem raawa waehune"
+  },
+  {
+    "id": 35,
+    "section": "hook2",
+    "section_line": 7,
+    "language": "si",
+    "text": "දෙව්ලියක් නොවෙදෝ ඔයා",
+    "alignment_text": "dewliyak nowedo oyaa"
+  },
+  {
+    "id": 36,
+    "section": "post2",
+    "section_line": 0,
+    "language": "si",
+    "text": "මරතෝණ්ඩි ඇඳි නුඹෙ දෑත මට කීව",
+    "alignment_text": "marathondi aendi numbe daetha mata keewa"
+  },
+  {
+    "id": 37,
+    "section": "post2",
+    "section_line": 1,
+    "language": "si",
+    "text": "රහස කාටත් කියන්නට බැරිද",
+    "alignment_text": "rahasa kaatath kiyannata baerida"
+  },
+  {
+    "id": 38,
+    "section": "post2",
+    "section_line": 2,
+    "language": "si",
+    "text": "පාට ඇස් ලඟ තාම මන් තනිවෙලා",
+    "alignment_text": "paata aes langa thaama man thaniwelaa"
+  },
+  {
+    "id": 39,
+    "section": "post2",
+    "section_line": 3,
+    "language": "si",
+    "text": "සුදු පාට තවරපු සේද වළාවක",
+    "alignment_text": "sudu paata thawarapu seda walaawaka"
+  },
+  {
+    "id": 40,
+    "section": "post2",
+    "section_line": 4,
+    "language": "si",
+    "text": "ආදරේ මම ලියා එවන්නද",
+    "alignment_text": "aadare mama liyaa ewannada"
+  },
+  {
+    "id": 41,
+    "section": "post2",
+    "section_line": 5,
+    "language": "si",
+    "text": "තියාගන්න එය ආදරේ තවරලා",
+    "alignment_text": "thiyaaganna eya aadare thawaralaa"
+  },
+  {
+    "id": 42,
+    "section": "post2_repeat",
+    "section_line": 0,
+    "language": "si",
+    "text": "මරතෝණ්ඩි ඇඳි නුඹෙ දෑත මට කීව",
+    "alignment_text": "marathondi aendi numbe daetha mata keewa"
+  },
+  {
+    "id": 43,
+    "section": "post2_repeat",
+    "section_line": 1,
+    "language": "si",
+    "text": "රහස කාටත් කියන්නට බැරිද",
+    "alignment_text": "rahasa kaatath kiyannata baerida"
+  },
+  {
+    "id": 44,
+    "section": "post2_repeat",
+    "section_line": 2,
+    "language": "si",
+    "text": "පාට ඇස් ලඟ තාම මන් තනිවෙලා",
+    "alignment_text": "paata aes langa thaama man thaniwelaa"
+  },
+  {
+    "id": 45,
+    "section": "post2_repeat",
+    "section_line": 3,
+    "language": "si",
+    "text": "සුදු පාට තවරපු සේද වළාවක",
+    "alignment_text": "sudu paata thawarapu seda walaawaka"
+  },
+  {
+    "id": 46,
+    "section": "post2_repeat",
+    "section_line": 4,
+    "language": "si",
+    "text": "ආදරේ මම ලියා එවන්නද",
+    "alignment_text": "aadare mama liyaa ewannada"
+  },
+  {
+    "id": 47,
+    "section": "post2_repeat",
+    "section_line": 5,
+    "language": "si",
+    "text": "තියාගන්න එය ආදරේ තවරලා",
+    "alignment_text": "thiyaaganna eya aadare thawaralaa"
+  }
+]

@@ -1,0 +1,578 @@
+[
+  {
+    "id": 0,
+    "section": "section1",
+    "section_line": 0,
+    "language": "si",
+    "text": "ඩබල් එකේ අප් කර ගත්තම ලෙවල්",
+    "alignment_text": "dabal eke ap kara gaththama lewal"
+  },
+  {
+    "id": 1,
+    "section": "section1",
+    "section_line": 1,
+    "language": "si",
+    "text": "එකෙන් අත්පත් කරගත්තා ඕන දේවල්",
+    "alignment_text": "eken athpath karagaththaa ona dewal"
+  },
+  {
+    "id": 2,
+    "section": "section1",
+    "section_line": 2,
+    "language": "si",
+    "text": "වචනෙන් කන් තැන්පත් කරනවා",
+    "alignment_text": "wachanen kan thaenpath karanawaa"
+  },
+  {
+    "id": 3,
+    "section": "section1",
+    "section_line": 3,
+    "language": "si",
+    "text": "මේ මං රැපෙන් මං මන්මත් කරන ගෙවල්",
+    "alignment_text": "me mang raepen mang manmath karana gewal"
+  },
+  {
+    "id": 4,
+    "section": "section2",
+    "section_line": 0,
+    "language": "si",
+    "text": "එපා වෙන්න ළිඳේ ඉඳලාම",
+    "alignment_text": "epaa wenna linde indalaama"
+  },
+  {
+    "id": 5,
+    "section": "section2",
+    "section_line": 1,
+    "language": "si",
+    "text": "පල් වෙන මැඩියෙක්",
+    "alignment_text": "pal wena maediyek"
+  },
+  {
+    "id": 6,
+    "section": "section2",
+    "section_line": 2,
+    "language": "si",
+    "text": "සෙල්ලමටයි දුන්නේ කල් වෙලා වැඩියෙන්",
+    "alignment_text": "sellamatayi dunne kal welaa waediyen"
+  },
+  {
+    "id": 7,
+    "section": "section2",
+    "section_line": 3,
+    "language": "si",
+    "text": "පත්තියන් උනේ තැම්බිලා හැලියෙන්",
+    "alignment_text": "paththiyan une thaembilaa haeliyen"
+  },
+  {
+    "id": 8,
+    "section": "section3",
+    "section_line": 0,
+    "language": "si",
+    "text": "හැංගිලා බලයි උන් මං දිහා වැඩියෙන්",
+    "alignment_text": "haenggilaa balayi un mang dihaa waediyen"
+  },
+  {
+    "id": 9,
+    "section": "section3",
+    "section_line": 1,
+    "language": "si",
+    "text": "ගැම්මෙන් අහනවා සද්දෙ දාන්",
+    "alignment_text": "gaemmen ahanawaa sadde daan"
+  },
+  {
+    "id": 10,
+    "section": "section3",
+    "section_line": 2,
+    "language": "si",
+    "text": "සැලකිල්ල නමට යන පැත්තේ බං",
+    "alignment_text": "saelakilla namata yana paeththe bang"
+  },
+  {
+    "id": 11,
+    "section": "section3",
+    "section_line": 3,
+    "language": "si",
+    "text": "කාගේ කන කද නැත්තෙ මං",
+    "alignment_text": "kaage kana kada naeththe mang"
+  },
+  {
+    "id": 12,
+    "section": "section4",
+    "section_line": 0,
+    "language": "si",
+    "text": "අද බර ගෝස්තියක මැද්දේ මං",
+    "alignment_text": "ada bara gosthiyaka maedde mang"
+  },
+  {
+    "id": 13,
+    "section": "section4",
+    "section_line": 1,
+    "language": "si",
+    "text": "අකුරු වලින් සී සාන්නේ",
+    "alignment_text": "akuru walin see saanne"
+  },
+  {
+    "id": 14,
+    "section": "section4",
+    "section_line": 2,
+    "language": "si",
+    "text": "ඒකයි හැම කන්නෙම ගී දාන්නේ",
+    "alignment_text": "ekayi haema kannema gee daanne"
+  },
+  {
+    "id": 15,
+    "section": "section4",
+    "section_line": 3,
+    "language": "si",
+    "text": "බලයි කවුද මේ භාණ්ඩේ",
+    "alignment_text": "balayi kawuda me bhaande"
+  },
+  {
+    "id": 16,
+    "section": "section5",
+    "section_line": 0,
+    "language": "si",
+    "text": "මේ කට හැදුනේ පරණ ශ්‍රීකාණ්ඩේ",
+    "alignment_text": "me kata haedune parana shreekaande"
+  },
+  {
+    "id": 17,
+    "section": "section5",
+    "section_line": 1,
+    "language": "si",
+    "text": "හැදුණ් නෑ ගෙදරට බරක් වෙලා",
+    "alignment_text": "haedun nae gedarata barak welaa"
+  },
+  {
+    "id": 18,
+    "section": "section5",
+    "section_line": 2,
+    "language": "si",
+    "text": "කෙට්ටුයි පොළොවටවත් නෑ බරක් වෙලා",
+    "alignment_text": "kettuyi polowatawath nae barak welaa"
+  },
+  {
+    "id": 19,
+    "section": "section5",
+    "section_line": 3,
+    "language": "si",
+    "text": "හැදුවත් කතා සමහරක් දෙනා",
+    "alignment_text": "haeduwath kathaa samaharak denaa"
+  },
+  {
+    "id": 20,
+    "section": "section6",
+    "section_line": 0,
+    "language": "si",
+    "text": "කමක් නෑ පිස්සොත් ලොකු වෙනව හරක් වෙලා",
+    "alignment_text": "kamak nae pissoth loku wenawa harak welaa"
+  },
+  {
+    "id": 21,
+    "section": "section6",
+    "section_line": 1,
+    "language": "si",
+    "text": "බොරුවෙන් ඉන්නෙ නෑ රවට්ටාං",
+    "alignment_text": "boruwen inne nae rawattaang"
+  },
+  {
+    "id": 22,
+    "section": "section6",
+    "section_line": 2,
+    "language": "si",
+    "text": "මං මගේ ඇත්ත චරිතේ යන්නේ පවත්වාන්",
+    "alignment_text": "mang mage aeththa charithe yanne pawathwaan"
+  },
+  {
+    "id": 23,
+    "section": "section6",
+    "section_line": 3,
+    "language": "si",
+    "text": "පසු බහින්නෙ නෑ තවත් නම්",
+    "alignment_text": "pasu bahinne nae thawath nam"
+  },
+  {
+    "id": 24,
+    "section": "section7",
+    "section_line": 0,
+    "language": "si",
+    "text": "බලමු පුළුවන් එකෙක් ඇවිල්ල නවත්තහං මාව",
+    "alignment_text": "balamu puluwan ekek aewilla nawaththahang maawa"
+  },
+  {
+    "id": 25,
+    "section": "section7",
+    "section_line": 1,
+    "language": "si",
+    "text": "හරි වෙලාවට මේ කුණාටුව එයි",
+    "alignment_text": "hari welaawata me kunaatuwa eyi"
+  },
+  {
+    "id": 26,
+    "section": "section7",
+    "section_line": 2,
+    "language": "si",
+    "text": "කෙරුවට දෛවේ යනවා මං උඩටම",
+    "alignment_text": "keruwata daiwe yanawaa mang udatama"
+  },
+  {
+    "id": 27,
+    "section": "section7",
+    "section_line": 3,
+    "language": "si",
+    "text": "කතාවට මං ගාවට එයි",
+    "alignment_text": "kathaawata mang gaawata eyi"
+  },
+  {
+    "id": 28,
+    "section": "section8",
+    "section_line": 0,
+    "language": "si",
+    "text": "බාධක ආවත් යනවමයි උඩටම",
+    "alignment_text": "baadhaka aawath yanawamayi udatama"
+  },
+  {
+    "id": 29,
+    "section": "section8",
+    "section_line": 1,
+    "language": "si",
+    "text": "කතාවට විහිළු ලාවට එයි",
+    "alignment_text": "kathaawata wihilu laawata eyi"
+  },
+  {
+    "id": 30,
+    "section": "section8",
+    "section_line": 2,
+    "language": "si",
+    "text": "යන්න වෙන්නේ පැටලෙන්න එන්න උඹටම",
+    "alignment_text": "yanna wenne paetalenna enna umbatama"
+  },
+  {
+    "id": 31,
+    "section": "section8",
+    "section_line": 3,
+    "language": "si",
+    "text": "සද්දෙ දාගෙන බුරාගෙන එයි",
+    "alignment_text": "sadde daagena buraagena eyi"
+  },
+  {
+    "id": 32,
+    "section": "section9",
+    "section_line": 0,
+    "language": "si",
+    "text": "බෙහෙත් තියෙනවා ඕනෙම උණකට",
+    "alignment_text": "beheth thiyenawaa onema unakata"
+  },
+  {
+    "id": 33,
+    "section": "section9",
+    "section_line": 1,
+    "language": "si",
+    "text": "මං තදින් සික් උනේ කලාවට",
+    "alignment_text": "mang thadin sik une kalaawata"
+  },
+  {
+    "id": 34,
+    "section": "section9",
+    "section_line": 2,
+    "language": "si",
+    "text": "ඒකයි මේ ගේම ගහගෙන යන්නේ මනාවට",
+    "alignment_text": "ekayi me gema gahagena yanne manaawata"
+  },
+  {
+    "id": 35,
+    "section": "section9",
+    "section_line": 3,
+    "language": "si",
+    "text": "ගහන පාරවල් ෂුවර් සෙල්ලමෙදි වදින්නේ නෑ මගෙන් කනාවට",
+    "alignment_text": "gahana paarawal shuwar sellamedi wadinne nae magen kanaawata"
+  },
+  {
+    "id": 36,
+    "section": "section10",
+    "section_line": 0,
+    "language": "si",
+    "text": "පෙන්නන්න පුළුවන් නම් එකක්වත්",
+    "alignment_text": "pennanna puluwan nam ekakwath"
+  },
+  {
+    "id": 37,
+    "section": "section10",
+    "section_line": 1,
+    "language": "si",
+    "text": "මගෙන් වැරදිලාවත් වෙලා නෑ එකක්වත් ඒම",
+    "alignment_text": "magen waeradilaawath welaa nae ekakwath ema"
+  },
+  {
+    "id": 38,
+    "section": "section10",
+    "section_line": 2,
+    "language": "si",
+    "text": "ඊයේ ගැන ආයෙ හිතන් නෑ මොකද",
+    "alignment_text": "eeye gaena aaye hithan nae mokada"
+  },
+  {
+    "id": 39,
+    "section": "section10",
+    "section_line": 3,
+    "language": "si",
+    "text": "ගහගෙන යන හින්දා හෙටත් මං ගේම",
+    "alignment_text": "gahagena yana hindaa hetath mang gema"
+  },
+  {
+    "id": 40,
+    "section": "section11",
+    "section_line": 0,
+    "language": "si",
+    "text": "දුර නම් දුර ළඟ නම් ළඟ පිකප්",
+    "alignment_text": "dura nam dura langa nam langa pikap"
+  },
+  {
+    "id": 41,
+    "section": "section11",
+    "section_line": 1,
+    "language": "si",
+    "text": "ගැටෙන්න නම් එන්නේ නෑ හැරෙන්නවත් ඉඩක්",
+    "alignment_text": "gaetenna nam enne nae haerennawath idak"
+  },
+  {
+    "id": 42,
+    "section": "section11",
+    "section_line": 2,
+    "language": "si",
+    "text": "හැප්පෙනව නම් හැප්පිලා බලමු",
+    "alignment_text": "haeppenawa nam haeppilaa balamu"
+  },
+  {
+    "id": 43,
+    "section": "section11",
+    "section_line": 3,
+    "language": "si",
+    "text": "එන එකෙක් වරෙන් මැරෙන්නම හිතන්",
+    "alignment_text": "ena ekek waren maerennama hithan"
+  },
+  {
+    "id": 44,
+    "section": "section12",
+    "section_line": 0,
+    "language": "si",
+    "text": "සද්දන්ත වචනෙන් හැඩ දාලා",
+    "alignment_text": "saddantha wachanen haeda daalaa"
+  },
+  {
+    "id": 45,
+    "section": "section12",
+    "section_line": 1,
+    "language": "si",
+    "text": "වදන් පද්දන්නද වැඩ දාලා",
+    "alignment_text": "wadan paddannada waeda daalaa"
+  },
+  {
+    "id": 46,
+    "section": "section12",
+    "section_line": 2,
+    "language": "si",
+    "text": "මොකද සේරමලා ඇද ගහලා",
+    "alignment_text": "mokada seramalaa aeda gahalaa"
+  },
+  {
+    "id": 47,
+    "section": "section12",
+    "section_line": 3,
+    "language": "si",
+    "text": "යාළු මං තදින් ගලන් යන සැඩ පාරක්",
+    "alignment_text": "yaalu mang thadin galan yana saeda paarak"
+  },
+  {
+    "id": 48,
+    "section": "section13",
+    "section_line": 0,
+    "language": "si",
+    "text": "එකට අහු වෙන අහුවෙන උන් ගිලෙයි",
+    "alignment_text": "ekata ahu wena ahuwena un gileyi"
+  },
+  {
+    "id": 49,
+    "section": "section13",
+    "section_line": 1,
+    "language": "si",
+    "text": "ගොදුර කොටු වෙන්නේ ගොඩක් හොඳ ඉවෙයි",
+    "alignment_text": "godura kotu wenne godak honda iweyi"
+  },
+  {
+    "id": 50,
+    "section": "section13",
+    "section_line": 2,
+    "language": "si",
+    "text": "සෙල්ලමෙ තදයෝ රොදක් මගේ පිළෙයි",
+    "alignment_text": "sellame thadayo rodak mage pileyi"
+  },
+  {
+    "id": 51,
+    "section": "section13",
+    "section_line": 3,
+    "language": "si",
+    "text": "උඹත් ගියොත් වැඩියෙන් කෝමත් තටු ඉරෙයි",
+    "alignment_text": "umbath giyoth waediyen komath thatu ireyi"
+  },
+  {
+    "id": 52,
+    "section": "section14",
+    "section_line": 0,
+    "language": "si",
+    "text": "ඇද්දට පහළට බර දාන් මං නෙවෙයි",
+    "alignment_text": "aeddata pahalata bara daan mang neweyi"
+  },
+  {
+    "id": 53,
+    "section": "section14",
+    "section_line": 1,
+    "language": "si",
+    "text": "ඇදපු උන් වැටුනේ බඩගාන්",
+    "alignment_text": "aedapu un waetune badagaan"
+  },
+  {
+    "id": 54,
+    "section": "section14",
+    "section_line": 2,
+    "language": "si",
+    "text": "එහෙම උන් ආවොත් කට ගහන්",
+    "alignment_text": "ehema un aawoth kata gahan"
+  },
+  {
+    "id": 55,
+    "section": "section14",
+    "section_line": 3,
+    "language": "si",
+    "text": "ගෙදර උන්ව අඩෝනවා වලදාන් උඹව",
+    "alignment_text": "gedara unwa adonawaa waladaan umbawa"
+  },
+  {
+    "id": 56,
+    "section": "hook_repeat1",
+    "section_line": 0,
+    "language": "si",
+    "text": "හරි වෙලාවට මේ කුණාටුව එයි",
+    "alignment_text": "hari welaawata me kunaatuwa eyi"
+  },
+  {
+    "id": 57,
+    "section": "hook_repeat1",
+    "section_line": 1,
+    "language": "si",
+    "text": "කෙරුවට දෛවේ යනවා මං උඩටම",
+    "alignment_text": "keruwata daiwe yanawaa mang udatama"
+  },
+  {
+    "id": 58,
+    "section": "hook_repeat1",
+    "section_line": 2,
+    "language": "si",
+    "text": "කතාවට මං ගාවට එයි",
+    "alignment_text": "kathaawata mang gaawata eyi"
+  },
+  {
+    "id": 59,
+    "section": "hook_repeat1",
+    "section_line": 3,
+    "language": "si",
+    "text": "බාධක ආවත් යනවමයි උඩටම",
+    "alignment_text": "baadhaka aawath yanawamayi udatama"
+  },
+  {
+    "id": 60,
+    "section": "hook_repeat1",
+    "section_line": 4,
+    "language": "si",
+    "text": "කතාවට විහිළු ලාවට එයි",
+    "alignment_text": "kathaawata wihilu laawata eyi"
+  },
+  {
+    "id": 61,
+    "section": "hook_repeat1",
+    "section_line": 5,
+    "language": "si",
+    "text": "යන්න වෙන්නේ පැටලෙන්න එන්න උඹටම",
+    "alignment_text": "yanna wenne paetalenna enna umbatama"
+  },
+  {
+    "id": 62,
+    "section": "hook_repeat1",
+    "section_line": 6,
+    "language": "si",
+    "text": "සද්දෙ දාගෙන බුරාගෙන එයි",
+    "alignment_text": "sadde daagena buraagena eyi"
+  },
+  {
+    "id": 63,
+    "section": "hook_repeat1",
+    "section_line": 7,
+    "language": "si",
+    "text": "බෙහෙත් තියෙනවා ඕනෙම උණකට",
+    "alignment_text": "beheth thiyenawaa onema unakata"
+  },
+  {
+    "id": 64,
+    "section": "hook_repeat2",
+    "section_line": 0,
+    "language": "si",
+    "text": "හරි වෙලාවට මේ කුණාටුව එයි",
+    "alignment_text": "hari welaawata me kunaatuwa eyi"
+  },
+  {
+    "id": 65,
+    "section": "hook_repeat2",
+    "section_line": 1,
+    "language": "si",
+    "text": "කෙරුවට දෛවේ යනවා මං උඩටම",
+    "alignment_text": "keruwata daiwe yanawaa mang udatama"
+  },
+  {
+    "id": 66,
+    "section": "hook_repeat2",
+    "section_line": 2,
+    "language": "si",
+    "text": "කතාවට මං ගාවට එයි",
+    "alignment_text": "kathaawata mang gaawata eyi"
+  },
+  {
+    "id": 67,
+    "section": "hook_repeat2",
+    "section_line": 3,
+    "language": "si",
+    "text": "බාධක ආවත් යනවමයි උඩටම",
+    "alignment_text": "baadhaka aawath yanawamayi udatama"
+  },
+  {
+    "id": 68,
+    "section": "hook_repeat2",
+    "section_line": 4,
+    "language": "si",
+    "text": "කතාවට විහිළු ලාවට එයි",
+    "alignment_text": "kathaawata wihilu laawata eyi"
+  },
+  {
+    "id": 69,
+    "section": "hook_repeat2",
+    "section_line": 5,
+    "language": "si",
+    "text": "යන්න වෙන්නේ පැටලෙන්න එන්න උඹටම",
+    "alignment_text": "yanna wenne paetalenna enna umbatama"
+  },
+  {
+    "id": 70,
+    "section": "hook_repeat2",
+    "section_line": 6,
+    "language": "si",
+    "text": "සද්දෙ දාගෙන බුරාගෙන එයි",
+    "alignment_text": "sadde daagena buraagena eyi"
+  },
+  {
+    "id": 71,
+    "section": "hook_repeat2",
+    "section_line": 7,
+    "language": "si",
+    "text": "බෙහෙත් තියෙනවා ඕනෙම උණකට",
+    "alignment_text": "beheth thiyenawaa onema unakata"
+  }
+]

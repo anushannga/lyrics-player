@@ -1100,5 +1100,479 @@
         "sha256": "4ac8130e92fd4f72f19bb260d0d6a004643fccc19ac3b1290132f5dfac6e7290"
       }
     ]
+  },
+  {
+    "song": "double-eke",
+    "source_project": "DoubleEkeLCD",
+    "original_source_files": [
+      {
+        "file": "player.py",
+        "sha256": "b93a989303b9cccc48c870d23835c6b8823e70852150cb59ac0a78af0ce078de"
+      },
+      {
+        "file": "player_settings.json",
+        "sha256": "c5d787e6c57becf2254c63fb38b854ff65f79c20e1631a13eeecb3191c5a75dd"
+      },
+      {
+        "file": "README.md",
+        "sha256": "35b3ff86c77db8d604bc4574c76f1229eddeeeedec9c55b34736e4d34ca0a45a"
+      },
+      {
+        "file": "lyrics.json",
+        "sha256": "306e9578e9c753924b64ea548fad10bb0ec7323a6ce96f65f9aeb9e489525706"
+      },
+      {
+        "file": "lyrics_unicode.txt",
+        "sha256": "8f3b509bf285009a752fbf7ac0fe2d74f8b8a9fbc1da1c77ef1efa775e4f2c94"
+      },
+      {
+        "file": "alignment.json",
+        "sha256": "d511ccc22517376f947298d4dfbbdad677aa4816cd223cad06b8c55bfa1987d6"
+      },
+      {
+        "file": "alignment_windows.json",
+        "sha256": "d01a7c319ab03943b9b67b938a8986c0b495642590706b39a836c29b81ceb60d"
+      },
+      {
+        "file": "frames.bin",
+        "sha256": "e9d70030f6b40128ff1df0c00c91a3904aabdcc4469b25e80e8da91f60374c76"
+      },
+      {
+        "file": "manifest.json",
+        "sha256": "b242ae5f30028a09715ea5bd2adc94f4137b456161aa719f81743a1cd49be566"
+      },
+      {
+        "file": "timings.json",
+        "sha256": "6a753c67172ce5bcbdc6c29446a7c4fff7b470febe9d0d72f01034f0a026dbcd"
+      },
+      {
+        "file": "sustain_marks.json",
+        "sha256": "ff0d47ac4b78e6a2be701d650031c126003fad910eb61d91930b0911b0f40170"
+      },
+      {
+        "file": "sustain_selection.json",
+        "sha256": "c9319e556f93d2b7c862cb6218628b04fa3cd47ac58af866fc5ee82d43978517"
+      },
+      {
+        "file": "tools/build_display.py",
+        "sha256": "eb2364c40815df2a459ea39c96cbbde8e60ef7bebf36c17b1c7560ab892a36f0"
+      },
+      {
+        "file": "tools/audio_clock.m",
+        "sha256": "66c5894dd73b7b8df8b2f62adf0ebe6ec823a0559eb8c6f8e9bbff0a61fadd4a"
+      },
+      {
+        "file": "tools/pixel_format.py",
+        "sha256": "32c5da149058041af7d5d76196cbfd96c04ac2928dfd5ef9c12c1ba862d3e794"
+      },
+      {
+        "file": "song.json",
+        "sha256": "2023dddef10a3735f052482d917bca72f9496abd7f926c1100db12860f00d155"
+      },
+      {
+        "file": "validation.json",
+        "sha256": "7ebdf2b1b2806fe1f3a2b1438199a710266a7d7f8fa30e45a3ba353c1c6bd4b1"
+      },
+      {
+        "file": "lyrics_performed.txt",
+        "sha256": "578ff3524b7b5394a9030685580eee607bfb683f6033b76b71109912ef2a4bf8"
+      },
+      {
+        "file": "tools/prepare_lyrics.py",
+        "sha256": "5ab3ad67bcc37abecd9423cebfba859821579852f91ef3fed98aca9be0a27351"
+      },
+      {
+        "file": "tools/select_sustains.py",
+        "sha256": "7aaec199df2d8b1e15883d5d1e038cfa4998bf051e52707797db14529f65c2c2"
+      },
+      {
+        "file": "assets/su_naga.ttf",
+        "sha256": "ac2d189cdd3ab59677765a4dcc559ccb0a2015dd83053dd3f9139bf2657bf36d"
+      },
+      {
+        "file": "assets/fm-rules.json",
+        "sha256": "0db6b417f198a021768bfe76996ca56affb280bcd52c1e215581b3c69db4ff70"
+      },
+      {
+        "file": "DoubleEkeLCD.ino",
+        "sha256": "4ac8130e92fd4f72f19bb260d0d6a004643fccc19ac3b1290132f5dfac6e7290"
+      }
+    ]
+  },
+  {
+    "song": "dawas-hathak",
+    "source_project": "DawasHathakLCD",
+    "original_source_files": [
+      {
+        "file": "player.py",
+        "sha256": "8d7c35f46ac8a9d4a3507c441d5137509a49d0f4cef0ea5a517615befe4446c9"
+      },
+      {
+        "file": "player_settings.json",
+        "sha256": "c5d787e6c57becf2254c63fb38b854ff65f79c20e1631a13eeecb3191c5a75dd"
+      },
+      {
+        "file": "README.md",
+        "sha256": "e0b16b4a07ad30ed45af6c2be269bd05536aad8dfb5d658c5de7aaf7a92d729f"
+      },
+      {
+        "file": "lyrics.json",
+        "sha256": "2fb9dde951310470e2e3283e462592ce0b294043615bf0d624b6c50c35046d89"
+      },
+      {
+        "file": "lyrics_unicode.txt",
+        "sha256": "2ce2b216d7f574752e96db8c9e27c4e822163688c4646c81d3d0a72d50d629e5"
+      },
+      {
+        "file": "alignment.json",
+        "sha256": "762adaba5fa375fecb8f701c5210b09d81c5dbc926a4fa6c38587a2411d73ca5"
+      },
+      {
+        "file": "alignment_windows.json",
+        "sha256": "01509519f296f99fb116164fb56c6cac3a3a43e3d2ed94f3bf9388458d0e0c5f"
+      },
+      {
+        "file": "frames.bin",
+        "sha256": "15a26875941d42e64d39a6a7e660fe5347338a85308bb3022eabfaa028884397"
+      },
+      {
+        "file": "manifest.json",
+        "sha256": "a48a548f69e326a9b7f6c69e618461baa4f918bdcec39ed6b1c4a89d009ff8e5"
+      },
+      {
+        "file": "timings.json",
+        "sha256": "55d79e3726074bbc27fb8f8f7f6915604d86a82405667505a569a0c12e5333ce"
+      },
+      {
+        "file": "sustain_marks.json",
+        "sha256": "6bde2d548338817b69b8b7377a1cb4cef9356af829fb7c30409082f3d17887fe"
+      },
+      {
+        "file": "sustain_selection.json",
+        "sha256": "cdeb073f81f9e8964a34a7b9d81b58ac38fe5adba3558ebf2fc92d985f2685c7"
+      },
+      {
+        "file": "tools/build_display.py",
+        "sha256": "e9c067b12939cb75ccad176a0c4177d8a15851d724a0847823e1ea7f962c5a2f"
+      },
+      {
+        "file": "tools/audio_clock.m",
+        "sha256": "66c5894dd73b7b8df8b2f62adf0ebe6ec823a0559eb8c6f8e9bbff0a61fadd4a"
+      },
+      {
+        "file": "tools/pixel_format.py",
+        "sha256": "32c5da149058041af7d5d76196cbfd96c04ac2928dfd5ef9c12c1ba862d3e794"
+      },
+      {
+        "file": "song.json",
+        "sha256": "146d19451f81ec51db55f4144bdf18a2cb2ba581ffbfadfbd8b81b7a0807c01a"
+      },
+      {
+        "file": "tools/prepare_lyrics.py",
+        "sha256": "81b7262cbbcb522ec32708f046c456fcefa9d4fd4a122a476248375bd88343f8"
+      },
+      {
+        "file": "tools/select_sustains.py",
+        "sha256": "ced9cdd50971042de01cbedf424703dc44d887223961cffbe342179446332b09"
+      },
+      {
+        "file": "assets/isigurul_0.ttf",
+        "sha256": "1d23be650901b60998699fd5e13b1b9ff196173c61e84bf4bda8e6ac5deb9228"
+      },
+      {
+        "file": "assets/isi-rules.json",
+        "sha256": "4fd82180469dce991ceac1a9a9d6889c1d5cf5ab2e5f542b7997f264b5ef7c0d"
+      },
+      {
+        "file": "DawasHathakLCD.ino",
+        "sha256": "4ac8130e92fd4f72f19bb260d0d6a004643fccc19ac3b1290132f5dfac6e7290"
+      }
+    ]
+  },
+  {
+    "song": "numba-kagedo",
+    "source_project": "NumbaKagedoLCD",
+    "original_source_files": [
+      {
+        "file": "player.py",
+        "sha256": "570aebc59860c10a8b44af1b2309828d8c8a7a5a13364a0d827cb244b890454c"
+      },
+      {
+        "file": "player_settings.json",
+        "sha256": "c5d787e6c57becf2254c63fb38b854ff65f79c20e1631a13eeecb3191c5a75dd"
+      },
+      {
+        "file": "README.md",
+        "sha256": "53dd427c05ca3068364a8ac5bb24ed99fc28171b9f8d361228f9010a804d14c4"
+      },
+      {
+        "file": "lyrics.json",
+        "sha256": "a97ca7fc78c171f47ed3308ee6c1f894a1c334e3a3d31181d4c48ef2ecec7ca0"
+      },
+      {
+        "file": "lyrics_unicode.txt",
+        "sha256": "b8fcee8b9111662cffd1ba68c8ead3370eab16c01a5d786dacce0207d31888f0"
+      },
+      {
+        "file": "alignment.json",
+        "sha256": "b7406cd2e3cd3f100991f162582e4ce2a21ef112efd39c6864bf6f9f9d18adb6"
+      },
+      {
+        "file": "alignment_windows.json",
+        "sha256": "65a88fb55e9bb2cc8b4f41d66192e63016b0c71937f561680bdc1715dd4fcea5"
+      },
+      {
+        "file": "frames.bin",
+        "sha256": "343a78a451d0291eea9f87f6b50f3fda35264015e9ff78db0a83818b76b5235f"
+      },
+      {
+        "file": "manifest.json",
+        "sha256": "d20e85f714fec42165ac0579307d3b231caaa4fa9446127d8e65c5df606d3916"
+      },
+      {
+        "file": "timings.json",
+        "sha256": "a36eda9c5c8490bdd467f2aceb090be4b9cf2d5dde1654da05e06007738644ca"
+      },
+      {
+        "file": "sustain_marks.json",
+        "sha256": "c670cebc101c709721fffe4db8beac1195b8c6d27972f9a701ff39df2ac7481c"
+      },
+      {
+        "file": "sustain_selection.json",
+        "sha256": "685795a647729c1eeb91260fd54e7de66101c545c25bd5252d85e068903af908"
+      },
+      {
+        "file": "tools/build_display.py",
+        "sha256": "b85288ff7af546ae07068dbaefddfd4bceeec8f8e15025c23f1f060004c00d27"
+      },
+      {
+        "file": "tools/audio_clock.m",
+        "sha256": "66c5894dd73b7b8df8b2f62adf0ebe6ec823a0559eb8c6f8e9bbff0a61fadd4a"
+      },
+      {
+        "file": "tools/pixel_format.py",
+        "sha256": "32c5da149058041af7d5d76196cbfd96c04ac2928dfd5ef9c12c1ba862d3e794"
+      },
+      {
+        "file": "song.json",
+        "sha256": "d0dc4f73d3fb9fdf5a583afb0abc810b6e7bd888cfe6f93caeb329560c109197"
+      },
+      {
+        "file": "timing_review_notes.json",
+        "sha256": "c507dcd4a9c2f1e858e70ee3a62737ddfc41bed74566c332c52d30b1a48f88f2"
+      },
+      {
+        "file": "tools/prepare_lyrics.py",
+        "sha256": "a7240b924b9da4a4002bb20c45a6320390579ee87f1bb0ba3c32dcef2be8876c"
+      },
+      {
+        "file": "tools/select_sustains.py",
+        "sha256": "667a9cfd8c41b9231643d8d52a2800a2b477e2e093568be3797d5b0a0fe77681"
+      },
+      {
+        "file": "assets/isigurul_0.ttf",
+        "sha256": "1d23be650901b60998699fd5e13b1b9ff196173c61e84bf4bda8e6ac5deb9228"
+      },
+      {
+        "file": "assets/isi-rules.json",
+        "sha256": "4fd82180469dce991ceac1a9a9d6889c1d5cf5ab2e5f542b7997f264b5ef7c0d"
+      },
+      {
+        "file": "NumbaKagedoLCD.ino",
+        "sha256": "4ac8130e92fd4f72f19bb260d0d6a004643fccc19ac3b1290132f5dfac6e7290"
+      }
+    ]
+  },
+  {
+    "song": "paata-as",
+    "source_project": "PaataAsLCD",
+    "original_source_files": [
+      {
+        "file": "player.py",
+        "sha256": "f0729ed66968b2e090b12c557109ee5e96bd30ea3387315874b9874586f1210b"
+      },
+      {
+        "file": "player_settings.json",
+        "sha256": "c5d787e6c57becf2254c63fb38b854ff65f79c20e1631a13eeecb3191c5a75dd"
+      },
+      {
+        "file": "README.md",
+        "sha256": "f276b333d5ea6a63af810a3149db93ae48afc5fa72389b6c4ac2cc3d0c87ddd3"
+      },
+      {
+        "file": "lyrics.json",
+        "sha256": "6360b59f25922740ce53315b0be8de8b5d81c40f7eeb455c9e74a43baeb7d4f2"
+      },
+      {
+        "file": "lyrics_unicode.txt",
+        "sha256": "c6a4c87682a69d5fe253f3daee0a2ed476551eef50bc37db24a987b4b0ce4aee"
+      },
+      {
+        "file": "alignment.json",
+        "sha256": "4a25af65f3429fb7524cef54949a2c41316e791297778cbc40306032b0c457f8"
+      },
+      {
+        "file": "alignment_windows.json",
+        "sha256": "93363afdd7a3cf57f5105ed4cf97b84139659f89f63c534f5ab4e821b4d4a8c4"
+      },
+      {
+        "file": "frames.bin",
+        "sha256": "411139936f62cdb5ec164c0c0649567a2d79743f4d74f761e59d53af0e3b2e7d"
+      },
+      {
+        "file": "manifest.json",
+        "sha256": "820f01490d2656ecc9e713a4b60212e83dc0937b2a990056daff0f961a9073c9"
+      },
+      {
+        "file": "timings.json",
+        "sha256": "0ad2539c209704f2bc9ae46ac19eedc180318439fe9ac0cd5bf4f85d425303bb"
+      },
+      {
+        "file": "sustain_marks.json",
+        "sha256": "3fb26d6d517d48576ad532be6f802da0916216d8376fc44de27270a5ba4143ef"
+      },
+      {
+        "file": "sustain_selection.json",
+        "sha256": "002ce211b6362d44308df6f991b7059d75750aba126e14847c63e737401aafe1"
+      },
+      {
+        "file": "tools/build_display.py",
+        "sha256": "88ec70e3fce03a4cafc2259f8924fdbb0e555c6f2ced4d8430079a3ce2987a56"
+      },
+      {
+        "file": "tools/audio_clock.m",
+        "sha256": "66c5894dd73b7b8df8b2f62adf0ebe6ec823a0559eb8c6f8e9bbff0a61fadd4a"
+      },
+      {
+        "file": "tools/pixel_format.py",
+        "sha256": "32c5da149058041af7d5d76196cbfd96c04ac2928dfd5ef9c12c1ba862d3e794"
+      },
+      {
+        "file": "song.json",
+        "sha256": "18c5083ef2923a4a1fc35327f66a29fa2072af42a444eda1961587536fc63cb4"
+      },
+      {
+        "file": "validation.json",
+        "sha256": "241058fa18fc2989bc46305a611ab5cb7580161379668d312396e94daedafd69"
+      },
+      {
+        "file": "lyrics_performed.txt",
+        "sha256": "12d01b7cb4c7dd6ab5ad1a1c541e821cb50b9373db737e497196aa31dbc28bf7"
+      },
+      {
+        "file": "tools/prepare_lyrics.py",
+        "sha256": "f640820215802747b7c23cfafc0b0f68608dac36de6db532a0ae172232c403cd"
+      },
+      {
+        "file": "tools/select_sustains.py",
+        "sha256": "786726f84cb1b8780ed432d31d13f775e2a3140c31a56d2b83476eeb81c95839"
+      },
+      {
+        "file": "assets/isigurul_0.ttf",
+        "sha256": "1d23be650901b60998699fd5e13b1b9ff196173c61e84bf4bda8e6ac5deb9228"
+      },
+      {
+        "file": "assets/isi-rules.json",
+        "sha256": "4fd82180469dce991ceac1a9a9d6889c1d5cf5ab2e5f542b7997f264b5ef7c0d"
+      },
+      {
+        "file": "PaataAsLCD.ino",
+        "sha256": "4ac8130e92fd4f72f19bb260d0d6a004643fccc19ac3b1290132f5dfac6e7290"
+      }
+    ]
+  },
+  {
+    "song": "numba-tharam",
+    "source_project": "NumbaTharamLCD",
+    "original_source_files": [
+      {
+        "file": "player.py",
+        "sha256": "39ff5c3ea0ba2bfc296a3e13746ad78de17c9f45d94c064db77b3a493e940a21"
+      },
+      {
+        "file": "player_settings.json",
+        "sha256": "c5d787e6c57becf2254c63fb38b854ff65f79c20e1631a13eeecb3191c5a75dd"
+      },
+      {
+        "file": "README.md",
+        "sha256": "1deb88211deef94ee6bf7b0fdba6726b8c5295c23641dc3579bcddb78c2b3a1e"
+      },
+      {
+        "file": "lyrics.json",
+        "sha256": "6508c3fd6925b2bba4381f7196394e0bd78b79d0c1bde2285944b670f88e39dc"
+      },
+      {
+        "file": "lyrics_unicode.txt",
+        "sha256": "42cb1e2b326d1f6dfd51a9f56f0eb934752a7599c6fef742ea9f5460dadcb3a8"
+      },
+      {
+        "file": "alignment.json",
+        "sha256": "88eeb09335c93900e757020fe6013ba46bc3f012a1d5c725663b0ba5f3602bdf"
+      },
+      {
+        "file": "alignment_windows.json",
+        "sha256": "47d840181b386178164baef6f17466638621e9dceb1423086310ad92ee612da4"
+      },
+      {
+        "file": "frames.bin",
+        "sha256": "20016dd9c30c0d67fb67ed1af099cab04948ebc5556d6eadf8b3a955c0bcd9b5"
+      },
+      {
+        "file": "manifest.json",
+        "sha256": "2be42b2337a0d0f9db3c0f1b95e4a46feb90aeec8f5682b7ddcf13981d69d68a"
+      },
+      {
+        "file": "timings.json",
+        "sha256": "cc3da76f5d0e2751bf81612a9c81eb1dc7cfc88d688056579eacc4635abf1748"
+      },
+      {
+        "file": "sustain_marks.json",
+        "sha256": "ceaae8dec2be41eb4fc7f35177e263e173314dd3c87af759bab7064a17d76ef4"
+      },
+      {
+        "file": "sustain_selection.json",
+        "sha256": "2624e90f6ae424eaa8927f2b3cd837e63a3bdfdf6cf966f4ef6bc592989dc522"
+      },
+      {
+        "file": "tools/build_display.py",
+        "sha256": "fbff00807e4626d302e003bdc92d532711cc81f11caedb996642314b4f457769"
+      },
+      {
+        "file": "tools/audio_clock.m",
+        "sha256": "66c5894dd73b7b8df8b2f62adf0ebe6ec823a0559eb8c6f8e9bbff0a61fadd4a"
+      },
+      {
+        "file": "tools/pixel_format.py",
+        "sha256": "32c5da149058041af7d5d76196cbfd96c04ac2928dfd5ef9c12c1ba862d3e794"
+      },
+      {
+        "file": "song.json",
+        "sha256": "c66a473bc88d04e9e6dd95c255bc006fc86f21d2619cc04d771c23a6ee2997cf"
+      },
+      {
+        "file": "validation.json",
+        "sha256": "6d8e51d1c48283cd6d02255f61f0b19d323de5bde744cd7552d5e07a1e239c77"
+      },
+      {
+        "file": "tools/prepare_lyrics.py",
+        "sha256": "3884817d08b1294f8ad01570467e408666e6b420f50e6869e4719d7a749ebb23"
+      },
+      {
+        "file": "tools/select_sustains.py",
+        "sha256": "786726f84cb1b8780ed432d31d13f775e2a3140c31a56d2b83476eeb81c95839"
+      },
+      {
+        "file": "assets/isigurul_0.ttf",
+        "sha256": "1d23be650901b60998699fd5e13b1b9ff196173c61e84bf4bda8e6ac5deb9228"
+      },
+      {
+        "file": "assets/isi-rules.json",
+        "sha256": "4fd82180469dce991ceac1a9a9d6889c1d5cf5ab2e5f542b7997f264b5ef7c0d"
+      },
+      {
+        "file": "NumbaTharamLCD.ino",
+        "sha256": "4ac8130e92fd4f72f19bb260d0d6a004643fccc19ac3b1290132f5dfac6e7290"
+      }
+    ]
   }
 ]

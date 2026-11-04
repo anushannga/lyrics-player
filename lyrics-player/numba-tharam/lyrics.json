@@ -1,0 +1,194 @@
+[
+  {
+    "id": 0,
+    "section": "hook1",
+    "section_line": 0,
+    "language": "si",
+    "text": "නුඹ තරම් කවුරුද ආදරේ",
+    "alignment_text": "numba tharam kawuruda aadare"
+  },
+  {
+    "id": 1,
+    "section": "hook1",
+    "section_line": 1,
+    "language": "si",
+    "text": "පැතුවාට අදහන්න බෑ වගේ",
+    "alignment_text": "paethuwaata adahanna bae wage"
+  },
+  {
+    "id": 2,
+    "section": "hook1",
+    "section_line": 2,
+    "language": "si",
+    "text": "ඇරඹුමත් නුඹමයි ජීවිතේ",
+    "alignment_text": "aerambumath numbamayi jeewithe"
+  },
+  {
+    "id": 3,
+    "section": "hook1",
+    "section_line": 3,
+    "language": "si",
+    "text": "නුඹ ඉන්න මා ලගින්",
+    "alignment_text": "numba inna maa langin"
+  },
+  {
+    "id": 4,
+    "section": "hook1",
+    "section_line": 4,
+    "language": "si",
+    "text": "සුසුමන් සරේ මගේ හුස්මවී",
+    "alignment_text": "susuman sare mage husmawee"
+  },
+  {
+    "id": 5,
+    "section": "hook1",
+    "section_line": 5,
+    "language": "si",
+    "text": "මගේ ජීවිතේ අලුත් පිටුවක් පෙරළුනා",
+    "alignment_text": "mage jeewithe aluth pituwak peralunaa"
+  },
+  {
+    "id": 6,
+    "section": "hook1",
+    "section_line": 6,
+    "language": "si",
+    "text": "මේ ආදරේ අරුත නුඹ බව වැටහුනා",
+    "alignment_text": "me aadare arutha numba bawa waetahunaa"
+  },
+  {
+    "id": 7,
+    "section": "hook1",
+    "section_line": 7,
+    "language": "si",
+    "text": "මා හා බැදී ආදරේ තවරනා",
+    "alignment_text": "maa haa baendee aadare thawaranaa"
+  },
+  {
+    "id": 8,
+    "section": "hook1",
+    "section_line": 8,
+    "language": "si",
+    "text": "ආදරේ මා සනසනා",
+    "alignment_text": "aadare maa sanasanaa"
+  },
+  {
+    "id": 9,
+    "section": "verse",
+    "section_line": 0,
+    "language": "si",
+    "text": "ආවාට මා හා සරා",
+    "alignment_text": "aawaata maa haa saraa"
+  },
+  {
+    "id": 10,
+    "section": "verse",
+    "section_line": 1,
+    "language": "si",
+    "text": "අතැරෙන්න නම් දෙන්න එපා",
+    "alignment_text": "athaerenna nam denna epaa"
+  },
+  {
+    "id": 11,
+    "section": "verse",
+    "section_line": 2,
+    "language": "si",
+    "text": "හිනැහෙන්න ඕනේ නුඹේ සිනා",
+    "alignment_text": "hinaehenna one numbe sinaa"
+  },
+  {
+    "id": 12,
+    "section": "verse",
+    "section_line": 3,
+    "language": "si",
+    "text": "හිත හොයන දේ ඒ නිසා",
+    "alignment_text": "hitha hoyana de e nisaa"
+  },
+  {
+    "id": 13,
+    "section": "verse",
+    "section_line": 4,
+    "language": "si",
+    "text": "මේ භවයේ මාගේ වෙලා",
+    "alignment_text": "me bhawaye maage welaa"
+  },
+  {
+    "id": 14,
+    "section": "verse",
+    "section_line": 5,
+    "language": "si",
+    "text": "මතු සසරේ ඉමු ලංවෙලා",
+    "alignment_text": "mathu sasare imu lanwelaa"
+  },
+  {
+    "id": 15,
+    "section": "hook2",
+    "section_line": 0,
+    "language": "si",
+    "text": "නුඹ තරම් කවුරුද ආදරේ",
+    "alignment_text": "numba tharam kawuruda aadare"
+  },
+  {
+    "id": 16,
+    "section": "hook2",
+    "section_line": 1,
+    "language": "si",
+    "text": "පැතුවාට අදහන්න බෑ වගේ",
+    "alignment_text": "paethuwaata adahanna bae wage"
+  },
+  {
+    "id": 17,
+    "section": "hook2",
+    "section_line": 2,
+    "language": "si",
+    "text": "ඇරඹුමත් නුඹමයි ජීවිතේ",
+    "alignment_text": "aerambumath numbamayi jeewithe"
+  },
+  {
+    "id": 18,
+    "section": "hook2",
+    "section_line": 3,
+    "language": "si",
+    "text": "නුඹ ඉන්න මා ලගින්",
+    "alignment_text": "numba inna maa langin"
+  },
+  {
+    "id": 19,
+    "section": "hook2",
+    "section_line": 4,
+    "language": "si",
+    "text": "සුසුමන් සරේ මගේ හුස්මවී",
+    "alignment_text": "susuman sare mage husmawee"
+  },
+  {
+    "id": 20,
+    "section": "hook2",
+    "section_line": 5,
+    "language": "si",
+    "text": "මගේ ජීවිතේ අලුත් පිටුවක් පෙරළුනා",
+    "alignment_text": "mage jeewithe aluth pituwak peralunaa"
+  },
+  {
+    "id": 21,
+    "section": "hook2",
+    "section_line": 6,
+    "language": "si",
+    "text": "මේ ආදරේ අරුත නුඹ බව වැටහුනා",
+    "alignment_text": "me aadare arutha numba bawa waetahunaa"
+  },
+  {
+    "id": 22,
+    "section": "hook2",
+    "section_line": 7,
+    "language": "si",
+    "text": "මා හා බැදී ආදරේ තවරනා",
+    "alignment_text": "maa haa baendee aadare thawaranaa"
+  },
+  {
+    "id": 23,
+    "section": "hook2",
+    "section_line": 8,
+    "language": "si",
+    "text": "ආදරේ මා සනසනා",
+    "alignment_text": "aadare maa sanasanaa"
+  }
+]

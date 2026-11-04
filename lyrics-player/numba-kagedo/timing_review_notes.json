@@ -1,0 +1,10 @@
+{
+  "missing_repeated_postchoruses_added": true,
+  "fallbacks": [
+    {
+      "line": 15,
+      "method": "Evenly spaced display fallback for collapsed model timestamps; needs listening feedback"
+    }
+  ],
+  "listening_confirmed": false
+}

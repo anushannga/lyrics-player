@@ -1,0 +1,103 @@
+{
+  "selection": "Long phrase-final isolated vocals; punctuation alone does not add dots; not listening-confirmed",
+  "words": [
+    {
+      "line": 3,
+      "word": 1,
+      "text": "දිනගෙව්වා",
+      "duration": 1.7,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 6,
+      "word": 5,
+      "text": "සිතෙනවා",
+      "duration": 2.56,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 7,
+      "word": 5,
+      "text": "ගෙවේනවා",
+      "duration": 30.879,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 9,
+      "word": 1,
+      "text": "කෙසේද",
+      "duration": 1.659,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 9,
+      "word": 2,
+      "text": "පවසන්",
+      "duration": 1.38,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 14,
+      "word": 4,
+      "text": "කියා",
+      "duration": 2.42,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 16,
+      "word": 3,
+      "text": "වැරදුනා",
+      "duration": 1.31,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 17,
+      "word": 3,
+      "text": "සොයනවා",
+      "duration": 3.94,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 18,
+      "word": 4,
+      "text": "දැනෙනවා",
+      "duration": 2.52,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 19,
+      "word": 3,
+      "text": "වගේනම්",
+      "duration": 1.719,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 20,
+      "word": 5,
+      "text": "සිතෙනවා",
+      "duration": 2.58,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 21,
+      "word": 5,
+      "text": "ගෙවේනවා",
+      "duration": 4.419,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 22,
+      "word": 5,
+      "text": "සොයනවා",
+      "duration": 2.58,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 23,
+      "word": 6,
+      "text": "ලියනවා",
+      "duration": 3.06,
+      "basis": "isolated vocal duration; sustained content word"
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+[
+  {
+    "id": 0,
+    "section": "verse1",
+    "section_line": 0,
+    "language": "si",
+    "text": "අකාලෙට පිපෙනා රෑ මනමාලි වගේ",
+    "alignment_text": "akaaleta pipenaa rae manamaali wage"
+  },
+  {
+    "id": 1,
+    "section": "verse1",
+    "section_line": 1,
+    "language": "si",
+    "text": "ඔබ ලග සිටියා",
+    "alignment_text": "oba langa sitiyaa"
+  },
+  {
+    "id": 2,
+    "section": "verse1",
+    "section_line": 2,
+    "language": "si",
+    "text": "කියන්නට කතා ගොඩක් මගේ හිතේ තියන්",
+    "alignment_text": "kiyannata kathaa godak mage hithe thiyan"
+  },
+  {
+    "id": 3,
+    "section": "verse1",
+    "section_line": 3,
+    "language": "si",
+    "text": "මම දිනගෙව්වා",
+    "alignment_text": "mama dinagewwaa"
+  },
+  {
+    "id": 4,
+    "section": "verse1",
+    "section_line": 4,
+    "language": "si",
+    "text": "ඔබ එය නොදනී වගේ නම්",
+    "alignment_text": "oba eya nodanee wage nam"
+  },
+  {
+    "id": 5,
+    "section": "verse1",
+    "section_line": 5,
+    "language": "si",
+    "text": "වෙන්වී යන්නේ මාගෙන්",
+    "alignment_text": "wenwee yanne maagen"
+  },
+  {
+    "id": 6,
+    "section": "verse1",
+    "section_line": 6,
+    "language": "si",
+    "text": "යලි නාවටත් කාරි නෑ කියා සිතෙනවා",
+    "alignment_text": "yali naawatath kaari nae kiyaa sithenawaa"
+  },
+  {
+    "id": 7,
+    "section": "verse1",
+    "section_line": 7,
+    "language": "si",
+    "text": "තව බෑ දරාගන්න කාලෙ මගෙ ගෙවේනවා",
+    "alignment_text": "thawa bae daraaganna kaale mage gewenawaa"
+  },
+  {
+    "id": 8,
+    "section": "bridge",
+    "section_line": 0,
+    "language": "si",
+    "text": "නුබ නොමැති අඩුව මං තව කෙනෙක් ගෙන් දැන්",
+    "alignment_text": "nuba nomaethi aduwa man thawa kenek gen daen"
+  },
+  {
+    "id": 9,
+    "section": "bridge",
+    "section_line": 1,
+    "language": "si",
+    "text": "පියවන්නේ කෙසේද පවසන්",
+    "alignment_text": "piyawanne keseda pawasan"
+  },
+  {
+    "id": 10,
+    "section": "bridge",
+    "section_line": 2,
+    "language": "si",
+    "text": "කියා ගන්න බැරි තරමට මගේ හිත රිදවන්",
+    "alignment_text": "kiyaa ganna baeri tharamata mage hitha ridawan"
+  },
+  {
+    "id": 11,
+    "section": "bridge",
+    "section_line": 3,
+    "language": "si",
+    "text": "මම ඉන්නේ කෙසේද විමසන්",
+    "alignment_text": "mama inne keseda wimasan"
+  },
+  {
+    "id": 12,
+    "section": "bridge",
+    "section_line": 4,
+    "language": "si",
+    "text": "තේරුමක් නැතැයි වැටහුනා",
+    "alignment_text": "therumak naethayi waetahunaa"
+  },
+  {
+    "id": 13,
+    "section": "bridge",
+    "section_line": 5,
+    "language": "si",
+    "text": "වරද මා ලගයි දන්නවා",
+    "alignment_text": "warada maa langayi dannawaa"
+  },
+  {
+    "id": 14,
+    "section": "bridge",
+    "section_line": 6,
+    "language": "si",
+    "text": "සොයමි තවම කවුරුදෝ මා කියා",
+    "alignment_text": "soyami thawama kawurudo maa kiyaa"
+  },
+  {
+    "id": 15,
+    "section": "bridge",
+    "section_line": 7,
+    "language": "si",
+    "text": "සතුට නුබ ලගින් සෙවු නිසා",
+    "alignment_text": "sathuta nuba langin sewu nisaa"
+  },
+  {
+    "id": 16,
+    "section": "bridge",
+    "section_line": 8,
+    "language": "si",
+    "text": "සිටි නමුත් මටත් වැරදුනා",
+    "alignment_text": "siti namuth matath waeradunaa"
+  },
+  {
+    "id": 17,
+    "section": "bridge",
+    "section_line": 9,
+    "language": "si",
+    "text": "අතරමංව මං මාව සොයනවා",
+    "alignment_text": "atharamanwa man maawa soyanawaa"
+  },
+  {
+    "id": 18,
+    "section": "bridge",
+    "section_line": 10,
+    "language": "si",
+    "text": "නුබ තවම ඉන්නවා වගෙ දැනෙනවා",
+    "alignment_text": "nuba thawama innawaa wage daenenawaa"
+  },
+  {
+    "id": 19,
+    "section": "outro",
+    "section_line": 0,
+    "language": "si",
+    "text": "ඔබ එය නොදනී වගේනම් වෙන්වී යන්නේ මාගෙන්",
+    "alignment_text": "oba eya nodanee wagenam wenwee yanne maagen"
+  },
+  {
+    "id": 20,
+    "section": "outro",
+    "section_line": 1,
+    "language": "si",
+    "text": "යලි නාවටත් කාරි නෑ කියා සිතෙනවා",
+    "alignment_text": "yali naawatath kaari nae kiyaa sithenawaa"
+  },
+  {
+    "id": 21,
+    "section": "outro",
+    "section_line": 2,
+    "language": "si",
+    "text": "තව බෑ දරාගන්න කාලෙ මගෙ ගෙවේනවා",
+    "alignment_text": "thawa bae daraaganna kaale mage gewenawaa"
+  },
+  {
+    "id": 22,
+    "section": "outro",
+    "section_line": 3,
+    "language": "si",
+    "text": "මං තාම නුඹ ගාව ආලකම් සොයනවා",
+    "alignment_text": "man thaama numba gaawa aalakam soyanawaa"
+  },
+  {
+    "id": 23,
+    "section": "outro",
+    "section_line": 4,
+    "language": "si",
+    "text": "නුඹ නොඑන බව දැනම හීන පොත ලියනවා",
+    "alignment_text": "numba noena bawa daenama heena potha liyanawaa"
+  }
+]

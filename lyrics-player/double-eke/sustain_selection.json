@@ -1,0 +1,511 @@
+{
+  "words": [],
+  "evidence": [
+    {
+      "line": 0,
+      "word": 5,
+      "text": "ලෙවල්",
+      "duration": 0.32,
+      "selected": false
+    },
+    {
+      "line": 1,
+      "word": 4,
+      "text": "දේවල්",
+      "duration": 0.18,
+      "selected": false
+    },
+    {
+      "line": 2,
+      "word": 3,
+      "text": "කරනවා",
+      "duration": 0.68,
+      "selected": false
+    },
+    {
+      "line": 3,
+      "word": 6,
+      "text": "ගෙවල්",
+      "duration": 0.48,
+      "selected": false
+    },
+    {
+      "line": 4,
+      "word": 3,
+      "text": "ඉඳලාම",
+      "duration": 0.82,
+      "selected": false
+    },
+    {
+      "line": 5,
+      "word": 2,
+      "text": "මැඩියෙක්",
+      "duration": 0.64,
+      "selected": false
+    },
+    {
+      "line": 6,
+      "word": 4,
+      "text": "වැඩියෙන්",
+      "duration": 0.44,
+      "selected": false
+    },
+    {
+      "line": 7,
+      "word": 3,
+      "text": "හැලියෙන්",
+      "duration": 0.52,
+      "selected": false
+    },
+    {
+      "line": 8,
+      "word": 5,
+      "text": "වැඩියෙන්",
+      "duration": 0.42,
+      "selected": false
+    },
+    {
+      "line": 9,
+      "word": 3,
+      "text": "දාන්",
+      "duration": 0.36,
+      "selected": false
+    },
+    {
+      "line": 10,
+      "word": 4,
+      "text": "බං",
+      "duration": 0.2,
+      "selected": false
+    },
+    {
+      "line": 11,
+      "word": 4,
+      "text": "මං",
+      "duration": 0.2,
+      "selected": false
+    },
+    {
+      "line": 12,
+      "word": 4,
+      "text": "මං",
+      "duration": 0.22,
+      "selected": false
+    },
+    {
+      "line": 13,
+      "word": 3,
+      "text": "සාන්නේ",
+      "duration": 0.6,
+      "selected": false
+    },
+    {
+      "line": 14,
+      "word": 4,
+      "text": "දාන්නේ",
+      "duration": 0.56,
+      "selected": false
+    },
+    {
+      "line": 15,
+      "word": 3,
+      "text": "භාණ්ඩේ",
+      "duration": 0.6,
+      "selected": false
+    },
+    {
+      "line": 16,
+      "word": 4,
+      "text": "ශ්‍රීකාණ්ඩේ",
+      "duration": 0.9,
+      "selected": false
+    },
+    {
+      "line": 17,
+      "word": 4,
+      "text": "වෙලා",
+      "duration": 0.18,
+      "selected": false
+    },
+    {
+      "line": 18,
+      "word": 4,
+      "text": "වෙලා",
+      "duration": 0.58,
+      "selected": false
+    },
+    {
+      "line": 19,
+      "word": 3,
+      "text": "දෙනා",
+      "duration": 0.14,
+      "selected": false
+    },
+    {
+      "line": 20,
+      "word": 6,
+      "text": "වෙලා",
+      "duration": 0.52,
+      "selected": false
+    },
+    {
+      "line": 21,
+      "word": 3,
+      "text": "රවට්ටාං",
+      "duration": 0.72,
+      "selected": false
+    },
+    {
+      "line": 22,
+      "word": 5,
+      "text": "පවත්වාන්",
+      "duration": 0.88,
+      "selected": false
+    },
+    {
+      "line": 23,
+      "word": 4,
+      "text": "නම්",
+      "duration": 0.18,
+      "selected": false
+    },
+    {
+      "line": 24,
+      "word": 5,
+      "text": "මාව",
+      "duration": 0.4,
+      "selected": false
+    },
+    {
+      "line": 25,
+      "word": 4,
+      "text": "එයි",
+      "duration": 0.24,
+      "selected": false
+    },
+    {
+      "line": 26,
+      "word": 4,
+      "text": "උඩටම",
+      "duration": 0.4,
+      "selected": false
+    },
+    {
+      "line": 27,
+      "word": 3,
+      "text": "එයි",
+      "duration": 0.3,
+      "selected": false
+    },
+    {
+      "line": 28,
+      "word": 3,
+      "text": "උඩටම",
+      "duration": 0.2,
+      "selected": false
+    },
+    {
+      "line": 29,
+      "word": 3,
+      "text": "එයි",
+      "duration": 0.4,
+      "selected": false
+    },
+    {
+      "line": 30,
+      "word": 4,
+      "text": "උඹටම",
+      "duration": 0.46,
+      "selected": false
+    },
+    {
+      "line": 31,
+      "word": 3,
+      "text": "එයි",
+      "duration": 0.4,
+      "selected": false
+    },
+    {
+      "line": 32,
+      "word": 3,
+      "text": "උණකට",
+      "duration": 0.38,
+      "selected": false
+    },
+    {
+      "line": 33,
+      "word": 4,
+      "text": "කලාවට",
+      "duration": 0.76,
+      "selected": false
+    },
+    {
+      "line": 34,
+      "word": 5,
+      "text": "මනාවට",
+      "duration": 0.72,
+      "selected": false
+    },
+    {
+      "line": 35,
+      "word": 7,
+      "text": "කනාවට",
+      "duration": 0.74,
+      "selected": false
+    },
+    {
+      "line": 36,
+      "word": 3,
+      "text": "එකක්වත්",
+      "duration": 0.6,
+      "selected": false
+    },
+    {
+      "line": 37,
+      "word": 5,
+      "text": "ඒම",
+      "duration": 0.54,
+      "selected": false
+    },
+    {
+      "line": 38,
+      "word": 5,
+      "text": "මොකද",
+      "duration": 0.28,
+      "selected": false
+    },
+    {
+      "line": 39,
+      "word": 5,
+      "text": "ගේම",
+      "duration": 0.4,
+      "selected": false
+    },
+    {
+      "line": 40,
+      "word": 6,
+      "text": "පිකප්",
+      "duration": 0.16,
+      "selected": false
+    },
+    {
+      "line": 41,
+      "word": 5,
+      "text": "ඉඩක්",
+      "duration": 0.26,
+      "selected": false
+    },
+    {
+      "line": 42,
+      "word": 3,
+      "text": "බලමු",
+      "duration": 0.56,
+      "selected": false
+    },
+    {
+      "line": 43,
+      "word": 4,
+      "text": "හිතන්",
+      "duration": 0.44,
+      "selected": false
+    },
+    {
+      "line": 44,
+      "word": 3,
+      "text": "දාලා",
+      "duration": 0.52,
+      "selected": false
+    },
+    {
+      "line": 45,
+      "word": 3,
+      "text": "දාලා",
+      "duration": 0.58,
+      "selected": false
+    },
+    {
+      "line": 46,
+      "word": 3,
+      "text": "ගහලා",
+      "duration": 0.52,
+      "selected": false
+    },
+    {
+      "line": 47,
+      "word": 6,
+      "text": "පාරක්",
+      "duration": 0.68,
+      "selected": false
+    },
+    {
+      "line": 48,
+      "word": 5,
+      "text": "ගිලෙයි",
+      "duration": 0.4,
+      "selected": false
+    },
+    {
+      "line": 49,
+      "word": 5,
+      "text": "ඉවෙයි",
+      "duration": 0.46,
+      "selected": false
+    },
+    {
+      "line": 50,
+      "word": 4,
+      "text": "පිළෙයි",
+      "duration": 0.5,
+      "selected": false
+    },
+    {
+      "line": 51,
+      "word": 5,
+      "text": "ඉරෙයි",
+      "duration": 0.46,
+      "selected": false
+    },
+    {
+      "line": 52,
+      "word": 5,
+      "text": "නෙවෙයි",
+      "duration": 0.3,
+      "selected": false
+    },
+    {
+      "line": 53,
+      "word": 3,
+      "text": "බඩගාන්",
+      "duration": 0.86,
+      "selected": false
+    },
+    {
+      "line": 54,
+      "word": 4,
+      "text": "ගහන්",
+      "duration": 0.28,
+      "selected": false
+    },
+    {
+      "line": 55,
+      "word": 4,
+      "text": "උඹව",
+      "duration": 0.48,
+      "selected": false
+    },
+    {
+      "line": 56,
+      "word": 4,
+      "text": "එයි",
+      "duration": 0.3,
+      "selected": false
+    },
+    {
+      "line": 57,
+      "word": 4,
+      "text": "උඩටම",
+      "duration": 0.4,
+      "selected": false
+    },
+    {
+      "line": 58,
+      "word": 3,
+      "text": "එයි",
+      "duration": 0.36,
+      "selected": false
+    },
+    {
+      "line": 59,
+      "word": 3,
+      "text": "උඩටම",
+      "duration": 0.16,
+      "selected": false
+    },
+    {
+      "line": 60,
+      "word": 3,
+      "text": "එයි",
+      "duration": 0.28,
+      "selected": false
+    },
+    {
+      "line": 61,
+      "word": 4,
+      "text": "උඹටම",
+      "duration": 0.5,
+      "selected": false
+    },
+    {
+      "line": 62,
+      "word": 3,
+      "text": "එයි",
+      "duration": 0.56,
+      "selected": false
+    },
+    {
+      "line": 63,
+      "word": 3,
+      "text": "උණකට",
+      "duration": 0.02,
+      "selected": false
+    },
+    {
+      "line": 64,
+      "word": 4,
+      "text": "එයි",
+      "duration": 0.16,
+      "selected": false
+    },
+    {
+      "line": 65,
+      "word": 4,
+      "text": "උඩටම",
+      "duration": 0.44,
+      "selected": false
+    },
+    {
+      "line": 66,
+      "word": 3,
+      "text": "එයි",
+      "duration": 0.28,
+      "selected": false
+    },
+    {
+      "line": 67,
+      "word": 3,
+      "text": "උඩටම",
+      "duration": 0.18,
+      "selected": false
+    },
+    {
+      "line": 68,
+      "word": 3,
+      "text": "එයි",
+      "duration": 0.46,
+      "selected": false
+    },
+    {
+      "line": 69,
+      "word": 4,
+      "text": "උඹටම",
+      "duration": 0.5,
+      "selected": false
+    },
+    {
+      "line": 70,
+      "word": 3,
+      "text": "එයි",
+      "duration": 0.38,
+      "selected": false
+    },
+    {
+      "line": 71,
+      "word": 3,
+      "text": "උණකට",
+      "duration": 0.6,
+      "selected": false
+    }
+  ],
+  "listening_confirmed": false,
+  "method": "Conservative long final words in repeated hook; full-mix local alignment"
+}
