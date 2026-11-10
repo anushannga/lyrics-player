@@ -1,0 +1,183 @@
+{
+  "bridge_wrong_region_corrected": true,
+  "repeat_audio_verified": true,
+  "changes": [
+    {
+      "line": 20,
+      "old": 136.72,
+      "new": 150.0,
+      "basis": "Aligned to actual vocal passage rather than instrumental section"
+    },
+    {
+      "line": 21,
+      "old": 142.82,
+      "new": 156.14,
+      "basis": "Aligned to actual vocal passage rather than instrumental section"
+    },
+    {
+      "line": 22,
+      "old": 148.62,
+      "new": 159.24,
+      "basis": "Aligned to actual vocal passage rather than instrumental section"
+    },
+    {
+      "line": 23,
+      "old": 154.58,
+      "new": 164.76,
+      "basis": "Aligned to actual vocal passage rather than instrumental section"
+    },
+    {
+      "line": 24,
+      "old": 161.76,
+      "new": 168.32,
+      "basis": "Aligned to actual vocal passage rather than instrumental section"
+    },
+    {
+      "line": 25,
+      "old": 169.38,
+      "new": 171.1,
+      "basis": "Aligned to actual vocal passage rather than instrumental section"
+    },
+    {
+      "line": 26,
+      "old": 174.92,
+      "new": 176.86,
+      "basis": "Repeated audio spectral match",
+      "offset": 124.44
+    },
+    {
+      "line": 27,
+      "old": 182.12,
+      "new": 182.14,
+      "basis": "Repeated audio spectral match",
+      "offset": 124.44
+    },
+    {
+      "line": 28,
+      "old": 184.54,
+      "new": 185.1,
+      "basis": "Repeated audio spectral match",
+      "offset": 124.44
+    },
+    {
+      "line": 29,
+      "old": 186.86,
+      "new": 187.26,
+      "basis": "Repeated audio spectral match",
+      "offset": 124.44
+    },
+    {
+      "line": 30,
+      "old": 194.0,
+      "new": 193.96,
+      "basis": "Repeated audio spectral match",
+      "offset": 124.44
+    },
+    {
+      "line": 31,
+      "old": 196.84,
+      "new": 196.84,
+      "basis": "Repeated audio spectral match",
+      "offset": 124.44
+    },
+    {
+      "line": 32,
+      "old": 201.3,
+      "new": 203.62,
+      "basis": "Repeated audio spectral match",
+      "offset": 124.44
+    },
+    {
+      "line": 33,
+      "old": 206.64,
+      "new": 206.66,
+      "basis": "Repeated audio spectral match",
+      "offset": 124.44
+    },
+    {
+      "line": 34,
+      "old": 209.6,
+      "new": 209.58,
+      "basis": "Repeated audio spectral match",
+      "offset": 124.44
+    },
+    {
+      "line": 35,
+      "old": 212.62,
+      "new": 213.24,
+      "basis": "Repeated audio spectral match",
+      "offset": 124.44
+    },
+    {
+      "line": 36,
+      "old": 215.46,
+      "new": 216.1,
+      "basis": "Repeated audio spectral match",
+      "offset": 124.44
+    },
+    {
+      "line": 37,
+      "old": 218.5,
+      "new": 218.48,
+      "basis": "Repeated audio spectral match",
+      "offset": 124.44
+    },
+    {
+      "line": 38,
+      "old": 221.46,
+      "new": 221.44,
+      "basis": "Repeated audio spectral match",
+      "offset": 124.44
+    },
+    {
+      "line": 39,
+      "old": 223.9,
+      "new": 224.96,
+      "basis": "Repeated audio spectral match",
+      "offset": 124.44
+    },
+    {
+      "line": 40,
+      "old": 254.68,
+      "new": 253.24,
+      "basis": "Repeated audio spectral match",
+      "offset": 225.18
+    },
+    {
+      "line": 41,
+      "old": 257.66,
+      "new": 257.68,
+      "basis": "Repeated audio spectral match",
+      "offset": 225.18
+    },
+    {
+      "line": 42,
+      "old": 259.7,
+      "new": 259.74,
+      "basis": "Repeated audio spectral match",
+      "offset": 225.18
+    },
+    {
+      "line": 43,
+      "old": 266.54,
+      "new": 266.56,
+      "basis": "Repeated audio spectral match",
+      "offset": 225.18
+    },
+    {
+      "line": 44,
+      "old": 269.5,
+      "new": 269.48,
+      "basis": "Repeated audio spectral match",
+      "offset": 225.18
+    },
+    {
+      "line": 45,
+      "old": 271.5,
+      "new": 271.52,
+      "basis": "Repeated audio spectral match",
+      "offset": 225.18
+    }
+  ],
+  "listening_confirmed": false
+}

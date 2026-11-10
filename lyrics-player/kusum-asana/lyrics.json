@@ -1,0 +1,354 @@
+[
+  {
+    "id": 0,
+    "section": "hook1",
+    "section_line": 0,
+    "language": "si",
+    "text": "වැහි පාවී දෝ... කෝලම් නා මල් පිපිලා",
+    "alignment_text": "waehi paawee do kolam naa mal pipilaa"
+  },
+  {
+    "id": 1,
+    "section": "hook1",
+    "section_line": 1,
+    "language": "si",
+    "text": "ගං යා වේ දෝ... රෑ පිනි බාවී කියලා",
+    "alignment_text": "gang yaa we do rae pini baawee kiyalaa"
+  },
+  {
+    "id": 2,
+    "section": "hook1",
+    "section_line": 2,
+    "language": "si",
+    "text": "මෙරු ආපිට පලයන් ඉල් වැහි මාසේ නැතුවා",
+    "alignment_text": "meru aapita palayan il waehi maase naethuwaa"
+  },
+  {
+    "id": 3,
+    "section": "hook1",
+    "section_line": 3,
+    "language": "si",
+    "text": "වැහි කෝලම නටපන් මේ වැහි මාසේ...",
+    "alignment_text": "waehi kolama natapan me waehi maase"
+  },
+  {
+    "id": 4,
+    "section": "verse1",
+    "section_line": 0,
+    "language": "si",
+    "text": "නා අතු වැටිලා දැන් මයෙ ළඟ",
+    "alignment_text": "naa athu waetilaa daen maye langa"
+  },
+  {
+    "id": 5,
+    "section": "verse1",
+    "section_line": 1,
+    "language": "si",
+    "text": "දන්තුර එන රණසෙන් ඇහුණා ද",
+    "alignment_text": "danthura ena ranasen aehunaa da"
+  },
+  {
+    "id": 6,
+    "section": "verse1",
+    "section_line": 2,
+    "language": "si",
+    "text": "උඹේ පණ අරගෙන පලයන්",
+    "alignment_text": "umbe pana aragena palayan"
+  },
+  {
+    "id": 7,
+    "section": "verse1",
+    "section_line": 3,
+    "language": "si",
+    "text": "දළදා වැහි මල් නොතෙමා...",
+    "alignment_text": "daladaa waehi mal nothemaa"
+  },
+  {
+    "id": 8,
+    "section": "verse2",
+    "section_line": 0,
+    "language": "si",
+    "text": "ගං ඉවුරක මල් පූදිනකොට",
+    "alignment_text": "gang iwuraka mal puudinakota"
+  },
+  {
+    "id": 9,
+    "section": "verse2",
+    "section_line": 1,
+    "language": "si",
+    "text": "පිපි මල් ඇහුවා බිඟු නරක ද",
+    "alignment_text": "pipi mal aehuwaa bingu naraka da"
+  },
+  {
+    "id": 10,
+    "section": "verse2",
+    "section_line": 2,
+    "language": "si",
+    "text": "උඹේ පණ අරගෙන පලයන්",
+    "alignment_text": "umbe pana aragena palayan"
+  },
+  {
+    "id": 11,
+    "section": "verse2",
+    "section_line": 3,
+    "language": "si",
+    "text": "දළදා වැහි මල් නොතෙමා...",
+    "alignment_text": "daladaa waehi mal nothemaa"
+  },
+  {
+    "id": 12,
+    "section": "pre1",
+    "section_line": 0,
+    "language": "si",
+    "text": "බලන් කුසුමාසන දේවී",
+    "alignment_text": "balan kusumaasana devi"
+  },
+  {
+    "id": 13,
+    "section": "pre1",
+    "section_line": 1,
+    "language": "si",
+    "text": "වඩින් ඔය නාමල් පාරේ",
+    "alignment_text": "wadin oya naamal paare"
+  },
+  {
+    "id": 14,
+    "section": "pre1",
+    "section_line": 2,
+    "language": "si",
+    "text": "රොනුත් නැති කෙකටියා මල් දැන්",
+    "alignment_text": "ronuth naethi kekatiyaa mal daen"
+  },
+  {
+    "id": 15,
+    "section": "pre1",
+    "section_line": 3,
+    "language": "si",
+    "text": "හොරෙන් බැලුවා...",
+    "alignment_text": "horen baeluwaa"
+  },
+  {
+    "id": 16,
+    "section": "pre1_repeat",
+    "section_line": 0,
+    "language": "si",
+    "text": "බලන් කුසුමාසන දේවී",
+    "alignment_text": "balan kusumaasana devi"
+  },
+  {
+    "id": 17,
+    "section": "pre1_repeat",
+    "section_line": 1,
+    "language": "si",
+    "text": "වඩින් ඔය නාමල් පාරේ",
+    "alignment_text": "wadin oya naamal paare"
+  },
+  {
+    "id": 18,
+    "section": "pre1_repeat",
+    "section_line": 2,
+    "language": "si",
+    "text": "රොනුත් නැති කෙකටියා මල් දැන්",
+    "alignment_text": "ronuth naethi kekatiyaa mal daen"
+  },
+  {
+    "id": 19,
+    "section": "pre1_repeat",
+    "section_line": 3,
+    "language": "si",
+    "text": "හොරෙන් බැලුවා...",
+    "alignment_text": "horen baeluwaa"
+  },
+  {
+    "id": 20,
+    "section": "bridge",
+    "section_line": 0,
+    "language": "si",
+    "text": "වැහි පූදින වාරෙක මන් නුඹට ම පේ වී",
+    "alignment_text": "waehi puudina waareka man numbata ma pe wee"
+  },
+  {
+    "id": 21,
+    "section": "bridge",
+    "section_line": 1,
+    "language": "si",
+    "text": "ඉල් පොද ගණිනා තරමක් හීතල දේ වී",
+    "alignment_text": "il poda ganinaa tharamak heethala de wee"
+  },
+  {
+    "id": 22,
+    "section": "bridge",
+    "section_line": 2,
+    "language": "si",
+    "text": "නුඹ දකින දකින දින ගෙවෙන ගෙවෙන මල් පරව ගියා නටුවෙන්",
+    "alignment_text": "numba dakina dakina dina gewena gewena mal parawa giyaa natuwen"
+  },
+  {
+    "id": 23,
+    "section": "bridge",
+    "section_line": 3,
+    "language": "si",
+    "text": "නොදැන ඉකි බිඳින බිඳින හිත දවන දවන පෙති තුරුලු වෙලා...",
+    "alignment_text": "nodaena iki bindina bindina hitha dawana dawana pethi thurulu welaa"
+  },
+  {
+    "id": 24,
+    "section": "verse1_repeat",
+    "section_line": 0,
+    "language": "si",
+    "text": "නා අතු වැටිලා දැන් මයෙ ළඟ",
+    "alignment_text": "naa athu waetilaa daen maye langa"
+  },
+  {
+    "id": 25,
+    "section": "verse1_repeat",
+    "section_line": 1,
+    "language": "si",
+    "text": "දන්තුර එන රණසෙන් ඇහුණා ද",
+    "alignment_text": "danthura ena ranasen aehunaa da"
+  },
+  {
+    "id": 26,
+    "section": "verse1_repeat",
+    "section_line": 2,
+    "language": "si",
+    "text": "උඹේ පණ අරගෙන පලයන්",
+    "alignment_text": "umbe pana aragena palayan"
+  },
+  {
+    "id": 27,
+    "section": "verse1_repeat",
+    "section_line": 3,
+    "language": "si",
+    "text": "දළදා වැහි මල් නොතෙමා...",
+    "alignment_text": "daladaa waehi mal nothemaa"
+  },
+  {
+    "id": 28,
+    "section": "verse2_repeat",
+    "section_line": 0,
+    "language": "si",
+    "text": "ගං ඉවුරක මල් පූදිනකොට",
+    "alignment_text": "gang iwuraka mal puudinakota"
+  },
+  {
+    "id": 29,
+    "section": "verse2_repeat",
+    "section_line": 1,
+    "language": "si",
+    "text": "පිපි මල් ඇහුවා බිඟු නරක ද",
+    "alignment_text": "pipi mal aehuwaa bingu naraka da"
+  },
+  {
+    "id": 30,
+    "section": "verse2_repeat",
+    "section_line": 2,
+    "language": "si",
+    "text": "උඹේ පණ අරගෙන පලයන්",
+    "alignment_text": "umbe pana aragena palayan"
+  },
+  {
+    "id": 31,
+    "section": "verse2_repeat",
+    "section_line": 3,
+    "language": "si",
+    "text": "දළදා වැහි මල් නොතෙමා...",
+    "alignment_text": "daladaa waehi mal nothemaa"
+  },
+  {
+    "id": 32,
+    "section": "pre2",
+    "section_line": 0,
+    "language": "si",
+    "text": "බලන් කුසුමාසන දේවී",
+    "alignment_text": "balan kusumaasana devi"
+  },
+  {
+    "id": 33,
+    "section": "pre2",
+    "section_line": 1,
+    "language": "si",
+    "text": "වඩින් ඔය නාමල් පාරේ",
+    "alignment_text": "wadin oya naamal paare"
+  },
+  {
+    "id": 34,
+    "section": "pre2",
+    "section_line": 2,
+    "language": "si",
+    "text": "රොනුත් නැති කෙකටියා මල් දැන්",
+    "alignment_text": "ronuth naethi kekatiyaa mal daen"
+  },
+  {
+    "id": 35,
+    "section": "pre2",
+    "section_line": 3,
+    "language": "si",
+    "text": "හොරෙන් බැලුවා...",
+    "alignment_text": "horen baeluwaa"
+  },
+  {
+    "id": 36,
+    "section": "pre2_repeat",
+    "section_line": 0,
+    "language": "si",
+    "text": "බලන් කුසුමාසන දේවී",
+    "alignment_text": "balan kusumaasana devi"
+  },
+  {
+    "id": 37,
+    "section": "pre2_repeat",
+    "section_line": 1,
+    "language": "si",
+    "text": "වඩින් ඔය නාමල් පාරේ",
+    "alignment_text": "wadin oya naamal paare"
+  },
+  {
+    "id": 38,
+    "section": "pre2_repeat",
+    "section_line": 2,
+    "language": "si",
+    "text": "රොනුත් නැති කෙකටියා මල් දැන්",
+    "alignment_text": "ronuth naethi kekatiyaa mal daen"
+  },
+  {
+    "id": 39,
+    "section": "pre2_repeat",
+    "section_line": 3,
+    "language": "si",
+    "text": "හොරෙන් බැලුවා...",
+    "alignment_text": "horen baeluwaa"
+  },
+  {
+    "id": 40,
+    "section": "hook2",
+    "section_line": 0,
+    "language": "si",
+    "text": "වැහි පාවී දෝ... කෝලම් නා මල් පිපිලා",
+    "alignment_text": "waehi paawee do kolam naa mal pipilaa"
+  },
+  {
+    "id": 41,
+    "section": "hook2",
+    "section_line": 1,
+    "language": "si",
+    "text": "ගං යා වේ දෝ... රෑ පිනි බාවී කියලා",
+    "alignment_text": "gang yaa we do rae pini baawee kiyalaa"
+  },
+  {
+    "id": 42,
+    "section": "hook2",
+    "section_line": 2,
+    "language": "si",
+    "text": "මෙරු ආපිට පලයන් ඉල් වැහි මාසේ නැතුවා",
+    "alignment_text": "meru aapita palayan il waehi maase naethuwaa"
+  },
+  {
+    "id": 43,
+    "section": "hook2",
+    "section_line": 3,
+    "language": "si",
+    "text": "වැහි කෝලම නටපන් මේ වැහි මාසේ...",
+    "alignment_text": "waehi kolama natapan me waehi maase"
+  }
+]

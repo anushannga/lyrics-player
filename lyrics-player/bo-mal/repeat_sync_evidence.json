@@ -1,0 +1,26 @@
+[
+  {
+    "source": 52.42,
+    "matched": 176.86,
+    "offset": 124.44,
+    "score": 0.91
+  },
+  {
+    "source": 79.18,
+    "matched": 203.62,
+    "offset": 124.44,
+    "score": 0.9371
+  },
+  {
+    "source": 91.66,
+    "matched": 216.1,
+    "offset": 124.44,
+    "score": 0.9295
+  },
+  {
+    "source": 28.06,
+    "matched": 253.24,
+    "offset": 225.18,
+    "score": 0.8472
+  }
+]

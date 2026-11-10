@@ -1,0 +1,370 @@
+[
+  {
+    "id": 0,
+    "section": "verse1",
+    "section_line": 0,
+    "language": "si",
+    "text": "මෝසම් මල් පෙති යායේ",
+    "alignment_text": "mosam mal pethi yaaye"
+  },
+  {
+    "id": 1,
+    "section": "verse1",
+    "section_line": 1,
+    "language": "si",
+    "text": "නුබ හා ගෙවුනූ කාලේ",
+    "alignment_text": "nuba haa gewunuu kaale"
+  },
+  {
+    "id": 2,
+    "section": "verse1",
+    "section_line": 2,
+    "language": "si",
+    "text": "නුබ හා ගෙවුනූ කාලේ",
+    "alignment_text": "nuba haa gewunuu kaale"
+  },
+  {
+    "id": 3,
+    "section": "verse1",
+    "section_line": 3,
+    "language": "si",
+    "text": "තොල් පෙති අස්සෙන රිංගන්",
+    "alignment_text": "thol pethi assena ringan"
+  },
+  {
+    "id": 4,
+    "section": "verse1",
+    "section_line": 4,
+    "language": "si",
+    "text": "නුබ හා ගෙවුනූ යාමේ",
+    "alignment_text": "nuba haa gewunuu yaame"
+  },
+  {
+    "id": 5,
+    "section": "verse1",
+    "section_line": 5,
+    "language": "si",
+    "text": "නුබ හා ගෙවුනූ යාමේ",
+    "alignment_text": "nuba haa gewunuu yaame"
+  },
+  {
+    "id": 6,
+    "section": "pre1",
+    "section_line": 0,
+    "language": "si",
+    "text": "මානෙල් මල් විරසක වීලා දැන්",
+    "alignment_text": "maanel mal wirasaka weelaa daen"
+  },
+  {
+    "id": 7,
+    "section": "pre1",
+    "section_line": 1,
+    "language": "si",
+    "text": "රෑ නැවතීලා දැන්",
+    "alignment_text": "rae naewatheelaa daen"
+  },
+  {
+    "id": 8,
+    "section": "pre1",
+    "section_line": 2,
+    "language": "si",
+    "text": "නුබ හා වී",
+    "alignment_text": "nuba haa wee"
+  },
+  {
+    "id": 9,
+    "section": "pre1",
+    "section_line": 3,
+    "language": "si",
+    "text": "යායේ පිපි මල් ඈතට වී",
+    "alignment_text": "yaaye pipi mal aethata wee"
+  },
+  {
+    "id": 10,
+    "section": "pre1",
+    "section_line": 4,
+    "language": "si",
+    "text": "නුබ නොදොඩා ඇයි",
+    "alignment_text": "nuba nododaa aeyi"
+  },
+  {
+    "id": 11,
+    "section": "pre1",
+    "section_line": 5,
+    "language": "si",
+    "text": "තරහා වී",
+    "alignment_text": "tharahaa wee"
+  },
+  {
+    "id": 12,
+    "section": "hook1",
+    "section_line": 0,
+    "language": "si",
+    "text": "බෝ මල් මා රෑ වෙනා",
+    "alignment_text": "bo mal maa rae wenaa"
+  },
+  {
+    "id": 13,
+    "section": "hook1",
+    "section_line": 1,
+    "language": "si",
+    "text": "වාරේ වැහි පා වෙනා",
+    "alignment_text": "waare waehi paa wenaa"
+  },
+  {
+    "id": 14,
+    "section": "hook1",
+    "section_line": 2,
+    "language": "si",
+    "text": "ආලේ ගං දැන් හුඟක්",
+    "alignment_text": "aale gang daen hungak"
+  },
+  {
+    "id": 15,
+    "section": "hook1",
+    "section_line": 3,
+    "language": "si",
+    "text": "මෝසම් කවි ගායනා",
+    "alignment_text": "mosam kawi gaayanaa"
+  },
+  {
+    "id": 16,
+    "section": "hook1_repeat",
+    "section_line": 0,
+    "language": "si",
+    "text": "බෝ මල් මා රෑ වෙනා",
+    "alignment_text": "bo mal maa rae wenaa"
+  },
+  {
+    "id": 17,
+    "section": "hook1_repeat",
+    "section_line": 1,
+    "language": "si",
+    "text": "වාරේ වැහි පා වෙනා",
+    "alignment_text": "waare waehi paa wenaa"
+  },
+  {
+    "id": 18,
+    "section": "hook1_repeat",
+    "section_line": 2,
+    "language": "si",
+    "text": "ආලේ ගං දැන් හුඟක්",
+    "alignment_text": "aale gang daen hungak"
+  },
+  {
+    "id": 19,
+    "section": "hook1_repeat",
+    "section_line": 3,
+    "language": "si",
+    "text": "මෝසම් කවි ගායනා",
+    "alignment_text": "mosam kawi gaayanaa"
+  },
+  {
+    "id": 20,
+    "section": "bridge",
+    "section_line": 0,
+    "language": "si",
+    "text": "අරලිය මල් පාවී ඇවිදින්",
+    "alignment_text": "araliya mal paawee aewidin"
+  },
+  {
+    "id": 21,
+    "section": "bridge",
+    "section_line": 1,
+    "language": "si",
+    "text": "නුබ ළඟ හිඳ හොරැහින් බලනා",
+    "alignment_text": "nuba langa hinda horaehin balanaa"
+  },
+  {
+    "id": 22,
+    "section": "bridge",
+    "section_line": 2,
+    "language": "si",
+    "text": "රූ ධාරී... මායාවී...",
+    "alignment_text": "ru dhaaree maayaawee"
+  },
+  {
+    "id": 23,
+    "section": "bridge",
+    "section_line": 3,
+    "language": "si",
+    "text": "පැන් ගෙනැවිත් වෘන්දා වනයෙන්",
+    "alignment_text": "paen genaewith wrundaa wanayen"
+  },
+  {
+    "id": 24,
+    "section": "bridge",
+    "section_line": 4,
+    "language": "si",
+    "text": "මා ලඟ හිද ඔච්චම් කරනා",
+    "alignment_text": "maa langa hida ochcham karanaa"
+  },
+  {
+    "id": 25,
+    "section": "bridge",
+    "section_line": 5,
+    "language": "si",
+    "text": "වර්ණාවී.. මායාවී...",
+    "alignment_text": "warnaawi maayaawee"
+  },
+  {
+    "id": 26,
+    "section": "pre2",
+    "section_line": 0,
+    "language": "si",
+    "text": "මානෙල් මල් විරසක වීලා දැන්",
+    "alignment_text": "maanel mal wirasaka weelaa daen"
+  },
+  {
+    "id": 27,
+    "section": "pre2",
+    "section_line": 1,
+    "language": "si",
+    "text": "රෑ නැවතීලා දැන්",
+    "alignment_text": "rae naewatheelaa daen"
+  },
+  {
+    "id": 28,
+    "section": "pre2",
+    "section_line": 2,
+    "language": "si",
+    "text": "නුබ හා වී",
+    "alignment_text": "nuba haa wee"
+  },
+  {
+    "id": 29,
+    "section": "pre2",
+    "section_line": 3,
+    "language": "si",
+    "text": "යායේ පිපි මල් ඈතට වී",
+    "alignment_text": "yaaye pipi mal aethata wee"
+  },
+  {
+    "id": 30,
+    "section": "pre2",
+    "section_line": 4,
+    "language": "si",
+    "text": "නුබ නොදොඩා ඇයි",
+    "alignment_text": "nuba nododaa aeyi"
+  },
+  {
+    "id": 31,
+    "section": "pre2",
+    "section_line": 5,
+    "language": "si",
+    "text": "තරහා වී",
+    "alignment_text": "tharahaa wee"
+  },
+  {
+    "id": 32,
+    "section": "hook2",
+    "section_line": 0,
+    "language": "si",
+    "text": "බෝ මල් මා රෑ වෙනා",
+    "alignment_text": "bo mal maa rae wenaa"
+  },
+  {
+    "id": 33,
+    "section": "hook2",
+    "section_line": 1,
+    "language": "si",
+    "text": "වාරේ වැහි පා වෙනා",
+    "alignment_text": "waare waehi paa wenaa"
+  },
+  {
+    "id": 34,
+    "section": "hook2",
+    "section_line": 2,
+    "language": "si",
+    "text": "ආලේ ගං දැන් හුඟක්",
+    "alignment_text": "aale gang daen hungak"
+  },
+  {
+    "id": 35,
+    "section": "hook2",
+    "section_line": 3,
+    "language": "si",
+    "text": "මෝසම් කවි ගායනා",
+    "alignment_text": "mosam kawi gaayanaa"
+  },
+  {
+    "id": 36,
+    "section": "hook2_repeat",
+    "section_line": 0,
+    "language": "si",
+    "text": "බෝ මල් මා රෑ වෙනා",
+    "alignment_text": "bo mal maa rae wenaa"
+  },
+  {
+    "id": 37,
+    "section": "hook2_repeat",
+    "section_line": 1,
+    "language": "si",
+    "text": "වාරේ වැහි පා වෙනා",
+    "alignment_text": "waare waehi paa wenaa"
+  },
+  {
+    "id": 38,
+    "section": "hook2_repeat",
+    "section_line": 2,
+    "language": "si",
+    "text": "ආලේ ගං දැන් හුඟක්",
+    "alignment_text": "aale gang daen hungak"
+  },
+  {
+    "id": 39,
+    "section": "hook2_repeat",
+    "section_line": 3,
+    "language": "si",
+    "text": "මෝසම් කවි ගායනා",
+    "alignment_text": "mosam kawi gaayanaa"
+  },
+  {
+    "id": 40,
+    "section": "verse2",
+    "section_line": 0,
+    "language": "si",
+    "text": "මෝසම් මල් පෙති යායේ",
+    "alignment_text": "mosam mal pethi yaaye"
+  },
+  {
+    "id": 41,
+    "section": "verse2",
+    "section_line": 1,
+    "language": "si",
+    "text": "නුබ හා ගෙවුනූ කාලේ",
+    "alignment_text": "nuba haa gewunuu kaale"
+  },
+  {
+    "id": 42,
+    "section": "verse2",
+    "section_line": 2,
+    "language": "si",
+    "text": "නුබ හා ගෙවුනූ කාලේ",
+    "alignment_text": "nuba haa gewunuu kaale"
+  },
+  {
+    "id": 43,
+    "section": "verse2",
+    "section_line": 3,
+    "language": "si",
+    "text": "තොල් පෙති අස්සෙන රිංගන්",
+    "alignment_text": "thol pethi assena ringan"
+  },
+  {
+    "id": 44,
+    "section": "verse2",
+    "section_line": 4,
+    "language": "si",
+    "text": "නුබ හා ගෙවුනූ යාමේ",
+    "alignment_text": "nuba haa gewunuu yaame"
+  },
+  {
+    "id": 45,
+    "section": "verse2",
+    "section_line": 5,
+    "language": "si",
+    "text": "නුබ හා ගෙවුනූ යාමේ",
+    "alignment_text": "nuba haa gewunuu yaame"
+  }
+]

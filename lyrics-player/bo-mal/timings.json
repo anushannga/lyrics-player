@@ -1,0 +1,1275 @@
+{
+  "lyrics_id": "5dde6974b2a7f202",
+  "audio_sha256": "b302c94fc46f84676a1333b05991480310cf75cfc42d8a18f67af42c71eacbe6",
+  "duration": 327.47102,
+  "listening_confirmed": false,
+  "method": "Known sung/spoken text locally aligned, repeated choruses checked spectrally",
+  "cues": [
+    {
+      "time": 0,
+      "page": -1,
+      "kind": "silence",
+      "style": "melodic"
+    },
+    {
+      "time": 28.06,
+      "page": 0,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 28.62,
+      "page": 1,
+      "style": "melodic",
+      "kind": "sustain"
+    },
+    {
+      "time": 29.18,
+      "page": 2,
+      "style": "melodic",
+      "kind": "sustain"
+    },
+    {
+      "time": 29.74,
+      "page": 3,
+      "style": "melodic",
+      "kind": "sustain"
+    },
+    {
+      "time": 30.3,
+      "page": 4,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 30.52,
+      "page": 5,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 31.06,
+      "page": 6,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 32.5,
+      "page": 7,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 32.72,
+      "page": 8,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 33.14,
+      "page": 9,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 33.8,
+      "page": 10,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 34.56,
+      "page": 11,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 35.9,
+      "page": 12,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 36.1,
+      "page": 13,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 36.86,
+      "page": 14,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 41.38,
+      "page": 15,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 41.58,
+      "page": 16,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 42.14,
+      "page": 17,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 42.62,
+      "page": 18,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 44.3,
+      "page": 19,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 44.58,
+      "page": 20,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 45.02,
+      "page": 21,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 45.74,
+      "page": 22,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 46.34,
+      "page": 23,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 47.68,
+      "page": 24,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 47.76,
+      "page": 25,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 48.74,
+      "page": 26,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 52.42,
+      "page": 27,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 53.56,
+      "page": 28,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 54.14,
+      "page": 29,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 55.3,
+      "page": 30,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 56.64,
+      "page": 31,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 57.7,
+      "page": 32,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 58.08,
+      "page": 33,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 59.66,
+      "page": 34,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 60.66,
+      "page": 35,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 60.96,
+      "page": 36,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 61.4,
+      "page": 37,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 62.82,
+      "page": 38,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 63.585,
+      "page": 39,
+      "style": "melodic",
+      "kind": "sustain"
+    },
+    {
+      "time": 64.35,
+      "page": 40,
+      "style": "melodic",
+      "kind": "sustain"
+    },
+    {
+      "time": 65.115,
+      "page": 41,
+      "style": "melodic",
+      "kind": "sustain"
+    },
+    {
+      "time": 65.88,
+      "page": 42,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 65.94,
+      "page": 43,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 66.66,
+      "page": 44,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 67.12,
+      "page": 45,
+      "style": "melodic",
+      "kind": "sustain"
+    },
+    {
+      "time": 67.58,
+      "page": 46,
+      "style": "melodic",
+      "kind": "sustain"
+    },
+    {
+      "time": 68.04,
+      "page": 47,
+      "style": "melodic",
+      "kind": "sustain"
+    },
+    {
+      "time": 68.5,
+      "page": 48,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 69.52,
+      "page": 49,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 70.04,
+      "page": 50,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 71.36,
+      "page": 51,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 72.4,
+      "page": 52,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 73.04,
+      "page": 53,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 79.18,
+      "page": 54,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 79.66,
+      "page": 55,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 80.24,
+      "page": 56,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 81.08,
+      "page": 57,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 81.26,
+      "page": 58,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 82.22,
+      "page": 59,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 82.96,
+      "page": 60,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 83.38,
+      "page": 61,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 84.24,
+      "page": 62,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 85.14,
+      "page": 63,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 86.02,
+      "page": 64,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 86.84,
+      "page": 65,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 87.26,
+      "page": 66,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 88.8,
+      "page": 67,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 89.12,
+      "page": 68,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 89.84,
+      "page": 69,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 91.66,
+      "page": 70,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 91.7,
+      "page": 71,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 92.06,
+      "page": 72,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 93.02,
+      "page": 73,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 93.16,
+      "page": 74,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 94.04,
+      "page": 75,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 94.5,
+      "page": 76,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 95.06,
+      "page": 77,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 96.08,
+      "page": 78,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 97.0,
+      "page": 79,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 97.86,
+      "page": 80,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 98.58,
+      "page": 81,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 99.08,
+      "page": 82,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 100.52,
+      "page": 83,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 100.92,
+      "page": 84,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 101.66,
+      "page": 85,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 102.71,
+      "page": -1,
+      "kind": "silence",
+      "style": "melodic"
+    },
+    {
+      "time": 153.64,
+      "page": 86,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 154.36,
+      "page": 87,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 154.6,
+      "page": 88,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 155.54,
+      "page": 89,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 156.14,
+      "page": 90,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 156.84,
+      "page": 91,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 157.32,
+      "page": 92,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 157.58,
+      "page": 93,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 158.38,
+      "page": 94,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 159.24,
+      "page": 95,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 159.42,
+      "page": 96,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 159.815,
+      "page": 97,
+      "style": "melodic",
+      "kind": "sustain"
+    },
+    {
+      "time": 160.21,
+      "page": 98,
+      "style": "melodic",
+      "kind": "sustain"
+    },
+    {
+      "time": 160.605,
+      "page": 99,
+      "style": "melodic",
+      "kind": "sustain"
+    },
+    {
+      "time": 161.0,
+      "page": 100,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 161.94,
+      "page": 101,
+      "style": "melodic",
+      "kind": "sustain"
+    },
+    {
+      "time": 162.88,
+      "page": 102,
+      "style": "melodic",
+      "kind": "sustain"
+    },
+    {
+      "time": 163.82,
+      "page": 103,
+      "style": "melodic",
+      "kind": "sustain"
+    },
+    {
+      "time": 164.76,
+      "page": 104,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 165.86,
+      "page": 105,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 166.44,
+      "page": 106,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 167.26,
+      "page": 107,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 168.32,
+      "page": 108,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 168.76,
+      "page": 109,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 169.18,
+      "page": 110,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 169.44,
+      "page": 111,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 170.14,
+      "page": 112,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 171.1,
+      "page": 113,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 171.34,
+      "page": 114,
+      "style": "melodic",
+      "kind": "sustain"
+    },
+    {
+      "time": 171.58,
+      "page": 115,
+      "style": "melodic",
+      "kind": "sustain"
+    },
+    {
+      "time": 171.82,
+      "page": 116,
+      "style": "melodic",
+      "kind": "sustain"
+    },
+    {
+      "time": 172.06,
+      "page": 117,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 173.0,
+      "page": 118,
+      "style": "melodic",
+      "kind": "sustain"
+    },
+    {
+      "time": 173.94,
+      "page": 119,
+      "style": "melodic",
+      "kind": "sustain"
+    },
+    {
+      "time": 174.88,
+      "page": 120,
+      "style": "melodic",
+      "kind": "sustain"
+    },
+    {
+      "time": 176.86,
+      "page": 121,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 178.0,
+      "page": 122,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 178.58,
+      "page": 123,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 179.74,
+      "page": 124,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 181.08,
+      "page": 125,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 182.14,
+      "page": 126,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 182.52,
+      "page": 127,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 184.1,
+      "page": 128,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 185.1,
+      "page": 129,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 185.4,
+      "page": 130,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 185.84,
+      "page": 131,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 187.26,
+      "page": 132,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 188.025,
+      "page": 133,
+      "style": "melodic",
+      "kind": "sustain"
+    },
+    {
+      "time": 188.79,
+      "page": 134,
+      "style": "melodic",
+      "kind": "sustain"
+    },
+    {
+      "time": 189.555,
+      "page": 135,
+      "style": "melodic",
+      "kind": "sustain"
+    },
+    {
+      "time": 190.32,
+      "page": 136,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 190.38,
+      "page": 137,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 191.1,
+      "page": 138,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 191.56,
+      "page": 139,
+      "style": "melodic",
+      "kind": "sustain"
+    },
+    {
+      "time": 192.02,
+      "page": 140,
+      "style": "melodic",
+      "kind": "sustain"
+    },
+    {
+      "time": 192.48,
+      "page": 141,
+      "style": "melodic",
+      "kind": "sustain"
+    },
+    {
+      "time": 192.94,
+      "page": 142,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 193.96,
+      "page": 143,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 194.48,
+      "page": 144,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 195.8,
+      "page": 145,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 196.84,
+      "page": 146,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 197.48,
+      "page": 147,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 203.62,
+      "page": 148,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 204.1,
+      "page": 149,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 204.68,
+      "page": 150,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 205.52,
+      "page": 151,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 205.7,
+      "page": 152,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 206.66,
+      "page": 153,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 207.4,
+      "page": 154,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 207.82,
+      "page": 155,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 208.68,
+      "page": 156,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 209.58,
+      "page": 157,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 210.46,
+      "page": 158,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 211.28,
+      "page": 159,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 211.7,
+      "page": 160,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 213.24,
+      "page": 161,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 213.56,
+      "page": 162,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 214.28,
+      "page": 163,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 216.1,
+      "page": 164,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 216.14,
+      "page": 165,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 216.5,
+      "page": 166,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 217.46,
+      "page": 167,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 217.6,
+      "page": 168,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 218.48,
+      "page": 169,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 218.94,
+      "page": 170,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 219.5,
+      "page": 171,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 220.52,
+      "page": 172,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 221.44,
+      "page": 173,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 222.3,
+      "page": 174,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 223.02,
+      "page": 175,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 223.52,
+      "page": 176,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 224.96,
+      "page": 177,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 225.36,
+      "page": 178,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 226.1,
+      "page": 179,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 227.15,
+      "page": -1,
+      "kind": "silence",
+      "style": "melodic"
+    },
+    {
+      "time": 253.24,
+      "page": 180,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 253.8,
+      "page": 181,
+      "style": "melodic",
+      "kind": "sustain"
+    },
+    {
+      "time": 254.36,
+      "page": 182,
+      "style": "melodic",
+      "kind": "sustain"
+    },
+    {
+      "time": 254.92,
+      "page": 183,
+      "style": "melodic",
+      "kind": "sustain"
+    },
+    {
+      "time": 255.48,
+      "page": 184,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 255.7,
+      "page": 185,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 256.24,
+      "page": 186,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 257.68,
+      "page": 187,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 257.9,
+      "page": 188,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 258.32,
+      "page": 189,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 258.98,
+      "page": 190,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 259.74,
+      "page": 191,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 261.08,
+      "page": 192,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 261.28,
+      "page": 193,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 262.04,
+      "page": 194,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 266.56,
+      "page": 195,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 266.76,
+      "page": 196,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 267.32,
+      "page": 197,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 267.8,
+      "page": 198,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 269.48,
+      "page": 199,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 269.76,
+      "page": 200,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 270.2,
+      "page": 201,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 270.92,
+      "page": 202,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 271.52,
+      "page": 203,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 272.86,
+      "page": 204,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 272.94,
+      "page": 205,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 273.92,
+      "page": 206,
+      "style": "melodic",
+      "kind": "word"
+    },
+    {
+      "time": 274.81,
+      "page": -1,
+      "kind": "silence",
+      "style": "melodic"
+    }
+  ]
+}

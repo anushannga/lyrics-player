@@ -1,0 +1,68 @@
+{
+  "selection": "Long aligned word endings held until the next lyric; not listening-confirmed",
+  "words": [
+    {
+      "line": 1,
+      "word": 5,
+      "text": "නෑනාලා",
+      "duration": 2.14,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 3,
+      "word": 6,
+      "text": "නෑනාලා",
+      "duration": 1.86,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 7,
+      "word": 3,
+      "text": "කියාගෙන",
+      "duration": 0.86,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 9,
+      "word": 4,
+      "text": "නෑනා",
+      "duration": 2.66,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 14,
+      "word": 4,
+      "text": "නෑනා",
+      "duration": 1.5,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 19,
+      "word": 4,
+      "text": "එන",
+      "duration": 0.76,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 21,
+      "word": 5,
+      "text": "නෑනා",
+      "duration": 3.28,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 23,
+      "word": 5,
+      "text": "නෑනාලා",
+      "duration": 2.18,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 25,
+      "word": 6,
+      "text": "නෑනාලා",
+      "duration": 1.86,
+      "basis": "isolated vocal duration; sustained content word"
+    }
+  ]
+}

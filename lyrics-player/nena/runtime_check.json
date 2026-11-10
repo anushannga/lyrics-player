@@ -1,0 +1,15 @@
+{
+  "word_cues": 136,
+  "bitmap_integrity": true,
+  "persistent_word_pixels": true,
+  "layouts": 34,
+  "listening_confirmed": false,
+  "preview_range": [
+    69,
+    118
+  ],
+  "preview_word_cues": 38,
+  "preview_word_cues_sent": 38,
+  "missing_word_cues": [],
+  "slow_transfers": 0
+}

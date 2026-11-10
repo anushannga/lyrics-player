@@ -1,0 +1,75 @@
+{
+  "selection": "Long aligned word endings held until the next lyric; not listening-confirmed",
+  "words": [
+    {
+      "line": 0,
+      "word": 0,
+      "text": "මෝසම්",
+      "duration": 2.24,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 9,
+      "word": 0,
+      "text": "යායේ",
+      "duration": 3.06,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 9,
+      "word": 3,
+      "text": "ඈතට",
+      "duration": 1.84,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 22,
+      "word": 1,
+      "text": "ධාරී...",
+      "duration": 1.58,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 22,
+      "word": 2,
+      "text": "මායාවී...",
+      "duration": 3.76,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 25,
+      "word": 0,
+      "text": "වර්ණාවී..",
+      "duration": 0.96,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 25,
+      "word": 1,
+      "text": "මායාවී...",
+      "duration": 3.76,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 29,
+      "word": 0,
+      "text": "යායේ",
+      "duration": 3.06,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 29,
+      "word": 3,
+      "text": "ඈතට",
+      "duration": 1.84,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 40,
+      "word": 0,
+      "text": "මෝසම්",
+      "duration": 2.24,
+      "basis": "isolated vocal duration; sustained content word"
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+[
+  {
+    "id": 0,
+    "section": "hook1",
+    "section_line": 0,
+    "language": "si",
+    "text": "කොටන පොලන තැන පොල් අඹරන තැන",
+    "alignment_text": "kotana polana thaena pol ambarana thaena"
+  },
+  {
+    "id": 1,
+    "section": "hook1",
+    "section_line": 1,
+    "language": "si",
+    "text": "කොස් වතු කන්දේ අලවතු කන්දේ නෑනාලා",
+    "alignment_text": "kos wathu kande alawathu kande naenaalaa"
+  },
+  {
+    "id": 2,
+    "section": "hook1",
+    "section_line": 2,
+    "language": "si",
+    "text": "ඕප හොයන තැන කැකිරි පලන තැන",
+    "alignment_text": "opa hoyana thaena kaekiri palana thaena"
+  },
+  {
+    "id": 3,
+    "section": "hook1",
+    "section_line": 3,
+    "language": "si",
+    "text": "පාර තොටේ මඟ බලන බලන තැන නෑනාලා",
+    "alignment_text": "paara thote maga balana balana thaena naenaalaa"
+  },
+  {
+    "id": 4,
+    "section": "verse1",
+    "section_line": 0,
+    "language": "si",
+    "text": "මූනට මල් හතයි කියාගෙන",
+    "alignment_text": "muunata mal hathayi kiyaagena"
+  },
+  {
+    "id": 5,
+    "section": "verse1",
+    "section_line": 1,
+    "language": "si",
+    "text": "ඊට යටින් කටු හුඟක් තියාගෙන",
+    "alignment_text": "eeta yatin katu hungak thiyaagena"
+  },
+  {
+    "id": 6,
+    "section": "verse1",
+    "section_line": 2,
+    "language": "si",
+    "text": "මගෙ නංගි වගේ කියලා බදාගෙන",
+    "alignment_text": "mage nangi wage kiyalaa badaagena"
+  },
+  {
+    "id": 7,
+    "section": "verse1",
+    "section_line": 3,
+    "language": "si",
+    "text": "අනෙක් අතට නැට්ටිච්චි කියාගෙන",
+    "alignment_text": "anek athata naettichchi kiyaagena"
+  },
+  {
+    "id": 8,
+    "section": "post1",
+    "section_line": 0,
+    "language": "si",
+    "text": "නෑනා නෑනා අපෙ ගිනි ගෙඩි නෑනා",
+    "alignment_text": "naenaa naenaa ape gini gedi naenaa"
+  },
+  {
+    "id": 9,
+    "section": "post1",
+    "section_line": 1,
+    "language": "si",
+    "text": "නෑනා නෑනා අපෙ ගිනිදෙන නෑනා",
+    "alignment_text": "naenaa naenaa ape ginidena naenaa"
+  },
+  {
+    "id": 10,
+    "section": "verse2",
+    "section_line": 0,
+    "language": "si",
+    "text": "මාලය අතගා බරත් අසාගෙන",
+    "alignment_text": "maalaya athagaa barath asaagena"
+  },
+  {
+    "id": 11,
+    "section": "verse2",
+    "section_line": 1,
+    "language": "si",
+    "text": "සාරිය අතගා ගණන් අසාගෙන",
+    "alignment_text": "saariya athagaa ganan asaagena"
+  },
+  {
+    "id": 12,
+    "section": "verse2",
+    "section_line": 2,
+    "language": "si",
+    "text": "අනේ නංගියේ හැඩයි කියාගෙන",
+    "alignment_text": "ane nangiye haedayi kiyaagena"
+  },
+  {
+    "id": 13,
+    "section": "verse2",
+    "section_line": 3,
+    "language": "si",
+    "text": "බොරු සෝබන ඕවනම් ෆේක්",
+    "alignment_text": "boru sobana owanam fake"
+  },
+  {
+    "id": 14,
+    "section": "post2",
+    "section_line": 0,
+    "language": "si",
+    "text": "නෑනා නෑනා අපේ ජෙලස් නෑනා",
+    "alignment_text": "naenaa naenaa ape jelas naenaa"
+  },
+  {
+    "id": 15,
+    "section": "post2",
+    "section_line": 1,
+    "language": "si",
+    "text": "නෑනා නෑනා හිත හොද නැති නෑනා",
+    "alignment_text": "naenaa naenaa hitha honda naethi naenaa"
+  },
+  {
+    "id": 16,
+    "section": "verse3",
+    "section_line": 0,
+    "language": "si",
+    "text": "හොද වැඩකට අත ගහන සැරේටම",
+    "alignment_text": "honda waedakata atha gahana saeraetama"
+  },
+  {
+    "id": 17,
+    "section": "verse3",
+    "section_line": 1,
+    "language": "si",
+    "text": "වස්කට ඇරගෙන පේන බලාඑන",
+    "alignment_text": "waskata aeragena penaa balaaena"
+  },
+  {
+    "id": 18,
+    "section": "verse3",
+    "section_line": 2,
+    "language": "si",
+    "text": "හරියන්නෑ බං ඕවා කියාගෙන",
+    "alignment_text": "hariyannae ban owaa kiyaagena"
+  },
+  {
+    "id": 19,
+    "section": "verse3",
+    "section_line": 3,
+    "language": "si",
+    "text": "වැරදෙද්දි මං කිව්වා කියා එන",
+    "alignment_text": "waeradeddi man kiwwaa kiyaa ena"
+  },
+  {
+    "id": 20,
+    "section": "post3",
+    "section_line": 0,
+    "language": "si",
+    "text": "නෑනා නෑනා කට හොද නැති නෑනා",
+    "alignment_text": "naenaa naenaa kata honda naethi naenaa"
+  },
+  {
+    "id": 21,
+    "section": "post3",
+    "section_line": 1,
+    "language": "si",
+    "text": "නෑනා නෑනා කට වහ ඇති නෑනා",
+    "alignment_text": "naenaa naenaa kata waha aethi naenaa"
+  },
+  {
+    "id": 22,
+    "section": "hook2",
+    "section_line": 0,
+    "language": "si",
+    "text": "කොටන පොලන තැන පොල් අඹරන තැන",
+    "alignment_text": "kotana polana thaena pol ambarana thaena"
+  },
+  {
+    "id": 23,
+    "section": "hook2",
+    "section_line": 1,
+    "language": "si",
+    "text": "කොස් වතු කන්දේ අලවතු කන්දේ නෑනාලා",
+    "alignment_text": "kos wathu kande alawathu kande naenaalaa"
+  },
+  {
+    "id": 24,
+    "section": "hook2",
+    "section_line": 2,
+    "language": "si",
+    "text": "ඕප හොයන තැන කැකිරි පලන තැන",
+    "alignment_text": "opa hoyana thaena kaekiri palana thaena"
+  },
+  {
+    "id": 25,
+    "section": "hook2",
+    "section_line": 3,
+    "language": "si",
+    "text": "පාර තොටේ මඟ බලන බලන තැන නෑනාලා",
+    "alignment_text": "paara thote maga balana balana thaena naenaalaa"
+  }
+]

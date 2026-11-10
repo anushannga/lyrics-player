@@ -1,0 +1,30 @@
+{
+  "words": [
+    [
+      3,
+      5
+    ],
+    [
+      15,
+      1
+    ],
+    [
+      23,
+      9
+    ],
+    [
+      35,
+      1
+    ],
+    [
+      39,
+      1
+    ],
+    [
+      40,
+      6
+    ]
+  ],
+  "listening_confirmed": false,
+  "method": "Long phrase-final holds from local alignment"
+}

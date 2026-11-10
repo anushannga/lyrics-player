@@ -1,0 +1,9 @@
+{
+  "lines": 44,
+  "all_word_cues_present": true,
+  "font": "ISI Gurulugomi 24px",
+  "listening_confirmed": false,
+  "hardware_frames_verified": 122,
+  "hardware_crc_ack": true,
+  "alignment_method": "isolated vocal alignment with small model and conservative onset trimming"
+}

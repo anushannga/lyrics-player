@@ -1,0 +1,47 @@
+{
+  "selection": "Long aligned word endings held until the next lyric; not listening-confirmed",
+  "words": [
+    {
+      "line": 3,
+      "word": 5,
+      "text": "මාසේ...",
+      "duration": 0.78,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 15,
+      "word": 1,
+      "text": "බැලුවා...",
+      "duration": 2.14,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 23,
+      "word": 9,
+      "text": "වෙලා...",
+      "duration": 0.84,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 35,
+      "word": 1,
+      "text": "බැලුවා...",
+      "duration": 2.16,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 39,
+      "word": 1,
+      "text": "බැලුවා...",
+      "duration": 1.66,
+      "basis": "isolated vocal duration; sustained content word"
+    },
+    {
+      "line": 40,
+      "word": 6,
+      "text": "පිපිලා",
+      "duration": 1.6,
+      "basis": "isolated vocal duration; sustained content word"
+    }
+  ]
+}

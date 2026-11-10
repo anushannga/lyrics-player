@@ -2,10 +2,9 @@
 
 Arduino UNO + ST7920 128×64 Sinhala LCD lyric players by Pasan Anushanga.
 Music plays through a Mac while an Arduino UNO displays Sinhala lyrics over USB.
-This repository contains the latest played versions of all sixteen projects.
+This repository contains the latest played versions of all nineteen projects.
 
 ## Songs
-
 | Song | Source | Display style |
 | --- | --- | --- |
 | Sellakkaraya | [sellakkaraya](lyrics-player/sellakkaraya/) | Rendered Sinhala pages, smooth transitions, continuous replay |
@@ -19,12 +18,14 @@ This repository contains the latest played versions of all sixteen projects.
 | Nura Ananthe | [nura-ananthe](lyrics-player/nura-ananthe/) | Whole-word lyrics and progressive sustain dots |
 | Deviyange Bare | [deviyange-bare](lyrics-player/deviyange-bare/) | Word reveal with Su Naga font and selected chorus sustain dots |
 | Ithin Maa Numbawa Banda | [ithin-maa-numbawa-banda](lyrics-player/ithin-maa-numbawa-banda/) | ISI Gurulugomi, matched repeated choruses and progressive dots |
-
 | Double Eke | [double-eke](lyrics-player/double-eke/) | Whole-word lyrics with selected sustained endings |
 | Dawas Hathak | [dawas-hathak](lyrics-player/dawas-hathak/) | Whole-word lyrics with selected sustained endings |
 | Numba Kagedo | [numba-kagedo](lyrics-player/numba-kagedo/) | Whole-word lyrics with selected sustained endings |
 | Paata As | [paata-as](lyrics-player/paata-as/) | Whole-word lyrics with selected sustained endings |
 | Numba Tharam | [numba-tharam](lyrics-player/numba-tharam/) | Whole-word lyrics with selected sustained endings |
+| Kusum Asana | [kusum-asana](lyrics-player/kusum-asana/) | Whole-word Sinhala lyrics, corrected saved timing and sustain dots |
+| Bo Mal | [bo-mal](lyrics-player/bo-mal/) | Whole-word Sinhala lyrics, corrected saved timing and sustain dots |
+| Nena | [nena](lyrics-player/nena/) | Whole-word Sinhala lyrics, corrected saved timing and sustain dots |
 
 ## Requirements
 
@@ -41,7 +42,6 @@ python3 -m pip install -r requirements.txt
 ```
 
 ## LCD connections
-
 | ST7920 signal | Arduino UNO |
 | --- | --- |
 | RS / CS | D10 |

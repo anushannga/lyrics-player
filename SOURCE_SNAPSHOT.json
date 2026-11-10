@@ -1574,5 +1574,315 @@
         "sha256": "4ac8130e92fd4f72f19bb260d0d6a004643fccc19ac3b1290132f5dfac6e7290"
       }
     ]
+  },
+  {
+    "song": "kusum-asana",
+    "source_project": "KusumAsanaLCD",
+    "original_source_files": [
+      {
+        "file": "player.py",
+        "sha256": "a2ce88392c6d168374c6b5d9c3cb83f21b400038d2a85bd5ba3990da5570a4e3"
+      },
+      {
+        "file": "player_settings.json",
+        "sha256": "c5d787e6c57becf2254c63fb38b854ff65f79c20e1631a13eeecb3191c5a75dd"
+      },
+      {
+        "file": "README.md",
+        "sha256": "7939a8958ee6db2ea566021d9c44774e7564af4e6a0794a4975ecfae2e84d4e1"
+      },
+      {
+        "file": "lyrics.json",
+        "sha256": "509edc1056942faea83214b921befea2a530bcaafb46679153e7e831d289df26"
+      },
+      {
+        "file": "lyrics_unicode.txt",
+        "sha256": "31fa5e0be95edf5b8e1d4fe132dab68315e7b11a19a43d9de4a8e53a99613b11"
+      },
+      {
+        "file": "alignment.json",
+        "sha256": "c0f09d39ac6f420aaf799242ee77d1ea79c5f1220f779dbeb2616f4a6862d9d1"
+      },
+      {
+        "file": "alignment_windows.json",
+        "sha256": "0907b01f95309422ce198cd6a0b23bbd1df3b9d55fa6309a05d7a9ac6ecc359b"
+      },
+      {
+        "file": "frames.bin",
+        "sha256": "d648391f21559de5c528aca59dd1e8c82226b388059fe293feffa19fcea0924d"
+      },
+      {
+        "file": "manifest.json",
+        "sha256": "7f9868ed11e65227e3e27c04798479700bd6b04dd6cf724ae7c168c43d998728"
+      },
+      {
+        "file": "timings.json",
+        "sha256": "32958dff2099fee31d1ab651059efeb63ef0dcd8321458166c67ed9a18ef1d94"
+      },
+      {
+        "file": "sustain_marks.json",
+        "sha256": "d6a84ed1bb2c16643d96a7ed34431d2b348c9ebb14fcdb6dcf46b194ad394e00"
+      },
+      {
+        "file": "sustain_selection.json",
+        "sha256": "16f6fbbe71f719922b51ab3eb3ecdc17923209be004e620f1ac52d7c2e66e064"
+      },
+      {
+        "file": "tools/build_display.py",
+        "sha256": "d0d3e1a879c5b8ebbc1ca9f95f125e3864361b8d152191aa5f68ec0b90549a4c"
+      },
+      {
+        "file": "tools/audio_clock.m",
+        "sha256": "66c5894dd73b7b8df8b2f62adf0ebe6ec823a0559eb8c6f8e9bbff0a61fadd4a"
+      },
+      {
+        "file": "tools/pixel_format.py",
+        "sha256": "32c5da149058041af7d5d76196cbfd96c04ac2928dfd5ef9c12c1ba862d3e794"
+      },
+      {
+        "file": "assets/isigurul_0.ttf",
+        "sha256": "1d23be650901b60998699fd5e13b1b9ff196173c61e84bf4bda8e6ac5deb9228"
+      },
+      {
+        "file": "assets/isi-rules.json",
+        "sha256": "4fd82180469dce991ceac1a9a9d6889c1d5cf5ab2e5f542b7997f264b5ef7c0d"
+      },
+      {
+        "file": "song.json",
+        "sha256": "86b2f61270029a870f0d7d6a68c1b2352d0f35aafc901939cc29abab14bc35d9"
+      },
+      {
+        "file": "validation.json",
+        "sha256": "bfbe2518587e07f712a6ee1010cafc91cff9d540a708a349ecf4fc838bb88a0f"
+      },
+      {
+        "file": "vocal_sync_review.json",
+        "sha256": "4c241c59fcd66924df091965e828c53b04c822d5f6500274ae3cbdd59a7d7fbf"
+      },
+      {
+        "file": "lyrics_performed.txt",
+        "sha256": "c06e9dae4681cb0bff30bbec954997d882060383dcd0454ae9cbb79e878a093c"
+      },
+      {
+        "file": "tools/prepare_lyrics.py",
+        "sha256": "4a4c0087c35908963c34304113c2d88271918b08945b9de515bd1b2feb926fe9"
+      },
+      {
+        "file": "tools/select_sustains.py",
+        "sha256": "786726f84cb1b8780ed432d31d13f775e2a3140c31a56d2b83476eeb81c95839"
+      },
+      {
+        "file": "KusumAsanaLCD.ino",
+        "sha256": "4ac8130e92fd4f72f19bb260d0d6a004643fccc19ac3b1290132f5dfac6e7290"
+      }
+    ]
+  },
+  {
+    "song": "bo-mal",
+    "source_project": "BoMalLCD",
+    "original_source_files": [
+      {
+        "file": "player.py",
+        "sha256": "71d27b2286506111864478a5373ba264107c603b9b6d7c8363cc10049057bf30"
+      },
+      {
+        "file": "player_settings.json",
+        "sha256": "c5d787e6c57becf2254c63fb38b854ff65f79c20e1631a13eeecb3191c5a75dd"
+      },
+      {
+        "file": "README.md",
+        "sha256": "f2e0f6b4b85e2491e26e394c4e887f06a3fc338e6768b499246e369f2d1fe302"
+      },
+      {
+        "file": "lyrics.json",
+        "sha256": "da5945659e908c21b4a93d92f30572efd3e0ed6b6a1a347b0d0468709f2db3a8"
+      },
+      {
+        "file": "lyrics_unicode.txt",
+        "sha256": "8da3245c498d2d194f18be3218dd1c922cbeb28459b83c785c9009aadc8103a0"
+      },
+      {
+        "file": "alignment.json",
+        "sha256": "e51386da55c7059188f87b8de7f4a9e80fde90939b99eb947f697eab36ff9afd"
+      },
+      {
+        "file": "alignment_windows.json",
+        "sha256": "822c41f45858970f8c706c0fc7921d62312d2dbe69ae09486715fbdf3378539c"
+      },
+      {
+        "file": "frames.bin",
+        "sha256": "bf4160628ad4f6b817373a2e068d4baf69bf4d5b09e3c770e62a9e81911da6e6"
+      },
+      {
+        "file": "manifest.json",
+        "sha256": "06a8931d084eba1c43621e9998fbcee4332cf907f5c4dee674aa08ee6a998959"
+      },
+      {
+        "file": "timings.json",
+        "sha256": "21314cddc74de31f7583b2404032a64b77be6095a14914f4ef9ad566f3201a43"
+      },
+      {
+        "file": "sustain_marks.json",
+        "sha256": "bf0cfa8c10a819b73d2ee61ddda57fc9c13e990631a218599e1ce982fb7b360c"
+      },
+      {
+        "file": "sustain_selection.json",
+        "sha256": "92077f214acf16e7a3bd8f90b8a04b27b7b21466603a589a2bad833cd3a69d27"
+      },
+      {
+        "file": "tools/build_display.py",
+        "sha256": "a77380edf3971d67ce8b323488de121a53c6bf393385a9bf9df2f39d3611ea41"
+      },
+      {
+        "file": "tools/audio_clock.m",
+        "sha256": "66c5894dd73b7b8df8b2f62adf0ebe6ec823a0559eb8c6f8e9bbff0a61fadd4a"
+      },
+      {
+        "file": "tools/pixel_format.py",
+        "sha256": "32c5da149058041af7d5d76196cbfd96c04ac2928dfd5ef9c12c1ba862d3e794"
+      },
+      {
+        "file": "assets/isigurul_0.ttf",
+        "sha256": "1d23be650901b60998699fd5e13b1b9ff196173c61e84bf4bda8e6ac5deb9228"
+      },
+      {
+        "file": "assets/isi-rules.json",
+        "sha256": "4fd82180469dce991ceac1a9a9d6889c1d5cf5ab2e5f542b7997f264b5ef7c0d"
+      },
+      {
+        "file": "song.json",
+        "sha256": "82664299385a6157ffd15bb4d3c1867e20194d0a651d6ac902656eac6ce4bce8"
+      },
+      {
+        "file": "validation.json",
+        "sha256": "87a5b872e3565ff259f6334c2298bc42dfcc4e75c92bd45d5abbb0744b804ff1"
+      },
+      {
+        "file": "evidence_sync_review.json",
+        "sha256": "004d3961d6fd892f0defa47e037f2a19f4fbfa6c6085d9d331b6568de8641e84"
+      },
+      {
+        "file": "repeat_sync_evidence.json",
+        "sha256": "2487dea1891e505e9d7eccccdc69356dc544d89fb063917ed03e19da4e1a60b5"
+      },
+      {
+        "file": "lyrics_performed.txt",
+        "sha256": "f6eb52f2a02411e033095a921da4014d417bc3d608e2485b1ff19116c768aa09"
+      },
+      {
+        "file": "tools/prepare_lyrics.py",
+        "sha256": "6606da3bfd0d550f4eee348e673f6f43874de6df8cb0718846533c415880636c"
+      },
+      {
+        "file": "tools/select_sustains.py",
+        "sha256": "b45aa0f9be0208a3c7a91b78aa4bb274e4ed8f2c30463b2157820db0c662cbe7"
+      },
+      {
+        "file": "BoMalLCD.ino",
+        "sha256": "4ac8130e92fd4f72f19bb260d0d6a004643fccc19ac3b1290132f5dfac6e7290"
+      }
+    ]
+  },
+  {
+    "song": "nena",
+    "source_project": "NenaLCD",
+    "original_source_files": [
+      {
+        "file": "player.py",
+        "sha256": "465cb11e548f92246b344d6b997918a54e44833b829fad477a1f34c2fe05a7b6"
+      },
+      {
+        "file": "player_settings.json",
+        "sha256": "c5d787e6c57becf2254c63fb38b854ff65f79c20e1631a13eeecb3191c5a75dd"
+      },
+      {
+        "file": "README.md",
+        "sha256": "c43fa0500d3714c670d5688c4c58e292b107ac0604635eccc421475441eee847"
+      },
+      {
+        "file": "lyrics.json",
+        "sha256": "98a0b8d3e6feb9e66afb52a0710a842e10d29630d8b8006894b99b7590e497e7"
+      },
+      {
+        "file": "lyrics_unicode.txt",
+        "sha256": "d56e0a850ab771ef3dbbf4f0476050fdca5341b3ebc2f63fbd39be3f3728be7a"
+      },
+      {
+        "file": "alignment.json",
+        "sha256": "e3b62ca389b7f779c7ffaac66aff4cf1ec584289927e198e3aab23c95ed196c0"
+      },
+      {
+        "file": "alignment_windows.json",
+        "sha256": "41d48391fa6c645906099f1a73d570178643b9f3396907fc587dcc38038813fe"
+      },
+      {
+        "file": "frames.bin",
+        "sha256": "3e5a657de649260aee7455db6f506ff6b92fddeb9ca6901cb2bb1ba80fd6f444"
+      },
+      {
+        "file": "manifest.json",
+        "sha256": "2f19b66a5c00e21ae35250f5a54a2b6041c2ec214db76f78b0bed666e3742f34"
+      },
+      {
+        "file": "timings.json",
+        "sha256": "b492f1902e6220ea946cf4652f7a794a35827105e54ca3f3c3922bb2d411e62f"
+      },
+      {
+        "file": "sustain_marks.json",
+        "sha256": "7c0c2ccc411f192f64ebfbb32349dd9b434fdc23298a31bda29c40e4bdfcb0ae"
+      },
+      {
+        "file": "sustain_selection.json",
+        "sha256": "5607f6a033692c53f9f4f80b42f8d3adfe44e43a2b95d8d675729d429e47638f"
+      },
+      {
+        "file": "tools/build_display.py",
+        "sha256": "7f0177eab4acf5a08f6281dd8358ba3ab91f55346e8be2a8b5c8c2e861b3b5db"
+      },
+      {
+        "file": "tools/audio_clock.m",
+        "sha256": "66c5894dd73b7b8df8b2f62adf0ebe6ec823a0559eb8c6f8e9bbff0a61fadd4a"
+      },
+      {
+        "file": "tools/pixel_format.py",
+        "sha256": "32c5da149058041af7d5d76196cbfd96c04ac2928dfd5ef9c12c1ba862d3e794"
+      },
+      {
+        "file": "assets/isigurul_0.ttf",
+        "sha256": "1d23be650901b60998699fd5e13b1b9ff196173c61e84bf4bda8e6ac5deb9228"
+      },
+      {
+        "file": "assets/isi-rules.json",
+        "sha256": "4fd82180469dce991ceac1a9a9d6889c1d5cf5ab2e5f542b7997f264b5ef7c0d"
+      },
+      {
+        "file": "song.json",
+        "sha256": "f1bc488309c59fa1237f1d5cb5db45d52d9055c7bf991d0d518b40b1c974abbe"
+      },
+      {
+        "file": "validation.json",
+        "sha256": "4d10fc25317f579a41015c14e6a786b16f83ab47fcedfc6627db00cc91374e6b"
+      },
+      {
+        "file": "runtime_check.json",
+        "sha256": "f018a21344a0c223417747cbef15fc04d21ad01e1c17887049612d135f0e1e45"
+      },
+      {
+        "file": "repeat_sync_evidence.json",
+        "sha256": "6602c3a2be9b75b32344d4c436be2116c5db2ac0c8b11e108c83e5e2b3e6d9e5"
+      },
+      {
+        "file": "tools/prepare_lyrics.py",
+        "sha256": "844f37cb16453898ea34d37179fb2dde0bbf3b3d9551c8efafd5e3c505a0cee6"
+      },
+      {
+        "file": "tools/select_sustains.py",
+        "sha256": "786726f84cb1b8780ed432d31d13f775e2a3140c31a56d2b83476eeb81c95839"
+      },
+      {
+        "file": "NenaLCD.ino",
+        "sha256": "4ac8130e92fd4f72f19bb260d0d6a004643fccc19ac3b1290132f5dfac6e7290"
+      }
+    ]
   }
 ]
