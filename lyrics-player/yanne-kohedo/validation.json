@@ -1,0 +1,17 @@
+{
+  "lines": 20,
+  "words": 77,
+  "bitmaps": 86,
+  "cue_count": 134,
+  "minimum_cue_spacing": 0.2,
+  "word_coverage": true,
+  "syntax": true,
+  "listening_confirmed": false,
+  "usb_frames_verified": 86,
+  "runtime_preview": {
+    "start": 45,
+    "stop": 70,
+    "events": 17,
+    "all_events_sent": true
+  }
+}

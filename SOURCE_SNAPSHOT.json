@@ -1884,5 +1884,107 @@
         "sha256": "4ac8130e92fd4f72f19bb260d0d6a004643fccc19ac3b1290132f5dfac6e7290"
       }
     ]
+  },
+  {
+    "song": "yanne-kohedo",
+    "source_project": "YanneKohedoLCD",
+    "original_source_files": [
+      {
+        "file": "player.py",
+        "sha256": "186eb33e45899ee8e55356ae3fe6ada704d9eb859860656e65b388989602633d"
+      },
+      {
+        "file": "player_settings.json",
+        "sha256": "c5d787e6c57becf2254c63fb38b854ff65f79c20e1631a13eeecb3191c5a75dd"
+      },
+      {
+        "file": "lyrics.json",
+        "sha256": "5208aea52602b9cfb97816507bf645e527f3c80224d8e338060a0e1c3f06c4d8"
+      },
+      {
+        "file": "lyrics_unicode.txt",
+        "sha256": "d8e793d88c25edb1fff0762ad9a3c6eb4cf824529750ba610f2c2b72a7ae96e8"
+      },
+      {
+        "file": "alignment.json",
+        "sha256": "28ef5c92333de0097133153ac652d42bea3bf44e037a55c8dfc714205ee090b3"
+      },
+      {
+        "file": "alignment_windows.json",
+        "sha256": "9ba0c51fbec54a1b5f4bbabd888fd185ccad3234663113071b794e2c95dfd0c4"
+      },
+      {
+        "file": "timing_corrections.json",
+        "sha256": "69e72f645b2d4e65ca99bc26c10bb03d7f1e4d1d95773c4afe7eb334b72bf8b4"
+      },
+      {
+        "file": "manifest.json",
+        "sha256": "e583a78a36ffe70f1cf60cc00bc1fd6130444dd8dd15cf431cb194bc1acd959b"
+      },
+      {
+        "file": "frames.bin",
+        "sha256": "d77a3cf7a9db63d0c08927eaf4f0f441092abd89afc0a03f355b537b04723eb2"
+      },
+      {
+        "file": "timings.json",
+        "sha256": "959a9254b2db93659703f73194ef040233522b3247886978a15e4291bd7a8277"
+      },
+      {
+        "file": "sustain_marks.json",
+        "sha256": "628b4de6bed53f183b4d409bd42b9c2128bbd6ca4d7135a428f677f0c6799d19"
+      },
+      {
+        "file": "sustain_selection.json",
+        "sha256": "7ebe7db75bfefc51c55111b362d6a11c7fcb19fbc145107312f2913830d3566f"
+      },
+      {
+        "file": "song.json",
+        "sha256": "dead1bb7cdc194524e96801136e95e8a37abac5b8b375096ea4253f27c7841ef"
+      },
+      {
+        "file": "validation.json",
+        "sha256": "e71821a5e6f930fa1b4297338565bff4dff6fd6041995023da86bc32f06c68b8"
+      },
+      {
+        "file": "README.md",
+        "sha256": "42ba094b598d316b4cdb111368bce23e6f1abd89883457a3a933fa4f4363ea5b"
+      },
+      {
+        "file": "assets/isigurul_0.ttf",
+        "sha256": "1d23be650901b60998699fd5e13b1b9ff196173c61e84bf4bda8e6ac5deb9228"
+      },
+      {
+        "file": "assets/isi-rules.json",
+        "sha256": "4fd82180469dce991ceac1a9a9d6889c1d5cf5ab2e5f542b7997f264b5ef7c0d"
+      },
+      {
+        "file": "previews/all-pages.png",
+        "sha256": "22a9a53461e6751c9589640048ffda8f3c020e0fdc0cadd5c221668f3a893646"
+      },
+      {
+        "file": "tools/audio_clock.m",
+        "sha256": "66c5894dd73b7b8df8b2f62adf0ebe6ec823a0559eb8c6f8e9bbff0a61fadd4a"
+      },
+      {
+        "file": "tools/build_display.py",
+        "sha256": "cdd0b96726f9e42a0529cd58945c55583d82164dc94b4966b048c87869ae58d9"
+      },
+      {
+        "file": "tools/pixel_format.py",
+        "sha256": "32c5da149058041af7d5d76196cbfd96c04ac2928dfd5ef9c12c1ba862d3e794"
+      },
+      {
+        "file": "tools/prepare_lyrics.py",
+        "sha256": "0ad98e8f472906920c10dd6514a88ccb4c9702cd2f4f31e84e4701528c164f8f"
+      },
+      {
+        "file": "tools/select_sustains.py",
+        "sha256": "83169cc9b2150d5e67fe5c7a720719966842aa01a7bdaddb9ad7009aa40f1d8c"
+      },
+      {
+        "file": "YanneKohedoLCD.ino",
+        "sha256": "4ac8130e92fd4f72f19bb260d0d6a004643fccc19ac3b1290132f5dfac6e7290"
+      }
+    ]
   }
 ]

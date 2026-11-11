@@ -1,0 +1,162 @@
+[
+  {
+    "id": 0,
+    "section": "verse1",
+    "section_line": 0,
+    "language": "si",
+    "text": "අහසේ තරුසේ දිලෙනා මිනිසා ජීවිතේ",
+    "alignment_text": "ahase tharuse dilenaa minisaa jeewithe"
+  },
+  {
+    "id": 1,
+    "section": "verse1",
+    "section_line": 1,
+    "language": "si",
+    "text": "පොලොවේ වැලි සේ හෙලනා අවසන් සුසුමේ",
+    "alignment_text": "polowe waeli se helanaa awasan susume"
+  },
+  {
+    "id": 2,
+    "section": "verse1",
+    "section_line": 2,
+    "language": "si",
+    "text": "සයුරේ රලසේ නැගෙනා බිදෙනා මේ හිතේ",
+    "alignment_text": "sayure ralase naegenaa bindenaa me hithe"
+  },
+  {
+    "id": 3,
+    "section": "verse1",
+    "section_line": 3,
+    "language": "si",
+    "text": "ප්‍රාර්ථනා පොදිබැඳන් සමුගනී මිනිසා ජීවිතෙන්",
+    "alignment_text": "praarthanaa podibaendan samuganee minisaa jeewithen"
+  },
+  {
+    "id": 4,
+    "section": "hook1",
+    "section_line": 0,
+    "language": "si",
+    "text": "වේදනා අහස උසක ලා",
+    "alignment_text": "wedanaa ahasa usaka laa"
+  },
+  {
+    "id": 5,
+    "section": "hook1",
+    "section_line": 1,
+    "language": "si",
+    "text": "යන්නේ කොහෙදෝ හීන සොයලා",
+    "alignment_text": "yanne kohedo heena soyalaa"
+  },
+  {
+    "id": 6,
+    "section": "hook1",
+    "section_line": 2,
+    "language": "si",
+    "text": "තාරුකා සොයාන පියඹලා",
+    "alignment_text": "thaarukaa soyaana piyambalaa"
+  },
+  {
+    "id": 7,
+    "section": "hook1",
+    "section_line": 3,
+    "language": "si",
+    "text": "යන්නේ කොහෙදෝ",
+    "alignment_text": "yanne kohedo"
+  },
+  {
+    "id": 8,
+    "section": "hook1",
+    "section_line": 4,
+    "language": "si",
+    "text": "යන්නේ කොහෙදෝ",
+    "alignment_text": "yanne kohedo"
+  },
+  {
+    "id": 9,
+    "section": "hook1",
+    "section_line": 5,
+    "language": "si",
+    "text": "යන්නේ කොහෙදෝ",
+    "alignment_text": "yanne kohedo"
+  },
+  {
+    "id": 10,
+    "section": "verse2",
+    "section_line": 0,
+    "language": "si",
+    "text": "සිතුදේ පැතුදේ සොයනා සිංහාසනයේ",
+    "alignment_text": "sithude paethude soyanaa sinhaasanaye"
+  },
+  {
+    "id": 11,
+    "section": "verse2",
+    "section_line": 1,
+    "language": "si",
+    "text": "සුවිසල් නගරේ සෙව්වාදෝ සැනසුම් මිතුරේ",
+    "alignment_text": "suwisal nagare sewwaado saenasum mithure"
+  },
+  {
+    "id": 12,
+    "section": "verse2",
+    "section_line": 2,
+    "language": "si",
+    "text": "සිහිනයෙන් අවදි වී එනතුරා යනෙනා භවයේ",
+    "alignment_text": "sihinayen awadi wee enathuraa yanenaa bhawaye"
+  },
+  {
+    "id": 13,
+    "section": "verse2",
+    "section_line": 3,
+    "language": "si",
+    "text": "කළ කී සෑමදේ දිගහැරේ අවසන් මොහොතේ",
+    "alignment_text": "kala kee saemade digahaere awasan mohothe"
+  },
+  {
+    "id": 14,
+    "section": "hook2",
+    "section_line": 0,
+    "language": "si",
+    "text": "වේදනා අහස උසක ලා",
+    "alignment_text": "wedanaa ahasa usaka laa"
+  },
+  {
+    "id": 15,
+    "section": "hook2",
+    "section_line": 1,
+    "language": "si",
+    "text": "යන්නේ කොහෙදෝ හීන සොයලා",
+    "alignment_text": "yanne kohedo heena soyalaa"
+  },
+  {
+    "id": 16,
+    "section": "hook2",
+    "section_line": 2,
+    "language": "si",
+    "text": "තාරුකා සොයාන පියඹලා",
+    "alignment_text": "thaarukaa soyaana piyambalaa"
+  },
+  {
+    "id": 17,
+    "section": "hook2",
+    "section_line": 3,
+    "language": "si",
+    "text": "යන්නේ කොහෙදෝ",
+    "alignment_text": "yanne kohedo"
+  },
+  {
+    "id": 18,
+    "section": "hook2",
+    "section_line": 4,
+    "language": "si",
+    "text": "යන්නේ කොහෙදෝ",
+    "alignment_text": "yanne kohedo"
+  },
+  {
+    "id": 19,
+    "section": "hook2",
+    "section_line": 5,
+    "language": "si",
+    "text": "යන්නේ කොහෙදෝ",
+    "alignment_text": "yanne kohedo"
+  }
+]

@@ -1,0 +1,131 @@
+{
+  "selection": "Long aligned word endings held until the next lyric; not listening-confirmed",
+  "words": [
+    {
+      "line": 0,
+      "word": 4,
+      "text": "ජීවිතේ",
+      "duration": 1.32,
+      "basis": "estimated aligned duration; sustained content word"
+    },
+    {
+      "line": 1,
+      "word": 5,
+      "text": "සුසුමේ",
+      "duration": 1.84,
+      "basis": "estimated aligned duration; sustained content word"
+    },
+    {
+      "line": 3,
+      "word": 4,
+      "text": "ජීවිතෙන්",
+      "duration": 1.1,
+      "basis": "estimated aligned duration; sustained content word"
+    },
+    {
+      "line": 4,
+      "word": 3,
+      "text": "ලා",
+      "duration": 1.62,
+      "basis": "estimated aligned duration; sustained content word"
+    },
+    {
+      "line": 5,
+      "word": 3,
+      "text": "සොයලා",
+      "duration": 1.42,
+      "basis": "estimated aligned duration; sustained content word"
+    },
+    {
+      "line": 6,
+      "word": 2,
+      "text": "පියඹලා",
+      "duration": 2.0,
+      "basis": "estimated aligned duration; sustained content word"
+    },
+    {
+      "line": 7,
+      "word": 1,
+      "text": "කොහෙදෝ",
+      "duration": 0.8,
+      "basis": "estimated aligned duration; sustained content word"
+    },
+    {
+      "line": 8,
+      "word": 1,
+      "text": "කොහෙදෝ",
+      "duration": 0.92,
+      "basis": "estimated aligned duration; sustained content word"
+    },
+    {
+      "line": 9,
+      "word": 1,
+      "text": "කොහෙදෝ",
+      "duration": 2.66,
+      "basis": "estimated aligned duration; sustained content word"
+    },
+    {
+      "line": 10,
+      "word": 3,
+      "text": "සිංහාසනයේ",
+      "duration": 3.12,
+      "basis": "estimated aligned duration; sustained content word"
+    },
+    {
+      "line": 12,
+      "word": 5,
+      "text": "භවයේ",
+      "duration": 2.8,
+      "basis": "estimated aligned duration; sustained content word"
+    },
+    {
+      "line": 13,
+      "word": 5,
+      "text": "මොහොතේ",
+      "duration": 1.56,
+      "basis": "estimated aligned duration; sustained content word"
+    },
+    {
+      "line": 14,
+      "word": 3,
+      "text": "ලා",
+      "duration": 1.46,
+      "basis": "estimated aligned duration; sustained content word"
+    },
+    {
+      "line": 15,
+      "word": 3,
+      "text": "සොයලා",
+      "duration": 1.52,
+      "basis": "estimated aligned duration; sustained content word"
+    },
+    {
+      "line": 16,
+      "word": 2,
+      "text": "පියඹලා",
+      "duration": 1.92,
+      "basis": "estimated aligned duration; sustained content word"
+    },
+    {
+      "line": 17,
+      "word": 1,
+      "text": "කොහෙදෝ",
+      "duration": 0.84,
+      "basis": "estimated aligned duration; sustained content word"
+    },
+    {
+      "line": 18,
+      "word": 1,
+      "text": "කොහෙදෝ",
+      "duration": 0.98,
+      "basis": "estimated aligned duration; sustained content word"
+    },
+    {
+      "line": 19,
+      "word": 1,
+      "text": "කොහෙදෝ",
+      "duration": 4.0,
+      "basis": "estimated aligned duration; sustained content word"
+    }
+  ]
+}

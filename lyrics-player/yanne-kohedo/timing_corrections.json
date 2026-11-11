@@ -1,0 +1,135 @@
+[
+  {
+    "line": 0,
+    "word": 1,
+    "old": 48.02,
+    "new": 50.35,
+    "basis": "separated voice onset"
+  },
+  {
+    "line": 0,
+    "word": 2,
+    "old": 51.1,
+    "new": 52.22,
+    "basis": "independent phonetic word"
+  },
+  {
+    "line": 0,
+    "word": 3,
+    "old": 54.44,
+    "new": 54.32,
+    "basis": "independent phonetic word"
+  },
+  {
+    "line": 0,
+    "word": 4,
+    "old": 56.38,
+    "new": 56.16,
+    "basis": "independent phonetic word"
+  },
+  {
+    "line": 1,
+    "word": 0,
+    "old": 57.08,
+    "new": 59.34,
+    "basis": "separated phrase onset"
+  },
+  {
+    "line": 1,
+    "word": 1,
+    "old": 60.34,
+    "new": 62.25,
+    "basis": "separated voice onset"
+  },
+  {
+    "line": 1,
+    "word": 3,
+    "old": 63.14,
+    "new": 65.12,
+    "basis": "independent phonetic word"
+  },
+  {
+    "line": 1,
+    "word": 4,
+    "old": 67.06,
+    "new": 66.52,
+    "basis": "independent phonetic word"
+  },
+  {
+    "line": 1,
+    "word": 5,
+    "old": 67.86,
+    "new": 67.92,
+    "basis": "independent phonetic word"
+  },
+  {
+    "line": 2,
+    "word": 1,
+    "old": 71.84,
+    "new": 74.31,
+    "basis": "separated voice onset"
+  },
+  {
+    "line": 3,
+    "word": 0,
+    "old": 81.3,
+    "new": 83.33,
+    "basis": "separated phrase onset"
+  },
+  {
+    "line": 3,
+    "word": 2,
+    "old": 87.82,
+    "new": 89.38,
+    "basis": "independent phonetic word"
+  },
+  {
+    "line": 3,
+    "word": 3,
+    "old": 90.46,
+    "new": 90.78,
+    "basis": "independent phonetic word"
+  },
+  {
+    "line": 3,
+    "word": 4,
+    "old": 92.38,
+    "new": 92.18,
+    "basis": "independent phonetic word"
+  },
+  {
+    "line": 6,
+    "word": 0,
+    "old": 105.62,
+    "new": 107.14,
+    "basis": "separated phrase onset"
+  },
+  {
+    "line": 11,
+    "word": 0,
+    "old": 153.62,
+    "new": 155.33,
+    "basis": "separated phrase onset"
+  },
+  {
+    "line": 11,
+    "word": 1,
+    "old": 156.44,
+    "new": 158.14,
+    "basis": "separated voice onset"
+  },
+  {
+    "line": 16,
+    "word": 0,
+    "old": 201.76,
+    "new": 203.15,
+    "basis": "separated phrase onset"
+  },
+  {
+    "line": 10,
+    "word": 1,
+    "old": 144.26,
+    "new": 146.32,
+    "basis": "separated voice onset"
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "syntax": true,
+  "dry_run": true,
+  "rebuilt_display_identical": true,
+  "personal_absolute_paths": false,
+  "audio_included": false,
+  "credentials_detected": false,
+  "listening_confirmed": false
+}
