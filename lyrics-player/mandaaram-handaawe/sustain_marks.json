@@ -1,0 +1,201 @@
+{
+  "selection": "Long aligned word endings held until the next lyric; not listening-confirmed",
+  "words": [
+    {
+      "line": 0,
+      "word": 2,
+      "text": "කියා",
+      "duration": 1.0,
+      "basis": "estimated aligned duration; sustained content word"
+    },
+    {
+      "line": 1,
+      "word": 2,
+      "text": "කියා",
+      "duration": 1.34,
+      "basis": "estimated aligned duration; sustained content word"
+    },
+    {
+      "line": 2,
+      "word": 5,
+      "text": "කතා",
+      "duration": 1.04,
+      "basis": "estimated aligned duration; sustained content word"
+    },
+    {
+      "line": 3,
+      "word": 2,
+      "text": "තමා",
+      "duration": 1.12,
+      "basis": "estimated aligned duration; sustained content word"
+    },
+    {
+      "line": 5,
+      "word": 2,
+      "text": "කියා",
+      "duration": 1.5,
+      "basis": "estimated aligned duration; sustained content word"
+    },
+    {
+      "line": 6,
+      "word": 8,
+      "text": "වෙන්වුනා",
+      "duration": 1.02,
+      "basis": "estimated aligned duration; sustained content word"
+    },
+    {
+      "line": 8,
+      "word": 3,
+      "text": "හා",
+      "duration": 2.08,
+      "basis": "estimated aligned duration; sustained content word"
+    },
+    {
+      "line": 9,
+      "word": 4,
+      "text": "මෙමා",
+      "duration": 1.08,
+      "basis": "estimated aligned duration; sustained content word"
+    },
+    {
+      "line": 10,
+      "word": 4,
+      "text": "වෙලා",
+      "duration": 1.14,
+      "basis": "estimated aligned duration; sustained content word"
+    },
+    {
+      "line": 11,
+      "word": 4,
+      "text": "තනිවෙලා",
+      "duration": 1.6,
+      "basis": "estimated aligned duration; sustained content word"
+    },
+    {
+      "line": 13,
+      "word": 2,
+      "text": "පුරා",
+      "duration": 0.9,
+      "basis": "estimated aligned duration; sustained content word"
+    },
+    {
+      "line": 15,
+      "word": 3,
+      "text": "හිනා",
+      "duration": 0.9,
+      "basis": "estimated aligned duration; sustained content word"
+    },
+    {
+      "line": 16,
+      "word": 2,
+      "text": "වෙලා",
+      "duration": 1.42,
+      "basis": "estimated aligned duration; sustained content word"
+    },
+    {
+      "line": 18,
+      "word": 8,
+      "text": "වෙන්වුනා",
+      "duration": 1.04,
+      "basis": "estimated aligned duration; sustained content word"
+    },
+    {
+      "line": 20,
+      "word": 3,
+      "text": "හා",
+      "duration": 1.62,
+      "basis": "estimated aligned duration; sustained content word"
+    },
+    {
+      "line": 21,
+      "word": 4,
+      "text": "මෙමා",
+      "duration": 1.24,
+      "basis": "estimated aligned duration; sustained content word"
+    },
+    {
+      "line": 22,
+      "word": 4,
+      "text": "වෙලා",
+      "duration": 2.3,
+      "basis": "estimated aligned duration; sustained content word"
+    },
+    {
+      "line": 23,
+      "word": 4,
+      "text": "තනිවෙලා",
+      "duration": 1.64,
+      "basis": "estimated aligned duration; sustained content word"
+    },
+    {
+      "line": 24,
+      "word": 3,
+      "text": "හා",
+      "duration": 1.32,
+      "basis": "estimated aligned duration; sustained content word"
+    },
+    {
+      "line": 25,
+      "word": 4,
+      "text": "මෙමා",
+      "duration": 1.16,
+      "basis": "estimated aligned duration; sustained content word"
+    },
+    {
+      "line": 26,
+      "word": 4,
+      "text": "වෙලා",
+      "duration": 1.68,
+      "basis": "estimated aligned duration; sustained content word"
+    },
+    {
+      "line": 27,
+      "word": 4,
+      "text": "තනිවෙලා",
+      "duration": 1.74,
+      "basis": "estimated aligned duration; sustained content word"
+    },
+    {
+      "line": 29,
+      "word": 4,
+      "text": "වේදනාව",
+      "duration": 1.34,
+      "basis": "estimated aligned duration; sustained content word"
+    },
+    {
+      "line": 33,
+      "word": 4,
+      "text": "වේදනාව",
+      "duration": 1.3,
+      "basis": "estimated aligned duration; sustained content word"
+    },
+    {
+      "line": 34,
+      "word": 5,
+      "text": "ගියාට",
+      "duration": 0.96,
+      "basis": "estimated aligned duration; sustained content word"
+    },
+    {
+      "line": 36,
+      "word": 2,
+      "text": "කියා",
+      "duration": 1.1,
+      "basis": "estimated aligned duration; sustained content word"
+    },
+    {
+      "line": 37,
+      "word": 2,
+      "text": "කියා",
+      "duration": 1.6,
+      "basis": "estimated aligned duration; sustained content word"
+    },
+    {
+      "line": 38,
+      "word": 5,
+      "text": "කතා",
+      "duration": 0.98,
+      "basis": "estimated aligned duration; sustained content word"
+    }
+  ]
+}

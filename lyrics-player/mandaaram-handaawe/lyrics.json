@@ -1,0 +1,236 @@
+[
+  {
+    "id": 0,
+    "language": "si",
+    "text": "නුඹ මාගේ කියා",
+    "alignment_text": "numba maage kiyaa"
+  },
+  {
+    "id": 1,
+    "language": "si",
+    "text": "අපි අපගේ කියා",
+    "alignment_text": "api apage kiyaa"
+  },
+  {
+    "id": 2,
+    "language": "si",
+    "text": "නැති වූවා නුඹ කී පෙම් කතා",
+    "alignment_text": "naethi woowaa numba kee pem kathaa"
+  },
+  {
+    "id": 3,
+    "language": "si",
+    "text": "මං වැරදී තමා",
+    "alignment_text": "mang waeradi thamaa"
+  },
+  {
+    "id": 4,
+    "language": "si",
+    "text": "හිතුනා දෝ එදා",
+    "alignment_text": "hithunaa do edaa"
+  },
+  {
+    "id": 5,
+    "language": "si",
+    "text": "දැනුනාදෝ රිදවූවා කියා",
+    "alignment_text": "daenunaado ridawoowaa kiyaa"
+  },
+  {
+    "id": 6,
+    "language": "si",
+    "text": "ඔබ ලං වෙන්න වෙන්න, එන්න එන්න මා හිතින් වෙන්වුනා",
+    "alignment_text": "oba lang wenna wenna enna enna maa hithin wenwunaa"
+  },
+  {
+    "id": 7,
+    "language": "si",
+    "text": "මං ආදරෙන් කීව කල හෑම දේම ඔබ දැක්කෙ නෑ එදා",
+    "alignment_text": "mang aadaren keewa kala haema dema oba daekke nae edaa"
+  },
+  {
+    "id": 8,
+    "language": "si",
+    "text": "මන්දාරම් හැන්දෑවෙ ඔබ හා",
+    "alignment_text": "mandaaram haendaewe oba haa"
+  },
+  {
+    "id": 9,
+    "language": "si",
+    "text": "ඔය තුරුලේ සුව වින්දා මෙමා",
+    "alignment_text": "oya thurule suwa windaa memaa"
+  },
+  {
+    "id": 10,
+    "language": "si",
+    "text": "අපි දෑතින් අල්ලන් ලං වෙලා",
+    "alignment_text": "api daethin allan lang welaa"
+  },
+  {
+    "id": 11,
+    "language": "si",
+    "text": "මැවු හීනේ අද මා තනිවෙලා",
+    "alignment_text": "maewu heene ada maa thaniwelaa"
+  },
+  {
+    "id": 12,
+    "language": "si",
+    "text": "නුඹ මාගේ වෙලා",
+    "alignment_text": "numba maage welaa"
+  },
+  {
+    "id": 13,
+    "language": "si",
+    "text": "මල් සුවදේ පුරා",
+    "alignment_text": "mal suwade puraa"
+  },
+  {
+    "id": 14,
+    "language": "si",
+    "text": "තනිවූවා පෙම් යහනේ එදා",
+    "alignment_text": "thaniwoowaa pem yahane edaa"
+  },
+  {
+    "id": 15,
+    "language": "si",
+    "text": "අද නෑ එ හිනා",
+    "alignment_text": "ada nae e hinaa"
+  },
+  {
+    "id": 16,
+    "language": "si",
+    "text": "ඔහු ගාවින් වෙලා",
+    "alignment_text": "ohu gaawin welaa"
+  },
+  {
+    "id": 17,
+    "language": "si",
+    "text": "රැවටූවා ප්‍රේමෙන් මා එදා",
+    "alignment_text": "raewatoowaa premen maa edaa"
+  },
+  {
+    "id": 18,
+    "language": "si",
+    "text": "ඔබ ලං වෙන්න වෙන්න, එන්න එන්න මා හිතින් වෙන්වුනා",
+    "alignment_text": "oba lang wenna wenna enna enna maa hithin wenwunaa"
+  },
+  {
+    "id": 19,
+    "language": "si",
+    "text": "මං ආදරෙන් කීව කල හෑම දේම ඔබ දැක්කෙ නෑ එදා",
+    "alignment_text": "mang aadaren keewa kala haema dema oba daekke nae edaa"
+  },
+  {
+    "id": 20,
+    "language": "si",
+    "text": "මන්දාරම් හැන්දෑවෙ ඔබ හා",
+    "alignment_text": "mandaaram haendaewe oba haa"
+  },
+  {
+    "id": 21,
+    "language": "si",
+    "text": "ඔය තුරුලේ සුව වින්දා මෙමා",
+    "alignment_text": "oya thurule suwa windaa memaa"
+  },
+  {
+    "id": 22,
+    "language": "si",
+    "text": "අපි දෑතින් අල්ලන් ලං වෙලා",
+    "alignment_text": "api daethin allan lang welaa"
+  },
+  {
+    "id": 23,
+    "language": "si",
+    "text": "මැවු හීනේ අද මා තනිවෙලා",
+    "alignment_text": "maewu heene ada maa thaniwelaa"
+  },
+  {
+    "id": 24,
+    "language": "si",
+    "text": "මන්දාරම් හැන්දෑවෙ ඔබ හා",
+    "alignment_text": "mandaaram haendaewe oba haa"
+  },
+  {
+    "id": 25,
+    "language": "si",
+    "text": "ඔය තුරුලේ සුව වින්දා මෙමා",
+    "alignment_text": "oya thurule suwa windaa memaa"
+  },
+  {
+    "id": 26,
+    "language": "si",
+    "text": "අපි දෑතින් අල්ලන් ලං වෙලා",
+    "alignment_text": "api daethin allan lang welaa"
+  },
+  {
+    "id": 27,
+    "language": "si",
+    "text": "මැවු හීනේ අද මා තනිවෙලා",
+    "alignment_text": "maewu heene ada maa thaniwelaa"
+  },
+  {
+    "id": 28,
+    "language": "si",
+    "text": "දෑස කදුලින් පිරී ඉතිරී ගියාම",
+    "alignment_text": "daesa kandulin piree ithiree giyaama"
+  },
+  {
+    "id": 29,
+    "language": "si",
+    "text": "මගේ හිත පාරනා මෙ වේදනාව",
+    "alignment_text": "mage hitha paaranaa me wedanaawa"
+  },
+  {
+    "id": 30,
+    "language": "si",
+    "text": "ගතින් දුර ඈත ඈත ඈ ගියාට",
+    "alignment_text": "gathin dura aetha aetha ae giyaata"
+  },
+  {
+    "id": 31,
+    "language": "si",
+    "text": "දන්නේ නැතුවාද ආදරෙයි නෙ තාම",
+    "alignment_text": "danne naethuwaada aadarei ne thaama"
+  },
+  {
+    "id": 32,
+    "language": "si",
+    "text": "දෑස කදුලින් පිරී ඉතිරී ගියාම",
+    "alignment_text": "daesa kandulin piree ithiree giyaama"
+  },
+  {
+    "id": 33,
+    "language": "si",
+    "text": "මගේ හිත පාරනා මෙ වේදනාව",
+    "alignment_text": "mage hitha paaranaa me wedanaawa"
+  },
+  {
+    "id": 34,
+    "language": "si",
+    "text": "ගතින් දුර ඈත ඈත ඈ ගියාට",
+    "alignment_text": "gathin dura aetha aetha ae giyaata"
+  },
+  {
+    "id": 35,
+    "language": "si",
+    "text": "දන්නේ නැතුවාද ආදරෙයි නෙ තාම",
+    "alignment_text": "danne naethuwaada aadarei ne thaama"
+  },
+  {
+    "id": 36,
+    "language": "si",
+    "text": "නුඹ මාගේ කියා",
+    "alignment_text": "numba maage kiyaa"
+  },
+  {
+    "id": 37,
+    "language": "si",
+    "text": "අපි අපගේ කියා",
+    "alignment_text": "api apage kiyaa"
+  },
+  {
+    "id": 38,
+    "language": "si",
+    "text": "නැති වූවා නුඹ කී පෙම් කතා",
+    "alignment_text": "naethi woowaa numba kee pem kathaa"
+  }
+]

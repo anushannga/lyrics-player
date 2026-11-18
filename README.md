@@ -2,7 +2,7 @@
 
 Arduino UNO + ST7920 128×64 Sinhala LCD lyric players by Pasan Anushanga.
 Music plays through a Mac while an Arduino UNO displays Sinhala lyrics over USB.
-This repository contains the latest played versions of all twenty projects.
+This repository contains the Arduino lyric player projects listed below.
 
 ## Songs
 | Song | Source | Display style |
@@ -27,6 +27,8 @@ This repository contains the latest played versions of all twenty projects.
 | Bo Mal | [bo-mal](lyrics-player/bo-mal/) | Whole-word Sinhala lyrics, corrected saved timing and sustain dots |
 | Nena | [nena](lyrics-player/nena/) | Whole-word Sinhala lyrics, corrected saved timing and sustain dots |
 | Yanne Kohedo | [yanne-kohedo](lyrics-player/yanne-kohedo/) | Whole-word Sinhala lyrics, selected vocal-onset corrections and sustain dots |
+| Mandaaram Handaawe | [mandaaram-handaawe](lyrics-player/mandaaram-handaawe/) | Whole-word Sinhala lyrics aligned to the Channuka Official Visualiser |
+| Sansarini | [sansarini](lyrics-player/sansarini/) | Whole-word Sinhala lyrics with progressive dots on held endings |
 
 ## Requirements
 

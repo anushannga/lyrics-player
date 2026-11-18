@@ -1,0 +1,264 @@
+{
+  "selection": "Long aligned word endings held until the next lyric; not listening-confirmed",
+  "words": [
+    {
+      "line": 0,
+      "word": 1,
+      "text": "පවසන්නේ",
+      "duration": 0.94,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 1,
+      "word": 2,
+      "text": "ආදරේ",
+      "duration": 1.16,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 2,
+      "word": 2,
+      "text": "දන්නේ",
+      "duration": 0.98,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 4,
+      "word": 1,
+      "text": "පවසන්නේ",
+      "duration": 0.96,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 5,
+      "word": 2,
+      "text": "ආදරේ",
+      "duration": 0.94,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 7,
+      "word": 2,
+      "text": "ආදරේ",
+      "duration": 1.0,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 10,
+      "word": 3,
+      "text": "කියා",
+      "duration": 1.06,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 13,
+      "word": 2,
+      "text": "නිසා",
+      "duration": 1.4,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 14,
+      "word": 1,
+      "text": "පාවෙලා",
+      "duration": 2.28,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 15,
+      "word": 1,
+      "text": "ගියා",
+      "duration": 1.98,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 17,
+      "word": 4,
+      "text": "මෙදා",
+      "duration": 0.96,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 19,
+      "word": 0,
+      "text": "නන්නාඳුනන්නියේ",
+      "duration": 3.24,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 20,
+      "word": 2,
+      "text": "හීනයේ",
+      "duration": 1.08,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 23,
+      "word": 0,
+      "text": "නන්නාඳුනන්නියේ",
+      "duration": 3.42,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 24,
+      "word": 2,
+      "text": "හීනයේ",
+      "duration": 0.9,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 26,
+      "word": 4,
+      "text": "රූපේ",
+      "duration": 1.12,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 27,
+      "word": 3,
+      "text": "තමා",
+      "duration": 2.14,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 28,
+      "word": 2,
+      "text": "ප්‍රේමාදරේ",
+      "duration": 1.84,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 29,
+      "word": 3,
+      "text": "හදවතේ",
+      "duration": 2.1,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 32,
+      "word": 1,
+      "text": "මගේ",
+      "duration": 0.9,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 33,
+      "word": 0,
+      "text": "නන්නාඳුනන්නියේ",
+      "duration": 3.38,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 34,
+      "word": 2,
+      "text": "හීනයේ",
+      "duration": 1.1,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 37,
+      "word": 0,
+      "text": "නන්නාඳුනන්නියේ",
+      "duration": 3.44,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 38,
+      "word": 2,
+      "text": "හීනයේ",
+      "duration": 0.98,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 40,
+      "word": 3,
+      "text": "කියන්නේ",
+      "duration": 1.0,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 41,
+      "word": 3,
+      "text": "ආදරය",
+      "duration": 0.98,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 42,
+      "word": 3,
+      "text": "කියා",
+      "duration": 1.02,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 44,
+      "word": 2,
+      "text": "නිවෙන්නේ",
+      "duration": 1.0,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 45,
+      "word": 2,
+      "text": "නිසා",
+      "duration": 1.38,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 46,
+      "word": 1,
+      "text": "පාවෙලා",
+      "duration": 2.22,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 47,
+      "word": 1,
+      "text": "ගියා",
+      "duration": 1.9,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 50,
+      "word": 1,
+      "text": "මගේ",
+      "duration": 1.04,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 51,
+      "word": 0,
+      "text": "නන්නාඳුනන්නියේ",
+      "duration": 3.12,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 52,
+      "word": 2,
+      "text": "හීනයේ",
+      "duration": 0.98,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 54,
+      "word": 1,
+      "text": "මගේ",
+      "duration": 0.92,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 55,
+      "word": 0,
+      "text": "නන්නාඳුනන්නියේ",
+      "duration": 3.3,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 56,
+      "word": 2,
+      "text": "හීනයේ",
+      "duration": 1.14,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    }
+  ]
+}
