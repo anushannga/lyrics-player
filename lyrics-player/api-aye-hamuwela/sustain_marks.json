@@ -1,0 +1,180 @@
+{
+  "selection": "Long aligned word endings held until the next lyric; not listening-confirmed",
+  "words": [
+    {
+      "line": 0,
+      "word": 4,
+      "text": "තාම",
+      "duration": 0.94,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 1,
+      "word": 3,
+      "text": "මාව",
+      "duration": 1.08,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 2,
+      "word": 3,
+      "text": "හැමදාම",
+      "duration": 1.3,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 5,
+      "word": 4,
+      "text": "මිදෙන්න",
+      "duration": 1.4,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 6,
+      "word": 2,
+      "text": "දැනෙන්න",
+      "duration": 1.12,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 9,
+      "word": 4,
+      "text": "මිදෙන්න",
+      "duration": 1.58,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 10,
+      "word": 2,
+      "text": "දැනෙන්න",
+      "duration": 1.06,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 13,
+      "word": 2,
+      "text": "රිදෙව්වා",
+      "duration": 1.16,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 15,
+      "word": 1,
+      "text": "හැඟෙව්වා",
+      "duration": 1.18,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 17,
+      "word": 2,
+      "text": "විඳෙව්වා",
+      "duration": 1.14,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 19,
+      "word": 2,
+      "text": "හැඬෙව්වා",
+      "duration": 1.86,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 21,
+      "word": 2,
+      "text": "සොයනවා",
+      "duration": 1.34,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 27,
+      "word": 4,
+      "text": "නිසා",
+      "duration": 1.06,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 28,
+      "word": 4,
+      "text": "හැඟෙනවා",
+      "duration": 1.38,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 29,
+      "word": 4,
+      "text": "කියා",
+      "duration": 1.1,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 30,
+      "word": 3,
+      "text": "අහනවා",
+      "duration": 2.94,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 31,
+      "word": 4,
+      "text": "සොයා",
+      "duration": 1.74,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 33,
+      "word": 2,
+      "text": "රිදෙව්වා",
+      "duration": 1.22,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 35,
+      "word": 1,
+      "text": "හැඟෙව්වා",
+      "duration": 1.16,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 37,
+      "word": 2,
+      "text": "විඳෙව්වා",
+      "duration": 1.08,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 39,
+      "word": 2,
+      "text": "හැඬෙව්වා",
+      "duration": 1.4,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 41,
+      "word": 2,
+      "text": "රිදෙව්වා",
+      "duration": 1.14,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 43,
+      "word": 1,
+      "text": "හැඟෙව්වා",
+      "duration": 1.34,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 45,
+      "word": 2,
+      "text": "විඳෙව්වා",
+      "duration": 1.14,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 47,
+      "word": 2,
+      "text": "හැඬෙව්වා",
+      "duration": 1.38,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    }
+  ]
+}

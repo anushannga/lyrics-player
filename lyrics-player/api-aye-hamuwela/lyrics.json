@@ -1,0 +1,290 @@
+[
+  {
+    "id": 0,
+    "language": "si",
+    "text": "අඳුරුයි මගේ දැන් හිතම තාම",
+    "alignment_text": "andurui mage daen hithama thaama"
+  },
+  {
+    "id": 1,
+    "language": "si",
+    "text": "ඉවසන්න තිබුනා නුඹට මාව",
+    "alignment_text": "iwasanna thibunaa numbata maawa"
+  },
+  {
+    "id": 2,
+    "language": "si",
+    "text": "නුහුරුයි වගේ දැන් හැමදාම",
+    "alignment_text": "nuhurui wage daen haemadaama"
+  },
+  {
+    "id": 3,
+    "language": "si",
+    "text": "පාළුයි අනේ නුඹ නෑ මං ගාව",
+    "alignment_text": "paalui ane numba nae mang gaawa"
+  },
+  {
+    "id": 4,
+    "language": "si",
+    "text": "නුඹ නොමැතිව හිඳින්න",
+    "alignment_text": "numba nomaethiwa hindinna"
+  },
+  {
+    "id": 5,
+    "language": "si",
+    "text": "මට බෑ නුඹෙ මතකෙන් මිදෙන්න",
+    "alignment_text": "mata bae numbe mathaken midenna"
+  },
+  {
+    "id": 6,
+    "language": "si",
+    "text": "ආදරෙ තව දැනෙන්න",
+    "alignment_text": "aadare thawa daenenna"
+  },
+  {
+    "id": 7,
+    "language": "si",
+    "text": "තව පාරක් මගෙ හිත හදන්න",
+    "alignment_text": "thawa paarak mage hitha hadanna"
+  },
+  {
+    "id": 8,
+    "language": "si",
+    "text": "නුඹ නොමැතිව හිඳින්න",
+    "alignment_text": "numba nomaethiwa hindinna"
+  },
+  {
+    "id": 9,
+    "language": "si",
+    "text": "මට බෑ නුඹෙ මතකෙන් මිදෙන්න",
+    "alignment_text": "mata bae numbe mathaken midenna"
+  },
+  {
+    "id": 10,
+    "language": "si",
+    "text": "ආදරෙ තව දැනෙන්න",
+    "alignment_text": "aadare thawa daenenna"
+  },
+  {
+    "id": 11,
+    "language": "si",
+    "text": "තව පාරක් මගෙ හිත හදන්න",
+    "alignment_text": "thawa paarak mage hitha hadanna"
+  },
+  {
+    "id": 12,
+    "language": "si",
+    "text": "අපි ආයෙ හමුවෙලා මෙදා",
+    "alignment_text": "api aaye hamuwelaa medaa"
+  },
+  {
+    "id": 13,
+    "language": "si",
+    "text": "හිත මාගෙ රිදෙව්වා",
+    "alignment_text": "hitha maage ridewwaa"
+  },
+  {
+    "id": 14,
+    "language": "si",
+    "text": "නුඹ මාගෙ බව කියා එදා",
+    "alignment_text": "numba maage bawa kiyaa edaa"
+  },
+  {
+    "id": 15,
+    "language": "si",
+    "text": "නොකියාම හැඟෙව්වා",
+    "alignment_text": "nokiyaama haengewwaa"
+  },
+  {
+    "id": 16,
+    "language": "si",
+    "text": "පැතු හීන සුන් වෙලා මෙදා",
+    "alignment_text": "paethu heena sun welaa medaa"
+  },
+  {
+    "id": 17,
+    "language": "si",
+    "text": "නුඹ ගාව විඳෙව්වා",
+    "alignment_text": "numba gaawa windewwaa"
+  },
+  {
+    "id": 18,
+    "language": "si",
+    "text": "නොදොඩාම ඇස් දිහා බලා",
+    "alignment_text": "nododaama aes dihaa balaa"
+  },
+  {
+    "id": 19,
+    "language": "si",
+    "text": "නුඹ මාව හැඬෙව්වා",
+    "alignment_text": "numba maawa haendewwaa"
+  },
+  {
+    "id": 20,
+    "language": "si",
+    "text": "හීනෙන් හිත ඇහැරලා",
+    "alignment_text": "heenen hitha aehaeralaa"
+  },
+  {
+    "id": 21,
+    "language": "si",
+    "text": "නුඹ කොයිදැයි සොයනවා",
+    "alignment_text": "numba koidaei soyanawaa"
+  },
+  {
+    "id": 22,
+    "language": "si",
+    "text": "මම තවමත් මග බලා ඉන්නවා",
+    "alignment_text": "mama thawamath maga balaa innawaa"
+  },
+  {
+    "id": 23,
+    "language": "si",
+    "text": "කඳුලක රස මව මවා",
+    "alignment_text": "kandulaka rasa mawa mawaa"
+  },
+  {
+    "id": 24,
+    "language": "si",
+    "text": "තරු නෙතු මට ඉඟි කලා",
+    "alignment_text": "tharu nethu mata ingi kalaa"
+  },
+  {
+    "id": 25,
+    "language": "si",
+    "text": "තනි වෙන්නම් නුඹ නිසා නෙ වේදනා",
+    "alignment_text": "thani wennam numba nisaa ne wedanaa"
+  },
+  {
+    "id": 26,
+    "language": "si",
+    "text": "දුරකට පා වෙලා ගියා",
+    "alignment_text": "durakata paa welaa giyaa"
+  },
+  {
+    "id": 27,
+    "language": "si",
+    "text": "මම තව හේතු දුන් නිසා",
+    "alignment_text": "mama thawa hethu dun nisaa"
+  },
+  {
+    "id": 28,
+    "language": "si",
+    "text": "අපි හමුවෙන්නෙ නෑ කියා හැඟෙනවා",
+    "alignment_text": "api hamuwenne nae kiyaa haengenawaa"
+  },
+  {
+    "id": 29,
+    "language": "si",
+    "text": "නුඹ මට අයිති නෑ කියා",
+    "alignment_text": "numba mata aithi nae kiyaa"
+  },
+  {
+    "id": 30,
+    "language": "si",
+    "text": "මගෙ හිත තාම අහනවා",
+    "alignment_text": "mage hitha thaama ahanawaa"
+  },
+  {
+    "id": 31,
+    "language": "si",
+    "text": "යළි එන්නෙ නැතිදෝ මා සොයා",
+    "alignment_text": "yali enne naethido maa soyaa"
+  },
+  {
+    "id": 32,
+    "language": "si",
+    "text": "අපි ආයෙ හමුවෙලා මෙදා",
+    "alignment_text": "api aaye hamuwelaa medaa"
+  },
+  {
+    "id": 33,
+    "language": "si",
+    "text": "හිත මාගෙ රිදෙව්වා",
+    "alignment_text": "hitha maage ridewwaa"
+  },
+  {
+    "id": 34,
+    "language": "si",
+    "text": "නුඹ මාගෙ බව කියා එදා",
+    "alignment_text": "numba maage bawa kiyaa edaa"
+  },
+  {
+    "id": 35,
+    "language": "si",
+    "text": "නොකියාම හැඟෙව්වා",
+    "alignment_text": "nokiyaama haengewwaa"
+  },
+  {
+    "id": 36,
+    "language": "si",
+    "text": "පැතු හීන සුන් වෙලා මෙදා",
+    "alignment_text": "paethu heena sun welaa medaa"
+  },
+  {
+    "id": 37,
+    "language": "si",
+    "text": "නුඹ ගාව විඳෙව්වා",
+    "alignment_text": "numba gaawa windewwaa"
+  },
+  {
+    "id": 38,
+    "language": "si",
+    "text": "නොදොඩාම ඇස් දිහා බලා",
+    "alignment_text": "nododaama aes dihaa balaa"
+  },
+  {
+    "id": 39,
+    "language": "si",
+    "text": "නුඹ මාව හැඬෙව්වා",
+    "alignment_text": "numba maawa haendewwaa"
+  },
+  {
+    "id": 40,
+    "language": "si",
+    "text": "අපි ආයෙ හමුවෙලා මෙදා",
+    "alignment_text": "api aaye hamuwelaa medaa"
+  },
+  {
+    "id": 41,
+    "language": "si",
+    "text": "හිත මාගෙ රිදෙව්වා",
+    "alignment_text": "hitha maage ridewwaa"
+  },
+  {
+    "id": 42,
+    "language": "si",
+    "text": "නුඹ මාගෙ බව කියා එදා",
+    "alignment_text": "numba maage bawa kiyaa edaa"
+  },
+  {
+    "id": 43,
+    "language": "si",
+    "text": "නොකියාම හැඟෙව්වා",
+    "alignment_text": "nokiyaama haengewwaa"
+  },
+  {
+    "id": 44,
+    "language": "si",
+    "text": "පැතු හීන සුන් වෙලා මෙදා",
+    "alignment_text": "paethu heena sun welaa medaa"
+  },
+  {
+    "id": 45,
+    "language": "si",
+    "text": "නුඹ ගාව විඳෙව්වා",
+    "alignment_text": "numba gaawa windewwaa"
+  },
+  {
+    "id": 46,
+    "language": "si",
+    "text": "නොදොඩාම ඇස් දිහා බලා",
+    "alignment_text": "nododaama aes dihaa balaa"
+  },
+  {
+    "id": 47,
+    "language": "si",
+    "text": "නුඹ මාව හැඬෙව්වා",
+    "alignment_text": "numba maawa haendewwaa"
+  }
+]

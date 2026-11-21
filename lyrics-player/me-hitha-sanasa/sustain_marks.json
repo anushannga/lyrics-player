@@ -1,0 +1,159 @@
+{
+  "selection": "Long aligned word endings held until the next lyric; not listening-confirmed",
+  "words": [
+    {
+      "line": 0,
+      "word": 3,
+      "text": "මා",
+      "duration": 1.94,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 1,
+      "word": 1,
+      "text": "බැඳෙනා",
+      "duration": 2.52,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 2,
+      "word": 1,
+      "text": "කොඳුරා",
+      "duration": 1.96,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 3,
+      "word": 2,
+      "text": "හිතුනා",
+      "duration": 1.88,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 4,
+      "word": 3,
+      "text": "තනිවෙන්නට",
+      "duration": 1.82,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 5,
+      "word": 3,
+      "text": "දුන්නම",
+      "duration": 0.92,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 9,
+      "word": 2,
+      "text": "නිසා",
+      "duration": 1.76,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 11,
+      "word": 2,
+      "text": "නුරා",
+      "duration": 1.9,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 12,
+      "word": 3,
+      "text": "ඇදෙනා",
+      "duration": 1.1,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 14,
+      "word": 4,
+      "text": "මා",
+      "duration": 1.12,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 15,
+      "word": 2,
+      "text": "චායා",
+      "duration": 0.96,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 16,
+      "word": 3,
+      "text": "ඇදෙනා",
+      "duration": 0.96,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 18,
+      "word": 4,
+      "text": "මා",
+      "duration": 1.2,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 20,
+      "word": 3,
+      "text": "ඉන්නට",
+      "duration": 0.96,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 22,
+      "word": 3,
+      "text": "කෝමද",
+      "duration": 1.26,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 24,
+      "word": 3,
+      "text": "නිසා",
+      "duration": 1.18,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 26,
+      "word": 3,
+      "text": "ඔයා",
+      "duration": 1.48,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 28,
+      "word": 3,
+      "text": "ඇදෙනා",
+      "duration": 1.16,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 30,
+      "word": 4,
+      "text": "මා",
+      "duration": 1.14,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 31,
+      "word": 2,
+      "text": "චායා",
+      "duration": 0.9,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 32,
+      "word": 3,
+      "text": "ඇදෙනා",
+      "duration": 1.04,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 34,
+      "word": 4,
+      "text": "මා",
+      "duration": 1.14,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    }
+  ]
+}

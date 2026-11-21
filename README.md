@@ -29,6 +29,8 @@ This repository contains the Arduino lyric player projects listed below.
 | Yanne Kohedo | [yanne-kohedo](lyrics-player/yanne-kohedo/) | Whole-word Sinhala lyrics, selected vocal-onset corrections and sustain dots |
 | Mandaaram Handaawe | [mandaaram-handaawe](lyrics-player/mandaaram-handaawe/) | Whole-word Sinhala lyrics aligned to the Channuka Official Visualiser |
 | Sansarini | [sansarini](lyrics-player/sansarini/) | Whole-word Sinhala lyrics with progressive dots on held endings |
+| Api Aye Hamuwela | [api-aye-hamuwela](lyrics-player/api-aye-hamuwela/) | Whole-word Sinhala lyrics with progressive dots on held endings |
+| Me Hitha Sanasa | [me-hitha-sanasa](lyrics-player/me-hitha-sanasa/) | Whole-word Sinhala lyrics with progressive dots on held endings |
 
 ## Requirements
 
