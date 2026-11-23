@@ -1,0 +1,476 @@
+[
+  {
+    "id": 0,
+    "language": "si",
+    "text": "නිල් දෙනෙතී",
+    "alignment_text": "nil denethi"
+  },
+  {
+    "id": 1,
+    "language": "si",
+    "text": "සුවදෙන්නී",
+    "alignment_text": "suwadenni"
+  },
+  {
+    "id": 2,
+    "language": "si",
+    "text": "මගෙ ඇස් කොනේ පැටලිලා",
+    "alignment_text": "mage aes kone paetalilaa"
+  },
+  {
+    "id": 3,
+    "language": "si",
+    "text": "හිනැහෙන්නී (හිනැහෙන්නී)",
+    "alignment_text": "hinaehenni hinaehenni"
+  },
+  {
+    "id": 4,
+    "language": "si",
+    "text": "ඉඟි දෙන්නී",
+    "alignment_text": "ingi denni"
+  },
+  {
+    "id": 5,
+    "language": "si",
+    "text": "මගෙ ඇස් කොනේ පැටලිලා",
+    "alignment_text": "mage aes kone paetalilaa"
+  },
+  {
+    "id": 6,
+    "language": "si",
+    "text": "මට පේන්න ගත්තා දෙවේලී",
+    "alignment_text": "mata penna gaththaa deweli"
+  },
+  {
+    "id": 7,
+    "language": "si",
+    "text": "හදවත පතුරු ගැහිලා ගිහින් ලෙල්ලී",
+    "alignment_text": "hadawatha pathuru gaehilaa gihin lelli"
+  },
+  {
+    "id": 8,
+    "language": "si",
+    "text": "වතුර බිව්වා වගේ කෑගමන් නෙල්ලී",
+    "alignment_text": "wathura biwwaa wage kaegaman nelli"
+  },
+  {
+    "id": 9,
+    "language": "si",
+    "text": "හරිම sweet කවුද අනේ මේ කෙලී",
+    "alignment_text": "harima sweet kawuda ane me keli"
+  },
+  {
+    "id": 10,
+    "language": "si",
+    "text": "උඹ මිරිඟුවක්ද මට ඇත්ත කියපං",
+    "alignment_text": "umba miringuwakda mata aeththa kiyapang"
+  },
+  {
+    "id": 11,
+    "language": "si",
+    "text": "නිමක් නෑ මේක temple run",
+    "alignment_text": "nimak nae meka temple run"
+  },
+  {
+    "id": 12,
+    "language": "si",
+    "text": "නුඹ දැලේ දාගන්න පස්සෙන් පන්නං",
+    "alignment_text": "numba daele daaganna passen pannang"
+  },
+  {
+    "id": 13,
+    "language": "si",
+    "text": "ළඟින්ම එන කළු යකාද මං",
+    "alignment_text": "langinma ena kalu yakaada mang"
+  },
+  {
+    "id": 14,
+    "language": "si",
+    "text": "ඕනෙ නෑ කෙල්ලෙ සක්කර වට්ටම",
+    "alignment_text": "one nae kelle sakkara wattama"
+  },
+  {
+    "id": 15,
+    "language": "si",
+    "text": "නිකං දුන්නත් වගේ අවුරුදු වට්ටම",
+    "alignment_text": "nikang dunnath wage awurudu wattama"
+  },
+  {
+    "id": 16,
+    "language": "si",
+    "text": "ඇවිත් ඩිංගක් උඹ තුරුලු කර ගත්තම",
+    "alignment_text": "aewith dingak umba thurulu kara gaththama"
+  },
+  {
+    "id": 17,
+    "language": "si",
+    "text": "පද්දපං උඹට දෙයියෝ දුන්න වත්කම",
+    "alignment_text": "paddapang umbata deiyyo dunna wathkama"
+  },
+  {
+    "id": 18,
+    "language": "si",
+    "text": "නිල් දෙනෙතී (නිල් දෙනෙතී)",
+    "alignment_text": "nil denethi nil denethi"
+  },
+  {
+    "id": 19,
+    "language": "si",
+    "text": "සුවදෙන්නී (සුවදෙන්නී)",
+    "alignment_text": "suwadenni suwadenni"
+  },
+  {
+    "id": 20,
+    "language": "si",
+    "text": "මගෙ ඇස් කොනේ පැටලිලා",
+    "alignment_text": "mage aes kone paetalilaa"
+  },
+  {
+    "id": 21,
+    "language": "si",
+    "text": "හිනැහෙන්නී",
+    "alignment_text": "hinaehenni"
+  },
+  {
+    "id": 22,
+    "language": "si",
+    "text": "ඉඟි දෙන්නී (oh-girl)",
+    "alignment_text": "ingi denni ohgirl"
+  },
+  {
+    "id": 23,
+    "language": "si",
+    "text": "මගෙ ඇස් කොනේ පැටලිලා",
+    "alignment_text": "mage aes kone paetalilaa"
+  },
+  {
+    "id": 24,
+    "language": "si",
+    "text": "Girl you all I need",
+    "alignment_text": "girl you all i need"
+  },
+  {
+    "id": 25,
+    "language": "si",
+    "text": "Girl you all I need girl, yeah",
+    "alignment_text": "girl you all i need girl yeah"
+  },
+  {
+    "id": 26,
+    "language": "si",
+    "text": "Girl you all I need",
+    "alignment_text": "girl you all i need"
+  },
+  {
+    "id": 27,
+    "language": "si",
+    "text": "මගෙ ඇස් කොනේ පැටලිලා",
+    "alignment_text": "mage aes kone paetalilaa"
+  },
+  {
+    "id": 28,
+    "language": "si",
+    "text": "පෙන දිගේ එන්න මගෙ හදවතටම",
+    "alignment_text": "pena dige enna mage hadawathatama"
+  },
+  {
+    "id": 29,
+    "language": "si",
+    "text": "හැමදාම අල්ලගන්නං ඔය අත මම",
+    "alignment_text": "haemadaama allagannang oya atha mama"
+  },
+  {
+    "id": 30,
+    "language": "si",
+    "text": "ආස නැද්ද මගෙත් එක්ක යන්න අහස ළඟ",
+    "alignment_text": "aasa naedda mageth ekka yanna ahasa langa"
+  },
+  {
+    "id": 31,
+    "language": "si",
+    "text": "එකතු කරගන්න මගෙ වාසගම",
+    "alignment_text": "ekathu karaganna mage waasagama"
+  },
+  {
+    "id": 32,
+    "language": "si",
+    "text": "නුඹ ගාවම",
+    "alignment_text": "numba gaawama"
+  },
+  {
+    "id": 33,
+    "language": "si",
+    "text": "කැරකෙන්නේ වාගේ මම බඹර",
+    "alignment_text": "kaeraekenne waage mama bambara"
+  },
+  {
+    "id": 34,
+    "language": "si",
+    "text": "පොරොන්දුවක් වෙමුද අපි අතර, අපි අතර",
+    "alignment_text": "poronduwak wemuda api athara api athara"
+  },
+  {
+    "id": 35,
+    "language": "si",
+    "text": "නුඹෙ බර දාපං මගෙ කරට",
+    "alignment_text": "numbe bara daapang mage karata"
+  },
+  {
+    "id": 36,
+    "language": "si",
+    "text": "මගෙ ලෝකෙ එළිය උනේ උඹ මගෙ හින්දද",
+    "alignment_text": "mage loke eliya une umba mage hindada"
+  },
+  {
+    "id": 37,
+    "language": "si",
+    "text": "චූටි හුරුබුහුටි අහිංසක",
+    "alignment_text": "chooti hurubuhuti ahinsaka"
+  },
+  {
+    "id": 38,
+    "language": "si",
+    "text": "සීතල දවසක නුඹයි මගෙ ගින්දර",
+    "alignment_text": "seethala dawasaka numbai mage gindara"
+  },
+  {
+    "id": 39,
+    "language": "si",
+    "text": "අපෙ ආදරෙ චිත්‍රයක් ඔයයි මගෙ පින්සල",
+    "alignment_text": "ape aadare chithrayak oyai mage pinsala"
+  },
+  {
+    "id": 40,
+    "language": "si",
+    "text": "නිල් දෙනෙතී (නිල් දෙනෙතී)",
+    "alignment_text": "nil denethi nil denethi"
+  },
+  {
+    "id": 41,
+    "language": "si",
+    "text": "සුවදෙන්නී (සුවදෙන්නී)",
+    "alignment_text": "suwadenni suwadenni"
+  },
+  {
+    "id": 42,
+    "language": "si",
+    "text": "මගෙ ඇස් කොනේ පැටලිලා",
+    "alignment_text": "mage aes kone paetalilaa"
+  },
+  {
+    "id": 43,
+    "language": "si",
+    "text": "Girl let me love you",
+    "alignment_text": "girl let me love you"
+  },
+  {
+    "id": 44,
+    "language": "si",
+    "text": "හිනැහෙන්නී (Know that I need you)",
+    "alignment_text": "hinaehenni know that i need you"
+  },
+  {
+    "id": 45,
+    "language": "si",
+    "text": "ඉඟි දෙන්නී (Stay by my side)",
+    "alignment_text": "ingi denni stay by my side"
+  },
+  {
+    "id": 46,
+    "language": "si",
+    "text": "මගෙ ඇස් කොනේ පැටලිලා",
+    "alignment_text": "mage aes kone paetalilaa"
+  },
+  {
+    "id": 47,
+    "language": "si",
+    "text": "Girl you all I need",
+    "alignment_text": "girl you all i need"
+  },
+  {
+    "id": 48,
+    "language": "si",
+    "text": "Let me love you",
+    "alignment_text": "let me love you"
+  },
+  {
+    "id": 49,
+    "language": "si",
+    "text": "Girl you all I need",
+    "alignment_text": "girl you all i need"
+  },
+  {
+    "id": 50,
+    "language": "si",
+    "text": "මගෙ ඇස් කොනේ පැටලිලා (Alright)",
+    "alignment_text": "mage aes kone paetalilaa alright"
+  },
+  {
+    "id": 51,
+    "language": "si",
+    "text": "නපුරුයි කතා",
+    "alignment_text": "napurui kathaa"
+  },
+  {
+    "id": 52,
+    "language": "si",
+    "text": "සොඳුරුයි සිනා (All need you)",
+    "alignment_text": "sondurui sinaa all need you"
+  },
+  {
+    "id": 53,
+    "language": "si",
+    "text": "මගේ හිත පාරනා (Love you)",
+    "alignment_text": "mage hitha paaranaa love you"
+  },
+  {
+    "id": 54,
+    "language": "si",
+    "text": "සායම් එපා",
+    "alignment_text": "saayam epaa"
+  },
+  {
+    "id": 55,
+    "language": "si",
+    "text": "මායම් එපා",
+    "alignment_text": "maayam epaa"
+  },
+  {
+    "id": 56,
+    "language": "si",
+    "text": "පියඹන්නේ තනියෙන් තමා",
+    "alignment_text": "piyambanne thaniyen thamaa"
+  },
+  {
+    "id": 57,
+    "language": "si",
+    "text": "නිල් දෙනෙතී",
+    "alignment_text": "nil denethi"
+  },
+  {
+    "id": 58,
+    "language": "si",
+    "text": "සුවදෙන්නී (Need you)",
+    "alignment_text": "suwadenni need you"
+  },
+  {
+    "id": 59,
+    "language": "si",
+    "text": "මගෙ ඇස් කොනේ පැටලිලා",
+    "alignment_text": "mage aes kone paetalilaa"
+  },
+  {
+    "id": 60,
+    "language": "si",
+    "text": "Girl let me love you",
+    "alignment_text": "girl let me love you"
+  },
+  {
+    "id": 61,
+    "language": "si",
+    "text": "හිනැහෙන්නී (Know that I need you)",
+    "alignment_text": "hinaehenni know that i need you"
+  },
+  {
+    "id": 62,
+    "language": "si",
+    "text": "ඉඟි දෙන්නී (Stay by my side)",
+    "alignment_text": "ingi denni stay by my side"
+  },
+  {
+    "id": 63,
+    "language": "si",
+    "text": "මගෙ ඇස් කොනේ පැටලිලා",
+    "alignment_text": "mage aes kone paetalilaa"
+  },
+  {
+    "id": 64,
+    "language": "si",
+    "text": "Girl you all I need",
+    "alignment_text": "girl you all i need"
+  },
+  {
+    "id": 65,
+    "language": "si",
+    "text": "I’d do anything for you girl",
+    "alignment_text": "id do anything for you girl"
+  },
+  {
+    "id": 66,
+    "language": "si",
+    "text": "Girl you all I need",
+    "alignment_text": "girl you all i need"
+  },
+  {
+    "id": 67,
+    "language": "si",
+    "text": "මගෙ ඇස් කොනේ පැටලිලා",
+    "alignment_text": "mage aes kone paetalilaa"
+  },
+  {
+    "id": 68,
+    "language": "si",
+    "text": "Let me love you",
+    "alignment_text": "let me love you"
+  },
+  {
+    "id": 69,
+    "language": "si",
+    "text": "Let me love you girl",
+    "alignment_text": "let me love you girl"
+  },
+  {
+    "id": 70,
+    "language": "si",
+    "text": "මගෙ ඇස් කොනේ පැටලිලා",
+    "alignment_text": "mage aes kone paetalilaa"
+  },
+  {
+    "id": 71,
+    "language": "si",
+    "text": "Girl let me love you",
+    "alignment_text": "girl let me love you"
+  },
+  {
+    "id": 72,
+    "language": "si",
+    "text": "Know that I need you",
+    "alignment_text": "know that i need you"
+  },
+  {
+    "id": 73,
+    "language": "si",
+    "text": "Girl let me love you",
+    "alignment_text": "girl let me love you"
+  },
+  {
+    "id": 74,
+    "language": "si",
+    "text": "මගෙ ඇස් කොනේ පැටලිලා",
+    "alignment_text": "mage aes kone paetalilaa"
+  },
+  {
+    "id": 75,
+    "language": "si",
+    "text": "Girl let me love you",
+    "alignment_text": "girl let me love you"
+  },
+  {
+    "id": 76,
+    "language": "si",
+    "text": "Know that I need you",
+    "alignment_text": "know that i need you"
+  },
+  {
+    "id": 77,
+    "language": "si",
+    "text": "Girl let me love you",
+    "alignment_text": "girl let me love you"
+  },
+  {
+    "id": 78,
+    "language": "si",
+    "text": "මගෙ ඇස් කොනේ පැටලිලා",
+    "alignment_text": "mage aes kone paetalilaa"
+  }
+]

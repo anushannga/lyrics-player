@@ -31,6 +31,10 @@ This repository contains the Arduino lyric player projects listed below.
 | Sansarini | [sansarini](lyrics-player/sansarini/) | Whole-word Sinhala lyrics with progressive dots on held endings |
 | Api Aye Hamuwela | [api-aye-hamuwela](lyrics-player/api-aye-hamuwela/) | Whole-word Sinhala lyrics with progressive dots on held endings |
 | Me Hitha Sanasa | [me-hitha-sanasa](lyrics-player/me-hitha-sanasa/) | Whole-word Sinhala lyrics with progressive dots on held endings |
+| Kuweni | [kuweni](lyrics-player/kuweni/) | Whole-word Sinhala lyrics with progressive dots on held endings |
+| Radhawani | [radhawani](lyrics-player/radhawani/) | Whole-word Sinhala lyrics with progressive dots on held endings |
+| Viramayak | [viramayak](lyrics-player/viramayak/) | Whole-word Sinhala lyrics with progressive dots on held endings |
+| Nil Denethi | [nil-denethi](lyrics-player/nil-denethi/) | Whole-word Sinhala and English lyrics with progressive dots on held endings |
 
 ## Requirements
 

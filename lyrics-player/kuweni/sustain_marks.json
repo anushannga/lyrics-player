@@ -1,0 +1,152 @@
+{
+  "selection": "Long aligned word endings held until the next lyric; not listening-confirmed",
+  "words": [
+    {
+      "line": 1,
+      "word": 1,
+      "text": "එනවා",
+      "duration": 1.18,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 4,
+      "word": 4,
+      "text": "කුමරිය",
+      "duration": 1.92,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 5,
+      "word": 4,
+      "text": "කුමරිය",
+      "duration": 1.76,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 7,
+      "word": 1,
+      "text": "එනවා",
+      "duration": 1.1,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 9,
+      "word": 2,
+      "text": "එනවා",
+      "duration": 1.1,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 10,
+      "word": 4,
+      "text": "කුවේණියේ",
+      "duration": 2.32,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 11,
+      "word": 4,
+      "text": "කුවේණියේ",
+      "duration": 1.7,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 12,
+      "word": 4,
+      "text": "කුවේණියේ",
+      "duration": 2.62,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 13,
+      "word": 4,
+      "text": "කුවේණියේ",
+      "duration": 2.0,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 14,
+      "word": 3,
+      "text": "නිසා",
+      "duration": 1.68,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 15,
+      "word": 4,
+      "text": "සදා",
+      "duration": 1.46,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 16,
+      "word": 4,
+      "text": "තුරා",
+      "duration": 1.56,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 17,
+      "word": 4,
+      "text": "මෙමා",
+      "duration": 1.68,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 18,
+      "word": 4,
+      "text": "කුමරිය",
+      "duration": 1.92,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 19,
+      "word": 4,
+      "text": "කුමරිය",
+      "duration": 1.76,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 21,
+      "word": 1,
+      "text": "එනවා",
+      "duration": 1.22,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 23,
+      "word": 2,
+      "text": "එනවා",
+      "duration": 1.18,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 24,
+      "word": 3,
+      "text": "නිසා",
+      "duration": 1.14,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 25,
+      "word": 4,
+      "text": "සදා",
+      "duration": 1.46,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 26,
+      "word": 4,
+      "text": "තුරා",
+      "duration": 2.3,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 27,
+      "word": 4,
+      "text": "මෙමා",
+      "duration": 1.62,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    }
+  ]
+}

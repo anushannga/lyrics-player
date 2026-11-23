@@ -1,0 +1,89 @@
+{
+  "selection": "Long aligned word endings held until the next lyric; not listening-confirmed",
+  "words": [
+    {
+      "line": 0,
+      "word": 4,
+      "text": "නතරකල",
+      "duration": 1.54,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 1,
+      "word": 5,
+      "text": "මතකෙට",
+      "duration": 0.98,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 3,
+      "word": 6,
+      "text": "නිහඬවම",
+      "duration": 1.62,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 8,
+      "word": 2,
+      "text": "මංසලක",
+      "duration": 1.24,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 11,
+      "word": 3,
+      "text": "මිදුනා",
+      "duration": 1.4,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 13,
+      "word": 4,
+      "text": "සොයනා",
+      "duration": 2.1,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 20,
+      "word": 3,
+      "text": "හිත",
+      "duration": 1.0,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 21,
+      "word": 3,
+      "text": "වෙලුනා",
+      "duration": 0.9,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 22,
+      "word": 2,
+      "text": "මංසලක",
+      "duration": 1.22,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 28,
+      "word": 3,
+      "text": "හිත",
+      "duration": 1.12,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 30,
+      "word": 2,
+      "text": "මංසලක",
+      "duration": 1.2,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 33,
+      "word": 3,
+      "text": "මිදුනා",
+      "duration": 1.3,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    }
+  ]
+}

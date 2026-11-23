@@ -1,0 +1,117 @@
+{
+  "selection": "Long aligned word endings held until the next lyric; not listening-confirmed",
+  "words": [
+    {
+      "line": 0,
+      "word": 1,
+      "text": "දෙනෙතී",
+      "duration": 0.99,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 1,
+      "word": 0,
+      "text": "සුවදෙන්නී",
+      "duration": 2.06,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 2,
+      "word": 3,
+      "text": "පැටලිලා",
+      "duration": 1.64,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 19,
+      "word": 1,
+      "text": "(සුවදෙන්නී)",
+      "duration": 1.14,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 21,
+      "word": 0,
+      "text": "හිනැහෙන්නී",
+      "duration": 3.14,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 22,
+      "word": 2,
+      "text": "(oh-girl)",
+      "duration": 1.32,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 28,
+      "word": 4,
+      "text": "හදවතටම",
+      "duration": 0.92,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 42,
+      "word": 3,
+      "text": "පැටලිලා",
+      "duration": 1.26,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 46,
+      "word": 3,
+      "text": "පැටලිලා",
+      "duration": 1.02,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 55,
+      "word": 1,
+      "text": "එපා",
+      "duration": 1.04,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 57,
+      "word": 1,
+      "text": "දෙනෙතී",
+      "duration": 0.96,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 59,
+      "word": 3,
+      "text": "පැටලිලා",
+      "duration": 0.94,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 67,
+      "word": 3,
+      "text": "පැටලිලා",
+      "duration": 1.3,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 70,
+      "word": 3,
+      "text": "පැටලිලා",
+      "duration": 1.52,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 74,
+      "word": 3,
+      "text": "පැටලිලා",
+      "duration": 1.43,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    },
+    {
+      "line": 78,
+      "word": 3,
+      "text": "පැටලිලා",
+      "duration": 1.56,
+      "basis": "aligned phrase ending of at least 0.9 seconds"
+    }
+  ]
+}
